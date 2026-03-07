@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Samsung DA | Global Appliance Strategy Briefing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700;900&family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --samsung-blue:#1428A0; --samsung-blue-accent:#2554D4; --samsung-sky:#4AACFF;
+  --bg-deep:#07090F; --bg-card:#0D1020; --bg-card-hover:#111525;
+  --border:rgba(255,255,255,0.07); --border-blue:rgba(20,40,160,0.5);
+  --text-primary:#F0F2FF; --text-secondary:#8A90B0; --text-muted:#4A5080;
+  --accent-gold:#C8A84B; --accent-red:#E84B4B; --accent-green:#2ECC8E;
+  --font-display:'DM Serif Display',serif; --font-body:'Noto Sans KR',sans-serif; --font-mono:'DM Mono',monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:var(--font-body);background:var(--bg-deep);color:var(--text-primary);min-height:100vh;-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+body::before{content:'';position:fixed;top:0;left:0;width:100%;height:100%;background:radial-gradient(ellipse 80% 50% at 20% -10%,rgba(20,40,160,.25) 0%,transparent 60%),radial-gradient(ellipse 60% 40% at 80% 100%,rgba(20,40,160,.15) 0%,transparent 50%);pointer-events:none;z-index:0;}
+.wrapper{position:relative;z-index:1;max-width:1440px;margin:0 auto;padding:0 24px;}
+header{border-bottom:1px solid var(--border);background:rgba(7,9,15,.85);backdrop-filter:blur(20px);position:sticky;top:0;z-index:100;}
+.header-inner{display:flex;align-items:center;justify-content:space-between;padding:16px 24px;max-width:1440px;margin:0 auto;gap:16px;flex-wrap:wrap;}
+.header-left{display:flex;align-items:center;gap:16px;}
+.logo-mark{width:36px;height:36px;background:var(--samsung-blue);border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;letter-spacing:.05em;color:#fff;flex-shrink:0;}
+.header-title{display:flex;flex-direction:column;gap:1px;}
+.header-title-main{font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;}
+.header-title-sub{font-size:11px;color:var(--text-secondary);letter-spacing:.05em;}
+.header-right{display:flex;align-items:center;gap:12px;}
+.live-badge{display:flex;align-items:center;gap:6px;font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--accent-green);font-family:var(--font-mono);}
+.live-dot{width:6px;height:6px;border-radius:50%;background:var(--accent-green);animation:pulse 2s infinite;}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1);}50%{opacity:.5;transform:scale(1.3);}}
+.timestamp{font-size:11px;color:var(--text-muted);font-family:var(--font-mono);}
+.search-container{padding:20px 24px 0;max-width:1440px;margin:0 auto;display:flex;gap:12px;align-items:center;flex-wrap:wrap;}
+.search-wrap{position:relative;flex:1;min-width:200px;max-width:420px;}
+.search-wrap svg{position:absolute;left:14px;top:50%;transform:translateY(-50%);color:var(--text-muted);pointer-events:none;}
+.search-input{width:100%;background:var(--bg-card);border:1px solid var(--border);border-radius:8px;padding:10px 14px 10px 40px;font-size:13px;color:var(--text-primary);font-family:var(--font-body);outline:none;transition:border-color .2s;}
+.search-input::placeholder{color:var(--text-muted);}
+.search-input:focus{border-color:var(--samsung-blue-accent);}
+.filter-chips{display:flex;gap:8px;flex-wrap:wrap;}
+.chip{padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;cursor:pointer;border:1px solid var(--border);background:transparent;color:var(--text-secondary);transition:all .2s;white-space:nowrap;}
+.chip:hover{border-color:var(--samsung-blue-accent);color:var(--text-primary);}
+.chip.active{background:var(--samsung-blue);border-color:var(--samsung-blue);color:#fff;}
+.section{padding:28px 0;}
+.section-label{font-size:11px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--samsung-sky);margin-bottom:16px;display:flex;align-items:center;gap:8px;}
+.section-label::after{content:'';flex:1;height:1px;background:linear-gradient(90deg,var(--border-blue),transparent);}
+.takeaways-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;}
+@media(max-width:900px){.takeaways-grid{grid-template-columns:1fr;}}
+.takeaway-card{background:linear-gradient(135deg,rgba(20,40,160,.2) 0%,rgba(13,16,32,.8) 100%);border:1px solid rgba(20,40,160,.35);border-radius:12px;padding:20px;position:relative;overflow:hidden;transition:transform .2s,border-color .2s;}
+.takeaway-card:hover{transform:translateY(-2px);border-color:rgba(37,84,212,.6);}
+.takeaway-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--samsung-blue),var(--samsung-sky));}
+.takeaway-num{font-family:var(--font-display);font-size:48px;line-height:1;color:rgba(20,40,160,.35);position:absolute;top:12px;right:16px;font-style:italic;}
+.takeaway-trend{font-size:10px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--accent-gold);margin-bottom:8px;font-family:var(--font-mono);}
+.takeaway-title{font-size:15px;font-weight:700;line-height:1.45;margin-bottom:10px;padding-right:40px;}
+.takeaway-desc{font-size:12.5px;color:var(--text-secondary);line-height:1.7;}
+.stats-bar{display:flex;border:1px solid var(--border);border-radius:10px;overflow:hidden;margin-bottom:28px;flex-wrap:wrap;}
+.stat-item{flex:1;min-width:120px;padding:14px 20px;border-right:1px solid var(--border);display:flex;flex-direction:column;gap:4px;}
+.stat-item:last-child{border-right:none;}
+.stat-value{font-size:22px;font-weight:900;letter-spacing:-.02em;font-family:var(--font-mono);}
+.stat-label{font-size:11px;color:var(--text-muted);letter-spacing:.05em;font-weight:500;}
+.stat-delta{font-size:11px;font-weight:700;font-family:var(--font-mono);}
+.delta-up{color:var(--accent-green);} .delta-down{color:var(--accent-red);}
+.news-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(380px,1fr));gap:16px;}
+@media(max-width:600px){.news-grid{grid-template-columns:1fr;}}
+a.news-card{display:block;text-decoration:none;color:inherit;}
+.news-card{background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:22px;transition:all .25s;cursor:pointer;animation:fadeInUp .4s ease both;}
+.news-card:hover{background:var(--bg-card-hover);border-color:rgba(255,255,255,.14);transform:translateY(-3px);box-shadow:0 12px 40px rgba(0,0,0,.4);}
+.card-header{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:14px;}
+.category-badge{font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:4px 10px;border-radius:4px;white-space:nowrap;font-family:var(--font-mono);}
+.cat-competitor{background:rgba(232,75,75,.15);color:#E84B4B;border:1px solid rgba(232,75,75,.25);}
+.cat-tech{background:rgba(74,172,255,.12);color:#4AACFF;border:1px solid rgba(74,172,255,.2);}
+.cat-macro{background:rgba(200,168,75,.12);color:#C8A84B;border:1px solid rgba(200,168,75,.2);}
+.cat-market{background:rgba(46,204,142,.12);color:#2ECC8E;border:1px solid rgba(46,204,142,.2);}
+.cat-supply{background:rgba(155,127,232,.12);color:#9B7FE8;border:1px solid rgba(155,127,232,.2);}
+.cat-samsung{background:rgba(20,40,160,.25);color:#7BA7FF;border:1px solid rgba(20,40,160,.5);}
+.cat-reviews{background:rgba(255,165,50,.12);color:#FFA532;border:1px solid rgba(255,165,50,.25);}
+.card-time{font-size:11px;color:var(--text-muted);font-family:var(--font-mono);white-space:nowrap;}
+.card-title{font-size:16px;font-weight:700;line-height:1.45;margin-bottom:12px;letter-spacing:-.01em;}
+.card-section-label{font-size:10px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--text-muted);margin-bottom:6px;font-family:var(--font-mono);}
+.card-summary{font-size:13px;color:var(--text-secondary);line-height:1.75;margin-bottom:14px;}
+.implications-box{background:rgba(20,40,160,.1);border:1px solid rgba(20,40,160,.3);border-left:3px solid var(--samsung-blue-accent);border-radius:0 8px 8px 0;padding:12px 14px;margin-bottom:14px;}
+.implications-text{font-size:12.5px;color:#C5CFFF;line-height:1.75;}
+.impl-tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px;}
+.impl-tag{font-size:10px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border-radius:3px;font-family:var(--font-mono);}
+.impl-risk{background:rgba(232,75,75,.12);color:#E84B4B;}
+.impl-opp{background:rgba(46,204,142,.12);color:#2ECC8E;}
+.impl-watch{background:rgba(200,168,75,.12);color:#C8A84B;}
+.card-footer{display:flex;justify-content:space-between;align-items:center;}
+.media-info{display:flex;align-items:center;gap:8px;}
+.media-name{font-size:11.5px;font-weight:600;color:var(--text-secondary);}
+.impact-meter{display:flex;align-items:center;gap:6px;}
+.impact-label{font-size:10px;color:var(--text-muted);font-family:var(--font-mono);}
+.impact-bars{display:flex;gap:2px;}
+.impact-bar{width:4px;height:14px;border-radius:2px;}
+.impact-bar.filled-high{background:var(--accent-red);}
+.impact-bar.filled-med{background:var(--accent-gold);}
+.impact-bar.filled-low{background:#3A4060;}
+.share-btn{background:transparent;border:1px solid var(--border);border-radius:6px;padding:5px 10px;font-size:11px;font-weight:600;color:var(--text-muted);cursor:pointer;display:flex;align-items:center;gap:5px;transition:all .2s;font-family:var(--font-body);}
+.share-btn:hover{border-color:var(--samsung-sky);color:var(--samsung-sky);}
+.share-btn.copied{border-color:var(--accent-green);color:var(--accent-green);}
+.toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(80px);background:var(--accent-green);color:#07090F;font-size:13px;font-weight:700;padding:12px 24px;border-radius:8px;z-index:999;transition:transform .3s cubic-bezier(.34,1.56,.64,1);white-space:nowrap;}
+.toast.show{transform:translateX(-50%) translateY(0);}
+.empty-state{text-align:center;padding:60px 20px;color:var(--text-muted);font-size:14px;display:none;}
+.empty-state.visible{display:block;}
+@keyframes fadeInUp{from{opacity:0;transform:translateY(16px);}to{opacity:1;transform:translateY(0);}}
+.animate-in{animation:fadeInUp .45s ease both;}
+.delay-1{animation-delay:.05s;}.delay-2{animation-delay:.1s;}.delay-3{animation-delay:.15s;}
+mark{background:rgba(74,172,255,.25);color:var(--samsung-sky);border-radius:2px;padding:0 2px;}
+::-webkit-scrollbar{width:6px;}::-webkit-scrollbar-track{background:var(--bg-deep);}::-webkit-scrollbar-thumb{background:#1E2540;border-radius:3px;}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="header-left">
+      <div class="logo-mark">SEC</div>
+      <div class="header-title">
+        <span class="header-title-main">Global Appliance Strategy Briefing</span>
+        <span class="header-title-sub">Samsung Electronics · DA Division · Executive Intelligence</span>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="live-badge"><span class="live-dot"></span>LIVE</div>
+      <div class="timestamp">2026.03.07 18:52 KST</div>
+    </div>
+  </div>
+</header>
+
+<div class="search-container wrapper">
+  <div class="search-wrap">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+    <input class="search-input" type="text" id="searchInput" placeholder="키워드 검색 (예: Samsung, LFP, Whirlpool, best refrigerator)">
+  </div>
+  <div class="filter-chips" id="filterChips">
+    <button class="chip active" data-cat="ALL">전체</button>
+    <button class="chip" data-cat="Samsung DA">삼성 가전</button>
+    <button class="chip" data-cat="Competitor Analysis">경쟁사 동향</button>
+    <button class="chip" data-cat="Product Reviews">제품 리뷰</button>
+    <button class="chip" data-cat="Technology Trend">기술 트렌드</button>
+    <button class="chip" data-cat="Macro / Policy">매크로·정책</button>
+    <button class="chip" data-cat="Market Dynamics">시장 동향</button>
+    <button class="chip" data-cat="Supply Chain">공급망</button>
+  </div>
+</div>
+
+<main class="wrapper">
+  <div class="section animate-in delay-1">
+    <div class="stats-bar">
+      <div class="stat-item">
+        <span class="stat-value">0</span>
+        <span class="stat-label">수집 기사 수 (24h)</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-value">0</span>
+        <span class="stat-label">삼성 가전 뉴스</span>
+        <span class="stat-delta delta-up">자사 모니터링</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-value">0</span>
+        <span class="stat-label">경쟁사 동향</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-value">0</span>
+        <span class="stat-label">제품 리뷰·순위</span>
+        <span class="stat-delta delta-up">리뷰 포지션</span>
+      </div>
+      <div class="stat-item" id="riskStat">
+        <span class="stat-value" id="riskLevel">—</span>
+        <span class="stat-label">금일 시장 리스크</span>
+        <span class="stat-delta" id="riskDelta"></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="section animate-in delay-2">
+    <div class="section-label">Today's Top 3 Key Takeaways</div>
+    <div class="takeaways-grid" id="takeawaysGrid"></div>
+  </div>
+
+  <div class="section animate-in delay-3">
+    <div class="section-label">Intelligence Feed — 24H Window</div>
+    <div class="news-grid" id="newsGrid"></div>
+    <div class="empty-state" id="emptyState">검색 결과가 없습니다. 다른 키워드로 시도해보세요.</div>
+  </div>
+</main>
+
+<div class="toast" id="toast">✓ 클립보드에 복사되었습니다</div>
+
+<script>
+const newsData     = [];
+const takeaways    = [{"trend_label": "⚠ Risk: Market Signal", "title": "분석할 뉴스 데이터가 제공되지 않음", "desc": "오늘의 시장 동향, 경쟁사 동향, 기술 트렌드 등 핵심 뉴스 정보가 없어 전략적 분석이 불가능한 상황입니다. DA 부문의 신속한 의사결정을 위해서는 실시간 시장 정보 수집 체계 점검이 필요합니다."}, {"trend_label": "◎ Opportunity: Data-Driven", "title": "정확한 뉴스 입력 시 맞춤형 인사이트 제공 가능", "desc": "반도체, AI, 메모리 시장 등 관련 뉴스가 제공되면 삼성전자 DA 관점에서의 전략적 시사점을 도출할 수 있습니다. 특히 경쟁사 동향, 고객사 변화, 기술 혁신 등을 중심으로 한 분석이 가능합니다."}, {"trend_label": "▲ Process Optimization", "title": "뉴스 분석 프로세스 재정립 필요", "desc": "효과적인 임원 브리핑을 위해서는 선별된 핵심 뉴스와 명확한 분석 요청이 선행되어야 합니다. 향후 관련 뉴스를 제공해 주시면 DA 부문에 특화된 전략적 통찰을 제공하겠습니다."}];
+
+const catClass = {
+  "Competitor Analysis":"cat-competitor",
+  "Technology Trend":"cat-tech",
+  "Macro / Policy":"cat-macro",
+  "Market Dynamics":"cat-market",
+  "Supply Chain":"cat-supply",
+  "Samsung DA":"cat-samsung",
+  "Product Reviews":"cat-reviews",
+};
+const catLabel = {
+  "Competitor Analysis":"경쟁사 동향",
+  "Technology Trend":"기술 트렌드",
+  "Macro / Policy":"매크로·정책",
+  "Market Dynamics":"시장 동향",
+  "Supply Chain":"공급망",
+  "Samsung DA":"삼성 가전",
+  "Product Reviews":"제품 리뷰",
+};
+
+function impactBars(n) {
+  let h='';
+  for(let i=1;i<=5;i++) {
+    const c = i<=n ? (n>=4?'filled-high':'filled-med') : 'filled-low';
+    h += `<span class="impact-bar ${c}"></span>`;
+  }
+  return h;
+}
+function tagsHtml(tags) {
+  const m = {risk:['impl-risk','🔴 위기'],opp:['impl-opp','🟢 기회'],watch:['impl-watch','🟡 모니터링']};
+  return (tags||[]).filter(t=>m[t]).map(t=>`<span class="impl-tag ${m[t][0]}">${m[t][1]}</span>`).join('');
+}
+function hl(text, q) {
+  if(!q) return text;
+  return text.replace(new RegExp(`(${q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')})`, 'gi'), '<mark>$1</mark>');
+}
+
+// Risk level
+(function() {
+  const highRisk = newsData.filter(a=>(a.tags||[]).includes('risk') && a.impact>=4).length;
+  const level    = highRisk>=4?'High':highRisk>=2?'Med':'Low';
+  document.getElementById('riskLevel').textContent = level;
+  const delta    = document.getElementById('riskDelta');
+  delta.textContent = highRisk>=4?'↑ 위기 이슈 집중':highRisk>=2?'→ 주의 필요':'↓ 안정적';
+  delta.className   = 'stat-delta ' + (highRisk>=2?'delta-down':'delta-up');
+})();
+
+// Takeaways
+(function() {
+  const nums=['01','02','03'];
+  document.getElementById('takeawaysGrid').innerHTML = takeaways.map((t,i)=>`
+    <div class="takeaway-card">
+      <span class="takeaway-num">${nums[i]}</span>
+      <div class="takeaway-trend">${t.trend_label}</div>
+      <div class="takeaway-title">${t.title}</div>
+      <div class="takeaway-desc">${t.desc}</div>
+    </div>`).join('');
+})();
+
+let curCat='ALL', curQ='';
+
+function render() {
+  const q = curQ.toLowerCase();
+  const filtered = newsData.filter(a => {
+    const catOk = curCat==='ALL' || a.category===curCat;
+    const txtOk = !q || (a.title+a.summary_kr+a.strategic_implications).toLowerCase().includes(q);
+    return catOk && txtOk;
+  });
+  const empty = document.getElementById('emptyState');
+  if(!filtered.length) { document.getElementById('newsGrid').innerHTML=''; empty.classList.add('visible'); return; }
+  empty.classList.remove('visible');
+
+  document.getElementById('newsGrid').innerHTML = filtered.map(item => {
+    const t = (item.title||'').replace(/`/g,"'");
+    const s = (item.summary_kr||'').replace(/`/g,"'");
+    const im= (item.strategic_implications||'').replace(/`/g,"'");
+    return `<a class="news-card" href="${item.url}" target="_blank" rel="noopener noreferrer">
+      <div class="card-header">
+        <span class="category-badge ${catClass[item.category]||'cat-market'}">${catLabel[item.category]||item.category}</span>
+        <div style="display:flex;align-items:center;gap:8px;">
+          <span class="card-time">${item.time}</span>
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--text-muted)"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        </div>
+      </div>
+      <div class="card-title">${hl(item.title,curQ)}</div>
+      <div class="card-section-label">What Happened</div>
+      <div class="card-summary">${hl(item.summary_kr,curQ)}</div>
+      <div class="card-section-label">Strategic Implications</div>
+      <div class="implications-box">
+        <div class="implications-text">${hl(item.strategic_implications,curQ)}</div>
+        <div class="impl-tags">${tagsHtml(item.tags)}</div>
+      </div>
+      <div class="card-footer">
+        <div class="media-info">
+          <span class="media-name">${item.media}</span>
+          <div class="impact-meter"><span class="impact-label">영향도</span><div class="impact-bars">${impactBars(item.impact)}</div></div>
+        </div>
+        <button class="share-btn" onclick="event.preventDefault();event.stopPropagation();copyCard(this,\`${t}\`,\`${s}\`,\`${im}\`,\`${item.media}\`,\`${item.url}\`)">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect width="14" height="14" x="8" y="8" rx="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>복사
+        </button>
+      </div>
+    </a>`;
+  }).join('');
+}
+
+document.getElementById('filterChips').addEventListener('click', e => {
+  const chip = e.target.closest('.chip'); if(!chip) return;
+  document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active'));
+  chip.classList.add('active'); curCat=chip.dataset.cat; render();
+});
+document.getElementById('searchInput').addEventListener('input', e => {
+  curQ = e.target.value.trim(); render();
+});
+
+function copyCard(btn,title,summary,impl,media,url) {
+  const text = `📋 [Samsung DA 전략 브리핑]\n\n■ ${title}\n\n▶ 현황\n${summary}\n\n▶ 전략적 비고\n${impl}\n\n출처: ${media}\n🔗 ${url}\n\n— Samsung Electronics DA Division · ${new Date().toLocaleDateString('ko-KR')}`;
+  navigator.clipboard.writeText(text).then(()=>{
+    btn.classList.add('copied'); btn.textContent='✓ 복사됨';
+    const t=document.getElementById('toast'); t.classList.add('show');
+    setTimeout(()=>{
+      t.classList.remove('show');
+      btn.classList.remove('copied');
+      btn.innerHTML='<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect width="14" height="14" x="8" y="8" rx="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>복사';
+    },2000);
+  });
+}
+
+render();
+</script>
+</body>
+</html>
