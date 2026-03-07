@@ -55,6 +55,10 @@ header{{border-bottom:1px solid var(--border);background:rgba(7,9,15,.85);backdr
 .live-dot{{width:6px;height:6px;border-radius:50%;background:var(--accent-green);animation:pulse 2s infinite;}}
 @keyframes pulse{{0%,100%{{opacity:1;transform:scale(1);}}50%{{opacity:.5;transform:scale(1.3);}}}}
 .timestamp{{font-size:11px;color:var(--text-muted);font-family:var(--font-mono);}}
+.refresh-btn{{display:flex;align-items:center;gap:6px;padding:7px 14px;border-radius:8px;border:1px solid rgba(20,40,160,0.5);background:rgba(20,40,160,0.15);color:#7BA7FF;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;cursor:pointer;text-decoration:none;transition:all .2s;font-family:var(--font-mono);white-space:nowrap;}}
+.refresh-btn:hover{{background:rgba(20,40,160,0.35);border-color:var(--samsung-sky);color:var(--samsung-sky);transform:translateY(-1px);}}
+.refresh-btn svg{{transition:transform .4s;}}
+.refresh-btn:hover svg{{transform:rotate(180deg);}}
 .search-container{{padding:20px 24px 0;max-width:1440px;margin:0 auto;display:flex;gap:12px;align-items:center;flex-wrap:wrap;}}
 .search-wrap{{position:relative;flex:1;min-width:200px;max-width:420px;}}
 .search-wrap svg{{position:absolute;left:14px;top:50%;transform:translateY(-50%);color:var(--text-muted);pointer-events:none;}}
@@ -147,6 +151,10 @@ mark{{background:rgba(74,172,255,.25);color:var(--samsung-sky);border-radius:2px
     <div class="header-right">
       <div class="live-badge"><span class="live-dot"></span>LIVE</div>
       <div class="timestamp">{generated_at}</div>
+      <a class="refresh-btn" href="https://github.com/konidoni/News-Letter/actions/workflows/daily.yml" target="_blank" rel="noopener">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 2v6h-6"/><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M3 22v-6h6"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/></svg>
+        지금 수집
+      </a>
     </div>
   </div>
 </header>
