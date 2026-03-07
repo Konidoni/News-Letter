@@ -1,0 +1,25 @@
+{
+  "date": "2026-03-08",
+  "date_display": "2026년 03월 08일",
+  "generated_at": "2026-03-08T08:13:56.795592+09:00",
+  "generated_at_display": "2026.03.08 08:13 KST",
+  "category_counts": {},
+  "takeaways": [
+    {
+      "trend_label": "⚠ 수집 오류",
+      "title": "뉴스 수집 실패",
+      "desc": "잠시 후 다시 실행해주세요."
+    },
+    {
+      "trend_label": "—",
+      "title": "—",
+      "desc": "—"
+    },
+    {
+      "trend_label": "—",
+      "title": "—",
+      "desc": "—"
+    }
+  ],
+  "articles": []
+}
