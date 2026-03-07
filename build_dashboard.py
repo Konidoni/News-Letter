@@ -434,7 +434,7 @@ def main():
     if not days_data:
         print("[WARN] No data files found in data/. Run fetch_news.py first.")
         # 빈 페이지라도 생성
-        days_data = {{}}
+        days_data = {}
 
     html = build_html(manifest, days_data)
     Path(OUTPUT_FILE).write_text(html, encoding="utf-8")
