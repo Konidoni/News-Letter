@@ -1,0 +1,41 @@
+name: Daily Samsung DA Briefing
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 매일 16:00 KST (UTC 07:00)
+  workflow_dispatch:       # 수동 실행
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests anthropic
+
+      - name: Fetch news & analyze with Claude
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python fetch_news.py
+
+      - name: Build dashboard HTML
+        run: python build_dashboard.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
+          keep_files: true          # 이전 data/ 파일 유지 (아카이브 누적)
+          exclude_assets: '.github,fetch_news.py,build_dashboard.py,README.md'
