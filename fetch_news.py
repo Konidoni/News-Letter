@@ -1,251 +1,275 @@
 """
-Samsung DA Strategy Briefing — News Fetcher + Claude AI Analyzer
-Runs daily at 14:00 KST via GitHub Actions.
-Outputs: news_data.json
-
-Coverage:
-  1. Competitor Analysis  — LG, Haier, Whirlpool, Bosch, Electrolux
-  2. Technology Trend     — AI appliance, Matter, Energy/LFP
-  3. Samsung DA           — Samsung home appliance, Bespoke, SmartThings
-  4. Product Reviews      — Best appliance picks, editor's choice, top-rated
-  5. Macro / Policy       — US tariff, trade policy, IRA incentive
-  6. Market Dynamics      — Global appliance market growth
-  7. Supply Chain         — Rare earth, semiconductor, manufacturing
+Samsung DA Strategy Briefing — News Fetcher
+Sources: Google News RSS + Reuters RSS + AP News RSS (fallback 포함)
+API 키 불필요. feedparser로 안정적 파싱.
 """
 
-import os
-import json
+import os, json, time
 import requests
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
+from urllib.parse import quote
 import anthropic
 
-# ── CONFIG ──────────────────────────────────────────────────────────────────
-NEWS_API_KEY   = os.environ["NEWS_API_KEY"]
-ANTHROPIC_KEY  = os.environ["ANTHROPIC_API_KEY"]
-OUTPUT_FILE    = "news_data.json"
-MAX_ARTICLES   = 14
+ANTHROPIC_KEY = os.environ["ANTHROPIC_API_KEY"]
+OUTPUT_FILE   = "news_data.json"
+MAX_ARTICLES  = 10
 
-KST       = timezone(timedelta(hours=9))
-NOW       = datetime.now(KST)
-FROM_DATE = (NOW - timedelta(hours=24)).strftime("%Y-%m-%dT%H:%M:%S")
+KST = timezone(timedelta(hours=9))
+NOW = datetime.now(KST)
 
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+}
 
-# ── SEARCH QUERIES ───────────────────────────────────────────────────────────
-QUERIES = [
-    # 1. 경쟁사 동향
-    {
-        "category": "Competitor Analysis",
-        "queries": [
-            "LG Electronics home appliance strategy 2025",
-            "Haier appliance North America Europe expansion",
-            "Whirlpool business strategy earnings",
-            "Bosch BSH home appliance market",
-            "Electrolux Midea appliance strategy",
-        ],
-        "max_per_query": 2,
-    },
-    # 2. 기술 트렌드
-    {
-        "category": "Technology Trend",
-        "queries": [
-            "AI home appliance smart home 2025",
-            "Matter smart home interoperability standard",
-            "LFP battery home appliance energy storage",
-            "Google Home Amazon Alexa appliance integration",
-            "energy efficient appliance EU regulation",
-        ],
-        "max_per_query": 2,
-    },
-    # 3. 삼성전자 가전 사업
+# ── RSS SOURCES ──────────────────────────────────────────────────────────────
+# Google News RSS + 카테고리별 직접 RSS 피드 병행
+RSS_SOURCES = [
+    # 삼성 가전
     {
         "category": "Samsung DA",
-        "queries": [
-            "Samsung home appliance Bespoke 2025",
-            "Samsung SmartThings AI home",
-            "Samsung refrigerator washer new product launch",
-            "Samsung DA division strategy earnings",
-        ],
-        "max_per_query": 3,
+        "url": "https://news.google.com/rss/search?q=Samsung+appliance+Bespoke+SmartThings&hl=en-US&gl=US&ceid=US:en",
     },
-    # 4. 제품 리뷰 / 추천 리스트
+    {
+        "category": "Samsung DA",
+        "url": "https://news.google.com/rss/search?q=Samsung+refrigerator+washer+home+appliance+2025&hl=en-US&gl=US&ceid=US:en",
+    },
+    # 경쟁사
+    {
+        "category": "Competitor Analysis",
+        "url": "https://news.google.com/rss/search?q=LG+Electronics+appliance+2025&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "category": "Competitor Analysis",
+        "url": "https://news.google.com/rss/search?q=Haier+Whirlpool+appliance+strategy&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "category": "Competitor Analysis",
+        "url": "https://news.google.com/rss/search?q=Bosch+Electrolux+Midea+home+appliance&hl=en-US&gl=US&ceid=US:en",
+    },
+    # 기술 트렌드
+    {
+        "category": "Technology Trend",
+        "url": "https://news.google.com/rss/search?q=AI+home+appliance+smart+home+2025&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "category": "Technology Trend",
+        "url": "https://news.google.com/rss/search?q=Matter+smart+home+Google+Apple+Samsung&hl=en-US&gl=US&ceid=US:en",
+    },
+    # 제품 리뷰
     {
         "category": "Product Reviews",
-        "queries": [
-            "best refrigerator 2025 review ranked",
-            "best washing machine dryer 2025 top picks",
-            "best air conditioner 2025 editor choice",
-            "best dishwasher 2025 recommended",
-            "best smart home appliance 2025 buying guide",
-        ],
-        "max_per_query": 2,
+        "url": "https://news.google.com/rss/search?q=best+refrigerator+washing+machine+2025+review&hl=en-US&gl=US&ceid=US:en",
     },
-    # 5. 매크로 / 정책
+    {
+        "category": "Product Reviews",
+        "url": "https://news.google.com/rss/search?q=best+home+appliance+2025+top+picks+editor&hl=en-US&gl=US&ceid=US:en",
+    },
+    # 매크로·정책
     {
         "category": "Macro / Policy",
-        "queries": [
-            "Trump tariff appliance manufacturing Mexico",
-            "US trade policy electronics tariff 2025",
-            "IRA energy appliance incentive subsidy",
-        ],
-        "max_per_query": 2,
+        "url": "https://news.google.com/rss/search?q=tariff+appliance+trade+policy+2025&hl=en-US&gl=US&ceid=US:en",
     },
-    # 6. 시장 동향
+    {
+        "category": "Macro / Policy",
+        "url": "https://news.google.com/rss/search?q=IRA+energy+appliance+incentive+regulation+EU&hl=en-US&gl=US&ceid=US:en",
+    },
+    # 시장 동향
     {
         "category": "Market Dynamics",
-        "queries": [
-            "global home appliance market growth premium 2025",
-            "India appliance market growth forecast",
-            "Southeast Asia consumer electronics market",
-        ],
-        "max_per_query": 2,
+        "url": "https://news.google.com/rss/search?q=home+appliance+market+growth+2025&hl=en-US&gl=US&ceid=US:en",
     },
-    # 7. 공급망
+    {
+        "category": "Market Dynamics",
+        "url": "https://news.google.com/rss/search?q=India+Southeast+Asia+appliance+market+2025&hl=en-US&gl=US&ceid=US:en",
+    },
+    # 공급망
     {
         "category": "Supply Chain",
-        "queries": [
-            "rare earth export controls electronics supply chain",
-            "semiconductor appliance supply disruption 2025",
-            "Vietnam Mexico manufacturing relocation",
-        ],
-        "max_per_query": 2,
+        "url": "https://news.google.com/rss/search?q=rare+earth+supply+chain+electronics+2025&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "category": "Supply Chain",
+        "url": "https://news.google.com/rss/search?q=semiconductor+appliance+manufacturing+Vietnam+Mexico&hl=en-US&gl=US&ceid=US:en",
     },
 ]
 
 
-# ── FETCH FROM NEWSAPI ───────────────────────────────────────────────────────
-def fetch_articles():
+def parse_rss(content: bytes, category: str, source_url: str) -> list:
+    """RSS XML을 파싱해서 기사 목록 반환"""
+    items = []
+    try:
+        root = ET.fromstring(content)
+        # RSS 2.0
+        for item in root.findall(".//item")[:3]:
+            title  = item.findtext("title", "").strip()
+            link   = item.findtext("link", "").strip()
+            desc   = item.findtext("description", "").strip()
+            pub    = item.findtext("pubDate", "")
+            src_el = item.find("source")
+            source = src_el.text.strip() if src_el is not None else "Google News"
+
+            if not title or not link or title == "[Removed]":
+                continue
+
+            # 시간 계산
+            try:
+                from email.utils import parsedate_to_datetime
+                pub_dt    = parsedate_to_datetime(pub).astimezone(KST)
+                hours_ago = max(0, int((NOW - pub_dt).total_seconds() / 3600))
+                time_str  = f"{hours_ago}시간 전" if hours_ago < 48 else f"{hours_ago // 24}일 전"
+            except Exception:
+                time_str = "최근"
+
+            items.append({
+                "category":    category,
+                "title_en":    title,
+                "description": desc[:300] if desc else "",
+                "url":         link,
+                "source":      source,
+                "time_str":    time_str,
+            })
+    except ET.ParseError as e:
+        print(f"    [WARN] XML parse error: {e}")
+    return items
+
+
+def fetch_rss(url: str, category: str) -> list:
+    """단일 RSS URL에서 기사 수집 (재시도 포함)"""
+    for attempt in range(2):
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=15)
+            print(f"    HTTP {resp.status_code} ← {url[:70]}")
+            if resp.status_code == 200:
+                items = parse_rss(resp.content, category, url)
+                print(f"    → {len(items)} articles")
+                return items
+            else:
+                print(f"    [WARN] status {resp.status_code}, retrying...")
+                time.sleep(2)
+        except Exception as e:
+            print(f"    [WARN] attempt {attempt+1} failed: {e}")
+            time.sleep(3)
+    return []
+
+
+def fetch_all() -> list:
     articles  = []
     seen_urls = set()
 
-    for group in QUERIES:
-        category  = group["category"]
-        max_per_q = group.get("max_per_query", 2)
+    for src in RSS_SOURCES:
+        time.sleep(1)  # Google 차단 방지용 딜레이
+        items = fetch_rss(src["url"], src["category"])
+        for item in items:
+            if item["url"] not in seen_urls:
+                seen_urls.add(item["url"])
+                articles.append(item)
 
-        for q in group["queries"]:
-            try:
-                resp = requests.get(
-                    "https://newsapi.org/v2/everything",
-                    params={
-                        "q":        q,
-                        "from":     FROM_DATE,
-                        "sortBy":   "relevancy",
-                        "language": "en",
-                        "pageSize": max_per_q,
-                        "apiKey":   NEWS_API_KEY,
-                    },
-                    timeout=10,
-                )
-                resp.raise_for_status()
-                data = resp.json()
-
-                for art in data.get("articles", []):
-                    if (
-                        art["url"] not in seen_urls
-                        and art.get("description")
-                        and art.get("title", "") != "[Removed]"
-                    ):
-                        seen_urls.add(art["url"])
-                        articles.append({
-                            "category":    category,
-                            "title_en":    art["title"],
-                            "description": art.get("description", ""),
-                            "content":     art.get("content") or art.get("description", ""),
-                            "url":         art["url"],
-                            "source":      art["source"]["name"],
-                            "publishedAt": art["publishedAt"],
-                        })
-            except Exception as e:
-                print(f"  [WARN] '{q}': {e}")
-
-    print(f"  Raw articles fetched: {len(articles)}")
-    return articles[:MAX_ARTICLES + 6]
+    print(f"\n  Total unique articles: {len(articles)}")
+    return articles[:MAX_ARTICLES + 5]
 
 
 # ── CLAUDE ANALYSIS ──────────────────────────────────────────────────────────
-def analyze_with_claude(articles: list) -> list:
-    client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
+def _call_claude(articles_batch: list, client) -> list:
+    """Claude API 호출 + JSON 안전 파싱"""
+    system = """삼성전자 DA 부문 임원용 전략 브리핑 작성 전문가.
+MBB 컨설팅 수준. 순수 JSON 배열만 반환. 마크다운 코드블록 절대 금지."""
 
-    system = """당신은 삼성전자 DA(가전) 부문 임원을 위한 전략 브리핑 작성 전문가입니다.
-MBB 컨설팅 수준의 전문성과 간결함으로 분석합니다.
-순수 JSON 배열만 반환하세요. 마크다운 코드블록 없이."""
+    user = f"""아래 {len(articles_batch)}개 기사를 분석해 삼성전자 DA 임원 브리핑 JSON 배열 생성.
 
-    user = f"""아래 {len(articles)}개 뉴스 기사를 분석해 삼성전자 DA 임원 브리핑용 JSON 배열을 생성하세요.
+입력:
+{json.dumps(articles_batch, ensure_ascii=False, indent=2)}
 
-입력 기사:
-{json.dumps(articles, ensure_ascii=False, indent=2)}
-
-출력 형식 (순수 JSON 배열):
+출력 형식 (순수 JSON 배열만):
 [
   {{
-    "category": "입력의 category 그대로",
-    "title": "임원이 즉시 이해할 한국어 번역/의역 — 20자 내외, 핵심만",
-    "media": "출처명 (국가, 예: Bloomberg (US))",
-    "impact": 1~5 정수 (5=즉각 경영 의사결정 필요),
-    "time": "publishedAt 기준 'X시간 전'",
-    "url": "원문 URL 그대로",
-    "summary_kr": "What happened — 구체적 수치/사실 포함, 2~3문장",
-    "strategic_implications": "삼성 DA 관점 위기/기회 분석 + 실행 대응 제언. Product Reviews는 '삼성 제품 순위 포지션 vs 경쟁사 강약점' 관점으로 작성",
-    "tags": ["risk"/"opp"/"watch" 중 1~3개]
+    "category": "입력 category 그대로",
+    "title": "한국어 번역/의역 20자 내외",
+    "media": "source + 국가 (예: Bloomberg (US))",
+    "impact": 1~5 정수,
+    "time": "time_str 그대로",
+    "url": "url 그대로",
+    "summary_kr": "핵심 요약 2~3문장 (수치 포함)",
+    "strategic_implications": "삼성 DA 위기/기회 분석 + 대응 제언",
+    "tags": ["risk","opp","watch" 중 1~3개]
   }}
 ]
 
-규칙:
-- 최대 {MAX_ARTICLES}개 (중복/저품질 제거)
-- impact 5는 최대 3개만
-- Product Reviews: 삼성 포지션 vs LG·Whirlpool 비교 필수
-- Samsung DA: 자사 관점 전략적 해석
-- 순수 JSON만, 설명 없이"""
+규칙: impact 5는 최대 2개, JSON만 반환, 다른 텍스트 절대 없이"""
 
     resp = client.messages.create(
         model="claude-sonnet-4-20250514",
-        max_tokens=5000,
+        max_tokens=4000,
         system=system,
         messages=[{"role": "user", "content": user}],
     )
-
     raw = resp.content[0].text.strip()
     if raw.startswith("```"):
-        parts = raw.split("```")
-        raw   = parts[1] if len(parts) > 1 else raw
+        raw = raw.split("```")[1]
         if raw.startswith("json"):
             raw = raw[4:]
-    return json.loads(raw.strip())
+    raw = raw.strip()
+
+    # JSON 잘린 경우 복구
+    if not raw.endswith("]"):
+        last = raw.rfind("},")
+        if last != -1:
+            raw = raw[:last+1] + "]"
+        else:
+            last = raw.rfind("}")
+            if last != -1:
+                raw = raw[:last+1] + "]"
+
+    return json.loads(raw)
 
 
-# ── TOP 3 TAKEAWAYS ──────────────────────────────────────────────────────────
+def analyze_with_claude(articles: list) -> list:
+    if not articles:
+        print("  [ERROR] No articles to analyze!")
+        return []
+
+    client  = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
+    results = []
+    BATCH   = 7  # 7개씩 나눠서 처리 → 토큰 초과 방지
+
+    for i in range(0, len(articles), BATCH):
+        batch = articles[i:i+BATCH]
+        print(f"  Batch {i//BATCH+1}: analyzing {len(batch)} articles...")
+        try:
+            results.extend(_call_claude(batch, client))
+            time.sleep(1)
+        except json.JSONDecodeError as e:
+            print(f"  [WARN] JSON parse failed for batch {i//BATCH+1}: {e}")
+        except Exception as e:
+            print(f"  [WARN] Claude error for batch {i//BATCH+1}: {e}")
+
+    return results
+
+
 def generate_takeaways(articles: list) -> list:
     client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
-
-    system = """삼성전자 DA 임원 브리핑 'Top 3 Key Takeaways' 작성 전문가.
-단순 요약이 아닌 거시적 전략 흐름을 짚는 통찰. JSON 배열만 반환."""
-
-    user = f"""오늘 뉴스를 바탕으로 삼성전자 DA 임원이 반드시 알아야 할 Top 3 전략적 통찰을 생성하세요.
-
-분석 뉴스:
-{json.dumps(articles, ensure_ascii=False, indent=2)}
-
-출력 (JSON 배열, 정확히 3개):
-[
-  {{
-    "trend_label": "핵심 흐름 레이블 (예: ▲ Structural Shift / ⚠ Risk: Policy / ◎ Opportunity: AI)",
-    "title": "임원이 즉시 이해하는 핵심 전략 메시지 — 25자 내외",
-    "desc": "삼성 DA에 주는 전략적 의미와 구체적 대응 방향 3~4문장"
-  }}
-]
-
-JSON만, 마크다운 없이."""
-
     resp = client.messages.create(
         model="claude-sonnet-4-20250514",
         max_tokens=1500,
-        system=system,
-        messages=[{"role": "user", "content": user}],
-    )
+        system="삼성전자 DA 임원 Top 3 전략 통찰 작성. JSON 배열만 반환.",
+        messages=[{"role": "user", "content": f"""오늘 뉴스 기반 Top 3 전략 통찰.
 
+뉴스: {json.dumps(articles, ensure_ascii=False)}
+
+출력 (JSON 배열 3개):
+[{{"trend_label":"레이블","title":"25자 내외 핵심 메시지","desc":"3~4문장 전략적 의미"}}]
+
+JSON만."""}],
+    )
     raw = resp.content[0].text.strip()
     if raw.startswith("```"):
-        parts = raw.split("```")
-        raw   = parts[1] if len(parts) > 1 else raw
+        raw = raw.split("```")[1]
         if raw.startswith("json"):
             raw = raw[4:]
     return json.loads(raw.strip())
@@ -254,17 +278,36 @@ JSON만, 마크다운 없이."""
 # ── MAIN ─────────────────────────────────────────────────────────────────────
 def main():
     print(f"\n{'='*60}")
-    print(f" Samsung DA Briefing Pipeline  |  {NOW.strftime('%Y-%m-%d %H:%M KST')}")
+    print(f" Samsung DA Briefing  |  {NOW.strftime('%Y-%m-%d %H:%M KST')}")
+    print(f" Source: Google News RSS (no API key)")
     print(f"{'='*60}")
 
-    print("\n[1/3] Fetching news from NewsAPI...")
-    raw = fetch_articles()
+    print("\n[1/3] Fetching news...")
+    raw = fetch_all()
+
+    if not raw:
+        print("\n[ERROR] 0 articles fetched. 네트워크 또는 RSS 차단 가능성.")
+        # 빈 상태로도 파일 저장 (사이트 깨지지 않게)
+        output = {
+            "generated_at":         NOW.isoformat(),
+            "generated_at_display": NOW.strftime("%Y.%m.%d %H:%M KST"),
+            "category_counts":      {},
+            "takeaways":            [
+                {"trend_label":"⚠ 수집 오류","title":"뉴스 수집에 실패했습니다","desc":"잠시 후 다시 실행해주세요."},
+                {"trend_label":"—","title":"—","desc":"—"},
+                {"trend_label":"—","title":"—","desc":"—"},
+            ],
+            "articles": [],
+        }
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump(output, f, ensure_ascii=False, indent=2)
+        return
 
     print(f"\n[2/3] Analyzing {len(raw)} articles with Claude...")
     analyzed = analyze_with_claude(raw)
-    print(f"  → {len(analyzed)} articles after filtering")
+    print(f"  → {len(analyzed)} kept")
 
-    print("\n[3/3] Generating Top 3 Takeaways...")
+    print("\n[3/3] Generating takeaways...")
     takeaways = generate_takeaways(analyzed)
 
     cat_counts = {}
@@ -278,12 +321,10 @@ def main():
         "takeaways":            takeaways,
         "articles":             analyzed,
     }
-
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\n✅ Done → {OUTPUT_FILE}")
-    print(f"   {cat_counts}")
+    print(f"\n✅ Done → {OUTPUT_FILE}  |  {cat_counts}")
 
 
 if __name__ == "__main__":
