@@ -425,7 +425,7 @@ def main():
     dates     = manifest.get("dates", [])
 
     # 모든 날짜 데이터 로드
-    days_data = {{}}
+    days_data = {}
     for d in dates:
         data = load_day(d)
         if data:
