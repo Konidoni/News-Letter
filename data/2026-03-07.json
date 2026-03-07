@@ -1,9 +1,128 @@
 {
   "date": "2026-03-07",
   "date_display": "2026년 03월 07일",
-  "generated_at": "2026-03-07T22:11:26.817878+09:00",
-  "generated_at_display": "2026.03.07 22:11 KST",
-  "category_counts": {},
-  "takeaways": [],
-  "articles": []
+  "generated_at": "2026-03-07T22:35:19.164149+09:00",
+  "generated_at_display": "2026.03.07 22:35 KST",
+  "category_counts": {
+    "Samsung DA": 1,
+    "Competitor Analysis": 1,
+    "Technology Trend": 1,
+    "Product Reviews": 1,
+    "Macro / Policy": 1,
+    "Market Dynamics": 1,
+    "Supply Chain": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "⚡ AI 가전 생태계 격화",
+      "title": "삼성 비스포크 AI 3배 확장 vs LG 신뢰도 우위 경쟁",
+      "desc": "삼성이 AI 가전 모델을 1,030개로 급속 확장하며 'Zero Housework' 비전을 제시한 반면, LG는 전체 신뢰도 부문 1위를 차지했다. 매터 1.4 표준 확산으로 개방형 생태계 경쟁이 가속화되고 있으며, AI 에너지 관리와 상호운용성이 핵심 차별화 요소로 부상했다. SmartThings 기반 통합 플랫폼 강점을 바탕으로 혁신성과 신뢰도를 동시에 확보하는 투트랙 전략이 필요하다."
+    },
+    {
+      "trend_label": "🌏 아시아 시장 기회-위협 동시 확대",
+      "title": "인도 5.84% 성장 기회 vs 중국 희토류 통제 리스크",
+      "desc": "인도 가전시장이 연 5.84% 성장하며 PLI 인센티브로 현지화 가속화되는 반면, 중국의 희토류 수출 통제로 모터·압축기 등 핵심 부품 공급 리스크가 심화되고 있다. 하이얼의 북미 M&A 확장과 동남아 소형가전 시장 급성장도 주목할 변화다. 아시아 성장 기회 포착과 동시에 공급망 다변화를 통한 리스크 헤징이 시급한 상황이다."
+    },
+    {
+      "trend_label": "💸 관세 전쟁 현실화 대응",
+      "title": "미국 가전 관세 50% 충격파 확산 중",
+      "desc": "미국이 가전 내 철강·알루미늄 함량에 50% 관세를 부과하며 제품 가격이 50-70달러 상승하고 있다. 중국산 가전 관세도 35%로 인상되어 글로벌 공급망 재편이 불가피하다. 삼성의 뉴베리 공장 등 미국 현지 생산 강점을 최대한 활용하되, 부품 공급망 다변화와 관세 회피를 위한 생산기지 재배치 전략 수립이 생존의 핵심이 되었다."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Samsung DA",
+      "title": "삼성 비스포크 AI 모델 세배 확장",
+      "media": "Samsung Global Newsroom (글로벌)",
+      "impact": 5,
+      "time": "3주 전",
+      "url": "https://news.samsung.com/global/interview-why-samsung-%E2%91%A0-tripling-the-number-of-ai-appliance-models-to-achieve-zero-housework-evp-jeong-seung-moon-on-samsungs-bespoke-ai-vision",
+      "summary_kr": "삼성 비스포크 AI 라인업이 2024년 약 300개에서 2025년 3월 1,030개로 모델 수가 3배 증가했다. AI Vision Inside, SmartThings 연동 에너지 효율성 15% 향상, 'Why Samsung' 글로벌 캠페인 50개국 동시 런칭으로 제로 하우스워크 달성 목표를 제시했다.",
+      "strategic_implications": "비스포크 AI 모델 급속 확장으로 시장 점유율 공격 가능하나 차별화된 AI 기능과 생태계 통합 완성도가 핵심이다. SmartThings 기반 통합 플랫폼 강점을 바탕으로 전방위적 AI 가전 포트폴리오 완성 시 경쟁 우위 확보 가능하다. KBIS 2026 신제품 발표와 연계한 북미 프리미엄 시장 공략이 급선무다.",
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼 상업용 냉장 7.8억불 인수",
+      "media": "Wikipedia (글로벌)",
+      "impact": 4,
+      "time": "1주 전",
+      "url": "https://en.wikipedia.org/wiki/Haier",
+      "summary_kr": "하이얼이 2024년 10월 캐리어 상업용 냉장사업부를 7억 7,500만 달러에 인수 완료했다. 12년 연속 세계 1위 가전 브랜드 지위를 유지하며 글로벌 IT 인프라 통합으로 스마트홈 생태계를 강화하고 있다.",
+      "strategic_implications": "하이얼의 상업용 냉장 M&A로 B2B 시장 확장과 수직계열화가 가속화되고 있다. GE 어플라이언스 인수 이후 북미 시장 현지화 전략이 성과를 내고 있어 삼성 DA 북미 점유율에 위협이 될 수 있다. 상업용 냉장 시장 진출과 B2B 솔루션 강화 검토가 필요하다.",
+      "tags": [
+        "risk",
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "매터 1.4 표준 AI 에너지관리 확산",
+      "media": "Matter Alpha (글로벌)",
+      "impact": 3,
+      "time": "1주 전",
+      "url": "https://www.matteralpha.com/explainer/how-smart-homes-are-becoming-more-energy-efficient-with-matter-and-ai",
+      "summary_kr": "매터 1.4 표준이 750개 이상 제품으로 확산되며 AI 기반 에너지 관리와 자동화 기능이 강화되고 있다. 삼성이 Thread Border Router를 확대 탑재하고 있으며, 스마트 기기 간 상호운용성과 에너지 효율성이 핵심 경쟁 요소로 부상했다.",
+      "strategic_implications": "매터 표준 확산으로 스마트홈 생태계 경쟁이 개방형 표준 기반으로 재편되고 있다. 삼성 SmartThings의 매터 선제 대응은 긍정적이나 AI 에너지 관리 기능의 차별화가 관건이다. Thread Border Router 확대와 매터 1.4 완전 지원으로 개방형 생태계 리더십 확보 필요하다.",
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Product Reviews",
+      "title": "LG 최고 신뢰도, 삼성 혁신 선도",
+      "media": "Reviewed (미국)",
+      "impact": 4,
+      "time": "3개월 전",
+      "url": "https://www.reviewed.com/dishwashers/features/best-year-2025-appliances",
+      "summary_kr": "2025년 가전 리뷰에서 LG가 전체적으로 가장 신뢰할 수 있는 브랜드로 선정됐다. 삼성은 Bespoke 세탁기와 인덕션 레인지에서 혁신적 AI 기능과 스마트 연결성으로 높은 평가를 받았다. 일렉트로럭스가 세탁기 부문 1위를 차지했다.",
+      "strategic_implications": "LG의 신뢰도 우위는 장기적 브랜드 자산이지만 삼성의 혁신성과 스마트 기능은 프리미엄 시장에서 차별화 요소다. AI OptiWash 등 혁신 기능의 성능 우수성을 지속 입증하고 신뢰도 개선 노력이 병행되어야 한다. 리뷰어들의 혁신 인정을 마케팅 레버리지로 활용 가능하다.",
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Macro / Policy",
+      "title": "미국 가전 관세 최대 50% 급등",
+      "media": "Supply Chain Dive (미국)",
+      "impact": 5,
+      "time": "8개월 전",
+      "url": "https://www.supplychaindive.com/news/50-tariff-hike-imposed-on-freezers-other-appliances/750710/",
+      "summary_kr": "미국이 6월 23일부터 냉장고, 세탁기, 식기세척기 등 가전제품 내 철강·알루미늄 함량에 50% 관세를 부과했다. 중국산 가전제품에는 기존 25%에서 35%로 관세가 인상됐으며, 가전 가격 50-70달러 상승이 예상된다고 휠풀 CEO가 언급했다.",
+      "strategic_implications": "미국 관세 정책이 가전 업계 최대 위협 요소로 부상했다. 삼성의 미국 현지 생산(뉴베리 공장) 강점이 경쟁 우위로 작용할 수 있으나 부품 공급망 다변화가 시급하다. 관세 회피를 위한 현지 생산 확대와 대체 공급망 구축, 가격 전가 전략 수립이 필요하다.",
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "인도 가전시장 5.84% 성장 전망",
+      "media": "Mordor Intelligence (인도)",
+      "impact": 4,
+      "time": "4개월 전",
+      "url": "https://www.mordorintelligence.com/industry-reports/india-major-home-appliance-market",
+      "summary_kr": "인도 주요 가전시장이 2025년 333억 4,000만 달러에서 2030년 442억 7,000만 달러로 연평균 5.84% 성장할 전망이다. PLI(생산연계인센티브) 6,238크로어 배정으로 에어컨 국산화율이 25%에서 55%로 증가하며, 서부 인도가 27.24% 점유율로 최대 시장이다.",
+      "strategic_implications": "인도는 삼성 DA의 핵심 성장 동력으로 PLI 혜택과 현지화 확대가 필수다. 티어2-3 도시 침투율 확대와 프리미엄화 전략이 동시에 필요하며, 에너지 효율 규제 강화가 기회 요인이다. 현지 생산 확대와 R&D 센터 설립을 통한 맞춤형 제품 개발이 시장 점유율 확대의 핵심이다.",
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Supply Chain",
+      "title": "중국 희토류 수출 통제 강화",
+      "media": "IEA (글로벌)",
+      "impact": 5,
+      "time": "1주 전",
+      "url": "https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality",
+      "summary_kr": "중국이 홀뮴 등 희토류 수출 통제를 확대하며 반도체·방산·데이터센터 공급망에 차질이 예상된다. 중국의 희토류 정련 점유율은 91%, 네오디뮴 영구자석 생산은 94%에 달해 글로벌 공급망 취약성이 노출됐다. 2024년 5만 8,000톤의 희토류 자석을 수출했다.",
+      "strategic_implications": "희토류 의존도가 높은 모터, 압축기 등 핵심 부품 공급 리스크가 심각한 수준이다. 중국 외 공급선 다변화와 대체 재료 기술 개발이 시급하며, 재고 확보와 장기 계약 체결을 통한 공급 안정성 확보가 필요하다. 인도, 베트남 등 대체 생산기지 구축과 순환경제 기반 리사이클링 체계 강화가 중장기 대응 방안이다.",
+      "tags": [
+        "risk"
+      ]
+    }
+  ]
 }
