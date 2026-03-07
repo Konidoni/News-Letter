@@ -3,7 +3,7 @@ name: Daily Samsung DA Briefing
 on:
   schedule:
     - cron: '0 7 * * *'   # 매일 16:00 KST (UTC 07:00)
-  workflow_dispatch:       # 수동 실행
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
@@ -21,7 +21,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests anthropic
+        run: pip install anthropic
 
       - name: Fetch news & analyze with Claude
         env:
@@ -37,5 +37,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
           publish_branch: gh-pages
-          keep_files: true          # 이전 data/ 파일 유지 (아카이브 누적)
+          keep_files: true
           exclude_assets: '.github,fetch_news.py,build_dashboard.py,README.md'
