@@ -233,7 +233,11 @@ mark{{background:rgba(74,172,255,.25);color:var(--samsung-sky);border-radius:2px
   <div class="section animate-in d3">
     <div class="section-label" id="feedLabel">Intelligence Feed — 24H Window</div>
     <div class="news-grid" id="newsGrid"></div>
-    <div class="empty-state" id="emptyState">기사가 없습니다.</div>
+    <div class="empty-state" id="emptyState">
+      <div style="font-size:32px;margin-bottom:12px;">📭</div>
+      <div id="emptyTitle" style="font-size:15px;font-weight:700;color:var(--text-secondary);margin-bottom:8px;">오늘은 관련 뉴스가 없습니다</div>
+      <div id="emptyDesc" style="font-size:13px;color:var(--text-muted);line-height:1.7;">가전 업계 주요 뉴스가 발생하면 다음 수집 시 자동으로 업데이트됩니다.<br>매일 오후 4시 KST 자동 수집됩니다.</div>
+    </div>
   </div>
 </main>
 
@@ -379,9 +383,18 @@ function render() {{
   document.getElementById('feedLabel').textContent =
     `Intelligence Feed — ${{d.date_display || curDate}}`;
 
+  const allArticles = d.articles || [];
   if (!filtered.length) {{
     document.getElementById('newsGrid').innerHTML = '';
     empty.classList.add('visible');
+    // 필터 vs 진짜 없음 구분
+    if (allArticles.length === 0) {{
+      document.getElementById('emptyTitle').textContent = '해당 날짜에 수집된 뉴스가 없습니다';
+      document.getElementById('emptyDesc').textContent = '가전 업계 주요 뉴스가 없었거나 수집에 실패했습니다. 다음 수집 시 자동으로 업데이트됩니다.';
+    }} else {{
+      document.getElementById('emptyTitle').textContent = '검색 결과가 없습니다';
+      document.getElementById('emptyDesc').textContent = '다른 키워드나 카테고리로 시도해보세요.';
+    }}
     return;
   }}
   empty.classList.remove('visible');
