@@ -1,20 +1,18 @@
 """
-Samsung DA Strategy Briefing — News Fetcher v2
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-뉴스 수집: DuckDuckGo Search (완전 무료, API 키 없음, 토큰 없음)
+Samsung DA Strategy Briefing — News Fetcher v3
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+뉴스 수집: Google News RSS (무료, 외부 패키지 없음, requests만 사용)
 AI 사용:  Claude haiku — Takeaways 3개 생성 1회만 (하루 $0.001 미만)
 
-구조:
-  1. DDGS로 20개 쿼리 전수 수집 (24h 필터)
-  2. 중복 제거 + 영어 소스 필터
-  3. Claude haiku 1회 → Top 3 Takeaways
-  4. data/YYYY-MM-DD.json 저장
+의존성: anthropic, requests (둘 다 기본 pip 설치 가능)
 """
 
-import os, json, time, re
+import os, json, time, re, html
+import requests
 import anthropic
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
-from duckduckgo_search import DDGS
+from email.utils import parsedate_to_datetime
 
 ANTHROPIC_KEY = os.environ["ANTHROPIC_API_KEY"]
 DATA_DIR      = "data"
@@ -22,149 +20,134 @@ DATA_DIR      = "data"
 KST       = timezone(timedelta(hours=9))
 NOW       = datetime.now(KST)
 TODAY_STR = NOW.strftime("%Y-%m-%d")
+SINCE     = NOW - timedelta(hours=24)
 
-# ── 영어 전용 소스 필터 ──────────────────────────────────────────────────────
 BLOCKED_DOMAINS = (
     ".co.kr", "naver.", "daum.", "chosun.", "joongang.", "yonhap",
     "koreatimes", "koreaherald", ".cn", ".jp", "sina.", "qq.com",
 )
 
-EN_PREFERRED = (
-    "cnet", "theverge", "engadget", "techcrunch", "techradar",
-    "digitaltrends", "pcmag", "zdnet", "wirecutter", "rtings",
-    "reuters", "bloomberg", "wsj", "apnews", "forbes", "businessinsider",
-    "tomsguide", "9to5mac", "androidcentral", "slashgear",
-)
-
-# ── 쿼리 목록 (카테고리별) ────────────────────────────────────────────────────
 QUERIES = [
-    # Samsung Bespoke
     {"category": "Samsung Bespoke",     "q": "samsung bespoke"},
-    {"category": "Samsung Bespoke",     "q": "samsung bespoke refrigerator washer dishwasher"},
-    {"category": "Samsung Bespoke",     "q": "samsung bespoke AI launch release 2025"},
-    {"category": "Samsung Bespoke",     "q": "samsung bespoke review"},
-    # Samsung DA (general)
-    {"category": "Samsung DA",          "q": "samsung home appliance news"},
-    {"category": "Samsung DA",          "q": "samsung electronics home appliance 2025"},
-    # Samsung Jet Bot
+    {"category": "Samsung Bespoke",     "q": "samsung bespoke refrigerator washer"},
+    {"category": "Samsung Bespoke",     "q": "samsung bespoke review 2025"},
+    {"category": "Samsung DA",          "q": "samsung home appliance"},
+    {"category": "Samsung DA",          "q": "samsung electronics appliance 2025"},
     {"category": "Samsung Jet Bot",     "q": "samsung jet bot"},
-    {"category": "Samsung Jet Bot",     "q": "samsung jet bot robot vacuum review"},
-    {"category": "Samsung Jet Bot",     "q": "samsung robot vacuum 2025"},
-    # Technology Trend
+    {"category": "Samsung Jet Bot",     "q": "samsung jet bot robot vacuum"},
     {"category": "Technology Trend",    "q": "smart home appliance news"},
-    {"category": "Technology Trend",    "q": "AI home appliance connected home 2025"},
+    {"category": "Technology Trend",    "q": "AI home appliance 2025"},
     {"category": "Technology Trend",    "q": "smart appliance IoT matter"},
-    # Market Dynamics
-    {"category": "Market Dynamics",     "q": "home appliance market trend 2025"},
+    {"category": "Market Dynamics",     "q": "home appliance market 2025"},
     {"category": "Market Dynamics",     "q": "kitchen appliance news"},
-    {"category": "Market Dynamics",     "q": "home appliance industry report"},
-    # Competitor Analysis
-    {"category": "Competitor Analysis", "q": "LG electronics home appliance news"},
-    {"category": "Competitor Analysis", "q": "whirlpool appliance news 2025"},
-    {"category": "Competitor Analysis", "q": "haier appliance news 2025"},
-    {"category": "Competitor Analysis", "q": "bosch electrolux appliance news"},
+    {"category": "Market Dynamics",     "q": "home appliance industry trend"},
+    {"category": "Competitor Analysis", "q": "LG electronics appliance news"},
+    {"category": "Competitor Analysis", "q": "whirlpool appliance 2025"},
+    {"category": "Competitor Analysis", "q": "haier appliance news"},
+    {"category": "Competitor Analysis", "q": "bosch electrolux appliance"},
     {"category": "Competitor Analysis", "q": "dyson roomba robot vacuum news"},
 ]
 
-# ── 자동 태그 + 임팩트 룰 (AI 없이) ─────────────────────────────────────────
-RISK_KEYWORDS = ["recall", "lawsuit", "fine", "ban", "drop", "decline", "cut", "loss", "concern", "fail"]
-OPP_KEYWORDS  = ["launch", "new", "release", "award", "win", "growth", "rise", "record", "expand", "partner"]
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; SamsungDABot/1.0)"}
 
-def auto_tags(title: str, category: str) -> list:
-    t = title.lower()
-    tags = []
-    if any(k in t for k in RISK_KEYWORDS):
-        tags.append("risk")
-    if any(k in t for k in OPP_KEYWORDS):
-        tags.append("opp")
-    if category == "Competitor Analysis":
-        tags.append("watch")
-    return tags or ["watch"]
 
-def auto_impact(title: str, category: str) -> int:
-    t = title.lower()
-    if any(k in t for k in ["recall", "lawsuit", "ban", "major", "record", "billion"]):
-        return 5
-    if any(k in t for k in ["launch", "release", "new", "award", "expand"]):
-        return 4
-    if category in ("Samsung Bespoke", "Samsung Jet Bot", "Samsung DA"):
-        return 4
-    return 3
-
-def format_time(date_str: str) -> str:
-    """DDGS date string → 'Xh ago' / '1d ago' / 'MMM DD' """
-    if not date_str:
-        return "Today"
+def fetch_rss(query: str, category: str) -> list:
+    q_enc = requests.utils.quote(query)
+    url   = f"https://news.google.com/rss/search?q={q_enc}&hl=en-US&gl=US&ceid=US:en"
     try:
-        # DDGS returns strings like "2025-03-09T12:34:00+00:00" or "3 hours ago"
-        if "ago" in date_str:
-            return date_str
-        dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
-        dt_kst = dt.astimezone(KST)
-        diff = NOW - dt_kst
-        hours = int(diff.total_seconds() / 3600)
-        if hours < 24:
-            return f"{hours}h ago" if hours > 0 else "Just now"
-        elif hours < 48:
-            return "1d ago"
-        else:
-            return dt_kst.strftime("%b %d")
-    except Exception:
-        return date_str[:10] if len(date_str) >= 10 else "Today"
+        resp = requests.get(url, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"    RSS error: {e}")
+        return []
 
-
-# ── 뉴스 수집 (DDGS) ─────────────────────────────────────────────────────────
-def fetch_all() -> list:
     articles = []
-    ddgs = DDGS()
+    try:
+        root = ET.fromstring(resp.content)
+    except ET.ParseError as e:
+        print(f"    XML error: {e}")
+        return []
 
-    for i, item in enumerate(QUERIES):
-        cat = item["category"]
-        q   = item["q"]
-        print(f"  [{i+1:02d}/{len(QUERIES)}] {cat} | {q}")
-        try:
-            results = ddgs.news(
-                keywords  = q,
-                region    = "us-en",
-                safesearch= "off",
-                timelimit = "d",       # past 24 hours
-                max_results = 20,
-            )
-            count = 0
-            for r in results:
-                url = r.get("url", "")
-                # 한국어/비영어 도메인 필터
-                if any(bd in url.lower() for bd in BLOCKED_DOMAINS):
+    for item in root.findall(".//item"):
+        title_el   = item.find("title")
+        link_el    = item.find("link")
+        pubdate_el = item.find("pubDate")
+        source_el  = item.find("source")
+        desc_el    = item.find("description")
+
+        title   = html.unescape(title_el.text or "")  if title_el   is not None else ""
+        link    = link_el.text                         if link_el    is not None else ""
+        pubdate = pubdate_el.text                      if pubdate_el is not None else ""
+        source  = source_el.text                       if source_el  is not None else ""
+        desc    = html.unescape(desc_el.text or "")   if desc_el    is not None else ""
+
+        if any(bd in link.lower() for bd in BLOCKED_DOMAINS):
+            continue
+
+        time_str = "Today"
+        if pubdate:
+            try:
+                pub_dt   = parsedate_to_datetime(pubdate).astimezone(KST)
+                if pub_dt < SINCE:
                     continue
-                articles.append({
-                    "category":              cat,
-                    "title":                 r.get("title", ""),
-                    "media":                 r.get("source", ""),
-                    "url":                   url,
-                    "published_raw":         r.get("date", ""),
-                    "time":                  format_time(r.get("date", "")),
-                    "summary_kr":            r.get("body", ""),   # 영어 snippet (대시보드에 표시)
-                    "strategic_implications":"",                   # Takeaways에서 커버
-                    "impact":                auto_impact(r.get("title",""), cat),
-                    "tags":                  auto_tags(r.get("title",""), cat),
-                })
-                count += 1
-            print(f"         → {count}개")
-        except Exception as e:
-            print(f"         ⚠ {e}")
+                time_str = format_time(pub_dt)
+            except Exception:
+                pass
 
-        time.sleep(1.5)   # DDGS rate limit 방지
+        real_url = link
+        match = re.search(r'url=([^&]+)', link)
+        if match:
+            real_url = requests.utils.unquote(match.group(1))
+
+        articles.append({
+            "category":              category,
+            "title":                 title,
+            "media":                 source,
+            "url":                   real_url,
+            "time":                  time_str,
+            "summary_kr":            re.sub(r'<[^>]+>', '', desc)[:300],
+            "strategic_implications":"",
+            "impact":                auto_impact(title, category),
+            "tags":                  auto_tags(title, category),
+        })
 
     return articles
 
 
-# ── 중복 제거 ─────────────────────────────────────────────────────────────────
+def format_time(dt: datetime) -> str:
+    diff  = NOW - dt
+    hours = int(diff.total_seconds() / 3600)
+    if hours < 1:   return "Just now"
+    elif hours < 24: return f"{hours}h ago"
+    elif hours < 48: return "1d ago"
+    else:            return dt.strftime("%b %d")
+
+
+RISK_KEYWORDS = ["recall","lawsuit","fine","ban","drop","decline","cut","loss","concern","fail"]
+OPP_KEYWORDS  = ["launch","new","release","award","win","growth","rise","record","expand","partner","unveil"]
+
+def auto_tags(title: str, category: str) -> list:
+    t = title.lower()
+    tags = []
+    if any(k in t for k in RISK_KEYWORDS): tags.append("risk")
+    if any(k in t for k in OPP_KEYWORDS):  tags.append("opp")
+    if category == "Competitor Analysis":   tags.append("watch")
+    return tags or ["watch"]
+
+def auto_impact(title: str, category: str) -> int:
+    t = title.lower()
+    if any(k in t for k in ["recall","lawsuit","ban","billion","record"]): return 5
+    if any(k in t for k in ["launch","release","new","award","expand"]):   return 4
+    if category in ("Samsung Bespoke","Samsung Jet Bot","Samsung DA"):     return 4
+    return 3
+
+
 def deduplicate(articles: list) -> list:
     seen_urls, seen_titles, unique = set(), set(), []
     for a in articles:
         url   = re.sub(r'\?.*$', '', a.get("url","")).rstrip("/").lower()
         title = re.sub(r'[^a-z0-9]', '', a.get("title","").lower())[:50]
-        if url in seen_urls or title in seen_titles:
+        if url in seen_urls or (title and title in seen_titles):
             continue
         if url:   seen_urls.add(url)
         if title: seen_titles.add(title)
@@ -172,15 +155,13 @@ def deduplicate(articles: list) -> list:
     return unique
 
 
-# ── Takeaways (Claude haiku 1회) ──────────────────────────────────────────────
 def generate_takeaways(articles: list) -> list:
-    # 제목만 전달 → 토큰 최소화
     titles_text = "\n".join(
         f"[{a['category']}] {a['title']}" for a in articles[:60]
     )
     client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
     resp = client.messages.create(
-        model      = "claude-haiku-4-5-20251001",   # 최저가 모델
+        model      = "claude-haiku-4-5-20251001",
         max_tokens = 800,
         system     = "삼성전자 DA 임원 전략 브리핑 전문가. JSON 배열만 반환. 마크다운 금지.",
         messages   = [{"role": "user", "content": f"""오늘({TODAY_STR}) 뉴스 제목 기반으로 삼성전자 DA 임원을 위한 Top 3 전략 통찰을 작성하세요.
@@ -198,7 +179,6 @@ JSON만. 다른 텍스트 없이."""}],
     return json.loads(raw)
 
 
-# ── 저장 ──────────────────────────────────────────────────────────────────────
 def save_data(articles: list, takeaways: list):
     os.makedirs(DATA_DIR, exist_ok=True)
     cat_counts = {}
@@ -240,21 +220,24 @@ def save_data(articles: list, takeaways: list):
     print(f"   manifest: {len(dates)}일치 아카이브")
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
 def main():
     print(f"\n{'='*60}")
     print(f" Samsung DA Briefing  |  {NOW.strftime('%Y-%m-%d %H:%M KST')}")
-    print(f" 수집: DuckDuckGo (무료)  |  분석: Claude haiku (1회)")
+    print(f" 수집: Google News RSS (무료, 외부 패키지 없음)")
+    print(f" 범위: 최근 24시간 | 분석: Claude haiku 1회")
     print(f"{'='*60}\n")
 
-    # 1. 뉴스 수집
     print("[1/3] 뉴스 수집 중...")
-    raw = fetch_all()
-    print(f"  수집 원본: {len(raw)}개")
+    raw = []
+    for i, item in enumerate(QUERIES):
+        print(f"  [{i+1:02d}/{len(QUERIES)}] {item['category']} | {item['q']}")
+        articles = fetch_rss(item["q"], item["category"])
+        print(f"         → {len(articles)}개")
+        raw.extend(articles)
+        time.sleep(1)
 
-    # 2. 중복 제거
     articles = deduplicate(raw)
-    print(f"  중복 제거 후: {len(articles)}개\n")
+    print(f"\n  원본 {len(raw)}개 → 중복 제거 후 {len(articles)}개\n")
 
     if not articles:
         print("[WARN] 수집된 기사 없음")
@@ -265,11 +248,10 @@ def main():
         ])
         return
 
-    # 3. Takeaways (haiku 1회)
     print("[2/3] Takeaways 생성 중 (Claude haiku)...")
     try:
         takeaways = generate_takeaways(articles)
-        print("  ✅ Takeaways 생성 완료")
+        print("  ✅ 완료")
     except Exception as e:
         print(f"  [WARN] {e}")
         takeaways = [
@@ -278,12 +260,10 @@ def main():
             {"trend_label": "—", "title": "—", "desc": "—"},
         ]
 
-    # 4. 저장
     print("[3/3] 저장 중...")
     save_data(articles, takeaways)
 
-    # 카테고리별 요약 출력
-    print("\n📊 카테고리별 수집 결과:")
+    print("\n📊 카테고리별:")
     cat_counts = {}
     for a in articles:
         k = a.get("category","?")
