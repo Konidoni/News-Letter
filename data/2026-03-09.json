@@ -1,11 +1,11 @@
 {
   "date": "2026-03-09",
   "date_display": "2026년 03월 09일",
-  "generated_at": "2026-03-09T09:39:58.054617+09:00",
-  "generated_at_display": "2026.03.09 09:39 KST",
+  "generated_at": "2026-03-09T15:13:29.171263+09:00",
+  "generated_at_display": "2026.03.09 15:13 KST",
   "category_counts": {
-    "Samsung DA": 2,
-    "Technology Trend": 2,
+    "Samsung Bespoke 신제품": 1,
+    "Technology Trend": 1,
     "Market Dynamics": 2
   },
   "takeaways": [
@@ -27,28 +27,14 @@
   ],
   "articles": [
     {
-      "category": "Samsung DA",
-      "title": "삼성 2026 비스포크 에어드레서 런칭",
-      "media": "Seoul Economic Daily (한국)",
+      "category": "Samsung Bespoke 신제품",
+      "title": "삼성 2026 비스포크 AI 에어드레서 출시",
+      "media": "서울경제 (한국)",
       "impact": 4,
-      "time": "1주 전",
+      "time": "03월 02일",
       "url": "https://en.sedaily.com/finance/2026/03/02/samsung-unveils-2026-bespoke-air-dresser-with-enhanced",
-      "summary_kr": "삼성전자가 3월 3일 2026년형 비스포크 AI 에어드레서를 출시한다고 발표. 강화된 주름 제거 기능과 에너지 절약 효과가 핵심 특징으로, 99.9% 바이러스 및 세균 제거 성능 보유",
-      "strategic_implications": "의류 관리 시장에서 AI 기능 강화로 프리미엄 포지셔닝 확고히. 트레이드인 프로모션(20만원 포인트)으로 기존 고객 업그레이드 유도 전략 필요",
-      "tags": [
-        "opp",
-        "watch"
-      ]
-    },
-    {
-      "category": "Samsung DA",
-      "title": "비스포크 AI 냉장고 음식인식 수천개 확대",
-      "media": "Reviewed (미국)",
-      "impact": 4,
-      "time": "8시간 전",
-      "url": "https://www.reviewed.com/refrigerators/features/every-appliance-samsung-announced-ces-2026",
-      "summary_kr": "CES 2026에서 비스포크 AI 냉장고의 AI Vision 기능이 37종에서 수천 종으로 확장. 자동 식품 인식 후 메뉴 추천 및 오븐 자동 설정까지 연동 가능",
-      "strategic_implications": "AI 기반 음식 관리 생태계 구축으로 경쟁업체 대비 차별화. 냉장고-오븐 연동으로 스마트홈 플랫폼 확장 가속화 필요",
+      "summary_kr": "삼성전자가 2026년 3월 3일 강력한 주름 제거 기능을 추가한 새로운 '비스포크 AI 에어드레서'를 출시한다고 발표. 가격은 205만원~250만원대로 4가지 컬러로 제공되며, 9벌까지 한번에 관리 가능한 대용량 모델.",
+      "strategic_implications": "삼성 DA의 프리미엄 가격 전략 유지로 수익성 개선 기회. 그러나 중국 하이얼 등 경쟁사와 차별화를 위해 AI 기능 강화 및 에너지 효율성 개선 필요. 소비자 피드백 적극 반영을 통한 제품 개선 전략 지속해야.",
       "tags": [
         "opp",
         "watch"
@@ -56,13 +42,13 @@
     },
     {
       "category": "Technology Trend",
-      "title": "스마트홈 가전시장 3,114억달러 전망",
-      "media": "Mordor Intelligence (글로벌)",
+      "title": "스마트홈 시장 Matter 표준 확산 가속화",
+      "media": "Silicon Labs (미국)",
       "impact": 5,
-      "time": "3일 전",
-      "url": "https://www.mordorintelligence.com/industry-reports/smart-home-appliances-market",
-      "summary_kr": "2026년 1,921억달러에서 2031년 3,114억달러로 연평균 10.14% 성장 전망. 스마트 세탁기·건조기가 24.12% 최대 점유율, 북미 32.41% 지역별 1위",
-      "strategic_implications": "세탁기·건조기 스마트화가 최대 기회 영역. Thread 프로토콜 12.94% 성장으로 Matter 인증 확산 대비 필요. AI 기반 에너지 관리가 차별화 포인트",
+      "time": "03월 07일",
+      "url": "https://www.silabs.com/blog/matter-the-future-of-smart-home-appliances",
+      "summary_kr": "Matter 1.3 표준이 마이크로파, 오븐, 쿡탑, 후드, 건조기 지원 확대. 2035년까지 백색가전의 60-80%가 무선 연결 기능 탑재 전망. 2024-2029년 고성능 무선(Wi-Fi+블루투스) 시장 연평균 17% 성장.",
+      "strategic_implications": "삼성은 Matter 표준 적용을 가속화하여 글로벌 상호 호환성 확보 필수. SmartThings 생태계와 Matter 통합으로 경쟁 우위 강화 가능. 단, 중국 업체들의 가격 경쟁력에 대응하기 위해 AI 기능과 에너지 효율성으로 차별화 전략 수립 필요.",
       "tags": [
         "opp",
         "watch"
@@ -70,13 +56,13 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "하이얼 프리미엄 전환으로 성장세",
-      "media": "MarketScreener (글로벌)",
-      "impact": 3,
-      "time": "1주 전",
+      "title": "하이얼 스마트홈 프리미엄 전환 전략",
+      "media": "MarketScreener (미국)",
+      "impact": 4,
+      "time": "03월 02일",
       "url": "https://www.marketscreener.com/news/haier-smart-home-pivots-to-premium-ce7e5cdcdf80f121",
-      "summary_kr": "2025년 글로벌 가전시장 부진 속에서 하이얼이 프리미엄 전환으로 성장. 카사르테 럭셔리 브랜드가 매출의 36% 차지하며 4,268억위안 달성 (+6.3%)",
-      "strategic_implications": "중국 업체도 프리미엄 시장 공략 강화로 경쟁 심화. 삼성 비스포크 브랜드의 럭셔리 포지셔닝과 제품 차별화 전략 재점검 필요",
+      "summary_kr": "하이얼 2025년 9개월 매출 2,340억 위안(9.98% 증가), 3분기 순이익 12.69% 급증. 중국에서 카사르테 럭셔리 브랜드로 프리미엄 패키지 매출 비중 36% 달성. HVAC 부문 30% 이상 성장.",
+      "strategic_implications": "중국 최대 가전업체 하이얼의 프리미엄 전환은 삼성에게 직접적 위협. 하이얼의 가격 경쟁력과 프리미엄화 동시 추진에 대응하여 삼성은 Bespoke 라인의 차별화된 AI 기능과 디자인 혁신으로 프리미엄 포지셔닝 강화 필요.",
       "tags": [
         "risk",
         "watch"
@@ -84,29 +70,15 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "2026년 北美 가전시장 완만한 회복세",
-      "media": "NIQ (미국)",
+      "title": "2026년 가전시장 가격 하락 압력 지속",
+      "media": "OpenBrand (미국)",
       "impact": 3,
-      "time": "3일 전",
-      "url": "https://nielseniq.com/global/en/insights/report/2025/home-appliances-outlook-2026-north-america/",
-      "summary_kr": "2025년 부진 후 2026년 북미 대형·소형 가전 완만한 성장 전망. 교체 수요, 금리 인하, 환율 효과가 성장 동력. 친환경 세액공제 만료는 부정적 요인",
-      "strategic_implications": "북미 시장 회복 초기 단계에서 프리미엄 제품 포트폴리오 확대 기회. 소형 가전의 온라인 채널 강세로 디지털 마케팅 투자 확대 필요",
+      "time": "03월 06일",
+      "url": "https://openbrand.com/newsroom/blog/2026-price-forecasts-for-durables",
+      "summary_kr": "2026년 가전제품 판매량은 증가하지만 가격은 하락 또는 완만한 성장 전망. 소비자들이 업그레이드를 지연하고 기능을 다운그레이드하는 트렌드. 주택 시장 회복은 2분기부터 예상되어 DIY 관련 카테고리 수요 증가.",
+      "strategic_implications": "글로벌 가격 하락 압력 속에서 삼성은 가격 규율과 명확한 가치 포지셔닝 전략 필수. 프리미엄 기능 차별화보다는 실용적 가치 제안으로 소비자 선택을 유도해야. 주택 시장 회복 시점에 맞춰 신제품 출시 타이밍 조정 필요.",
       "tags": [
-        "opp",
-        "watch"
-      ]
-    },
-    {
-      "category": "Technology Trend",
-      "title": "2026년 스마트홈 15대 핵심기술 발표",
-      "media": "ITP.net (글로벌)",
-      "impact": 4,
-      "time": "5일 전",
-      "url": "https://www.itp.net/digital-culture/smart-living/15-smart-home-technologies-that-will-define-connected-living-in-2026",
-      "summary_kr": "Matter 표준 확산, Thread 메시 네트워킹, AI 기반 자동화가 2026년 스마트홈 핵심. Wi-Fi 7과 EV 충전 연동으로 통합 에너지 관리 가능",
-      "strategic_implications": "Matter/Thread 표준 대응과 AI 음성인식 강화 필수. EV 충전-가전 연동 에너지 관리 솔루션으로 신시장 창출 기회",
-      "tags": [
-        "opp",
+        "risk",
         "watch"
       ]
     }
