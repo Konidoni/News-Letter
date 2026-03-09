@@ -1,42 +1,99 @@
-# Samsung DA — Global Appliance Strategy Briefing
-**매일 오후 3시 KST 자동 업데이트되는 임원용 전략 대시보드**
+# Samsung DA Executive Briefing
 
-## 뉴스 수집 범위 (7개 카테고리)
-| 카테고리 | 커버리지 |
+삼성전자 DA(가전) 부문 임원을 위한 자동화 뉴스 브리핑 대시보드.
+
+🔗 **Live:** https://konidoni.github.io/News-Letter/
+
+---
+
+## 개요
+
+매일 자동으로 최근 24시간 내 영문 보도자료를 수집하고, 경쟁사 동향과 시장 트렌드를 분석해 대시보드로 배포합니다.
+
+- **수집:** DuckDuckGo Search (무료, 토큰 없음)
+- **분석:** Claude haiku (Takeaways 생성 1회만)
+- **배포:** GitHub Actions → GitHub Pages
+
+---
+
+## 모니터링 키워드
+
+| 카테고리 | 주요 키워드 |
 |---|---|
-| 🔵 삼성 가전 (Samsung DA) | Samsung Bespoke, SmartThings, DA 실적·전략 |
-| 🔴 경쟁사 동향 | LG, Haier, Whirlpool, Bosch, Electrolux |
-| 🟠 제품 리뷰·순위 | Best refrigerator/washer/AC 2025, Editor's Choice |
-| 🔵 기술 트렌드 | AI appliance, Matter 3.0, LFP 배터리, 에너지 규제 |
-| 🟡 매크로·정책 | 미국 관세, 무역 정책, IRA 인센티브 |
-| 🟢 시장 동향 | 글로벌/인도/동남아 가전 시장 성장 |
-| 🟣 공급망 | 희토류, 반도체, 생산기지 이전 |
+| Samsung Bespoke | samsung bespoke, refrigerator, washer, AI launch |
+| Samsung DA | samsung home appliance, samsung electronics |
+| Samsung Jet Bot | samsung jet bot, robot vacuum |
+| Technology Trend | smart home appliance, AI appliance, IoT, Matter |
+| Market Dynamics | home appliance market, kitchen appliance, industry trend |
+| Competitor Analysis | LG, Whirlpool, Haier, Bosch, Electrolux, Dyson, Roomba |
 
-## 🚀 설치 (10분)
+수집 대상: CNET, The Verge, Engadget, TechCrunch, Reuters, Bloomberg, WSJ, PCMag, TechRadar, Wirecutter, rtings.com 등 영문 매체
 
-### 1. API 키 발급
-- NewsAPI: https://newsapi.org/register (무료)
-- Anthropic: https://console.anthropic.com
+---
 
-### 2. GitHub 저장소 생성
-https://github.com/new → `samsung-da-briefing` (Private) → 파일 전체 업로드
+## 파일 구조
 
-### 3. Secret 키 등록
-Settings → Secrets and variables → Actions → New repository secret
-- `NEWS_API_KEY`
-- `ANTHROPIC_API_KEY`
+```
+├── fetch_news.py          # 뉴스 수집 + Takeaways 생성
+├── build_dashboard.py     # HTML 대시보드 빌드
+├── daily_workflow.yml     # GitHub Actions 워크플로우
+├── data/
+│   ├── manifest.json      # 날짜 아카이브 목록 (최대 30일)
+│   └── YYYY-MM-DD.json    # 일별 수집 결과
+└── index.html             # 빌드된 대시보드 (자동 생성)
+```
 
-### 4. GitHub Pages 활성화
-Settings → Pages → Branch: gh-pages / root → Save
+---
 
-### 5. 첫 실행
-Actions → Daily Samsung DA Briefing → Run workflow
-→ 약 3분 후 https://[username].github.io/samsung-da-briefing/ 에서 확인
+## 실행 흐름
 
-## ⏰ 스케줄
-매일 14:00 KST 자동 수집·분석 → 15:00 브리핑 준비 완료
+```
+DuckDuckGo (20쿼리 × 최대 20건)
+    ↓
+중복 제거 (URL + 제목 해시)
+    ↓
+Claude haiku 1회 → Top 3 Takeaways
+    ↓
+data/YYYY-MM-DD.json 저장
+    ↓
+build_dashboard.py → index.html
+    ↓
+GitHub Pages 배포
+```
 
-## 💰 예상 비용
-- NewsAPI 무료 플랜: $0
-- Claude API Sonnet: ~$45~90/월
-- Haiku 모델로 교체 시: ~$10/월
+---
+
+## 설치 및 로컬 실행
+
+```bash
+pip install anthropic duckduckgo-search
+
+export ANTHROPIC_API_KEY=sk-ant-...
+
+python fetch_news.py
+python build_dashboard.py
+```
+
+---
+
+## 자동 실행 (GitHub Actions)
+
+`daily_workflow.yml`을 `.github/workflows/`에 위치시키면 매일 **16:00 KST** 자동 실행됩니다.
+
+수동 실행: GitHub repo → Actions 탭 → `Daily Samsung DA Briefing` → **Run workflow**
+
+**필요한 Secret:**
+- `ANTHROPIC_API_KEY` → GitHub repo Settings → Secrets → Actions
+
+---
+
+## 비용
+
+| 항목 | 비용 |
+|---|---|
+| DuckDuckGo 검색 | 무료 |
+| Claude haiku (Takeaways 1회) | ~$0.001/일 |
+| GitHub Actions | 무료 (public repo) |
+| GitHub Pages | 무료 |
+
+**월 예상 비용: $0.03 미만**
