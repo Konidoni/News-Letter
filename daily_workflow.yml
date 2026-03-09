@@ -21,7 +21,9 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install anthropic duckduckgo-search
+        run: |
+          pip install anthropic
+          pip install "duckduckgo-search==6.3.7"
 
       - name: Fetch news & analyze with Claude
         env:
