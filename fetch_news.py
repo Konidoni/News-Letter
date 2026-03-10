@@ -155,6 +155,52 @@ def deduplicate(articles: list) -> list:
     return unique
 
 
+def translate_articles(articles: list) -> list:
+    """Claude haiku로 제목+요약 일괄 번역 (1회 호출)"""
+    if not articles:
+        return articles
+
+    # 번역할 텍스트 목록 구성
+    items = [
+        {"i": i, "title": a.get("title",""), "summary": a.get("summary_kr","")}
+        for i, a in enumerate(articles)
+    ]
+    payload = json.dumps(items, ensure_ascii=False)
+
+    client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
+    try:
+        resp = client.messages.create(
+            model      = "claude-haiku-4-5-20251001",
+            max_tokens = 4000,
+            system     = "번역 전문가. JSON 배열만 반환. 마크다운 금지.",
+            messages   = [{"role": "user", "content": f"""아래 뉴스 기사 목록의 title과 summary를 자연스러운 한국어로 번역하세요.
+summary가 비어있으면 title 기반으로 1~2문장 요약을 작성하세요.
+
+입력:
+{payload}
+
+출력 (JSON 배열만, 인덱스 i 유지):
+[{{"i": 0, "title_kr": "한국어 제목", "summary_kr": "한국어 요약"}}]
+JSON만. 다른 텍스트 없이."""}],
+        )
+        raw = resp.content[0].text.strip()
+        if raw.startswith("```"):
+            raw = raw.split("```")[1].lstrip("json").strip()
+        translated = json.loads(raw)
+
+        # 번역 결과 적용
+        tr_map = {t["i"]: t for t in translated}
+        for i, a in enumerate(articles):
+            if i in tr_map:
+                a["title"]      = tr_map[i].get("title_kr", a["title"])
+                a["summary_kr"] = tr_map[i].get("summary_kr", a["summary_kr"])
+        print(f"  ✅ 번역 완료 ({len(translated)}건)")
+    except Exception as e:
+        print(f"  [WARN] 번역 실패, 영어 유지: {e}")
+
+    return articles
+
+
 def generate_takeaways(articles: list) -> list:
     titles_text = "\n".join(
         f"[{a['category']}] {a['title']}" for a in articles[:60]
@@ -248,7 +294,11 @@ def main():
         ])
         return
 
-    print("[2/3] Takeaways 생성 중 (Claude haiku)...")
+    # 번역 (제목 + 요약 → 한국어)
+    print("[2/4] 한국어 번역 중 (Claude haiku)...")
+    articles = translate_articles(articles)
+
+    print("[3/4] Takeaways 생성 중 (Claude haiku)...")
     try:
         takeaways = generate_takeaways(articles)
         print("  ✅ 완료")
@@ -260,7 +310,7 @@ def main():
             {"trend_label": "—", "title": "—", "desc": "—"},
         ]
 
-    print("[3/3] 저장 중...")
+    print("[4/4] 저장 중...")
     save_data(articles, takeaways)
 
     print("\n📊 카테고리별:")
