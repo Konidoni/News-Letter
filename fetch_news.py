@@ -1,10 +1,10 @@
 """
-Samsung DA Strategy Briefing — News Fetcher v3
+Samsung DA Strategy Briefing — News Fetcher v4
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-뉴스 수집: Google News RSS (무료, 외부 패키지 없음, requests만 사용)
-AI 사용:  Claude haiku — Takeaways 3개 생성 1회만 (하루 $0.001 미만)
+뉴스 수집: Google News RSS + Bing News RSS (무료, requests만 사용)
+AI 사용:  Claude haiku 2회 — 번역 1회 + Takeaways 1회
 
-의존성: anthropic, requests (둘 다 기본 pip 설치 가능)
+의존성: anthropic, requests
 """
 
 import os, json, time, re, html
@@ -51,21 +51,12 @@ QUERIES = [
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; SamsungDABot/1.0)"}
 
 
-def fetch_rss(query: str, category: str) -> list:
-    q_enc = requests.utils.quote(query)
-    url   = f"https://news.google.com/rss/search?q={q_enc}&hl=en-US&gl=US&ceid=US:en"
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.raise_for_status()
-    except Exception as e:
-        print(f"    RSS error: {e}")
-        return []
-
+# ── RSS 파싱 공통 ─────────────────────────────────────────────────────────────
+def parse_rss_items(content: bytes, category: str, source_tag: str) -> list:
     articles = []
     try:
-        root = ET.fromstring(resp.content)
-    except ET.ParseError as e:
-        print(f"    XML error: {e}")
+        root = ET.fromstring(content)
+    except ET.ParseError:
         return []
 
     for item in root.findall(".//item"):
@@ -78,40 +69,69 @@ def fetch_rss(query: str, category: str) -> list:
         title   = html.unescape(title_el.text or "")  if title_el   is not None else ""
         link    = link_el.text                         if link_el    is not None else ""
         pubdate = pubdate_el.text                      if pubdate_el is not None else ""
-        source  = source_el.text                       if source_el  is not None else ""
+        source  = (source_el.text if source_el is not None else "") or source_tag
         desc    = html.unescape(desc_el.text or "")   if desc_el    is not None else ""
 
+        if not title or not link:
+            continue
         if any(bd in link.lower() for bd in BLOCKED_DOMAINS):
             continue
 
         time_str = "Today"
         if pubdate:
             try:
-                pub_dt   = parsedate_to_datetime(pubdate).astimezone(KST)
+                pub_dt = parsedate_to_datetime(pubdate).astimezone(KST)
                 if pub_dt < SINCE:
                     continue
                 time_str = format_time(pub_dt)
             except Exception:
                 pass
 
+        # Google News redirect 처리
         real_url = link
         match = re.search(r'url=([^&]+)', link)
         if match:
             real_url = requests.utils.unquote(match.group(1))
 
         articles.append({
-            "category":              category,
-            "title":                 title,
-            "media":                 source,
-            "url":                   real_url,
-            "time":                  time_str,
-            "summary_kr":            re.sub(r'<[^>]+>', '', desc)[:300],
-            "strategic_implications":"",
-            "impact":                auto_impact(title, category),
-            "tags":                  auto_tags(title, category),
+            "category":               category,
+            "title":                  title,
+            "media":                  source,
+            "url":                    real_url,
+            "time":                   time_str,
+            "summary_kr":             re.sub(r'<[^>]+>', '', desc)[:300],
+            "strategic_implications": "",
+            "impact":                 auto_impact(title, category),
+            "tags":                   auto_tags(title, category),
         })
 
     return articles
+
+
+# ── Google News RSS ───────────────────────────────────────────────────────────
+def fetch_google(query: str, category: str) -> list:
+    q_enc = requests.utils.quote(query)
+    url   = f"https://news.google.com/rss/search?q={q_enc}&hl=en-US&gl=US&ceid=US:en"
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+        return parse_rss_items(resp.content, category, "")
+    except Exception as e:
+        print(f"    [Google] error: {e}")
+        return []
+
+
+# ── Bing News RSS ─────────────────────────────────────────────────────────────
+def fetch_bing(query: str, category: str) -> list:
+    q_enc = requests.utils.quote(query)
+    url   = f"https://www.bing.com/news/search?q={q_enc}&format=rss&mkt=en-US"
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+        return parse_rss_items(resp.content, category, "Bing News")
+    except Exception as e:
+        print(f"    [Bing] error: {e}")
+        return []
 
 
 def format_time(dt: datetime) -> str:
@@ -156,48 +176,40 @@ def deduplicate(articles: list) -> list:
 
 
 def translate_articles(articles: list) -> list:
-    """Claude haiku로 제목+요약 일괄 번역 (1회 호출)"""
+    """제목 + snippet → 한국어. 1회 호출로 전체 처리."""
     if not articles:
         return articles
 
-    # 번역할 텍스트 목록 구성
     items = [
-        {"i": i, "title": a.get("title",""), "summary": a.get("summary_kr","")}
+        {"i": i, "title": a.get("title", ""), "summary": a.get("summary_kr", "")}
         for i, a in enumerate(articles)
     ]
-    payload = json.dumps(items, ensure_ascii=False)
-
     client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
     try:
         resp = client.messages.create(
             model      = "claude-haiku-4-5-20251001",
             max_tokens = 4000,
-            system     = "번역 전문가. JSON 배열만 반환. 마크다운 금지.",
-            messages   = [{"role": "user", "content": f"""아래 뉴스 기사 목록의 title과 summary를 자연스러운 한국어로 번역하세요.
-summary가 비어있으면 title 기반으로 1~2문장 요약을 작성하세요.
+            system     = "번역 전문가. JSON 배열만 반환. 마크다운 코드블록 금지.",
+            messages   = [{"role": "user", "content": f"""뉴스 기사 제목과 요약을 한국어로 번역하세요.
+summary가 비어있으면 title 기반 2문장 요약 작성.
 
 입력:
-{payload}
+{json.dumps(items, ensure_ascii=False)}
 
-출력 (JSON 배열만, 인덱스 i 유지):
-[{{"i": 0, "title_kr": "한국어 제목", "summary_kr": "한국어 요약"}}]
-JSON만. 다른 텍스트 없이."""}],
+출력 (JSON 배열만):
+[{{"i":0,"title_kr":"한국어 제목","summary_kr":"한국어 요약"}}]"""}],
         )
         raw = resp.content[0].text.strip()
         if raw.startswith("```"):
             raw = raw.split("```")[1].lstrip("json").strip()
-        translated = json.loads(raw)
-
-        # 번역 결과 적용
-        tr_map = {t["i"]: t for t in translated}
+        tr_map = {r["i"]: r for r in json.loads(raw)}
         for i, a in enumerate(articles):
             if i in tr_map:
-                a["title"]      = tr_map[i].get("title_kr", a["title"])
+                a["title"]      = tr_map[i].get("title_kr",  a["title"])
                 a["summary_kr"] = tr_map[i].get("summary_kr", a["summary_kr"])
-        print(f"  ✅ 번역 완료 ({len(translated)}건)")
+        print(f"  ✅ 번역 완료 ({len(tr_map)}건)")
     except Exception as e:
         print(f"  [WARN] 번역 실패, 영어 유지: {e}")
-
     return articles
 
 
@@ -269,17 +281,22 @@ def save_data(articles: list, takeaways: list):
 def main():
     print(f"\n{'='*60}")
     print(f" Samsung DA Briefing  |  {NOW.strftime('%Y-%m-%d %H:%M KST')}")
-    print(f" 수집: Google News RSS (무료, 외부 패키지 없음)")
-    print(f" 범위: 최근 24시간 | 분석: Claude haiku 1회")
+    print(f" 수집: Google News RSS + Bing News RSS")
+    print(f" 범위: 최근 24시간 | 분석: Claude haiku 2회")
     print(f"{'='*60}\n")
 
-    print("[1/3] 뉴스 수집 중...")
+    print("[1/4] 뉴스 수집 중...")
     raw = []
+    total = len(QUERIES)
     for i, item in enumerate(QUERIES):
-        print(f"  [{i+1:02d}/{len(QUERIES)}] {item['category']} | {item['q']}")
-        articles = fetch_rss(item["q"], item["category"])
-        print(f"         → {len(articles)}개")
-        raw.extend(articles)
+        cat, q = item["category"], item["q"]
+        print(f"  [{i+1:02d}/{total}] {cat} | {q}")
+
+        g = fetch_google(q, cat)
+        b = fetch_bing(q, cat)
+        print(f"         Google {len(g)}개 / Bing {len(b)}개")
+        raw.extend(g)
+        raw.extend(b)
         time.sleep(1)
 
     articles = deduplicate(raw)
