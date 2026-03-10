@@ -1,14 +1,14 @@
 {
   "date": "2026-03-10",
   "date_display": "2026년 03월 10일",
-  "generated_at": "2026-03-10T17:59:25.887419+09:00",
-  "generated_at_display": "2026.03.10 17:59 KST",
+  "generated_at": "2026-03-10T18:09:44.373701+09:00",
+  "generated_at_display": "2026.03.10 18:09 KST",
   "category_counts": {
-    "Samsung Bespoke": 1,
+    "Samsung Bespoke": 2,
     "Samsung DA": 1,
-    "Technology Trend": 1,
-    "Market Dynamics": 22,
-    "Competitor Analysis": 3
+    "Technology Trend": 3,
+    "Market Dynamics": 23,
+    "Competitor Analysis": 4
   },
   "takeaways": [
     {
@@ -42,11 +42,24 @@
       ]
     },
     {
+      "category": "Samsung Bespoke",
+      "title": "Best washer dryer combo yet? Samsung Bespoke Laundry - test, teardown & review",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/foodanddrink/cookingschool/best-washer-dryer-combo-yet-samsung-bespoke-laundry-test-teardown-review/vi-AA1XQAE6",
+      "time": "23h ago",
+      "summary_kr": "Over the course of a month, I run tons of loads of clothes through the all-new Samsung WD53DBA900 combo washer/dryer. How does it fare against the competition, and can the biggest problem - lint - be ...",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
       "category": "Samsung DA",
       "title": "Samsung Aims High to Become World’s No. 1 with Premium Home Appliance 9000 Series - samsung.com",
       "media": "samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UTGNDMWRTNVhWcG01cXJjQW05cHkxVjhCSU5ubmF5b3ZhRXY5YlVfSnZNNi1KYV9pT2dmMjlITDRVNllNbzFubXZMQ3VycjdiMXB5QjJxcGZtczE4NmZVOE02Wnd3TnVkejBxVXBxb0JWSFpf?oc=5",
-      "time": "10h ago",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TQWFIdmVKci1UZTB2SXNwRE9qMmdxNEtBV0k0TXVKMloxTFhLRFFlRkp4Zkk2SjdYRUMxNG1JWmhYUDZiVkd4eTFaTDIyWWJRN1c0Nm5QbkRNNmxyQ2ZIbEpxUHVFVlN6d3VHR2lTUlJQak1f?oc=5",
+      "time": "17h ago",
       "summary_kr": "Samsung Aims High to Become World’s No. 1 with Premium Home Appliance 9000 Series  samsung.com",
       "strategic_implications": "",
       "impact": 4,
@@ -59,12 +72,38 @@
       "title": "AWE2026 Core Highlights Revealed in Advance as Annual Technology Feast Nears - 36 Kr",
       "media": "36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5URkhBNWlUcVJMU0t3R0FfSXdLY1B3YnVueU04M0dSODlxbGVwMEExX2ZaT0syUi1DNkNPLV90VmdINnFLeHZEajN4UHBBdDZiU0c4?oc=5",
-      "time": "Just now",
+      "time": "1h ago",
       "summary_kr": "AWE2026 Core Highlights Revealed in Advance as Annual Technology Feast Nears  36 Kr",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
         "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "5 Devices You Should Never Use With Smart Plugs",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/money/other/5-devices-you-should-never-use-with-smart-plugs/ar-AA1XRgnT",
+      "time": "12h ago",
+      "summary_kr": "Before you plug in every appliance in your home, know the risky ones. These common device categories can overload smart plugs or create safety issues.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Unveiling the Future: Top New AI Gadgets of 2025 You Won’t Want to Miss",
+      "media": "Bing News",
+      "url": "https://techannouncer.com/unveiling-the-future-top-new-ai-gadgets-of-2025-you-wont-want-to-miss/",
+      "time": "23h ago",
+      "summary_kr": "Alright, so CES 2025 has wrapped up, and let me tell you, it was a wild ride. We saw a bunch of new tech that’s supposed to hit the market next year, and honestly, some of it is pretty out there.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
       ]
     },
     {
@@ -85,7 +124,7 @@
       "title": "This Non-Toxic Air Fryer Toaster Oven Is the Only Appliance Worth the Counter Space - EatingWell",
       "media": "EatingWell",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHZvTm5BRWg4UW81OHp5WGFEU1R6QU8tc1JyQWRxLWNyWjJvTm1oTW9ia2l5aVJMcnlxX3Y4RFhzeFB3RHhwSGxyY1BDS3VKR3NtUjBla1UwTVZRMFZYdFZHV0lIUUxLc0xIR01aanN1dEx2NGNHbjZKZHdfWXBOelpLRm8waEVyekE?oc=5",
-      "time": "4h ago",
+      "time": "5h ago",
       "summary_kr": "This Non-Toxic Air Fryer Toaster Oven Is the Only Appliance Worth the Counter Space  EatingWell",
       "strategic_implications": "",
       "impact": 3,
@@ -98,21 +137,8 @@
       "title": "I’m a Kitchen Appliances Editor, and This Slim Keurig Is the Space-Saving Hero of My Spring Clearout - Homes and Gardens",
       "media": "Homes and Gardens",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wbkRRRTQzN3lYOWZOTlkyek9nQ2Z0bUtmR3VKaW5LYmhMakwxcHVUamJlaXBxZEVJT1dKMWtoYmZCaHRWaktpLUg4WE1jb1RzQlpjX2xiVFZNanI4d21DMHhhRXAzTkF2Z0h0ck0xZjhYZUZuZ24zUXA0OA?oc=5",
-      "time": "5h ago",
+      "time": "6h ago",
       "summary_kr": "I’m a Kitchen Appliances Editor, and This Slim Keurig Is the Space-Saving Hero of My Spring Clearout  Homes and Gardens",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "Best home appliance warranties in 2026: Expert picks, plans and perks - USA Today",
-      "media": "USA Today",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcWh5ZC1DeVRON0dBYmVQS3JFLXJKTlFfS2FwSGJHSzRyVnB4WTE5cVhEZV9hRlNBNmhSSTE4bmZyM28yTXJfcDR3bUw0NHl2dFkyRm5zb2g4cnVLYVJ2a05ialUyU2YwRzg4bzU0QXRBYlNhajZpaXJ0cjdzNUxyb0xFcVZ0bzlFSDJFUkx0Ymt0bHJ6emdn?oc=5",
-      "time": "10h ago",
-      "summary_kr": "Best home appliance warranties in 2026: Expert picks, plans and perks  USA Today",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -150,7 +176,7 @@
       "title": "The 10 Most Reliable Refrigerator Brands According To Consumer Reports - bgr.com",
       "media": "bgr.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPalBXOXA1WGJhRTJFN3RHRVJ5dXpPaks1NEtjVUZoWW5VeDVCMXk4TnY1MmxDcHpCWHU2TXFOY1pPdEtqOXlIbl9XcVVrVi03ZDZSZS02SHlzNXllS1NtblpwX21Oa0ZIOW1NbFE5bW1LT2tva2ZvUnZOQmFqOV9aTnBXeXI?oc=5",
-      "time": "20h ago",
+      "time": "21h ago",
       "summary_kr": "The 10 Most Reliable Refrigerator Brands According To Consumer Reports  bgr.com",
       "strategic_implications": "",
       "impact": 3,
@@ -354,11 +380,37 @@
       ]
     },
     {
+      "category": "Market Dynamics",
+      "title": "Buy This Kitchen Item On Amazon And You Might Regret It — Here's Why",
+      "media": "Bing News",
+      "url": "https://www.aol.com/articles/buy-kitchen-item-amazon-might-200000193.html",
+      "time": "13h ago",
+      "summary_kr": "Amazon's a convenient, affordable solution for many kitchen finds, but it may be an unreliable and possibly regrettable place to shop for these essential items.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Best home appliance warranties in 2026: Expert picks, plans and perks",
+      "media": "Bing News",
+      "url": "https://www.indystar.com/story/money/home-services/best-home-appliance-warranty/89064067007/",
+      "time": "15h ago",
+      "summary_kr": "Shopping for an appliance warranty you can rely on? We compare top names like Liberty Home Guard and American Home Shield share what sets them apart.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
       "category": "Competitor Analysis",
       "title": "LG Electronics USA Appoints Bass Senior Account Manager - American Coin-Op",
       "media": "American Coin-Op",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZXA4RVktUVdPSjhqQjJQNXZGaHJIelY1akR4RGRWQ2J6WkdFLXAtRTVmbmFTNEdnNmJWRmxUZkJMeklNaXAtWFVDUDFGcExPOGV3cmRiSV8yaFV2SUpOMGI5YUtDWGVGeFdfdFhvMWhWMHdjN1BOc1VjZzdjYUVnQTV3ZnBkYlhOaldMMFVkUWJ0U0VFWkE?oc=5",
-      "time": "21h ago",
+      "time": "22h ago",
       "summary_kr": "LG Electronics USA Appoints Bass Senior Account Manager  American Coin-Op",
       "strategic_implications": "",
       "impact": 3,
@@ -371,7 +423,7 @@
       "title": "LG Electronics expands B2B AI home solutions for apartments in Korea and abroad - CHOSUNBIZ - Chosunbiz",
       "media": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuTm1Rc3NKb0toajZOWV9XTGhHbXJWWUlmSlAyNHBZbXZCZ2d3UXMyN1hoUS1nWElncTFRZHpqcE10Y21qYjd0MTVZeElCc0NuX3pmeWhvbHhfclNTS0RDb1NBQVFRUE1qQXFJWGlGckU4cGJwaG1FdFlB0gGOAUFVX3lxTE45RlM4bFZKeXAxMGNBM2dqc2hya1BGMmdnR3Rfa3JzR0J3NVZDSXI3RmttdFVlQTJjWkttSkFXbUwwcHVQV0s3N3lHWW1kTWtrZlV1MzdqN2ZDb05xdmpJRW5uQ3Z0YzR2U093X2MyWDdGTVZuWjlZSFNINmIwekZtQ2NaLWs1YmgyZjZpN2c?oc=5",
-      "time": "7h ago",
+      "time": "8h ago",
       "summary_kr": "LG Electronics expands B2B AI home solutions for apartments in Korea and abroad - CHOSUNBIZ  Chosunbiz",
       "strategic_implications": "",
       "impact": 4,
@@ -385,8 +437,21 @@
       "title": "LG Electronics to supply AI home hub to 10,000 The Sharp apartments - 디지털투데이",
       "media": "디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUS1MbWxwaXRqd1hxTklXNlk2Mm1IUGpOTjMtRGJpRThoTTNoWGI5cTYzUFhnQTBUbEFtWFdFUmNDUzlhRXdkbEJvQW5rOVdFNi1SZkZsNHRNOE9hNllpNW9MUWZpUVdfZUNiQmZRODFicmpjQl82R0JPMkNjOW9pY3JTcmpXN3BPRHIyTmhERGNXNjViZ3VPUWJ3X29SR1NIcXpqRkRycExaVkkxMVA1Zw?oc=5",
-      "time": "7h ago",
+      "time": "8h ago",
       "summary_kr": "LG Electronics to supply AI home hub to 10,000 The Sharp apartments  디지털투데이",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics share price target 2026: Morgan Stanley sees 13% upside on strong summer demand",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-in/money/markets/lg-electronics-share-price-target-2026-morgan-stanley-sees-13-upside-on-strong-summer-demand/ar-AA1XSakl",
+      "time": "12h ago",
+      "summary_kr": "LG Electronics Share Price Target 2026: LG Electronics India stock gains attention after Morgan Stanley reiterates an Overweight rating with a Rs 1,726 target price. Rising AC demand, cricket-driven ...",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
