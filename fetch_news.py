@@ -78,12 +78,14 @@ def parse_rss_items(content: bytes, category: str, source_tag: str) -> list:
             continue
 
         time_str = "Today"
+        pub_ts   = 0
         if pubdate:
             try:
                 pub_dt = parsedate_to_datetime(pubdate).astimezone(KST)
                 if pub_dt < SINCE:
                     continue
                 time_str = format_time(pub_dt)
+                pub_ts   = int(pub_dt.timestamp())
             except Exception:
                 pass
 
@@ -99,7 +101,8 @@ def parse_rss_items(content: bytes, category: str, source_tag: str) -> list:
             "media":                  source,
             "url":                    real_url,
             "time":                   time_str,
-            "summary_kr":             re.sub(r'<[^>]+>', '', desc)[:300],
+            "pub_ts":                 pub_ts,
+            "summary_kr":             re.sub(r'<[^>]+>', '', desc)[:150],
             "strategic_implications": "",
             "impact":                 auto_impact(title, category),
             "tags":                   auto_tags(title, category),
@@ -176,40 +179,44 @@ def deduplicate(articles: list) -> list:
 
 
 def translate_articles(articles: list) -> list:
-    """제목 + snippet → 한국어. 1회 호출로 전체 처리."""
+    """제목 + 짧은 snippet → 한국어. 30개씩 나눠 호출."""
     if not articles:
         return articles
 
-    items = [
-        {"i": i, "title": a.get("title", ""), "summary": a.get("summary_kr", "")}
-        for i, a in enumerate(articles)
-    ]
-    client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
-    try:
-        resp = client.messages.create(
-            model      = "claude-haiku-4-5-20251001",
-            max_tokens = 4000,
-            system     = "번역 전문가. JSON 배열만 반환. 마크다운 코드블록 금지.",
-            messages   = [{"role": "user", "content": f"""뉴스 기사 제목과 요약을 한국어로 번역하세요.
-summary가 비어있으면 title 기반 2문장 요약 작성.
+    client     = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
+    chunk_size = 30
 
-입력:
-{json.dumps(items, ensure_ascii=False)}
+    for start in range(0, len(articles), chunk_size):
+        chunk = articles[start:start + chunk_size]
+        # 제목 + 요약 앞 100자만 전송 → 페이로드 최소화
+        items = [
+            {"i": i, "t": a.get("title", "")[:120], "s": a.get("summary_kr", "")[:100]}
+            for i, a in enumerate(chunk)
+        ]
+        try:
+            resp = client.messages.create(
+                model      = "claude-haiku-4-5-20251001",
+                max_tokens = 4000,
+                system     = "번역가. JSON 배열만 반환. 코드블록 금지.",
+                messages   = [{"role": "user", "content":
+                    f"영어 뉴스 제목(t)과 요약(s)을 한국어로 번역하라. "
+                    f"s가 비어있으면 t 기반 2문장 요약. "
+                    f"출력: [{{\"i\":0,\"t\":\"제목\",\"s\":\"요약\"}}]\n\n"
+                    f"{json.dumps(items, ensure_ascii=False)}"}],
+            )
+            raw = resp.content[0].text.strip()
+            if raw.startswith("```"):
+                raw = raw.split("```")[1].lstrip("json").strip()
+            for r in json.loads(raw):
+                idx = r.get("i")
+                if idx is not None and idx < len(chunk):
+                    chunk[idx]["title"]      = r.get("t", chunk[idx]["title"])
+                    chunk[idx]["summary_kr"] = r.get("s", chunk[idx]["summary_kr"])
+            end = min(start + chunk_size, len(articles))
+            print(f"  번역 {start+1}~{end}/{len(articles)} ✅")
+        except Exception as e:
+            print(f"  [WARN] 번역 실패 ({start+1}~): {e}")
 
-출력 (JSON 배열만):
-[{{"i":0,"title_kr":"한국어 제목","summary_kr":"한국어 요약"}}]"""}],
-        )
-        raw = resp.content[0].text.strip()
-        if raw.startswith("```"):
-            raw = raw.split("```")[1].lstrip("json").strip()
-        tr_map = {r["i"]: r for r in json.loads(raw)}
-        for i, a in enumerate(articles):
-            if i in tr_map:
-                a["title"]      = tr_map[i].get("title_kr",  a["title"])
-                a["summary_kr"] = tr_map[i].get("summary_kr", a["summary_kr"])
-        print(f"  ✅ 번역 완료 ({len(tr_map)}건)")
-    except Exception as e:
-        print(f"  [WARN] 번역 실패, 영어 유지: {e}")
     return articles
 
 
@@ -220,21 +227,26 @@ def generate_takeaways(articles: list) -> list:
     client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
     resp = client.messages.create(
         model      = "claude-haiku-4-5-20251001",
-        max_tokens = 800,
-        system     = "삼성전자 DA 임원 전략 브리핑 전문가. JSON 배열만 반환. 마크다운 금지.",
-        messages   = [{"role": "user", "content": f"""오늘({TODAY_STR}) 뉴스 제목 기반으로 삼성전자 DA 임원을 위한 Top 3 전략 통찰을 작성하세요.
-
-뉴스 제목:
-{titles_text}
-
-출력 (JSON 배열 정확히 3개):
-[{{"trend_label":"흐름 레이블","title":"25자 핵심 메시지","desc":"3~4문장 전략적 의미"}}]
-JSON만. 다른 텍스트 없이."""}],
+        max_tokens = 1000,
+        system     = "삼성전자 DA 임원 전략 브리핑 전문가. 반드시 JSON 배열만 반환. 설명 텍스트 금지. 마크다운 코드블록 금지.",
+        messages   = [{"role": "user", "content":
+            f"아래 뉴스 기반으로 삼성전자 DA 임원 Top 3 전략 통찰을 JSON으로 작성하라.\n\n"
+            f"뉴스:\n{titles_text}\n\n"
+            f"출력형식(배열 시작 [ 으로 바로 시작):\n"
+            f'[{{"trend_label":"레이블","title":"핵심메시지","desc":"3문장 전략적 의미"}}]'}],
     )
     raw = resp.content[0].text.strip()
-    if raw.startswith("```"):
+    # 코드블록 제거
+    if "```" in raw:
         raw = raw.split("```")[1].lstrip("json").strip()
-    return json.loads(raw)
+    # [ ... ] 구간만 추출
+    start = raw.find("[")
+    end   = raw.rfind("]")
+    if start != -1 and end != -1:
+        raw = raw[start:end+1]
+    result = json.loads(raw)
+    print(f"  ✅ Takeaways {len(result)}개 생성")
+    return result
 
 
 def save_data(articles: list, takeaways: list):
@@ -300,7 +312,9 @@ def main():
         time.sleep(1)
 
     articles = deduplicate(raw)
-    print(f"\n  원본 {len(raw)}개 → 중복 제거 후 {len(articles)}개\n")
+    # 최신순 정렬
+    articles.sort(key=lambda a: a.get("pub_ts", 0), reverse=True)
+    print(f"\n  원본 {len(raw)}개 → 중복 제거 후 {len(articles)}개 (최신순)\n")
 
     if not articles:
         print("[WARN] 수집된 기사 없음")
@@ -318,11 +332,10 @@ def main():
     print("[3/4] Takeaways 생성 중 (Claude haiku)...")
     try:
         takeaways = generate_takeaways(articles)
-        print("  ✅ 완료")
     except Exception as e:
-        print(f"  [WARN] {e}")
+        print(f"  [ERROR] Takeaways 실패: {e}")
         takeaways = [
-            {"trend_label": "—", "title": "오늘의 주요 동향", "desc": "아래 기사를 참조하세요."},
+            {"trend_label": "⚠ 생성 실패", "title": "오늘의 주요 동향", "desc": "아래 기사를 참조하세요."},
             {"trend_label": "—", "title": "—", "desc": "—"},
             {"trend_label": "—", "title": "—", "desc": "—"},
         ]
