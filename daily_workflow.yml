@@ -23,13 +23,10 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Fetch news & analyze with Claude
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python fetch_news.py
-
-      - name: Build dashboard HTML
-        run: python build_dashboard.py
+      - name: Fetch news & build dashboard
+        run: |
+          python fetch_news.py
+          python build_dashboard.py
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
