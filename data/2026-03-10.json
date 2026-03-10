@@ -1,14 +1,13 @@
 {
   "date": "2026-03-10",
   "date_display": "2026년 03월 10일",
-  "generated_at": "2026-03-10T18:36:32.078126+09:00",
-  "generated_at_display": "2026.03.10 18:36 KST",
+  "generated_at": "2026-03-10T18:45:29.908272+09:00",
+  "generated_at_display": "2026.03.10 18:45 KST",
   "category_counts": {
     "Technology Trend": 2,
-    "Market Dynamics": 22,
+    "Market Dynamics": 23,
     "Competitor Analysis": 4,
-    "Samsung DA": 1,
-    "Samsung Bespoke": 1
+    "Samsung DA": 1
   },
   "takeaways": [
     {
@@ -19,12 +18,12 @@
     {
       "trend_label": "🟢 기회 신호",
       "title": "시장 기회 6건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: Versuni India, 첸나이와 아메다바드에 새로운 생산 시설로 제조 입지 확대 - ANI 뉴스. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: Versuni India, 첸나이와 아메다바드에 새로운 생산 시설로 제조 입지 확대 - ANI 뉴스. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
       "title": "경쟁사 기사 4건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 4건 수집. 주요 동향: LG전자, 아파트 B2B AI 홈 솔루션 국내외 확대 - CHOSUNBIZ - 조선비즈. 시장 전반 기사 22건, 기술 트렌드 2건 함께 검토 권장."
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 4건 수집. 주요 동향: LG전자, 아파트 B2B AI 홈 솔루션 국내외 확대 - CHOSUNBIZ - 조선비즈. 시장 전반 기사 23건, 기술 트렌드 2건 함께 검토 권장."
     }
   ],
   "articles": [
@@ -35,7 +34,7 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5URkhBNWlUcVJMU0t3R0FfSXdLY1B3YnVueU04M0dSODlxbGVwMEExX2ZaT0syUi1DNkNPLV90VmdINnFLeHZEajN4UHBBdDZiU0c4?oc=5",
       "time": "1h ago",
       "pub_ts": 1773129705,
-      "summary_kr": "AWE2026 핵심 하이라이트, 연간 기술 축제가 36KR로 가까워짐에 따라 사전 공개",
+      "summary_kr": "AWE2026 핵심 하이라이트는 연간 기술 축제가 36KR로 가까워짐에 따라 사전에 공개됩니다.",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -75,7 +74,7 @@
       "title": "가전제품 전문가가 내가 주방을 완전히 잘못 정리하고 있다고 말했습니다. 그 이유는 다음과 같습니다. - Tom's Guide",
       "media": "Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYkxfNmZUQzhlOUpYWmJOZm8xbXhJY3U2aG94LVZRR01HUVE1NEUxVW1COGFjeUh5b3djWjlTYjlGVnJGUW11NWQzX1ZjN3FrRVJPczVlbTNvNXdoTE1fbHBqTjFiM0pEY3A0QVBQQnczSjhFU3RIdGxCOHRuV0hPaGJWRmg5QUd2c2p5WXQyVGhlV29aOHVhMWZ2WlZvZ1p4WjBfSkd3?oc=5",
-      "time": "3h ago",
+      "time": "4h ago",
       "pub_ts": 1773121500,
       "summary_kr": "가전제품 전문가가 내가 주방을 완전히 잘못 정리하고 있다고 말했습니다. 그 이유는 다음과 같습니다.  Tom's Guide",
       "strategic_implications": "",
@@ -89,7 +88,7 @@
       "title": "브랜드가 가전 생태계를 확장하면서 AAHAR 2026에서 truTRTL Home Appliances의 Tru 씨를 만나보세요 - ANI 뉴스",
       "media": "ANI News",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYmJ4SGVMeGFQaVNYYjhEaG52NHN3ZlNEZDRfUEtWdzlOd0dZcnR4LXpCUl9sYXI3N0RFQlJPdGNtQ0w4ZnAzUWtvZkd1WjNsam5DaWlncGJ3VDQxdk81ay1fSUk1ZEY2SzRFbGdWand0TW1IRl92emJnUzU2dG9NM1NlU2otLXhrbEQyT3FOOWJ5ZS14RTQ2cGlSWHAtck5aWkpBY2hCZDZxamhnUWFNTzMwcDAtbDV5dElTZHpkYTMzaFZUZ09yaDViU1hCN3RSRTh2LVU3amZaNklqczJzYmctZkzSAewBQVVfeXFMUGVhOFotbWZUMUtVVnZOcXVZNEY0Y3I2QkcyT1dnYUxPczBTQlRUNkd0ZHJRLW9Ucy04NzZEb2FTWGJRdG5LOXZZQVdDRzJSM09KNFNHZzVXUnlTdjVVZkJYSVd2MEE5ekhCai05WGtsSWZlSjFfMHJHUU5UbUdfSkVWT2ZWSjN1LTJnYl8wWW9NWFJVX3F4R2FmYUl1MFhWTzNCdzVETi1sTXdsT1JkVWx3eGQtLTlRdjNIN2NfZkpJQUlIVFFNeWREMXhXblNuOFZXWndlbUlSMDdDb3MxUEpySlFyUC15c3BoV0w?oc=5",
-      "time": "3h ago",
+      "time": "4h ago",
       "pub_ts": 1773121500,
       "summary_kr": "브랜드가 가전 생태계를 확장하면서 AAHAR 2026에서 truTRTL Home Appliances의 Tru 씨를 만나보세요.  ANI 뉴스",
       "strategic_implications": "",
@@ -103,7 +102,7 @@
       "title": "가스 가격 인상으로 콜카타 인덕션 쿠커 판매 급증 - Moneycontrol.com",
       "media": "Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbEZVdjdfalZUbEdkT3ZaY0t0RXFKQVgtTXAwRHRXSm5hNV9lTnhBMzlsMW16NkJ3S0FSSm1Uc2JhNzN2by1jeEx2M296cTBQSXU5bEtmR2kwd0M0SEx1aFdOdDQwNmVIOUFhZ3hJOWNEMU1XVnY4SFd4SDRiQUlwd1RyZGVSSUJKWWFtUGkxdnM2ZFlFOXFTVnZFNGJ2Uzl6Q3VrWEJLdEhDQlY5WWVmM0xPYUp0aTJuZFHSAb8BQVVfeXFMTWpvOUJXMjVGN29xVHFwbXJSSFQ2NWtDSFVadTloVmt0aHJEMUN6UmFGU2RnU0MxWnBwLWNEc0JWRzU4SmFqMTVEUW5VdjNsQVFNNldXUWFCS1AyMFdlSWoyakRzUWh1aDdOYjlGUlJKS2U5bUZKc1lKS0x1dlVuSUZzd1NiUVBrOURGd3k4T25yTmd3eVdHTG5ILTlfQTExMW9WSjZ6UnVEaEVSX2hINXhXTWx1V19jdVdlRWM0c2s?oc=5",
-      "time": "3h ago",
+      "time": "4h ago",
       "pub_ts": 1773121277,
       "summary_kr": "가스 가격 인상으로 콜카타에서 인덕션 쿠커 판매 급증  Moneycontrol.com",
       "strategic_implications": "",
@@ -142,12 +141,12 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "저는 주방 가전 편집자입니다. 이 슬림한 Keurig는 봄맞이 대청소의 공간 절약형 영웅입니다 - Homes and Gardens",
-      "media": "Homes and Gardens",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wbkRRRTQzN3lYOWZOTlkyek9nQ2Z0bUtmR3VKaW5LYmhMakwxcHVUamJlaXBxZEVJT1dKMWtoYmZCaHRWaktpLUg4WE1jb1RzQlpjX2xiVFZNanI4d21DMHhhRXAzTkF2Z0h0ck0xZjhYZUZuZ24zUXA0OA?oc=5",
+      "title": "2026년 모두가 몰래 싫어하는 15가지 현대식 주방 트렌드 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45dmRjTnZZem9fOTU5ZUNranFKd0Q4dU0tYVA5NmJkVFZZcWVKQVdfcFY4Z0hOc3RuR0FTR1dDVWdMN1N4eTA5azlvOVI5ekFTX2Jad19TN2stWVJqbURwOGlzWjF5RDduTzY5YWRMZGJCeDVfbEY4?oc=5",
       "time": "6h ago",
-      "pub_ts": 1773111600,
-      "summary_kr": "저는 주방 가전 편집자입니다. 이 슬림한 Keurig는 봄맞이 정리 집과 정원의 공간 절약형 영웅입니다.",
+      "pub_ts": 1773112188,
+      "summary_kr": "",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -156,7 +155,21 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "LPG 가격 인상으로 콜카타에서 인덕션 쿠커 및 가전제품 판매 급증 - News18",
+      "title": "저는 주방 가전 편집자입니다. 이 슬림한 Keurig는 봄맞이 정리의 공간 절약형 영웅입니다 - Homes and Gardens",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wbkRRRTQzN3lYOWZOTlkyek9nQ2Z0bUtmR3VKaW5LYmhMakwxcHVUamJlaXBxZEVJT1dKMWtoYmZCaHRWaktpLUg4WE1jb1RzQlpjX2xiVFZNanI4d21DMHhhRXAzTkF2Z0h0ck0xZjhYZUZuZ24zUXA0OA?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1773111600,
+      "summary_kr": "저는 주방 가전 편집자입니다. 이 슬림한 Keurig는 내 봄맞이 정리 집과 정원의 공간 절약형 영웅입니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LPG 가격 인상으로 콜카타에서 인덕션 쿠커와 가전제품 판매 급증 - News18",
       "media": "News18",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU0FVQmY4V1c4MUJKajBCZEdwWmhHQTBqbk1NVl9fUW43MDZYeHpNT0djTWpxOUhydE15LVZOelFqWHdkTVo2M0p2THdGOTBzbXFrQ2gxVmo1aENaMEVJUGRoTGJ4bkUtNzVCb0hubmN6SU15UXNQWGM4SXlJbW52VDM3WjlZUzFiRzVZekVMTGNxeEZmTHVVTHlMWnhZRkdIUnEtRFNJaHZyRWJoNjdZTGliWkk0TEVMODJjR0VtclZQS1JfZ0ZBd25yOTBHb1FnZGfSAdcBQVVfeXFMTUdOMDhyTE5CZGx0UHc2Ukhqd05LNWVXRV9HdDdJR180ZlFiYnQyNnZMVGlmcWp6eEo3Ym91SFNGaVNFUE1zN2FvMEtIM2w2T0FJWE8yOWRHOGJ3b183LWV0UUN3WFF5QUhuVXU5ZVFyeUxLLXdkZ3hGSjNzX09pdEhBY0ZRdkZCM2RtZzZ4Wk1nUGVjcXoxRDQ3aW5xTVVEcjZ3LWdyRVRPeE0wNklNbURlaUl4eVA5eUxtMl9IT3NtWFQ1OUNwOUY0YTV4VkFHeHJQUXhBTmc?oc=5",
       "time": "7h ago",
@@ -190,9 +203,23 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUS1MbWxwaXRqd1hxTklXNlk2Mm1IUGpOTjMtRGJpRThoTTNoWGI5cTYzUFhnQTBUbEFtWFdFUmNDUzlhRXdkbEJvQW5rOVdFNi1SZkZsNHRNOE9hNllpNW9MUWZpUVdfZUNiQmZRODFicmpjQl82R0JPMkNjOW9pY3JTcmpXN3BPRHIyTmhERGNXNjViZ3VPUWJ3X29SR1NIcXpqRkRycExaVkkxMVA1Zw?oc=5",
       "time": "8h ago",
       "pub_ts": 1773104400,
-      "summary_kr": "LG전자, 더샵 아파트 1만가구에 AI 홈허브 공급 예정 디지털투데이",
+      "summary_kr": "",
       "strategic_implications": "",
       "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDSkRBeFVmSHR1V20xT04zZVlTVE1zOXEwQ0o4X1l5QnlBY3FYUVIzdDF0b3RqdXNZMzkxNnhSZlRlODFNaV9WSlVPMmJLb1VobU9rM0RlbGhkWk83ZmdtN2RkSnA1dEhDNHZsMWdZck44d3o4?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1773098351,
+      "summary_kr": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다",
+      "strategic_implications": "",
+      "impact": 4,
       "tags": [
         "watch"
       ]
@@ -230,9 +257,9 @@
       "title": "2026년 LG전자 주가 목표: 모건스탠리, 여름 수요 강세로 13% 상승여력 전망",
       "media": "Bing News",
       "url": "https://www.msn.com/en-in/money/markets/lg-electronics-share-price-target-2026-morgan-stanley-sees-13-upside-on-strong-summer-demand/ar-AA1XSakl",
-      "time": "12h ago",
+      "time": "13h ago",
       "pub_ts": 1773088707,
-      "summary_kr": "2026년 LG 전자 주가 목표: Morgan Stanley가 Rs 1,72로 비중확대 등급을 유지한 후 LG Electronics India 주식이 주목을 받고 있습니다.",
+      "summary_kr": "2026년 LG 전자 주가 목표: Morgan Stanley가 Rs 1,72로 비중확대 등급을 유지한 후 LG Electronics India 주식이 주목을 받습니다.",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -246,7 +273,7 @@
       "url": "https://www.aol.com/articles/buy-kitchen-item-amazon-might-200000193.html",
       "time": "13h ago",
       "pub_ts": 1773086400,
-      "summary_kr": "Amazon은 많은 주방용품을 위한 편리하고 저렴한 솔루션이지만, 이러한 필수품을 구매하기에는 신뢰할 수 없고 아마도 후회스러운 곳일 수 있습니다.",
+      "summary_kr": "Amazon은 많은 주방용품을 찾을 수 있는 편리하고 저렴한 솔루션이지만 이러한 필수품을 구매하기에는 신뢰할 수 없고 아마도 후회스러운 곳일 수 있습니다.",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -283,12 +310,12 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "요리를 더욱 쉽게 만들어주는 11가지 Ninja 가전제품 - Amazon에서 최대 35% 할인 - 톰의 가이드",
+      "title": "요리를 더 쉽게 만들어주는 11가지 Ninja 가전제품 - Amazon에서 최대 35% 할인 - 톰의 가이드",
       "media": "Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWk5SEVYSnJod3ZiTHg2OEl0dUpnRnJoSE9QQmFHb3hzYnRCLVhfaEQwWUJpajhEckdmM0E3ekZNc2VhcUxzbjJzUWNOR05pRzJwRkJRZ1c0ZG5FWEZvdktjVW82MU5RV05mT0NHWDNPUjg5M1dHTnNwdy0xS2VaNlhGODBtWnpER0I2SktJaGdITXdCaXE3TXF6WnFyRGxmQXpfUHNIQVFHZHNScmIzMnBHNWZUbi1reHhaR0hwNlN6cU9LSjYzdTJ2UlBYQQ?oc=5",
       "time": "16h ago",
       "pub_ts": 1773075455,
-      "summary_kr": "요리를 더 쉽게 만들어주는 11가지 Ninja 가전제품 - Amazon Tom's Guide에서 최대 35% 할인",
+      "summary_kr": "요리를 더욱 쉽게 해주는 11가지 Ninja 가전제품 - Amazon에서 최대 35% 할인 Tom's Guide",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -302,7 +329,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPczN6MTRxTC1RTWUwUkR2bzFRQVFUQUxPUWx4OWV0TzJmLVdieDBqRmdJeU9CclNSWXFsaGNyVllqSU1nZ0I2eWRZMm9oUUozcG0zNHNHNXFVMEExZ2UzbDAwSkt4bWVmLVVhb1hNZmprY3lkWENyZXRZSGR0RnVaa1lJUTFyb3d0NXVoaElNdmI0Mzg?oc=5",
       "time": "17h ago",
       "pub_ts": 1773073412,
-      "summary_kr": "에어프라이어, '심각한' 화재 위험으로 주요 슈퍼마켓에서 긴급 리콜 - The Irish Sun",
+      "summary_kr": "에어프라이어, '심각한' 화재 위험으로 대형 슈퍼마켓에서 긴급 리콜 - The Irish Sun",
       "strategic_implications": "",
       "impact": 5,
       "tags": [
@@ -316,7 +343,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnVIY0V6SEM4TUpYNlJmRTdxNVJnLXROZ1M4bFRfR1NjWDY2Q2lLeXVHSy10dlE5eDI2UXZtaFlEdlR1X0V0ZVdwR0JRTVNLRkRHQnBsaFY4NUJsc3FpM0U0WFI3TlZjV2drRWVqS0FGdTJzSzRnZDRPWFpNUV8xbXNNLWE4dmpNUXdV?oc=5",
       "time": "17h ago",
       "pub_ts": 1773073276,
-      "summary_kr": "Gourmia 5쿼트 밥솥이 Amazon Technobezz에서 76.68달러로 인하",
+      "summary_kr": "",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -330,7 +357,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3hGSS1obWxvYllXc3BscWRTTGp2LTdhR1ZfN2djSkZ4WTdobVlnWHdSdEhzU1IxTEdZakpMRkprX3pwNnU3X0pQRzVRVE1XeG4wVDFmN29tMkZweTN6ZjhzTFgxN05tWmxCeTdZV2dGTUJySjdmQnVQSER5ZDhxWHRja3MzTVVx?oc=5",
       "time": "17h ago",
       "pub_ts": 1773072676,
-      "summary_kr": "해밀턴 비치 4슬라이스 토스터 오븐이 $64.95로 인하  Technobezz",
+      "summary_kr": "",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -339,30 +366,16 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "COMFEE' Retro Microwave Oven, 아마존에서 99.97달러로 하락 - Technobezz",
+      "title": "COMFEE' Retro Microwave Oven, 아마존에서 99.97달러로 인하 - Technobezz",
       "media": "Technobezz",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOVRXQmduanp6LTlhYnBUaWVnOXVBa1NkZXBCb3hoR3BLQ1JkMlVtWVVIQ3YySWF2M1dfLVZhNkl1MGtuUTVQSEdObWhHa2Q1bC1oRUNSSWZmOUwya1NVbFRmbUpiekM5bldZUFdNZnRGcS12bWlmSzlxQnVhdzNFRnhJcG5KOVBPenJV?oc=5",
       "time": "17h ago",
       "pub_ts": 1773072676,
-      "summary_kr": "COMFEE' Retro Microwave Oven이 Amazon Technobezz에서 99.97달러로 인하됩니다.",
+      "summary_kr": "",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
         "risk"
-      ]
-    },
-    {
-      "category": "Samsung DA",
-      "title": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다 - samsung.com",
-      "media": "samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TQWFIdmVKci1UZTB2SXNwRE9qMmdxNEtBV0k0TXVKMloxTFhLRFFlRkp4Zkk2SjdYRUMxNG1JWmhYUDZiVkd4eTFaTDIyWWJRN1c0Nm5QbkRNNmxyQ2ZIbEpxUHVFVlN6d3VHR2lTUlJQak1f?oc=5",
-      "time": "17h ago",
-      "pub_ts": 1773071279,
-      "summary_kr": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "watch"
       ]
     },
     {
@@ -386,7 +399,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaDlVWWFLSk91SWF6eFZnejZORnlFZ1RNaENxcXhqVklSNlBaeEJhRVNqUWE4M3ZsNG5pRGxucE44enh0SVZhRWlGNGl5QmdIdFl0WGRwMkppcmZjN0NJSXhJTkU2RmlVcUtBVGp4VHNqZU1GV0hjUlViZzBFelZlZHNKQ2VnMmt6RzFEVWg3Vl9YTHlLN0hYaGQ5UjlPT2h0NEN4cQ?oc=5",
       "time": "20h ago",
       "pub_ts": 1773060925,
-      "summary_kr": "Häfele, Miele 가전제품 Insight DIY의 영국 독점 유통업체가 되다",
+      "summary_kr": "",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -398,7 +411,7 @@
       "title": "스메그, KBB 버밍엄 2026에서 새로운 MUSA 빌트인 가전제품 컬렉션 공개 - KBBFocus",
       "media": "KBBFocus",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbHZ4UzJDc1hRbGlaRXNjRjRIYUNaWEpUcXR0UGlkSDJOYURsTzZTUmRVVk50MGZpc0hyWkR1bGZCaWpUbEZnMkVwUUp5dENURE5VRG9QQk1DREs3MXpKNktBMVI2dmFDZ3RSbFFSU0hBVVlVMW5mT3pWR2Z0eV9lSHRnSkZrN0s5bVdoWmlFTEVZR0prY3N6U1p4Q3AwM1ZDQnZOdDlXdV8?oc=5",
-      "time": "20h ago",
+      "time": "21h ago",
       "pub_ts": 1773060089,
       "summary_kr": "Smeg, KBB Birmingham 2026에서 새로운 MUSA 내장 가전제품 컬렉션 공개 KBBFocus",
       "strategic_implications": "",
@@ -414,7 +427,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPalBXOXA1WGJhRTJFN3RHRVJ5dXpPaks1NEtjVUZoWW5VeDVCMXk4TnY1MmxDcHpCWHU2TXFOY1pPdEtqOXlIbl9XcVVrVi03ZDZSZS02SHlzNXllS1NtblpwX21Oa0ZIOW1NbFE5bW1LT2tva2ZvUnZOQmFqOV9aTnBXeXI?oc=5",
       "time": "21h ago",
       "pub_ts": 1773057720,
-      "summary_kr": "소비자 보고서에 따르면 가장 신뢰할 수 있는 냉장고 브랜드 10개 bgr.com",
+      "summary_kr": "",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -428,23 +441,9 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZXA4RVktUVdPSjhqQjJQNXZGaHJIelY1akR4RGRWQ2J6WkdFLXAtRTVmbmFTNEdnNmJWRmxUZkJMeklNaXAtWFVDUDFGcExPOGV3cmRiSV8yaFV2SUpOMGI5YUtDWGVGeFdfdFhvMWhWMHdjN1BOc1VjZzdjYUVnQTV3ZnBkYlhOaldMMFVkUWJ0U0VFWkE?oc=5",
       "time": "22h ago",
       "pub_ts": 1773054043,
-      "summary_kr": "LG 전자 USA, Bass 수석 계정 관리자 임명 American Coin-Op",
+      "summary_kr": "",
       "strategic_implications": "",
       "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Samsung Bespoke",
-      "title": "ByteDance, 삼성 제조 논의 중 맞춤형 AI 칩 개발 추구 - QUASA Connect",
-      "media": "QUASA Connect",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU2o0ZTd0b1RkT2ZzcXh1N09jQmh3UnlsVjl5WFpjYS11RHg0SXQyOWQ4UXh2MF9NYTNOUmY0WTF1YmtnN3NJUzV5TktxbWxwb01VdnVXX2hkdGkwQUE0WElWeXhLVU5QSktLV0JFb09QRkJJSnB3SXNFYloxdmJISGlNQzY0cHVfclVpdmI4TEtUc2gyOGFXSWVDYUNIM21vN0E?oc=5",
-      "time": "23h ago",
-      "pub_ts": 1773049161,
-      "summary_kr": "ByteDance, 삼성 제조 논의 중에 맞춤형 AI 칩 개발 추구 QUASA Connect",
-      "strategic_implications": "",
-      "impact": 4,
       "tags": [
         "watch"
       ]

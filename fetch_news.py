@@ -103,7 +103,7 @@ def parse_rss_items(content: bytes, category: str, source_tag: str) -> list:
             "url":                    real_url,
             "time":                   time_str,
             "pub_ts":                 pub_ts,
-            "summary_kr":             re.sub(r'<[^>]+>', '', desc)[:150],
+            "summary_kr":             "" if not desc or re.sub(r'[^a-z0-9]','',title.lower())[:30] in re.sub(r'[^a-z0-9]','',desc.lower()) and len(desc) < len(title) + 30 else re.sub(r'<[^>]+>', '', desc)[:150],
             "strategic_implications": "",
             "impact":                 auto_impact(title, category),
             "tags":                   auto_tags(title, category),
@@ -179,33 +179,74 @@ def deduplicate(articles: list) -> list:
     return unique
 
 
+def fetch_article_summary(url: str, title: str) -> str:
+    """기사 본문 첫 단락 추출 — 요약용 (최대 500자)"""
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=10)
+        resp.raise_for_status()
+        body = resp.text
+
+        # <p> 태그에서 텍스트 추출
+        paragraphs = re.findall(r'<p[^>]*>(.*?)</p>', body, re.DOTALL | re.IGNORECASE)
+        chunks = []
+        for p in paragraphs:
+            text = re.sub(r'<[^>]+>', '', p).strip()
+            text = html.unescape(text)
+            # 너무 짧거나 메뉴/광고성 텍스트 제외
+            if len(text) < 40:
+                continue
+            if any(w in text.lower() for w in ["cookie", "subscribe", "sign in", "newsletter", "advertisement", "©"]):
+                continue
+            chunks.append(text)
+            if sum(len(c) for c in chunks) >= 500:
+                break
+
+        result = " ".join(chunks)[:500]
+        return result if len(result) > 80 else ""
+    except Exception:
+        return ""
+
+
 def gtranslate(text: str) -> str:
     """Google Translate 비공식 API — 무료, 키 없음"""
     if not text or not text.strip():
         return text
     try:
-        url  = "https://translate.googleapis.com/translate_a/single"
+        url    = "https://translate.googleapis.com/translate_a/single"
         params = {"client": "gtx", "sl": "en", "tl": "ko", "dt": "t", "q": text}
-        resp = requests.get(url, params=params, headers=HEADERS, timeout=10)
-        data = resp.json()
+        resp   = requests.get(url, params=params, headers=HEADERS, timeout=10)
+        data   = resp.json()
         return "".join(seg[0] for seg in data[0] if seg[0])
     except Exception:
         return text
 
 
 def translate_articles(articles: list) -> list:
-    """제목 + 요약 한국어 번역 — Google Translate 무료"""
+    """기사 본문 fetch → 요약 추출 → 한국어 번역"""
     total = len(articles)
     for i, a in enumerate(articles):
         try:
-            a["title"]      = gtranslate(a.get("title", ""))
-            a["summary_kr"] = gtranslate(a.get("summary_kr", ""))
-            if (i + 1) % 10 == 0:
-                print(f"  번역 {i+1}/{total}...")
-            time.sleep(0.3)   # 429 방지
+            # 1) 제목 번역
+            a["title"] = gtranslate(a.get("title", ""))
+
+            # 2) 요약: RSS snippet이 짧으면 본문 직접 fetch
+            s = a.get("summary_kr", "").strip()
+            if len(s) < 80:
+                s = fetch_article_summary(a.get("url", ""), a.get("title", ""))
+
+            # 3) 요약 번역
+            if s:
+                a["summary_kr"] = gtranslate(s[:500])
+            else:
+                a["summary_kr"] = ""
+
+            if (i + 1) % 5 == 0:
+                print(f"  번역/요약 {i+1}/{total}...")
+            time.sleep(0.5)
         except Exception as e:
-            print(f"  [WARN] 번역 실패 ({i}): {e}")
-    print(f"  ✅ 번역 완료 ({total}건)")
+            print(f"  [WARN] {i+1}번 실패: {e}")
+
+    print(f"  ✅ 완료 ({total}건)")
     return articles
 
 
