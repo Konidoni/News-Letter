@@ -1,21 +1,22 @@
 """
-Samsung DA Strategy Briefing — News Fetcher v4
+Samsung DA Strategy Briefing — News Fetcher v5
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-뉴스 수집: Google News RSS + Bing News RSS (무료, requests만 사용)
-AI 사용:  Claude haiku 2회 — 번역 1회 + Takeaways 1회
+완전 무료. AI API 없음.
+뉴스 수집: Google News RSS + Bing News RSS
+번역:      Google Translate 비공식 API (무료, 키 없음)
+Takeaways: 규칙 기반 자동 생성
 
-의존성: anthropic, requests
+의존성: requests 만
 """
 
 import os, json, time, re, html
 import requests
-import anthropic
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from urllib.parse import quote
 
-ANTHROPIC_KEY = os.environ["ANTHROPIC_API_KEY"]
-DATA_DIR      = "data"
+DATA_DIR  = "data"
 
 KST       = timezone(timedelta(hours=9))
 NOW       = datetime.now(KST)
@@ -178,75 +179,81 @@ def deduplicate(articles: list) -> list:
     return unique
 
 
+def gtranslate(text: str) -> str:
+    """Google Translate 비공식 API — 무료, 키 없음"""
+    if not text or not text.strip():
+        return text
+    try:
+        url  = "https://translate.googleapis.com/translate_a/single"
+        params = {"client": "gtx", "sl": "en", "tl": "ko", "dt": "t", "q": text}
+        resp = requests.get(url, params=params, headers=HEADERS, timeout=10)
+        data = resp.json()
+        return "".join(seg[0] for seg in data[0] if seg[0])
+    except Exception:
+        return text
+
+
 def translate_articles(articles: list) -> list:
-    """제목 + 짧은 snippet → 한국어. 30개씩 나눠 호출."""
-    if not articles:
-        return articles
-
-    client     = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
-    chunk_size = 30
-
-    for start in range(0, len(articles), chunk_size):
-        chunk = articles[start:start + chunk_size]
-        # 제목 + 요약 앞 100자만 전송 → 페이로드 최소화
-        items = [
-            {"i": i, "t": a.get("title", "")[:120], "s": a.get("summary_kr", "")[:100]}
-            for i, a in enumerate(chunk)
-        ]
+    """제목 + 요약 한국어 번역 — Google Translate 무료"""
+    total = len(articles)
+    for i, a in enumerate(articles):
         try:
-            resp = client.messages.create(
-                model      = "claude-haiku-4-5-20251001",
-                max_tokens = 4000,
-                system     = "번역가. JSON 배열만 반환. 코드블록 금지.",
-                messages   = [{"role": "user", "content":
-                    f"영어 뉴스 제목(t)과 요약(s)을 한국어로 번역하라. "
-                    f"s가 비어있으면 t 기반 2문장 요약. "
-                    f"출력: [{{\"i\":0,\"t\":\"제목\",\"s\":\"요약\"}}]\n\n"
-                    f"{json.dumps(items, ensure_ascii=False)}"}],
-            )
-            raw = resp.content[0].text.strip()
-            if raw.startswith("```"):
-                raw = raw.split("```")[1].lstrip("json").strip()
-            for r in json.loads(raw):
-                idx = r.get("i")
-                if idx is not None and idx < len(chunk):
-                    chunk[idx]["title"]      = r.get("t", chunk[idx]["title"])
-                    chunk[idx]["summary_kr"] = r.get("s", chunk[idx]["summary_kr"])
-            end = min(start + chunk_size, len(articles))
-            print(f"  번역 {start+1}~{end}/{len(articles)} ✅")
+            a["title"]      = gtranslate(a.get("title", ""))
+            a["summary_kr"] = gtranslate(a.get("summary_kr", ""))
+            if (i + 1) % 10 == 0:
+                print(f"  번역 {i+1}/{total}...")
+            time.sleep(0.3)   # 429 방지
         except Exception as e:
-            print(f"  [WARN] 번역 실패 ({start+1}~): {e}")
-
+            print(f"  [WARN] 번역 실패 ({i}): {e}")
+    print(f"  ✅ 번역 완료 ({total}건)")
     return articles
 
 
 def generate_takeaways(articles: list) -> list:
-    titles_text = "\n".join(
-        f"[{a['category']}] {a['title']}" for a in articles[:60]
-    )
-    client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
-    resp = client.messages.create(
-        model      = "claude-haiku-4-5-20251001",
-        max_tokens = 1000,
-        system     = "삼성전자 DA 임원 전략 브리핑 전문가. 반드시 JSON 배열만 반환. 설명 텍스트 금지. 마크다운 코드블록 금지.",
-        messages   = [{"role": "user", "content":
-            f"아래 뉴스 기반으로 삼성전자 DA 임원 Top 3 전략 통찰을 JSON으로 작성하라.\n\n"
-            f"뉴스:\n{titles_text}\n\n"
-            f"출력형식(배열 시작 [ 으로 바로 시작):\n"
-            f'[{{"trend_label":"레이블","title":"핵심메시지","desc":"3문장 전략적 의미"}}]'}],
-    )
-    raw = resp.content[0].text.strip()
-    # 코드블록 제거
-    if "```" in raw:
-        raw = raw.split("```")[1].lstrip("json").strip()
-    # [ ... ] 구간만 추출
-    start = raw.find("[")
-    end   = raw.rfind("]")
-    if start != -1 and end != -1:
-        raw = raw[start:end+1]
-    result = json.loads(raw)
-    print(f"  ✅ Takeaways {len(result)}개 생성")
-    return result
+    """규칙 기반 Takeaways — AI 없음, 완전 무료"""
+    cat_counts = {}
+    for a in articles:
+        cat_counts[a.get("category","?")] = cat_counts.get(a.get("category","?"), 0) + 1
+
+    risk_articles = [a for a in articles if "risk" in a.get("tags", [])]
+    opp_articles  = [a for a in articles if "opp"  in a.get("tags", [])]
+    comp_articles = [a for a in articles if a.get("category") == "Competitor Analysis"]
+
+    def top_title(lst):
+        return lst[0]["title"] if lst else "—"
+
+    takeaways = [
+        {
+            "trend_label": "🔴 리스크 모니터링",
+            "title": f"주요 리스크 {len(risk_articles)}건 감지",
+            "desc": (
+                f"오늘 수집된 {len(articles)}건 중 {len(risk_articles)}건이 리스크 신호를 포함합니다. "
+                f"주요 이슈: {top_title(risk_articles)}. "
+                f"경쟁사 동향 {cat_counts.get('Competitor Analysis',0)}건 포함 면밀한 모니터링이 필요합니다."
+            ),
+        },
+        {
+            "trend_label": "🟢 기회 신호",
+            "title": f"시장 기회 {len(opp_articles)}건 포착",
+            "desc": (
+                f"신규 출시·성장·수상 관련 긍정 신호 {len(opp_articles)}건이 감지됩니다. "
+                f"주목 기사: {top_title(opp_articles)}. "
+                f"삼성 Bespoke {cat_counts.get('Samsung Bespoke',0)}건, "
+                f"Jet Bot {cat_counts.get('Samsung Jet Bot',0)}건 커버리지 확인 바랍니다."
+            ),
+        },
+        {
+            "trend_label": "🟡 경쟁사 동향",
+            "title": f"경쟁사 기사 {cat_counts.get('Competitor Analysis',0)}건",
+            "desc": (
+                f"LG·Whirlpool·Haier 등 주요 경쟁사 관련 {cat_counts.get('Competitor Analysis',0)}건 수집. "
+                f"주요 동향: {top_title(comp_articles)}. "
+                f"시장 전반 기사 {cat_counts.get('Market Dynamics',0)}건, "
+                f"기술 트렌드 {cat_counts.get('Technology Trend',0)}건 함께 검토 권장."
+            ),
+        },
+    ]
+    return takeaways
 
 
 def save_data(articles: list, takeaways: list):
@@ -293,8 +300,8 @@ def save_data(articles: list, takeaways: list):
 def main():
     print(f"\n{'='*60}")
     print(f" Samsung DA Briefing  |  {NOW.strftime('%Y-%m-%d %H:%M KST')}")
-    print(f" 수집: Google News RSS + Bing News RSS")
-    print(f" 범위: 최근 24시간 | 분석: Claude haiku 2회")
+    print(f" 수집: Google News RSS + Bing News RSS (완전 무료)")
+    print(f" 번역: Google Translate | Takeaways: 규칙 기반")
     print(f"{'='*60}\n")
 
     print("[1/4] 뉴스 수집 중...")
@@ -303,7 +310,6 @@ def main():
     for i, item in enumerate(QUERIES):
         cat, q = item["category"], item["q"]
         print(f"  [{i+1:02d}/{total}] {cat} | {q}")
-
         g = fetch_google(q, cat)
         b = fetch_bing(q, cat)
         print(f"         Google {len(g)}개 / Bing {len(b)}개")
@@ -312,7 +318,6 @@ def main():
         time.sleep(1)
 
     articles = deduplicate(raw)
-    # 최신순 정렬
     articles.sort(key=lambda a: a.get("pub_ts", 0), reverse=True)
     print(f"\n  원본 {len(raw)}개 → 중복 제거 후 {len(articles)}개 (최신순)\n")
 
@@ -325,20 +330,12 @@ def main():
         ])
         return
 
-    # 번역 (제목 + 요약 → 한국어)
-    print("[2/4] 한국어 번역 중 (Claude haiku)...")
+    print("[2/4] 한국어 번역 중 (Google Translate)...")
     articles = translate_articles(articles)
 
-    print("[3/4] Takeaways 생성 중 (Claude haiku)...")
-    try:
-        takeaways = generate_takeaways(articles)
-    except Exception as e:
-        print(f"  [ERROR] Takeaways 실패: {e}")
-        takeaways = [
-            {"trend_label": "⚠ 생성 실패", "title": "오늘의 주요 동향", "desc": "아래 기사를 참조하세요."},
-            {"trend_label": "—", "title": "—", "desc": "—"},
-            {"trend_label": "—", "title": "—", "desc": "—"},
-        ]
+    print("[3/4] Takeaways 생성 중 (규칙 기반)...")
+    takeaways = generate_takeaways(articles)
+    print(f"  ✅ {len(takeaways)}개 생성")
 
     print("[4/4] 저장 중...")
     save_data(articles, takeaways)
