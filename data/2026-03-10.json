@@ -1,13 +1,13 @@
 {
   "date": "2026-03-10",
   "date_display": "2026년 03월 10일",
-  "generated_at": "2026-03-10T17:48:37.652295+09:00",
-  "generated_at_display": "2026.03.10 17:48 KST",
+  "generated_at": "2026-03-10T17:59:25.887419+09:00",
+  "generated_at_display": "2026.03.10 17:59 KST",
   "category_counts": {
     "Samsung Bespoke": 1,
     "Samsung DA": 1,
     "Technology Trend": 1,
-    "Market Dynamics": 21,
+    "Market Dynamics": 22,
     "Competitor Analysis": 3
   },
   "takeaways": [
@@ -45,8 +45,8 @@
       "category": "Samsung DA",
       "title": "Samsung Aims High to Become World’s No. 1 with Premium Home Appliance 9000 Series - samsung.com",
       "media": "samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TQWFIdmVKci1UZTB2SXNwRE9qMmdxNEtBV0k0TXVKMloxTFhLRFFlRkp4Zkk2SjdYRUMxNG1JWmhYUDZiVkd4eTFaTDIyWWJRN1c0Nm5QbkRNNmxyQ2ZIbEpxUHVFVlN6d3VHR2lTUlJQak1f?oc=5",
-      "time": "17h ago",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UTGNDMWRTNVhWcG01cXJjQW05cHkxVjhCSU5ubmF5b3ZhRXY5YlVfSnZNNi1KYV9pT2dmMjlITDRVNllNbzFubXZMQ3VycjdiMXB5QjJxcGZtczE4NmZVOE02Wnd3TnVkejBxVXBxb0JWSFpf?oc=5",
+      "time": "10h ago",
       "summary_kr": "Samsung Aims High to Become World’s No. 1 with Premium Home Appliance 9000 Series  samsung.com",
       "strategic_implications": "",
       "impact": 4,
@@ -134,6 +134,19 @@
     },
     {
       "category": "Market Dynamics",
+      "title": "15 Modern Kitchen Trends Everyone Secretly Hates In 2026 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45dmRjTnZZem9fOTU5ZUNranFKd0Q4dU0tYVA5NmJkVFZZcWVKQVdfcFY4Z0hOc3RuR0FTR1dDVWdMN1N4eTA5azlvOVI5ekFTX2Jad19TN2stWVJqbURwOGlzWjF5RDduTzY5YWRMZGJCeDVfbEY4?oc=5",
+      "time": "5h ago",
+      "summary_kr": "15 Modern Kitchen Trends Everyone Secretly Hates In 2026  AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
       "title": "The 10 Most Reliable Refrigerator Brands According To Consumer Reports - bgr.com",
       "media": "bgr.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPalBXOXA1WGJhRTJFN3RHRVJ5dXpPaks1NEtjVUZoWW5VeDVCMXk4TnY1MmxDcHpCWHU2TXFOY1pPdEtqOXlIbl9XcVVrVi03ZDZSZS02SHlzNXllS1NtblpwX21Oa0ZIOW1NbFE5bW1LT2tva2ZvUnZOQmFqOV9aTnBXeXI?oc=5",
@@ -176,7 +189,7 @@
       "title": "These 11 Ninja appliances make cooking easier — and they’re up to 35% off on Amazon - Tom's Guide",
       "media": "Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWk5SEVYSnJod3ZiTHg2OEl0dUpnRnJoSE9QQmFHb3hzYnRCLVhfaEQwWUJpajhEckdmM0E3ekZNc2VhcUxzbjJzUWNOR05pRzJwRkJRZ1c0ZG5FWEZvdktjVW82MU5RV05mT0NHWDNPUjg5M1dHTnNwdy0xS2VaNlhGODBtWnpER0I2SktJaGdITXdCaXE3TXF6WnFyRGxmQXpfUHNIQVFHZHNScmIzMnBHNWZUbi1reHhaR0hwNlN6cU9LSjYzdTJ2UlBYQQ?oc=5",
-      "time": "15h ago",
+      "time": "16h ago",
       "summary_kr": "These 11 Ninja appliances make cooking easier — and they’re up to 35% off on Amazon  Tom's Guide",
       "strategic_implications": "",
       "impact": 3,
@@ -254,7 +267,7 @@
       "title": "UK households that use air fryers set for new £126 cost from April - Daily Record",
       "media": "Daily Record",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMzZpTno4bXJUNHRua2lxSFI1NFJ1SFREMWhWejBEWFNadnpaYVNESHBPaXh0VC1FTTh0WVNHQkp5eHRzS19mQzhEVTVLQ09pWFNwNzJGLVBmc1BXY1FOZi1oNEppejJmTzg1bmFsalRoUU56TU5HMDlMdlJDR2ZsdUNBd9IBiAFBVV95cUxQR0pmd3I3Q2hsclcybGpabjBnVUp1cm1LRGlEM3R1Q0hyTmJxbXlyNW5iWkRXcnA0NjZxLWpuZU1WT1pMRkNISENORkJyekc2aXQ5MUhxb3pBODQtaWctb0tLaE5XUm9PS3c5aS01Ynd1T1JOYkp1Ti11QWlxMGstbTd1VDIwTGVF?oc=5",
-      "time": "18h ago",
+      "time": "19h ago",
       "summary_kr": "UK households that use air fryers set for new £126 cost from April  Daily Record",
       "strategic_implications": "",
       "impact": 5,
@@ -280,7 +293,7 @@
       "title": "LPG Price Hike Sparks Surge In Induction Cooker And Electric Appliance Sales In Kolkata - News18",
       "media": "News18",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU0FVQmY4V1c4MUJKajBCZEdwWmhHQTBqbk1NVl9fUW43MDZYeHpNT0djTWpxOUhydE15LVZOelFqWHdkTVo2M0p2THdGOTBzbXFrQ2gxVmo1aENaMEVJUGRoTGJ4bkUtNzVCb0hubmN6SU15UXNQWGM4SXlJbW52VDM3WjlZUzFiRzVZekVMTGNxeEZmTHVVTHlMWnhZRkdIUnEtRFNJaHZyRWJoNjdZTGliWkk0TEVMODJjR0VtclZQS1JfZ0ZBd25yOTBHb1FnZGfSAdcBQVVfeXFMTUdOMDhyTE5CZGx0UHc2Ukhqd05LNWVXRV9HdDdJR180ZlFiYnQyNnZMVGlmcWp6eEo3Ym91SFNGaVNFUE1zN2FvMEtIM2w2T0FJWE8yOWRHOGJ3b183LWV0UUN3WFF5QUhuVXU5ZVFyeUxLLXdkZ3hGSjNzX09pdEhBY0ZRdkZCM2RtZzZ4Wk1nUGVjcXoxRDQ3aW5xTVVEcjZ3LWdyRVRPeE0wNklNbURlaUl4eVA5eUxtMl9IT3NtWFQ1OUNwOUY0YTV4VkFHeHJQUXhBTmc?oc=5",
-      "time": "6h ago",
+      "time": "7h ago",
       "summary_kr": "LPG Price Hike Sparks Surge In Induction Cooker And Electric Appliance Sales In Kolkata  News18",
       "strategic_implications": "",
       "impact": 4,
@@ -306,7 +319,7 @@
       "title": "Häfele Becomes Exclusive UK Distributor of Miele Appliances - Insight DIY",
       "media": "Insight DIY",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaDlVWWFLSk91SWF6eFZnejZORnlFZ1RNaENxcXhqVklSNlBaeEJhRVNqUWE4M3ZsNG5pRGxucE44enh0SVZhRWlGNGl5QmdIdFl0WGRwMkppcmZjN0NJSXhJTkU2RmlVcUtBVGp4VHNqZU1GV0hjUlViZzBFelZlZHNKQ2VnMmt6RzFEVWg3Vl9YTHlLN0hYaGQ5UjlPT2h0NEN4cQ?oc=5",
-      "time": "19h ago",
+      "time": "20h ago",
       "summary_kr": "Häfele Becomes Exclusive UK Distributor of Miele Appliances  Insight DIY",
       "strategic_implications": "",
       "impact": 3,

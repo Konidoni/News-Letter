@@ -43,22 +43,22 @@ def build_html(manifest: dict, days_data: dict) -> str:
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700;900&family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root {{
-  --samsung-blue:#1428A0;--samsung-blue-accent:#2554D4;--samsung-sky:#4AACFF;
-  --bg-deep:#07090F;--bg-card:#0D1020;--bg-card-hover:#111525;
-  --border:rgba(255,255,255,0.07);--border-blue:rgba(20,40,160,0.5);
-  --text-primary:#F0F2FF;--text-secondary:#8A90B0;--text-muted:#4A5080;
-  --accent-gold:#C8A84B;--accent-red:#E84B4B;--accent-green:#2ECC8E;
+  --samsung-blue:#1428A0;--samsung-blue-accent:#2A50D8;--samsung-sky:#1A6FE8;
+  --bg-deep:#F5F0E8;--bg-card:#FFFDF8;--bg-card-hover:#FFF8ED;
+  --border:rgba(0,0,0,0.09);--border-blue:rgba(20,40,160,0.2);
+  --text-primary:#1A1A2E;--text-secondary:#3D3D5C;--text-muted:#8A8AA8;
+  --accent-gold:#B8860B;--accent-red:#C0392B;--accent-green:#1A7A4A;
   --font-display:'DM Serif Display',serif;
   --font-body:'Noto Sans KR',sans-serif;
   --font-mono:'DM Mono',monospace;
 }}
 *{{margin:0;padding:0;box-sizing:border-box;}}
 body{{font-family:var(--font-body);background:var(--bg-deep);color:var(--text-primary);min-height:100vh;-webkit-font-smoothing:antialiased;overflow-x:hidden;}}
-body::before{{content:'';position:fixed;top:0;left:0;width:100%;height:100%;background:radial-gradient(ellipse 80% 50% at 20% -10%,rgba(20,40,160,.25) 0%,transparent 60%),radial-gradient(ellipse 60% 40% at 80% 100%,rgba(20,40,160,.15) 0%,transparent 50%);pointer-events:none;z-index:0;}}
+body::before{{content:'';position:fixed;top:0;left:0;width:100%;height:100%;background:radial-gradient(ellipse 80% 50% at 20% -10%,rgba(20,40,160,.06) 0%,transparent 60%),radial-gradient(ellipse 60% 40% at 80% 100%,rgba(20,40,160,.04) 0%,transparent 50%);pointer-events:none;z-index:0;}}
 .wrapper{{position:relative;z-index:1;max-width:1440px;margin:0 auto;padding:0 24px;}}
 
 /* HEADER */
-header{{border-bottom:1px solid var(--border);background:rgba(7,9,15,.9);backdrop-filter:blur(20px);position:sticky;top:0;z-index:100;}}
+header{{border-bottom:1px solid var(--border);background:rgba(245,240,232,.95);backdrop-filter:blur(20px);position:sticky;top:0;z-index:100;}}
 .header-inner{{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;max-width:1440px;margin:0 auto;gap:12px;flex-wrap:wrap;}}
 .header-left{{display:flex;align-items:center;gap:14px;}}
 .logo-mark{{width:34px;height:34px;background:var(--samsung-blue);border-radius:7px;display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;color:#fff;flex-shrink:0;letter-spacing:.05em;}}
@@ -69,18 +69,18 @@ header{{border-bottom:1px solid var(--border);background:rgba(7,9,15,.9);backdro
 .live-dot{{width:5px;height:5px;border-radius:50%;background:var(--accent-green);animation:pulse 2s infinite;}}
 @keyframes pulse{{0%,100%{{opacity:1;transform:scale(1);}}50%{{opacity:.5;transform:scale(1.4);}}}}
 .timestamp{{font-size:10px;color:var(--text-muted);font-family:var(--font-mono);}}
-.refresh-btn{{display:flex;align-items:center;gap:5px;padding:6px 12px;border-radius:7px;border:1px solid rgba(20,40,160,.5);background:rgba(20,40,160,.15);color:#7BA7FF;font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;cursor:pointer;text-decoration:none;transition:all .2s;font-family:var(--font-mono);white-space:nowrap;}}
-.refresh-btn:hover{{background:rgba(20,40,160,.35);border-color:var(--samsung-sky);color:var(--samsung-sky);}}
+.refresh-btn{{display:flex;align-items:center;gap:5px;padding:6px 12px;border-radius:7px;border:1px solid rgba(20,40,160,.3);background:rgba(20,40,160,.08);color:var(--samsung-blue);font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;cursor:pointer;text-decoration:none;transition:all .2s;font-family:var(--font-mono);white-space:nowrap;}}
+.refresh-btn:hover{{background:rgba(20,40,160,.15);border-color:var(--samsung-blue);color:var(--samsung-blue);}}
 .refresh-btn svg{{transition:transform .4s;}}
 .refresh-btn:hover svg{{transform:rotate(180deg);}}
 
 /* DATE TABS */
-.date-tabs-wrap{{background:rgba(7,9,15,.7);border-bottom:1px solid var(--border);backdrop-filter:blur(10px);position:sticky;top:62px;z-index:90;overflow-x:auto;scrollbar-width:none;}}
+.date-tabs-wrap{{background:rgba(245,240,232,.9);border-bottom:1px solid var(--border);backdrop-filter:blur(10px);position:sticky;top:62px;z-index:90;overflow-x:auto;scrollbar-width:none;}}
 .date-tabs-wrap::-webkit-scrollbar{{display:none;}}
 .date-tabs{{display:flex;gap:0;padding:0 24px;max-width:1440px;margin:0 auto;width:max-content;min-width:100%;}}
 .date-tab{{padding:10px 18px;font-size:12px;font-weight:600;color:var(--text-muted);cursor:pointer;border:none;background:transparent;border-bottom:2px solid transparent;white-space:nowrap;transition:all .2s;font-family:var(--font-body);letter-spacing:.02em;}}
 .date-tab:hover{{color:var(--text-secondary);}}
-.date-tab.active{{color:var(--samsung-sky);border-bottom-color:var(--samsung-sky);}}
+.date-tab.active{{color:var(--samsung-blue);border-bottom-color:var(--samsung-blue);}}
 .date-tab.today-tab{{color:var(--accent-green);}}
 .date-tab.today-tab.active{{border-bottom-color:var(--accent-green);}}
 
@@ -104,16 +104,16 @@ header{{border-bottom:1px solid var(--border);background:rgba(7,9,15,.9);backdro
 /* TAKEAWAYS */
 .takeaways-grid{{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;}}
 @media(max-width:900px){{.takeaways-grid{{grid-template-columns:1fr;}}}}
-.takeaway-card{{background:linear-gradient(135deg,rgba(20,40,160,.2),rgba(13,16,32,.8));border:1px solid rgba(20,40,160,.35);border-radius:12px;padding:18px;position:relative;overflow:hidden;transition:transform .2s,border-color .2s;}}
-.takeaway-card:hover{{transform:translateY(-2px);border-color:rgba(37,84,212,.6);}}
-.takeaway-card::before{{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--samsung-blue),var(--samsung-sky));}}
-.takeaway-num{{font-family:var(--font-display);font-size:44px;line-height:1;color:rgba(20,40,160,.3);position:absolute;top:10px;right:14px;font-style:italic;}}
+.takeaway-card{{background:linear-gradient(135deg,rgba(20,40,160,.07),rgba(240,235,225,.9));border:1px solid rgba(20,40,160,.15);border-radius:12px;padding:18px;position:relative;overflow:hidden;transition:transform .2s,border-color .2s;box-shadow:0 2px 12px rgba(0,0,0,.06);}}
+.takeaway-card:hover{{transform:translateY(-2px);border-color:rgba(20,40,160,.3);box-shadow:0 6px 20px rgba(0,0,0,.1);}}
+.takeaway-card::before{{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--samsung-blue),#6AABFF);}}
+.takeaway-num{{font-family:var(--font-display);font-size:44px;line-height:1;color:rgba(20,40,160,.12);position:absolute;top:10px;right:14px;font-style:italic;}}
 .takeaway-trend{{font-size:9px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--accent-gold);margin-bottom:7px;font-family:var(--font-mono);}}
 .takeaway-title{{font-size:14px;font-weight:700;line-height:1.45;margin-bottom:8px;padding-right:38px;}}
 .takeaway-desc{{font-size:12px;color:var(--text-secondary);line-height:1.7;}}
 
 /* STATS */
-.stats-bar{{display:flex;border:1px solid var(--border);border-radius:10px;overflow:hidden;margin-bottom:24px;flex-wrap:wrap;}}
+.stats-bar{{display:flex;border:1px solid var(--border);border-radius:10px;overflow:hidden;margin-bottom:24px;flex-wrap:wrap;background:var(--bg-card);box-shadow:0 1px 6px rgba(0,0,0,.05);}}
 .stat-item{{flex:1;min-width:100px;padding:12px 18px;border-right:1px solid var(--border);display:flex;flex-direction:column;gap:3px;}}
 .stat-item:last-child{{border-right:none;}}
 .stat-value{{font-size:20px;font-weight:900;letter-spacing:-.02em;font-family:var(--font-mono);}}
@@ -125,37 +125,37 @@ header{{border-bottom:1px solid var(--border);background:rgba(7,9,15,.9);backdro
 .news-grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:14px;}}
 @media(max-width:580px){{.news-grid{{grid-template-columns:1fr;}}}}
 a.news-card{{display:block;text-decoration:none;color:inherit;}}
-.news-card{{background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:20px;transition:all .25s;animation:fadeInUp .35s ease both;}}
-.news-card:hover{{background:var(--bg-card-hover);border-color:rgba(255,255,255,.13);transform:translateY(-2px);box-shadow:0 10px 36px rgba(0,0,0,.4);}}
+.news-card{{background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:20px;transition:all .25s;animation:fadeInUp .35s ease both;box-shadow:0 1px 6px rgba(0,0,0,.05);}}
+.news-card:hover{{background:var(--bg-card-hover);border-color:rgba(20,40,160,.2);transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,.1);}}
 .card-header{{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;margin-bottom:12px;}}
 .category-badge{{font-size:9px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:3px 9px;border-radius:4px;white-space:nowrap;font-family:var(--font-mono);}}
-.cat-competitor{{background:rgba(232,75,75,.15);color:#E84B4B;border:1px solid rgba(232,75,75,.25);}}
-.cat-tech{{background:rgba(74,172,255,.12);color:#4AACFF;border:1px solid rgba(74,172,255,.2);}}
-.cat-macro{{background:rgba(200,168,75,.12);color:#C8A84B;border:1px solid rgba(200,168,75,.2);}}
-.cat-market{{background:rgba(46,204,142,.12);color:#2ECC8E;border:1px solid rgba(46,204,142,.2);}}
-.cat-supply{{background:rgba(155,127,232,.12);color:#9B7FE8;border:1px solid rgba(155,127,232,.2);}}
-.cat-samsung{{background:rgba(20,40,160,.25);color:#7BA7FF;border:1px solid rgba(20,40,160,.5);}}
-.cat-reviews{{background:rgba(255,165,50,.12);color:#FFA532;border:1px solid rgba(255,165,50,.25);}}
+.cat-competitor{{background:rgba(192,57,43,.1);color:#A0291D;border:1px solid rgba(192,57,43,.2);}}
+.cat-tech{{background:rgba(20,40,160,.1);color:#1428A0;border:1px solid rgba(20,40,160,.2);}}
+.cat-macro{{background:rgba(184,134,11,.1);color:#8A6500;border:1px solid rgba(184,134,11,.2);}}
+.cat-market{{background:rgba(26,122,74,.1);color:#145C38;border:1px solid rgba(26,122,74,.2);}}
+.cat-supply{{background:rgba(100,60,180,.1);color:#5A2EA0;border:1px solid rgba(100,60,180,.2);}}
+.cat-samsung{{background:rgba(20,40,160,.1);color:#1428A0;border:1px solid rgba(20,40,160,.25);}}
+.cat-reviews{{background:rgba(180,100,20,.1);color:#8A4A00;border:1px solid rgba(180,100,20,.2);}}
 .card-time{{font-size:10px;color:var(--text-muted);font-family:var(--font-mono);white-space:nowrap;}}
 .card-title{{font-size:15px;font-weight:700;line-height:1.45;margin-bottom:10px;letter-spacing:-.01em;}}
 .card-section-label{{font-size:9px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--text-muted);margin-bottom:5px;font-family:var(--font-mono);}}
 .card-summary{{font-size:12.5px;color:var(--text-secondary);line-height:1.75;margin-bottom:12px;}}
-.implications-box{{background:rgba(20,40,160,.1);border:1px solid rgba(20,40,160,.3);border-left:3px solid var(--samsung-blue-accent);border-radius:0 7px 7px 0;padding:10px 13px;margin-bottom:12px;}}
-.implications-text{{font-size:12px;color:#C5CFFF;line-height:1.75;}}
+.implications-box{{background:rgba(20,40,160,.05);border:1px solid rgba(20,40,160,.15);border-left:3px solid var(--samsung-blue);border-radius:0 7px 7px 0;padding:10px 13px;margin-bottom:12px;}}
+.implications-text{{font-size:12px;color:#2A3060;line-height:1.75;}}
 .impl-tags{{display:flex;gap:5px;flex-wrap:wrap;margin-top:7px;}}
 .impl-tag{{font-size:9px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:2px 7px;border-radius:3px;font-family:var(--font-mono);}}
-.impl-risk{{background:rgba(232,75,75,.12);color:#E84B4B;}}
-.impl-opp{{background:rgba(46,204,142,.12);color:#2ECC8E;}}
-.impl-watch{{background:rgba(200,168,75,.12);color:#C8A84B;}}
+.impl-risk{{background:rgba(192,57,43,.1);color:#A0291D;}}
+.impl-opp{{background:rgba(26,122,74,.1);color:#145C38;}}
+.impl-watch{{background:rgba(184,134,11,.1);color:#8A6500;}}
 .card-footer{{display:flex;justify-content:space-between;align-items:center;}}
 .media-name{{font-size:11px;font-weight:600;color:var(--text-secondary);}}
 .impact-meter{{display:flex;align-items:center;gap:5px;}}
 .impact-label{{font-size:9px;color:var(--text-muted);font-family:var(--font-mono);}}
 .impact-bars{{display:flex;gap:2px;}}
 .impact-bar{{width:3px;height:12px;border-radius:2px;}}
-.impact-bar.filled-high{{background:var(--accent-red);}}.impact-bar.filled-med{{background:var(--accent-gold);}}.impact-bar.filled-low{{background:#3A4060;}}
+.impact-bar.filled-high{{background:var(--accent-red);}}.impact-bar.filled-med{{background:var(--accent-gold);}}.impact-bar.filled-low{{background:#D4CEBC;}}
 .share-btn{{background:transparent;border:1px solid var(--border);border-radius:5px;padding:4px 9px;font-size:10px;font-weight:600;color:var(--text-muted);cursor:pointer;display:flex;align-items:center;gap:4px;transition:all .2s;font-family:var(--font-body);}}
-.share-btn:hover{{border-color:var(--samsung-sky);color:var(--samsung-sky);}}
+.share-btn:hover{{border-color:var(--samsung-blue);color:var(--samsung-blue);}}
 .share-btn.copied{{border-color:var(--accent-green);color:var(--accent-green);}}
 
 /* EMPTY */
@@ -171,8 +171,8 @@ a.news-card{{display:block;text-decoration:none;color:inherit;}}
 .animate-in{{animation:fadeInUp .4s ease both;}}
 .d1{{animation-delay:.05s;}}.d2{{animation-delay:.1s;}}.d3{{animation-delay:.15s;}}
 
-mark{{background:rgba(74,172,255,.25);color:var(--samsung-sky);border-radius:2px;padding:0 2px;}}
-::-webkit-scrollbar{{width:5px;}}::-webkit-scrollbar-track{{background:var(--bg-deep);}}::-webkit-scrollbar-thumb{{background:#1E2540;border-radius:3px;}}
+mark{{background:rgba(20,40,160,.12);color:var(--samsung-blue);border-radius:2px;padding:0 2px;}}
+::-webkit-scrollbar{{width:5px;}}::-webkit-scrollbar-track{{background:var(--bg-deep);}}::-webkit-scrollbar-thumb{{background:#C8C0AA;border-radius:3px;}}
 </style>
 </head>
 <body>
