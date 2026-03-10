@@ -28,6 +28,25 @@ BLOCKED_DOMAINS = (
     "koreatimes", "koreaherald", ".cn", ".jp", "sina.", "qq.com",
 )
 
+# 어그리게이터 / 신디케이션 매체 — 원본 기사 재탕
+BLOCKED_MEDIA = {
+    "aol", "msn", "yahoo news", "yahoo finance", "flipboard",
+    "smartnews", "ground news", "newsnow", "alltop", "feedly",
+    "pocketworthy", "upworthy", "buzzfeed", "patch",
+    "dailymotion", "dailymail", "the mirror", "the sun",
+}
+
+# 삼성이 만들지 않는 제품 키워드 — 제목에 포함 시 제외
+OFF_TOPIC_KEYWORDS = (
+    "air fryer", "airfryer", "ninja", "instant pot", "instant vortex",
+    "cosori", "philips airfryer", "gourmia", "actifry",
+    "coffee maker", "coffee machine", "espresso", "keurig", "nespresso",
+    "toaster", "microwave oven",           # 삼성 비주력 소형가전
+    "blender", "juicer", "food processor",
+    "lawnmower", "lawn mower", "chainsaw",
+    "power tool", "drill",
+)
+
 QUERIES = [
     {"category": "Samsung Bespoke",     "q": "samsung bespoke"},
     {"category": "Samsung Bespoke",     "q": "samsung bespoke refrigerator washer"},
@@ -76,6 +95,13 @@ def parse_rss_items(content: bytes, category: str, source_tag: str) -> list:
         if not title or not link:
             continue
         if any(bd in link.lower() for bd in BLOCKED_DOMAINS):
+            continue
+        # 어그리게이터 매체 제외
+        if source.lower().strip() in BLOCKED_MEDIA:
+            continue
+        # 삼성 비생산 제품 키워드 제외
+        title_lower = title.lower()
+        if any(kw in title_lower for kw in OFF_TOPIC_KEYWORDS):
             continue
 
         time_str = "Today"
