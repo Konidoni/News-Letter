@@ -1,10 +1,10 @@
 {
   "date": "2026-03-12",
   "date_display": "2026년 03월 12일",
-  "generated_at": "2026-03-12T16:19:21.876681+09:00",
-  "generated_at_display": "2026.03.12 16:19 KST",
+  "generated_at": "2026-03-12T16:36:43.405854+09:00",
+  "generated_at_display": "2026.03.12 16:36 KST",
   "category_counts": {
-    "Market Dynamics": 23,
+    "Market Dynamics": 21,
     "Technology Trend": 2,
     "Competitor Analysis": 2,
     "Samsung Bespoke": 1
@@ -12,18 +12,18 @@
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
-      "title": "주요 리스크 1건 감지",
-      "desc": "오늘 수집된 28건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: LPG 공급 우려 속에 주방가전주 상승 - Business Standard. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 26건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 7건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: LPG 위기: TTK프레스티지, 인덕션 판매로 기타 가전업체 주가 사흘째 상승…. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "title": "시장 기회 6건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: LPG 위기: TTK프레스티지, 인덕션 판매로 기타 가전업체 주가 사흘째 상승…. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
       "title": "경쟁사 기사 2건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: LG전자, 미국 접근성 컨퍼런스에서 포용적 기술 주목 - CHOSUNBIZ - 조선비즈. 시장 전반 기사 23건, 기술 트렌드 2건 함께 검토 권장."
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: LG전자, 미국 접근성 컨퍼런스에서 포용적 기술 주목 - CHOSUNBIZ - 조선비즈. 시장 전반 기사 21건, 기술 트렌드 2건 함께 검토 권장."
     }
   ],
   "articles": [
@@ -102,7 +102,7 @@
       "title": "가정용 에너지 효율적인 에어컨 - Zee News",
       "media": "Zee News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd29OZlVsaVFMYWZITzdWQlBYdVllTk1rWjBuemNyVkQ3Z0VnUlF3UzNjRHpISkU2eXdlUi1yRTFUQllsZUQyd2Q1QnVqM3J5S2EzR2g4YUNOdFFJaDN1N1hNRWh0NngySlIwTFhKLUlwV2g3SFNFcHV4UWh0aVR1WjVRdVFrelkzcEFLU2hVVC1JYVNMMXY00gGXAUFVX3lxTE93b05mVWxpUUxhZkhPN1ZCUFh1WWVOTWtaMG56Y3JWRDdnRWdSUXdTM2NEekhKRTZ5d2VSLXJFMVRCWWxlRDJ3ZDVCdWozcnlLYTNHaDhhQ050UUloM3U3WE1FaHQ2eDJKUjBMWEotSXBXaDdIU0VwdXhRaHRpVHVaNVF1UWt6WTNwQUtTaFVULUlhU0wxdjQ?oc=5",
-      "time": "Just now",
+      "time": "1h ago",
       "pub_ts": 1773297000,
       "summary_kr": "",
       "strategic_implications": "",
@@ -116,7 +116,7 @@
       "title": "전기밥솥 시장은 2033년까지 7.74%로 85억 달러에 이를 것 - openPR.com",
       "media": "openPR.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaEY1SXlYYllzblg4S1JlWVR4MXZCbmNQNTU0NC1yUHZFZlU5OTdNX0NGUURScGxIQTByaXBWdV9ETUxDSEdWa0JfeVkwNDFQLTI0YWxlSVRibVN1ckFqXzJRX0I0SUZUMmYyeElQaGFORUpwbl9LVHg1TGtPR1N3a3RfbzVlbHJpb1lDSkZpa2xkRThjZ05qampDMXFVQkE?oc=5",
-      "time": "Just now",
+      "time": "1h ago",
       "pub_ts": 1773296546,
       "summary_kr": "",
       "strategic_implications": "",
@@ -172,7 +172,7 @@
       "title": "나는 이 상징적인 KitchenAid 스탠드 믹서를 거의 매일 사용합니다. 그리고 이 5가지 필수 액세서리는 내 창작물의 수준을 크게 높여주었습니다. - Tom's Guide",
       "media": "Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQa2pwRmJKVF9XeDk4bUNjSDYtS1JUZXRueFdjT3lTNXgxNVdlMktjVHJjTHZuQllKbFp1SV8xSG9zdDJUcDUxUmcySTVzYjg5cHZVM0l4OXZUM0s0MjFhTXFGZGFLS3lubV9PSTVzWFh2X1lOdFBWUlZSWncweVZYS01fRWxsVWdrVVBJcGduRENfNnotN2xTZkNaN0VlSG1laGRGWEh0aHlZeHo1WjU1NFNOMVp2RFpaV1lwbDVueHBhUU5sQnQ5SWUwRmVrQl9ZUEV4bHpKdFptY3hOVTZ5TEFLNXE0b0lpWmJyLWNIX1BPQ0Y5SV9OT1pHM0VJelBhR21oWVBnZ0xDT2Zab1E?oc=5",
-      "time": "2h ago",
+      "time": "3h ago",
       "pub_ts": 1773289815,
       "summary_kr": "저는 이 상징적인 KitchenAid 스탠드 믹서를 거의 매일 사용합니다. 이 5가지 필수 액세서리는 제 작품의 수준을 크게 높여주었습니다. 톰의 가이드",
       "strategic_implications": "",
@@ -228,7 +228,7 @@
       "title": "일렉트로룩스(Electrolux), 호주와 뉴질랜드에 새로운 스팀오븐과 인덕션 쿡탑 출시 - Channelnews.com.au",
       "media": "channelnews.com.au",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWpEWEpFQmVWc1FWRHAweUJuTngtbEc5Vy03eWlveHJWeVcwbFY0azhiLTFkbGR3ZWRTYVJTNk1PSDBzM1J3YlZpS3ZmWTRpcHY1bDdnc1IxSFRZVUh2QkxTcTNuM2NhNnVZRmRzTHVPY29MbGZ1NEo3cUhRaGxvSndDNjgzYnpHbmhucFdjdml3cDhMZWc3Y3p3ODRFamdIWlZmRmRRWTVCYUpLQnFpcWNGQUtrdEx5Y01wTA?oc=5",
-      "time": "6h ago",
+      "time": "7h ago",
       "pub_ts": 1773274935,
       "summary_kr": "Electrolux, 호주와 뉴질랜드를 위한 새로운 스팀 오븐 및 인덕션 쿡탑 출시 채널news.com.au",
       "strategic_implications": "",
@@ -252,25 +252,11 @@
       ]
     },
     {
-      "category": "Market Dynamics",
-      "title": "Big Joe Appliance Repair Service, 샌디에이고의 고급 Sub-Zero 시스템에 대한 향상된 엔지니어링 표준 발표 - mykxlg.com",
-      "media": "mykxlg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPWWQ2a0VSMWRyRzlBY2NrSWFLbjg1WkxiUGhCQ210Rzg0cnZVZS1ZZkZDY2FnSndITzcyNExtWUd6cEdMVzg5cklZSm80SGcwQUV0Rk91VkFYeWpBOHdPdXdac0VWaVpTZm9oMFJlaENUbXc1X2xsYnJyYWF6dmRpNmpUQV9fQ3ZnWHpQejlwbk9BNURVakZSVkt6b1VROVRRZ24wc1BwVW90WHFMMnI1QkVSSlM0c1hkMThoQXdLQk1ndjA5MmhJalQ5YXh1QTJDVG9uMmNPQzQwU2RuR0ZMM1hiYWEyNFZkdllJRmI1R0ZERi1PMGJUSFROTHZJdllLdmJxV3BPU3Z4UEE5ZTA3N0hiRkk3UHBwMmFoRUZYNW91LXBjNVBDUncxVTU2aVE5cnc?oc=5",
-      "time": "12h ago",
-      "pub_ts": 1773254580,
-      "summary_kr": "Big Joe Appliance Repair Service, 샌디에이고의 고급 Sub-Zero 시스템에 대한 향상된 엔지니어링 표준 발표 mykxlg.com",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
       "category": "Competitor Analysis",
       "title": "LG 테네시공장, 성형 우수성 달성 - PlasticsToday",
       "media": "PlasticsToday",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbjNqVmNZTDM0dERzUUJ2MXVKRzFCMzA5MGpPX0piZ2NlQTc1ZHNiWklzNHJwSnN5Z1E0ZmpQdXRBQWhjeldHR0wzY25ZRzJ2YVF3clY5YjJ3NkxiSkpYOE8wby1YbnNaRC1OVjlCblNYNDJucmZCY2VSaUdkOWtWM3MzbkxfNjc4MW51aXBpVG1kRmR1eXZKejJSN0xsVjN6MnltQ1RBOFlEeVRjTmIyZjgzeTdZUG5XQlE?oc=5",
-      "time": "12h ago",
+      "time": "13h ago",
       "pub_ts": 1773253252,
       "summary_kr": "",
       "strategic_implications": "",
@@ -368,7 +354,7 @@
       "title": "컨슈머 리포트가 선정한 가장 신뢰할 수 있는 주방 가전 브랜드는 더 이상 LG가 아니다 - SlashGear",
       "media": "SlashGear",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0lORnlacXV6NUtNaXlabWNKTk5uZzZDTFRyWGsxSnQ0MUljYmZrM1YxZUlwZThTYThiV1JTZl8xekNrQnhNNW42WU5oOHdWaExab2FpUDVELXVKSDFiTWVpME0xXy11LU0yNlhGdTZldDZjMGtfLWdSVDgxZ1M4OHFUWTFkVUhPMWlTWkMxUm51VGc?oc=5",
-      "time": "22h ago",
+      "time": "23h ago",
       "pub_ts": 1773217800,
       "summary_kr": "컨슈머 리포트가 선정한 가장 신뢰할 수 있는 주방 가전 브랜드는 더 이상 LG 슬래시기어가 아닙니다",
       "strategic_implications": "",
@@ -403,21 +389,6 @@
       "impact": 3,
       "tags": [
         "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "LPG 공급 우려 속에 주방가전주 상승 - Business Standard",
-      "media": "Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEw4R3VQQ0dJeHJQYzhkV2ZWcWM0ZFJnOERqWGoybWFseDgtQTEzYjBEa0xYb1BlUGdhTkxfYzdTTXU2Y1hwNy1nU2hHWEctbmZ4emlTYXlfMFFlSmJ5d24tRnN4bTE5d1lpanRmNFdDV3NmNmlmVnlHS2VJMDNSb2wxd2Y4ZDhEZFFvcWxPRG4xdGdsN0pmWC1aZzlKYVJ3Vm1TOGRhY3ZyUjdVTFVfaVoweDhZdjg2MEhTOGVxYnk2ZU5IWjF2ajhhRXhEdzQ4aGfSAdcBQVVfeXFMUFZobUJKS1ZieGVqT3ktOUNsWEZycldIQWZibUxVUEtqY0pmeXR4NXdOSThpRFdaREtDSWpIakVXOWZiUG5rQlNvT3dKOVgwSm5JWi1qcC1XSnVzQi1wTE9aNlZkMnpVci1EWkJ2UGhKNHBUODEtakRicFdMcTZlOVJoT3lxc1k1bnQ0dFEwTUdPdFJWdmtINXhfNnN0Mmlrck10bnFVQkdZdks3WFlyN0ZRTFZJZHA0YWlleWR0OThsRnB1enlOWFA0VWRRYUJVNnZYbTJSaFE?oc=5",
-      "time": "23h ago",
-      "pub_ts": 1773213626,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "risk",
-        "opp"
       ]
     }
   ]
