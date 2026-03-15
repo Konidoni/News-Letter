@@ -1,0 +1,226 @@
+{
+  "date": "2026-03-16",
+  "date_display": "2026년 03월 16일",
+  "generated_at": "2026-03-16T08:35:55.110562+09:00",
+  "generated_at_display": "2026.03.16 08:35 KST",
+  "category_counts": {
+    "Samsung DA": 2,
+    "Market Dynamics": 11,
+    "Technology Trend": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 14건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 7건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: De'Longhi S.p.A. 주식(ISIN: IT0003115950)은 가전제품 수요가 전반적으로 약화되면서 마진 압박에 직면해 있습니다. - AD HOC NEWS. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 11건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Samsung DA",
+      "title": "삼성, KBIS 2026에서 맞춤형 AI와 Dacor 주방가전 혁신 선보여 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91WUlmMURjQ3JLRENMZnZXX0l4WjJ0OVJhM3RCUnV0UEloQ3pWQnRCY2hxcjRWcGpwSE9hLUswVlNCQkVMSUk2TlRUYUlSV0E1dkgzWW9vb0xlYmNFLTNuOGlfZDZ1MnYxd041SkpoZXhZdw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1773611770,
+      "summary_kr": "삼성, KBIS 2026에서 맞춤형 AI 및 Dacor 주방 가전 혁신 강조 samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "De'Longhi S.p.A. 주식(ISIN: IT0003115950)은 가전제품 수요가 전반적으로 약화되면서 마진 압박에 직면해 있습니다. - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeGtBbnczZkpJejhidGt6UkhULXRCRWVvRWVjOGhvZTBHYTF1V1llRUFIbmhPdXFKQktqYUFzdkdjUHE5ektMYVRKNTd2M1JIZmdJbmFRM2JRSUpxSmNUbjdrOG9Xa1lhdGZLMzd4SGxSRzNFWGxHa3NVU2VXMFJZSWNJRGtzTl8ycHNGZFNCcWsyY1FNZkl4bEE1XzExNTY2UHIwRzVJNGRIdEZnc09aeVVSTjVHeGJ3b1hXeTNVUks?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1773604668,
+      "summary_kr": "De'Longhi S.p.A. 주식(ISIN: IT0003115950)은 AD HOC NEWS 전반에 걸쳐 가전제품 수요가 약화됨에 따라 마진 압박에 직면해 있습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "도구 및 가전제품의 혼합 팔레트 - 5-8 품목 미스터리 특가 상자(d7O4n 블랙) - RuhrkanalNEWS",
+      "media": "RuhrkanalNEWS",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSl9GUTBaSjRwSDVtbU1KNVdSc1RIbUhiTEs1TVBDRkdGdnFWdDJoZkNZSEgtZUdoanlDVzg3Qlo4eWc3N3hHYjdmUUQzbE5yWUtMQlA5Z1RpbVBxSWx3X3FkR2RBTVpuaURsSHVaVmF2LWJHRUs1WGhWa05nYUd1NEtJbmF3ZlRFdzRWdVd4SXhYeHc?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1773601946,
+      "summary_kr": "도구 및 가전제품의 혼합 팔레트 - 5-8 품목 미스터리 특가 상자(d7O4n 블랙)  RuhrkanalNEWS",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "모닝 커피를 공중에서 끌어당기는 마법의 새 가전제품 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWFNKQk5WR0hBWXJrNk9oeUJmTWR1b0ZmTHhGb1lPZ2pVbDlabTh0Q1FDMTNxRFhwOERSXzNBSEFRbmltcExyMk9fNGdaT3BraUJ3ZVhMSTQ3dE1EX2c2YWF0aFIzNnpXamdOSURaV2VYbDVxU1k3UlY0dlR1c0QwdTMtWDdLNGFWZ1E?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1773595737,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "\"내가 소유한 것 중 가장 마음에 드는 것\": 제니퍼 가너(Jennifer Garner)의 주방 조리대 없이는 살 수 없는 필수품 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFBla3pYcE93MW52YW1tcHZ2OFM0eHM1bm85UXYtZmFIWGZKREt3dDJwYWFwdkdXTTFNNl9wdkM5ZmpKb0FhV0pyX2JQQnRIQy1OcklKX1BrUXlnOEZDWjhwS2FTYkVSUWY4T19BYk5WeUlTaFA3azczcnRMZHVZVDRhM2VSM21nTk5YZXpTaWhudFpRbHgwWVRGTWlKbDQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1773593100,
+      "summary_kr": "\"내가 소유한 것 중 가장 마음에 드는 것\": 제니퍼 가너의 주방 조리대 필수품 그녀는 야후 없이는 살 수 없었습니다",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "AI 통합 제품, 상하이 가전 박람회에서 일상생활 시나리오 촉진 - 巴士的報",
+      "media": "巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc08xb2h6cURFeC1nZlF1em5sbF9kLVl5b3lfa3U3YUdVbnFyUGR0SzltMkkyWGNWMXBCSnBWcHBReTFROHZyQVZ6RTM3YU5yRDBXUE1NZF9SUzE1djhHTXBQMEFKMEJUTzVxWGlJTEM4NVpZZVBsOVJtVmprY1dQeTBVWjRnLWJCMDlyS20wOHRJeGlYZEpyUUhsUXRVaTZUR1M5cmNZZ0o1eGl6QklWZ2tMNU9qSURmYTlTeHRrZ3M3ZTFINVhwblAzQXpnQm1rbFE?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1773592024,
+      "summary_kr": "AI 통합 제품은 상하이 가전 박람회에서 일상 생활 시나리오를 촉진합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "가정용 조리기기 시장이 빠르게 성장할 것입니다 |• 월풀(Whirlpool) • 일렉트로룩스(Electrolux) • 보쉬(Bosch) - openPR.com",
+      "media": "openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVAyVDBYaUdkREZxZzg0bXFJbVlFOEhXSG5oR3NETncxNndyOG5Jc2docHNDcnNvZ0xtR1c3dTNOTW9pSVhmYk82MlhTY3c3NFlKSEotOGNCd1lwWU1wSU5aeEJQZHFIM1hISXJEV1hoSzJNaDF2NDA2cjY1VGZzcHozV1VjZjNweXNBUU1ESWxDNkVvWFBvcWV0OA?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1773585315,
+      "summary_kr": "가정용 조리기기 시장이 빠르게 성장할 것입니다 |• 월풀(Whirlpool) • 일렉트로룩스(Electrolux) • 보쉬  openPR.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "버팔로 교체 램프 - 모델 DC858, DC859, GF454, GF455용 부품 AE645 - RuhrkanalNEWS",
+      "media": "RuhrkanalNEWS",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSnZQQXlxOFVLZHZCZkRwanZmZWJ4cU8zbkYwVkdZUFYwaFZUemI2NXNVc0N6RDlaeU83amlTNlp6RFN2X1Y2R0F2aHBRbFdFbW9pZDlCZmF1b1AyX1FXWldLQm9ocFlTWXB3YTRTVi1tMHFWLVc0QzBsY0puaDB5TFJZXzBta0VtNlRZT2VtYV9NUFE?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1773584395,
+      "summary_kr": "버팔로 교체 램프 - 모델 DC858, DC859, GF454, GF455용 부품 AE645  RuhrkanalNEWS",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Levoit의 타워 팬으로 날씨가 따뜻해지면 시원하게 지내세요. 보너스: 현재 27% 할인 중입니다 - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMVJEbmlaalBqQzJ2Y1R6SWRZQWVOOU9WLXpNUE04UnVqeWp1X0xsZDMybFZsUnpUOXNUTlg2X0IzMmRuTS1rU3NYbERtcjFLSDRmWTNRQ2xWbWhsenctaFQ1S0ZEXzh0M1FLbDdyVE9OdUw4T2V4ck1adTZUWGphbkJuNVAxakZha2pz?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1773583200,
+      "summary_kr": "Levoit의 타워 팬으로 날씨가 따뜻해지면 시원하게 지내세요. 보너스: 현재 NBC 뉴스 27% 할인 중입니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Reddit의 주방 디자인 공포 이야기 10가지",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/lifestyle/home-and-garden/10-kitchen-design-horror-stories-from-reddit/ar-AA1YG13X",
+      "time": "10h ago",
+      "pub_ts": 1773580800,
+      "summary_kr": "주방을 다시 만드는 데 많은 시간과 돈을 들이기 전에 Reddit에서 공유하는 스토리를 확인하여 주방 디자인의 악몽을 피하세요.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성·LG, 칩플레이션으로 AI 가전 전략 탈선에 비용 대폭 절감 - 서울경제신문",
+      "media": "서울경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlcyaEpBck1wQnYybVlUcWJVcDJfMDVUQ0pGRXB6NFVIVjJXaUtYRElfVTJGSHpxUUM2NGNVZFVIb0xwcnBfeGxVaDJRa2t5X3RlQXEtSDlQbWE0WElTa3dJZzhnTEZGR2xrS1JSSy1zNGdUeWl3QlZDekw1WlhjQUV5emhBTDd4cmlyYWF0OVFXX3QzODJyaWtoa0phMWs5d2c?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1773565026,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "새로운 '보이지 않는' 인덕션 호브를 테스트했는데 정말 감동받았습니다 - Livingetc",
+      "media": "Livingetc",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6WktkYmNhOVJkZmNGRGh1M0txRGdtdTVrd2hNYlp3X3JVSXRzT3dxUktBOVRQc2tzXzJnOXdOZXhxX1dkSWNrdDQzd2JJVUNqZXRFZGdQdk5HZVo2RWY1YTdEUU1UbWlu?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1773557974,
+      "summary_kr": "새로운 '보이지 않는' 인덕션 호브를 테스트했는데 실제로 감동받았습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "AI와 녹색 개발이 중국 가전 부문 성장 동력으로 부상 - news.cgtn.com",
+      "media": "news.cgtn.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVTMzbWc4LW16VnRsMXFGeEU4R3RhdFIwU1lUQ3NtV2ZZeldWWHhubUh0UXFVc05obEFUdHdZVFVCQ1JER192Y1hESUN0amRteFpiOWtmTGdWVF9qOGQyYVItMHVHdEpXUXp5VHdvdHphNWJPUVdqdHZHYnhSblB6NVFySlpaTUFLMTVHSU5YSnNRU0ozWTNqcWtqVms5ZFl2UVVUOG1kS0kzR3VEcmRiMVNZWFUyakNDZ0o4LVJFSXlvU1ZVeWxGWEZCcw?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1773555404,
+      "summary_kr": "AI, 녹색 개발이 중국 가전 부문의 성장 동력으로 부상, 보고서에 따르면 뉴스.cgtn.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "요리용 스토브의 가스가 떨어져 가족들은 가전제품을 향해 돌진합니다 - The Times of India",
+      "media": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWWxfSGZ4YWxQbVotNXFsM2Q4TkN0ZHV3SXplbTFkeGp2UTdIQU92MVRwcFlUcGxaYmppbnJna04wUmQxSzhQNmxfUTZlYkV5SEJxTEJneVhFZTZZUXRpdWd4aEJ1eXBRRjN1a2h6N201UF9QNHEtU29oYkZoa0ZLVGhxVnlpWjZzSTJfeXJBZWtpUFFTZ0JOZnQ0Wkt1VnVkby1NZURSUFNqWnRETm1VQU1oandWNndkRGYzT09BYXdOVHVMWUFOdVlWUlVOTnd5ZU1HZkxrM2RCMk1IUUxqM25yUTV4WFRtZGtrSndR0gHzAUFVX3lxTE1Ta1prM3MwaWlzcGNsMzJ0MzhhenNKWHhsbHlRa1JwTWtleWltcjdPR0pQT0FfbFhfbkJLTXdJZ1RIYkoxOGRFMWFlLUQ0ZEZDX2ZSUDlsZlRlUXUzMzZXUENGa0hmWUFWWDhTeWl3ZDJJRlNjTENNTlBISFFOMDlLR0tuNElIeUIwU01fSVh4bkhBbWVYaDIxZzlkeUFSck1DVzdrdW5MdzNfVTgta29aX0kwY2lHOW9xM1NrRE5CMXNBOHVwZ25jS3haSmZwTk5DdWc0aUszSVV0eGZtZEFCLVd3V0ZFZlFFYnk1Z3J5V28xYw?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1773544140,
+      "summary_kr": "가스레인지에 가스가 떨어져 가족들은 전자제품을 향해 돌진합니다.  The Times of India",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
