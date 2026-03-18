@@ -1,55 +1,69 @@
 {
   "date": "2026-03-18",
   "date_display": "2026년 03월 18일",
-  "generated_at": "2026-03-18T08:36:59.675323+09:00",
-  "generated_at_display": "2026.03.18 08:36 KST",
+  "generated_at": "2026-03-18T14:41:35.917017+09:00",
+  "generated_at_display": "2026.03.18 14:41 KST",
   "category_counts": {
-    "Market Dynamics": 13,
+    "Market Dynamics": 10,
     "Competitor Analysis": 2,
-    "Technology Trend": 4,
-    "Samsung Bespoke": 9,
+    "Technology Trend": 3,
+    "Samsung Bespoke": 7,
     "Samsung DA": 2
   },
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
-      "title": "주요 리스크 2건 감지",
-      "desc": "오늘 수집된 30건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: 삼성전자 모바일사업부 사상 첫 적자. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 24건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
       "title": "시장 기회 7건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: Buffalo 헤비듀티 인덕션 쿠커 3Kw - 타이머 및 팬 감지 기능을 갖춘 전문 주방 레스토랑 기기 - ruhrkanal.news. 삼성 Bespoke 9건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: LOVIVER 6인치 원심 팬 송풍기 휠 - 오븐 및 배기 시스템용 합금 금속 임펠러 교체 - ruhrkanal.news. 삼성 Bespoke 7건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
       "title": "경쟁사 기사 2건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: Amazon의 대규모 봄 세일 초기 진공 딜은 인상적입니다. Dyson, Shark, Roomba 등 최대 70% 할인 - Yahoo. 시장 전반 기사 13건, 기술 트렌드 4건 함께 검토 권장."
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: Amazon의 대규모 봄 세일 초기 진공 딜은 인상적입니다. Dyson, Shark, Roomba 등 최대 70% 할인 - Yahoo. 시장 전반 기사 10건, 기술 트렌드 3건 함께 검토 권장."
     }
   ],
   "articles": [
     {
       "category": "Market Dynamics",
-      "title": "MarketsandMarkets Trademark별 스마트 기기 시장 제품에 대한 최신 연구 - openPR.com",
-      "media": "openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGhHVVE4RkZ0MFhuY3NYcUtLSnhrZWdwekg0TDhKLURxTS1xa1JWNTVidm1Wc0JYdzUxbWJjdDQ2djdMc0Z0SWNGbTR0U3h3SGxLdzRQREp3VGE0dS1nUXIxVnh1Vk5QOUtCREl5djdUZ1kxU3lDQXRXZ3E0RFpzSXhPOE14NGRvZ3JNQTdEX0Z6bVZqcHM5cA?oc=5",
-      "time": "Just now",
-      "pub_ts": 1773788644,
-      "summary_kr": "MarketsandMarkets Trademark의 스마트 기기 시장 제품에 대한 최신 연구 openPR.com",
+      "title": "LOVIVER 6인치 원심 팬 송풍기 휠 - 오븐 및 배기 시스템용 합금 금속 임펠러 교체 - ruhrkanal.news",
+      "media": "ruhrkanal.news",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWNDVlh5UmxRNXhmdFVDNUJpa3lRMlFDdDVPMjlTVHB3Znlyak9hSjFQQnRrbVZWc1R6R3pBUFB3VXNnSW5NVXhkcUNDSUlrQkc0QjJqam9TNEpwbmM4Vm4xRzRqOU5hSjQ4RzJDQ0VSLTJPOE8ya1hqaGRrSEpYTlRBQUpsMzV2YjZDY2Vn?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1773797196,
+      "summary_kr": "LOVIVER 6인치 원심 팬 송풍기 휠 - 오븐 및 배기 시스템용 합금 금속 임펠러 교체  ruhrkanal.news",
       "strategic_implications": "",
-      "impact": 3,
+      "impact": 4,
       "tags": [
-        "watch"
+        "opp"
       ]
     },
     {
       "category": "Market Dynamics",
-      "title": "캐러웨이 세라믹 세트로 올 봄 위험한 조리기구를 버리세요 - 가정과 정원",
-      "media": "Homes and Gardens",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObm8xRWU4c05SMW1KbTRrNkVRR2RUc3U4TzFzRVJUTi1FNHgyUGhTY1NZZlNEbG5EcklTYlRIS1JzVElXaHBNVUlWbkJHV29nRVVlMHdfSXVmczJxdWNKZzNHSlEtVVg1UmpyWE03VkxvSm5VRmQxcXBscFQ0NUZUcHY0eENuV0JTQWZfOXNoWkxYZFBDVEJ4SVlsT0I3WkZpdHVsdklpakx2M1d2bURjS0Fn?oc=5",
-      "time": "1h ago",
-      "pub_ts": 1773784800,
-      "summary_kr": "올 봄에는 캐러웨이의 세라믹 세트로 집과 정원에서 위험한 조리기구를 사용하지 마세요.",
+      "title": "2026년에 알아야 할 10가지 새로운 주방 제품 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vLW8zcXpkR0NFRGpoMG9WUWtXWkZDWkdGWEh5YTRXbXVWcGdTdGJsSlJGWU9neXEyS0VlSmtTNjE1NkdDSDU2OVlMMXk1VGllaWxRMnVMYnJVNUhWTmZPdFE5RExFa3o5V0Q4d0ZTMFlTVEZXQTNnVXdSaUMyZw?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1773793860,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon에서 구입할 수 있는 19가지 KitchenAid 믹서 액세서리 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2NZdzJVNlZDNnZzSU9jUWRGeld2QVJsSldZT2t6Qm1ZUXRWelZNMkxQTmJsMTBEalE1Z3V0SjlfSk1UV3BDNXVPYi0zOE4tOXZ2Yk1DSktWTlY3N2ZMT0t6dU9jUzI5N1MzeFFOMUZpNWNqNGk1QVNYU3kyWW1KMTluNkhzRGU3TUdYTTR2WHZTaUVwWDRRQU1uT195MEFlam9mX0VrcG9idw?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1773790740,
+      "summary_kr": "",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -61,7 +75,7 @@
       "title": "전문가들은 천재적인 냉장고 정리 꿀팁 10가지를 추천합니다 - 좋은 관리 방법",
       "media": "Good Housekeeping",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWI3UlEyS2NaUmhyOXVRc2Q1aEFBb3lYQjN6Vkg5cmtCR09KSnhFXzZRSG1HaHBjR1VKd0xYa3MyR0k4ZUM5LWdzV2tkMFI4SDVOM3BFQzNFeW82U0hNb282RGZwZFludmFIS2hrWm1Ra1BZYXlNZFA1cnJlaXlncFA3M0gycnVOS1E1UFVB?oc=5",
-      "time": "4h ago",
+      "time": "10h ago",
       "pub_ts": 1773774371,
       "summary_kr": "",
       "strategic_implications": "",
@@ -75,7 +89,7 @@
       "title": "Amazon의 대규모 봄 세일 초기 진공 딜은 인상적입니다. Dyson, Shark, Roomba 등 최대 70% 할인 - Yahoo",
       "media": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU1AzNkQ5R1h0dDFUOHNaVFJMNXRIUUVBeTNOZGsxQ1BQZkVhUlVBU2JHbUxDQmRwaUVHWWkyNjQtMndoZWxDTDdsMTZKbThLeWozNjRMaC1DS1ItWE9DMW05bk9qQWFnZzFINE5SVTMxYTJQbFM0cHBzUkEwNEh3dFhVaUdGc2hha3RSajVleVQzRFM5MjhEOHZpSWpBOGFWdkFTbzFpdWdOYVVZZm9CMHcwUXZBdmxBZUxGd2tHNEdwZUE5X0tCdkRac0UzU1h4T1B0N2xwamF4ZFl2bExxZHFSX1FnTndsMVhaTEd4bTZIdGdlLXBsa2ZCUFRuTzQ?oc=5",
-      "time": "6h ago",
+      "time": "12h ago",
       "pub_ts": 1773768088,
       "summary_kr": "Amazon의 대규모 봄 세일 초기 진공 딜은 인상적입니다. Dyson, Shark, Roomba 등 최대 70% 할인  Yahoo",
       "strategic_implications": "",
@@ -89,7 +103,7 @@
       "title": "주방에서의 일본식, 현대 가족을 위한 건강한 요리의 실용적인 비결 - VOI.id",
       "media": "VOI.id",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MSXJsUlo3LUtvemlCNlQ4SW1HYWYwSW1YTHhKMXFLbi01R3JRdTRxRXVtdEZocHYtY3JvcXhhbElQdG9kb3drMVBB0gFCQVVfeXFMT1FvZ20xSkRkSVhnMW00SUJfdzZqMnVoaGhFUGhnV0tfSy1EZi1RaWZ1QTJCY2ctajRpd3RNOTVzcnRR?oc=5",
-      "time": "6h ago",
+      "time": "12h ago",
       "pub_ts": 1773767079,
       "summary_kr": "주방에서의 일본식, 현대 가족을 위한 건강한 요리의 실용적인 비결  VOI.id",
       "strategic_implications": "",
@@ -103,7 +117,7 @@
       "title": "Buffalo 헤비듀티 인덕션 쿠커 3Kw - 타이머 및 팬 감지 기능을 갖춘 전문 주방 레스토랑 기기 - ruhrkanal.news",
       "media": "ruhrkanal.news",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2RrTXF3R1VhSDhMVmtLT21sRnRfajBwUVNsUW1QckVGZnU3RjU0d0FiNEpfYk1jZTJxWDc0OGt6WFNXUlFqU0VyX2ZNdWl6VUJYOXZzVkdiSXg3NmpiQWpiNEJva3lFbGRVdnVUdHduRUlqSnZMbEFNRnoyb0lndkRQOGpGZHZHWWFwZEVNSlE?oc=5",
-      "time": "8h ago",
+      "time": "14h ago",
       "pub_ts": 1773759854,
       "summary_kr": "Buffalo 헤비듀티 인덕션 쿠커 3Kw - 타이머 및 팬 감지 기능을 갖춘 전문 주방 레스토랑 기기  ruhrkanal.news",
       "strategic_implications": "",
@@ -117,7 +131,7 @@
       "title": "전문가들이 세탁기를 청소하는 방법을 설명합니다 - 좋은 관리",
       "media": "Good Housekeeping",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHUxdi1rX1dlUndjeVFJdjk1V25zYjhvVGRPUURDVXBGYUt0R25YZDRIWk0wWXV2b3dkMDl3MWV2X2doUUFkVmJPZk1tUGVpa19aVGhSVVFDU01QajJBWGVMbG9ULVh1X0dDN1dkOWY4T1g0cTV1aHFiZDM2dGoySHhkamtqRXdPOXJOaEE5UjB5VGk5ei1vaHZjbXFYLUhU?oc=5",
-      "time": "8h ago",
+      "time": "14h ago",
       "pub_ts": 1773759014,
       "summary_kr": "",
       "strategic_implications": "",
@@ -131,7 +145,7 @@
       "title": "스마트 플러그를 사용하면 더 잘 작동하는 멍청한 가전제품 5가지",
       "media": "Bing News",
       "url": "https://www.aol.com/entertainment/5-dumb-appliances-home-better-144700300.html",
-      "time": "8h ago",
+      "time": "14h ago",
       "pub_ts": 1773758820,
       "summary_kr": "스마트 플러그는 기본 가전제품을 쉽게 업그레이드할 수 있는 방법이며, 가장 실용적인 사례 중 일부는 이미 현재 집에 있습니다.",
       "strategic_implications": "",
@@ -145,7 +159,7 @@
       "title": "2026 AWE 관찰: 소비자 하드웨어 - AI에 가장 적합한 \"물리적 컨테이너\" - 36Kr",
       "media": "36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02TTg5YkhkWkdFNW8xT0xkVXpkSTBNZzdMcDFkYVlOaDByNlFLelN1MnRKU2RnSEhxUjhyNlh6bHpxbjdzZWtHelR3WUF2aE5zSXlj?oc=5",
-      "time": "9h ago",
+      "time": "15h ago",
       "pub_ts": 1773757935,
       "summary_kr": "2026 AWE 관찰: 소비자 하드웨어 - AI에 가장 적합한 '물리적 컨테이너'  36 Kr",
       "strategic_implications": "",
@@ -156,10 +170,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "전문가가 말하는 골동품 조리기구를 망치지 않고 청소하는 방법 - AOL.com",
+      "title": "전문가들이 말하는 골동품 조리기구를 망치지 않고 청소하는 방법 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeG5nXzlrVnV2VWNoeV9GblZpZ0F4QmN0UTNFU2tqTEZWWmN4N3l2bjdYOTBCMHl4R1Z3d291eElBWlZMME9uamlpT0I2SlVDT0cxWExtbHczQ0dwVXlZSjJ6bVFyR294aGpHM0ctT2Y3SkxUWk96c2tFMGxvd0hTd3kyMF91MmRtc1E?oc=5",
-      "time": "9h ago",
+      "time": "15h ago",
       "pub_ts": 1773756000,
       "summary_kr": "",
       "strategic_implications": "",
@@ -170,10 +184,24 @@
     },
     {
       "category": "Samsung Bespoke",
+      "title": "삼성, 맞춤형 AI 가전제품에 대한 캐시백 및 손쉬운 금융 제공 축제 제안 발표 - Moneycontrol.com",
+      "media": "Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc2FNRHFRNUtJd1ZZb2NnUkNMOWV1eUVEVDZvbU5wb3F1Zk5YVjRJLUREbWNpdE43akUzNEdjVDI0RVMxdUtkSXZtemtKWERGZ0pKODdjSE9PeWhKN2R0T1UxYUg5ckVIaUpTWGdqbk9YeHNjWW5sSEZwakJTYnNuVWZtVGR3SzMzMG8tbUR1Y2d3NzhtQlZZOHl0NTV1UndhcmlwVEswZEw5MXdGc3hRNURVanJMVGpubnNjOUsxMXdjNTc0T1J1VU1rLVBmdFVoNVRPZVkwVldrMlNGV1JYeTIwN3BVRW5Ya3FtNnhFZnjSAfABQVVfeXFMTnNhTURxUTVLSXdWWW9jZ1JDTDlldXlFRFQ2b21OcG9xdWZOWFY0SS1ERG1jaXRON2pFMzRHY1QyNEVTMXVLZEl2bXprSlhERmdKSjg3Y0hPT3loSjdkdE9VMWFIOXJFSGlKU1hnam5PWHhzY1lubEhGcGpCU2JzblVmbVRkd0szMzBvLW1EdWNndzc4bUJWWTh5dDU1dVJ3YXJpcFRLMGRMOTF3RnN4UTVEVWpyTFRqbm5zYzlLMTF3YzU3NE9SdVVNay1QZnRVaDVUT2VZMFZXazJTRldSWHkyMDdwVUVuWGtxbTZ4RWZ4?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1773749581,
+      "summary_kr": "삼성, 맞춤형 AI 가전제품에 대한 캐시백 및 손쉬운 금융을 제공하는 축제 혜택 발표  Moneycontrol.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
       "title": "2026년 Samsung Eid 혜택: 맞춤형 AI 가전제품 구매 시 최대 ₹20,000 캐시백 받기 - Gizbot",
       "media": "Gizbot",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdWdMRXoxdmJNb2VfeFdaWV8ybGxLd3NwZmhlSmQ4bFRLZ25hOG1mT29vb3BHUXUzTk8xY1VJNE0yd1pqdTg5R2JHREV6LTdOa2dPYUh2QU9nd0Flai1pc2kyeldPQUU3VjRhbFNFU2pPTVRCeHVTMDU5d1hZbGdWRnkyT0o1eDhxd0llUUJoaGhqQjh6SUxkX0psak5hSklzVXk0MVNrcVVKUVRJakVfODVSeFdPQTBuVjFieWFqQlE?oc=5",
-      "time": "11h ago",
+      "time": "17h ago",
       "pub_ts": 1773748879,
       "summary_kr": "2026년 Samsung Eid 혜택: 맞춤형 AI 가전제품 구매 시 최대 ₹20,000 캐시백 받기  Gizbot",
       "strategic_implications": "",
@@ -187,7 +215,7 @@
       "title": "LG전자, 인더스트리 4.0 혜택의 등대 - 플라스틱 뉴스",
       "media": "Plastics News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNXBCaTFuRWUzSHpHUWNvRXN6X1dlcWNUSjBqYlRlaEhrRUl5WXFvclJNaVNpMFNmaG12RDlLZFhsZnl3RUtpWHIzbkdjUzlYekVpdm9EWHE2WWJkd3M5Zm80bDVCdS10bHRWdHRIdFV0bHZERks1SHRoRHViX2puV05QNzlaRWpDek5xX283eEVhVUE?oc=5",
-      "time": "11h ago",
+      "time": "17h ago",
       "pub_ts": 1773748800,
       "summary_kr": "",
       "strategic_implications": "",
@@ -202,7 +230,7 @@
       "title": "삼성: 인도 전역의 가정을 연결하는 SmartThings Family Care - SMEStreet",
       "media": "SMEStreet",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMmZBQnVYSnpfZmhRQmcyUGt1MkFiMGk3Wk9MU3hxaEI2ZWxwRlh4ei1JWndIY2pxTUMxMHA1X1V4WHlIcEQwWUtJZ1k5QTZQeU5pekxCNkhETXA0TkljU1FycVVfUHVJMm1vanR1eDY1ejNQUzRpb2tRVkFUVWhkM1U3MUdSc1pWN0FiUkZuMW1fYzBNVHZjOV9taFJkbjlYakHSAaIBQVVfeXFMUDJmQUJ1WEp6X2ZoUUJnMlBrdTJBYjBpN1pPTFN4cWhCNmVscEZYeHotSVp3SGNqcU1DMTBwNV9VeFh5SHBEMFlLSWdZOUE2UHlOaXpMQjZIRE1wNE5JY1NRcnFVX1B1STJtb2p0dXg2NXozUFM0aW9rUVZBVFVoZDNVNzFHUnNaVjdBYlJGbjFtX2MwTVR2YzlfbWhSZG45WGpB?oc=5",
-      "time": "12h ago",
+      "time": "18h ago",
       "pub_ts": 1773747394,
       "summary_kr": "",
       "strategic_implications": "",
@@ -212,41 +240,13 @@
       ]
     },
     {
-      "category": "Samsung Bespoke",
-      "title": "삼성, 인도에서 SmartThings Family Care로 스마트 생활 강화 - IT Voice Media",
-      "media": "IT Voice Media",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWtTQ2x1UmdqSzhLYy00d2wwZ3c2Z1F5a0FzZ3RXMV9Ya0NUT1o4cTdjUzBVeGlBeHZ1WlYtVXgteEtHajhQdzhiZUk5bXZxN1lvcjJxWE00UEpuRHRwcmFCNnlqS0dSSE1WZ3VWelpVRFZzYW1CaXBKaWhNZG41bFR4ZUF1V2ZyNzFaSnlCVGRWWk8y?oc=5",
-      "time": "12h ago",
-      "pub_ts": 1773746665,
-      "summary_kr": "삼성, 인도에서 SmartThings Family Care로 스마트 생활 강화  IT 음성 미디어",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "Lowe's가 아닙니다. JD Power에서 가전제품을 구매하기에 가장 만족스러운 곳입니다.",
+      "category": "Samsung DA",
+      "title": "Lowe's가 아님: JD Power에서 가장 만족스러운 가전제품 구매 장소입니다.",
       "media": "Bing News",
-      "url": "https://www.aol.com/lifestyle/not-lowes-jd-powers-most-164500334.html",
-      "time": "13h ago",
-      "pub_ts": 1773742980,
+      "url": "https://www.msn.com/en-us/money/personalfinance/not-lowe-s-this-is-jd-power-s-most-satisfying-place-to-buy-home-appliances/ar-AA1YQmNB",
+      "time": "19h ago",
+      "pub_ts": 1773740700,
       "summary_kr": "Lowe's는 주택 개조 분야의 주요 브랜드이지만 JD Power 조사에 따르면 이 회사는 가장 만족스러운 가전제품 소매업체가 아닌 것으로 나타났습니다.",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Samsung Bespoke",
-      "title": "삼성, 맞춤형 AI 가전제품에 대한 캐시백 및 손쉬운 금융 제공 축제 제안 발표 - Moneycontrol.com",
-      "media": "Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTzRfRnpuSzlLVmxMVXpjQjkxQ0R2SkwxU0ZPUUg5bEd3ZUwxZjFoTzdJdmNBeWtYSG5VdGRjbXA1Q0pyUmQzNmt2bkdyb18wSmRaTnJJVjNfekEtVUJtNDFlTzVnMWloUFJQOGlFWHBXY19pdDFybE4xMXVlOU03SWdmYW9SY2ptcHhmTUNTUTNOMzJqZVVXQk42aUYyMHlEOTNaY2xrb0VZbXpzM2lKTktwMTFqNWtDOXVCRkdlVkZ0YnlOVWRjQ3pIQzRQMkN4ODI5NllLSm1yNmZ3TnlKWGl4eXR5SDhJN2Zz0gHwAUFVX3lxTE5zYU1EcVE1S0l3VllvY2dSQ0w5ZXV5RURUNm9tTnBvcXVmTlhWNEktRERtY2l0TjdqRTM0R2NUMjRFUzF1S2RJdm16a0pYREZnSko4N2NIT095aEo3ZHRPVTFhSDlyRUhpSlNYZ2puT1h4c2NZbmxIRnBqQlNic25VZm1UZHdLMzMwby1tRHVjZ3c3OG1CVlk4eXQ1NXVSd2FyaXBUSzBkTDkxd0ZzeFE1RFVqckxUam5uc2M5SzExd2M1NzRPUnVVTWstUGZ0VWg1VE9lWTBWV2syU0ZXUlh5MjA3cFVFblhrcW02eEVmeA?oc=5",
-      "time": "13h ago",
-      "pub_ts": 1773741596,
-      "summary_kr": "삼성, 맞춤형 AI 가전제품에 대한 캐시백 및 손쉬운 금융 제공을 위한 축제 제안 발표  Moneycontrol.com",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -258,9 +258,9 @@
       "title": "삼성전자, 인도 '이드 스페셜' 캠페인 통해 맞춤형 AI 가전제품 제안 - SamMobile",
       "media": "SamMobile",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFFOaGQ2YWVnSTJQSW50b19oS2ZQMjIyQkZTVlYzZXN6LU1RT2JuR1pTM1lrU0dKNUhVdlNvUERkQ1E3MmZKQkpUQjdtUnhPZ1VNODZ3aFVjTTQ5R19qTkRIWTROU1ZxejU4TUgwRGVtVWVZck91NDBrS1ltaS1SalZ3RUdtZ0wxREJQbUhSdU1zM3JXdVBIdmpsTUhoNjdpeEgzWlRhV0JGdEhp?oc=5",
-      "time": "14h ago",
+      "time": "20h ago",
       "pub_ts": 1773739920,
-      "summary_kr": "인도에서 삼성의 'Eid Special' 캠페인으로 맞춤형 AI 가전제품 제안 제공  SamMobile",
+      "summary_kr": "인도에서 삼성의 'Eid Special' 캠페인으로 맞춤형 AI 가전 제품 제공  SamMobile",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -269,10 +269,10 @@
     },
     {
       "category": "Technology Trend",
-      "title": "AI, 녹색 개발이 중국 가전 부문의 성장 동력으로 부상",
+      "title": "AI, 녹색 발전이 중국 가전 부문의 성장 동력으로 부상",
       "media": "Bing News",
       "url": "https://www.msn.com/en-ph/news/money/ai-green-development-emerge-as-growth-drivers-for-chinas-home-appliance-sector/ar-AA1YPSxN",
-      "time": "14h ago",
+      "time": "20h ago",
       "pub_ts": 1773738720,
       "summary_kr": "베이징 — 인공 지능(AI)과 녹색 개발이 중국 가전 부문의 질적 성장을 이끄는 원동력으로 부상했습니다.",
       "strategic_implications": "",
@@ -286,7 +286,7 @@
       "title": "삼성 SmartThings 패밀리 케어, 인도 출시 - FoneArena.com",
       "media": "FoneArena.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM3FRb25aNWlxN1RCLVhlUC04M2s3blRwRFc2cWpHVWUtNl84Slk5UGZVdmlWY2NDdW9ZUXluSHc1WDBEWHhPSE92SlRYVXhiRVZpYWwwbXBMUDIyMUVxcWlveG5FQThlTTdKUjhiaDYyYnUyVVZuYUNrcUFZOF9TemQ0eEdvSnPSAYwBQVVfeXFMUGloQ3lIOEd0cHMwM3JiaFNnWkFfMm5ZNnZzQmdOR1NJUmh2cGs2STIzd3Bub3hvYVg0T2JrSG1XOW9yVXE3SXRlS3VkMFZGdFVqdGt0YzNFZElMeWtiZHptUnV2bjRvQURITkNsMmx6b3NPNk9YWm9qZTRraTEtd2RwRmgwd3NhZ3p0QjI?oc=5",
-      "time": "14h ago",
+      "time": "20h ago",
       "pub_ts": 1773738177,
       "summary_kr": "",
       "strategic_implications": "",
@@ -300,7 +300,7 @@
       "title": "귀하의 유틸리티 회사가 지켜보고 있습니다: \"스마트\" 계량기가 \"라이프스타일 서류\"를 작성하는 방법",
       "media": "Bing News",
       "url": "https://www.msn.com/en-us/news/technology/your-utility-company-is-watching-how-smart-meters-build-a-lifestyle-dossier/ar-AA1YQpch",
-      "time": "14h ago",
+      "time": "20h ago",
       "pub_ts": 1773737073,
       "summary_kr": "스마트 미터는 전력 사용 패턴을 통해 일상을 추적하고 15분마다 수집된 가전제품 서명을 통해 상세한 라이프스타일 프로필을 생성합니다.",
       "strategic_implications": "",
@@ -314,7 +314,7 @@
       "title": "영국 최고의 삼성 무선 진공청소기를 £400 이상 절약하세요 - SamMobile",
       "media": "SamMobile",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalVPMmVCLU91UElXQmpXUlFGZnRDV3VJelRxUHEtdTFucWs1Si1mQXVUT3p1VkZleE1DR2JWbkdONFVlTDNfNndUeDdXb2xuRDJmOGs2VldYVk94ZVlIdHNyLW1FOFZ3WkFIOWhxZFlEeDBHVUNUV2Ntb185MkZaUjhBTjBnd2E4a2ZjdE51dW5Bdw?oc=5",
-      "time": "15h ago",
+      "time": "21h ago",
       "pub_ts": 1773735780,
       "summary_kr": "",
       "strategic_implications": "",
@@ -328,9 +328,9 @@
       "title": "숨겨진 가전제품: 미니멀리스트 디자인이 어떻게 표면을 주목받게 만드는가 - KBBFocus",
       "media": "KBBFocus",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTMyVVlMNDcxSkgxYVppYWJpWldwWS00VGpuLVpqMWpZTWx3UTAySFFLV0xXNEpLWjVQTjlsY2M0dVlYRkMtWDhwV3hxZFRrbGpLOHN3cHAwMDNsaFhDYlZhRlRlMTlza3E4cFIwT1prNlg0dUd3bXlPN2hKc2NLOWtNZ1I4VVNYRndGZUxkcURUYk9BWURYSUpGUDJQRGhjS29BNVNOb2t5NmM?oc=5",
-      "time": "16h ago",
+      "time": "22h ago",
       "pub_ts": 1773732801,
-      "summary_kr": "숨겨진 가전제품: 미니멀리스트 디자인이 어떻게 표면을 주목받게 하는지 KBBFocus",
+      "summary_kr": "숨겨진 가전제품: 미니멀리스트 디자인이 어떻게 표면을 주목받게 만드는가  KBBFocus",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -342,7 +342,7 @@
       "title": "Samsung Eid 혜택: 최대 Rs. 맞춤형 AI 기기에 대한 20000 캐시백 - FoneArena.com",
       "media": "FoneArena.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmIzTW9SVTBnT2ZIUXB5N05ObEkwVktDSEFNYkhONlZTa2lzNWpRQTlwS3F4UFZINlVjYzF2ZTNITGluSm5CV1lVRzhDUzlrdS1sMFl2eXUxY3dnaXBQdVlpODVpTEhyUXJqM1NSWGdGQTljXzQ4cUQ0Y2d3Z2RHUUZiSUpJSEpvTmV6T0ZHRW7SAZYBQVVfeXFMT2xiTU05dXJSbk5sOVBZTzd4R091c1JQZTZWMk81M21RbVh6TUdYc0RmWVQ4eGI4aDRSMFNNMFlGSWpOTlRPS1BDeGI5X0NIRjBRQmUzVGVqeUtoYTdxRTF6NHVxeXdTUXN4SFFSN3hnRlI4d2gtd0xvUFBXYm1OWm9kRDhUN21NX3B0R3RYZXhHLWJpM2t3?oc=5",
-      "time": "16h ago",
+      "time": "22h ago",
       "pub_ts": 1773730748,
       "summary_kr": "Samsung Eid 혜택: 최대 Rs. 맞춤형 AI 기기에 대한 20000 캐시백  FoneArena.com",
       "strategic_implications": "",
@@ -353,100 +353,16 @@
     },
     {
       "category": "Samsung Bespoke",
-      "title": "삼성전자, 가족을 위한 원격 모니터링을 위한 SmartThings Family Care 인도 출시",
+      "title": "삼성, 인도에서 가족 원격 모니터링을 위한 SmartThings Family Care 출시",
       "media": "Bing News",
       "url": "https://www.moneycontrol.com/technology/samsung-launches-smartthings-family-care-in-india-to-enable-remote-monitoring-for-families-article-13863210.html",
-      "time": "16h ago",
+      "time": "22h ago",
       "pub_ts": 1773730680,
       "summary_kr": "삼성전자는 인도에서 연결된 Bespoke AI 가전제품을 통해 원격 모니터링 및 경고를 가능하게 하는 기능인 SmartThings Family Care를 출시했습니다.",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
         "opp"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "부드러운 블렌딩을 위한 고속 믹서 그라인더 - Zee News",
-      "media": "Zee News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYWJoWjRZNjE2OHdoX1AtLVBtSnJTNW1sNkdRckkwU0drRVdZbXFXVU5OdzU4Y1A2eXg1YUJjXzZhSnNEYVB2QWNmY2FqUHVYMF9PQTVrS0dodW9aNmFoZDJKRXctUEQwMm5vSDdSR3lMWmY2ZWU3a0o1YWRBV3Mza1kwanFSWllWdVFyRHRoLUY0aUdvdXcyVmQzYVRrNnp1c3YtZFIzaHh0Wk9SdVdkMnFrQldlZHdWOVhORUJla243MFFlWElmTtIByAFBVV95cUxQYWJoWjRZNjE2OHdoX1AtLVBtSnJTNW1sNkdRckkwU0drRVdZbXFXVU5OdzU4Y1A2eXg1YUJjXzZhSnNEYVB2QWNmY2FqUHVYMF9PQTVrS0dodW9aNmFoZDJKRXctUEQwMm5vSDdSR3lMWmY2ZWU3a0o1YWRBV3Mza1kwanFSWllWdVFyRHRoLUY0aUdvdXcyVmQzYVRrNnp1c3YtZFIzaHh0Wk9SdVdkMnFrQldlZHdWOVhORUJla243MFFlWElmTg?oc=5",
-      "time": "17h ago",
-      "pub_ts": 1773727200,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "opp"
-      ]
-    },
-    {
-      "category": "Technology Trend",
-      "title": "Dreame, AWE 2026에서 AI 스마트 홈 생태계 선보여 - 베트남 투자 리뷰 - VIR",
-      "media": "Vietnam Investment Review - VIR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQjVObzY2ZUV5SEpRLWJMWFJtMHc1TlJ5RkVqVWJ4eFY3N1JDRTkxOXVMUVJ1WUNHZm5OUzhpUm1sTHR4VnlQRmxveHBFMlA2YzA2bXNYcThRVW9FY0FkZk5zVy0tblZEVTlJQ0FZSFNMbDB3OVQyT25HU0VEc3QyUXRRczNyaFEyNkZZ?oc=5",
-      "time": "18h ago",
-      "pub_ts": 1773725694,
-      "summary_kr": "Dreame, AWE 2026에서 AI 스마트 홈 생태계 선보여 베트남 투자 리뷰 - VIR",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Samsung Bespoke",
-      "title": "삼성 플래시 세일로 1000달러 삭감 - news.com.au",
-      "media": "news.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYVczckhjcU11cV9DTlp6VEFTMVlmQm5GQ3JEOHhfV3lKNU9CT25pRHcwLWNwN3J5Y25FQmh1UjMzay14UkgwZW41MDhscjdDVlVVTHVKMUdaekJ0UVM0WVdORFpyeDNNNGlpOXRYUWR3amttVjAxZ1pfalFOY2s2VlJVS3cyRy1nLXJhaUtmdk8zUmZpYkh6a1YwM0pKZTdzd0NELU5fU3I2dFZlUXVTNHRSWnIxdDFrcURuT0dncS1ZcjJrM2plYnhBRTZoWGs0VmlHU2pR0gHbAUFVX3lxTE1ORTdid1FuZmh1TjZ3OEM1MEJqZllDN2FHT3ItcWpOZk5XOHZlQW1jUkwzd1FudjhfNmZRMndneWVLNE9vQnlaUlJVbmhfcy1XWnU0MTZXbzl0djg1bmhqeUREdERlcGlZZ0plYjdrdzdISU9YRHZtVTUtWW1OUHo4UUtLSWxiMDI2SmcyejBxUDJqVzgta2Y2ck1IeWZlTm5oTEdCeEljbWF0aUZXeHpuOEwxQmtqVnotQTZLdlN3THIwV1hTTzd6OEx6QkFQZDFUOVczWDRrdHNtYw?oc=5",
-      "time": "19h ago",
-      "pub_ts": 1773719240,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "opp"
-      ]
-    },
-    {
-      "category": "Samsung DA",
-      "title": "삼성전자 모바일사업부 사상 첫 적자",
-      "media": "Bing News",
-      "url": "https://mobilityarena.com/samsungs-mobile-division-is-likely-to-face-its-first-ever-loss/",
-      "time": "21h ago",
-      "pub_ts": 1773714480,
-      "summary_kr": "삼성전자 생활가전사업부는 생활가전을 취급하고, 영상디스플레이사업부는 TV, 모니터를 담당한다.",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "risk"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "KitchenAid Go 무선 주방 진공청소기 아마존에서 $103.99로 인하 - Technobezz",
-      "media": "Technobezz",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRnpGUEFLMmlWRmV1aWJMU19iNHZBNmxhQVFGZG1naWNCUGtKREl0VklYTXdXWUQ4ODFXTVpHRTFJU1lPNVlIZVgxVVl0UG1qV2lHbkxZemQxdVZTQWpjQm1zNDlLVzNIb3FTSHZQY0txSUFkVHJXUFRCM3VDcTFPQ0FJcmZFMEJMTnh1RThONFByTl8xZmdwa3pn?oc=5",
-      "time": "21h ago",
-      "pub_ts": 1773713779,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "risk"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "저는 저렴한 주방 가전제품을 좋아하며 Amazon Big Smile 세일에서 AU$100 미만의 필수품 12가지를 찾았습니다. - TechRadar",
-      "media": "TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbTU2YXlKa09tV21tZWljdWxiZzVRcTB2S05kenUyZnBseXhCaWlmdHdZNzFfNGhpWUJUNTRtSEh5SUNXSHpIUDlia0I5S0JtZUJveTh0UTFtTEpCeWsxaWpSTTNjSW4zeVJ4d2pYZ0E3ZlNIUnRMZVFYVFV0Y0pSQUxXYi1TOGVocEY2Q3gydURsZnJFSF9lc3IxNGhSMGFwZkJvb1NzeDgtTmx5TWRUNzNIYWJFMHRrNFdvQU54Qk9neTlZb3BUQmR4MDFydFFmTVhiVU85bkdzNXE3VkFnYUJlejJfams1VWRr?oc=5",
-      "time": "22h ago",
-      "pub_ts": 1773710537,
-      "summary_kr": "저는 저렴한 주방 가전제품을 좋아하며 Amazon Big Smile 세일에서 AU$100 미만의 필수품 12가지를 찾았습니다.  TechRadar",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
       ]
     }
   ]
