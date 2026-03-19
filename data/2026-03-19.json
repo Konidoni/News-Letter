@@ -1,11 +1,11 @@
 {
   "date": "2026-03-19",
   "date_display": "2026년 03월 19일",
-  "generated_at": "2026-03-19T16:30:34.465841+09:00",
-  "generated_at_display": "2026.03.19 16:30 KST",
+  "generated_at": "2026-03-19T16:37:37.396050+09:00",
+  "generated_at_display": "2026.03.19 16:37 KST",
   "category_counts": {
     "Technology Trend": 2,
-    "Market Dynamics": 18,
+    "Market Dynamics": 16,
     "Samsung Bespoke": 5,
     "Samsung DA": 2,
     "Competitor Analysis": 2
@@ -14,17 +14,17 @@
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 2건 감지",
-      "desc": "오늘 수집된 29건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: 주요 경영진의 이탈과 Midea와 HarmonyOS의 포위 속에서 Apple이 \"홈\" 시장을 장악하지 못한 이유는 무엇입니까? - 36크로네. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 27건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: 주요 경영진의 이탈과 Midea와 HarmonyOS의 포위 속에서 Apple이 \"홈\" 시장을 장악하지 못한 이유는 무엇입니까? - 36크로네. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 12건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 12건이 감지됩니다. 주목 기사: 집주인은 낡은 가전제품 부품 사진으로 사악한 경향을 드러낸다: '2021년에 새 것을 샀다' - Yahoo. 삼성 Bespoke 5건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "title": "시장 기회 11건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 11건이 감지됩니다. 주목 기사: 집주인은 낡은 가전제품 부품 사진으로 사악한 경향을 드러낸다: '2021년에 새 것을 샀다' - Yahoo. 삼성 Bespoke 5건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
       "title": "경쟁사 기사 2건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: Amazon의 대규모 봄 세일 초기 진공 딜은 인상적입니다. Dyson, Shark, Roomba 등 최대 70% 할인 - Yahoo. 시장 전반 기사 18건, 기술 트렌드 2건 함께 검토 권장."
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: Amazon의 대규모 봄 세일 초기 진공 딜은 인상적입니다. Dyson, Shark, Roomba 등 최대 70% 할인 - Yahoo. 시장 전반 기사 16건, 기술 트렌드 2건 함께 검토 권장."
     }
   ],
   "articles": [
@@ -106,20 +106,6 @@
       "time": "3h ago",
       "pub_ts": 1773892866,
       "summary_kr": "올여름 다양한 에어컨과 냉장고를 대폭 할인된 가격으로 만나보세요! LG, Samsung, Godrej 등 최대 65% 할인 | 기술 뉴스  힌두스탄 타임즈",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "opp"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "Smeg Australia, 시드니에 새로운 쇼룸 오픈 - 가전제품 소매업체",
-      "media": "Appliance Retailer",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzFEbU5lZTVYYTBrWGY0UUdZWXBobjExZWduQ0F0cjR4clFDWDJxd3RnN1RHdzVCVkhkOE5XVDMxSXhxUW5odnBTOEZCdVBaTGNnakZGXy1zVzMtZVdqWVV2Q0lUNFhTc1A5ZVJvNDI0aUM5aWQ2X29qWEhoSVJQQTF5VXA?oc=5",
-      "time": "3h ago",
-      "pub_ts": 1773891571,
-      "summary_kr": "",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -418,20 +404,6 @@
       "impact": 4,
       "tags": [
         "opp"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "Michael Sammon: 작은 주방을 디자인할 때 온수 꼭지가 간과되고 있나요? - KBB포커스",
-      "media": "KBBFocus",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZTB6dmY1XzhiRVB6RGhPSk9HX21kaDlHQlFpNGRCTi1fcS1ramdqb082LUFsOE5IdHdqclEwRl9FX250T2M1T3EwT1pHMUdVN0lwT2hibTlJNmR3WUo1aXBxcnFFU3hUMzZaeGZkM09QTE1mQ0doNFM0N1h6T19QUEswNXUyeTRZZU1INFMzWEZEZW9Hc05nU3dmN18wSXgya2RzOFFPY084YkZRd1NEaVlHWQ?oc=5",
-      "time": "23h ago",
-      "pub_ts": 1773819250,
-      "summary_kr": "Michael Sammon: 작은 주방을 디자인할 때 온수 꼭지가 간과되고 있나요?  KBB포커스",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
       ]
     }
   ]
