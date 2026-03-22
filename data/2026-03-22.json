@@ -1,0 +1,211 @@
+{
+  "date": "2026-03-22",
+  "date_display": "2026년 03월 22일",
+  "generated_at": "2026-03-22T16:28:20.066631+09:00",
+  "generated_at_display": "2026.03.22 16:28 KST",
+  "category_counts": {
+    "Market Dynamics": 12,
+    "Samsung Bespoke": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 2건 감지",
+      "desc": "오늘 수집된 13건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: 조지루시 NW-JEC18BA 압력 유도 밥솥이 686.25달러로 인하 - Technobezz. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 5건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 5건이 감지됩니다. 주목 기사: Dreambaby 가전제품 래치 - 냉장고, 냉동고 및 냉각 가전제품용 접착식 안전 잠금 장치 - ruhrkanal.news. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 12건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Dreambaby 가전제품 래치 - 냉장고, 냉동고 및 냉각 가전제품용 접착식 안전 잠금 장치 - ruhrkanal.news",
+      "media": "ruhrkanal.news",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wWndZTEhIWU5VVC00VllfMFBHcDJ3Qjh4WDVHWVFKRHA2QVN6b3ZZcmRiOTBENVd0NFZ4cEhjT0hVZXdTUXUyejlZcmFWMkFQRWNwZmlWaVRVa3dPS0hIVTFWVjJFNGJUNGFSQ1NrQUMxWlhlam91Zg?oc=5",
+      "time": "Just now",
+      "pub_ts": 1774164087,
+      "summary_kr": "Dreambaby 가전제품 래치 – 냉장고, 냉동고 및 냉각 가전제품용 접착식 안전 잠금 장치  ruhrkanal.news",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "조지루시 NW-JEC18BA 압력 유도 밥솥이 686.25달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXAzQ2cyeDZTRXVJQ0Ewd2xaX1J5MXl5djk3cUc0QjItSE1kanV4UHF5ekNhbmZMeXVxTjJkWlplY0h0Z3FZWmtTSlZjMFNHQ3c5Z3NsSnlmYTI3ZHE5T0x0Uy1DdmRBcTJERGhBeV9QcHloUlNvWXhXMnVPMnp2dVk1VFVPRHI2T1lzYjNpeXE3ZkVNc1BrYjJtUm5PX1k?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1774150890,
+      "summary_kr": "Zojirushi NW-JEC18BA 압력 유도 밥솥이 $686.25로 인하  Technobezz",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "압력솥 폭발로 인기 만두가게 경미한 피해 - NST 온라인",
+      "media": "NST Online",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzUxTnBNYkRLZnVBSktMbzBJRlNzd1VUeklZQkJ3UTN3aFViUDhmek4zRmFuUjY5RWcyY2pGSks1SS11ejRiM1V0V01BV3RCbGdLR2JLMk0waWVRVkZjVk5WR09LUXNPZWZXS0ViNHFhbUtrZGFpT1pIRFlsNGxycm9fNms3ZGhxNU5oa2dBRkc0dTQzdFl2dzdrV3Y3QjJ2Y0lUY25fN3cxbUVvWERXaDA5MHpsZThFa3BPR9IBwgFBVV95cUxNcVdveEQ2bUFZamxXZ2RUQWkydFZJQTkyYnc5LXY3NnlxTzluU21peTdEdEliZXR0MVNsLTVuYWpueTRxRFdnYXJTa1VoM19hLTZseVBIZzJHdmp1S05rc3VTYlZueDY5YkhpMnRMWkdwV0JjcFctRzRyTTA5XzBSNDIwM0hQNWQzRjJLbzhDajJYbXJhbDNXdmhkZkRveHdJalpYd1lwblBNZ1BtbUI4WUFGVU8xb2tYbU1DX1ZoODI1QQ?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1774150799,
+      "summary_kr": "압력솥 폭발로 인기 만두가게에 경미한 피해 발생  NST 온라인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "냉장고 스탠드 50x50cm 스테인레스 스틸 기기 라이저 스탠드 – 세탁기, 냉장고, 냉동고용 50x50x20cm 튼튼한 베이스 | 바닥 보호 및 진동 방지 플랫폼 바닥 세탁기 - ruhrkanal.news",
+      "media": "ruhrkanal.news",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVo4YkJtRVhya3ROMXhiUlA2NFlPVGQ4amc2cFlvLVE0S1B5RFhHMEVUOXptQkpXc2RlbVRTdWdyUmNPbUdDUkR6RjhybERRM1ZRb1hDY3RuTlJsaG1TYkhRSkNfWGY0aWN1YXlrV0lsNkowV1JxRGhmRE9obWk1eFIxLVQyelVZZXBpYVRqWQ?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1774149610,
+      "summary_kr": "냉장고 스탠드 50x50cm 스테인레스 스틸 기기 라이저 스탠드 – 세탁기, 냉장고, 냉동고용 50x50x20cm 튼튼한 베이스 | 바닥 보호",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성전자, 퀄컴 기술 접목한 AI 스팀 로봇청소기 국내 전시 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1cWE0dXJKRTlDSnJlY0xTNjNGdmk0TUtvNXlWTzMzV3FyRkpwa1VLamxaTWJnQzFKZUFDNjdVLUZ2dVVwY3N4cmpWeWR3SHBYTFRra3h0SmNZT1NHaUZqNFBqVzZMczM3NmNrcUJrb18wNHY2VEVSdV930gGOAUFVX3lxTE9aei01YWpNTHpxTUxwcGRWY25fZmpjTXRGcmZpaDdxYWhEMUJ1Q01RNHRXV1AwRVRIODJfdk5ZX1hOVXU2dXFhYTViVjU5LWYwdlVkUGhlQ2liVXhsQmNYcGNjc3phSGRuUjRPZEltQ3YwUlcyZlJGWHp3VGdaRGVTXy1rVmRoLWpDOWlLY2c?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1774144800,
+      "summary_kr": "삼성전자, 퀄컴 기술 접목한 AI 스팀 로봇청소기 국내 행사서 선보여 - CHOSUNBIZ 조선비즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "드롱기 아르젠토 플로라 주전자 - 1.7L 크림 베이지, 360° 회전 베이스, 코드 보관 - ruhrkanal.news",
+      "media": "ruhrkanal.news",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVTlsY0g5RmR3UXZRaFlfNk9ZUVloUnR2WFJzMGRXTWdPSnVTYmw3UENIZC1fdkhPcGMza1NxZU5IamVyQWlNMlBMa0tVbkVHbFBZcWJjdjZzZ0xteGRuRXVsbzBCT002VXRVYWMwdjdWSFMzd0tWZnRUVlZHMGZrYXdfLXFGOTVoOGJLQk1qM3Juams?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1774124086,
+      "summary_kr": "드롱기 아르젠토 플로라 주전자 - 1.7L 크림 베이지, 360° 회전 베이스, 코드 보관함  ruhrkanal.news",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "5쿼트 키친에이드 믹서용 실리콘 보울 라이너 - 유연한 붙지 않는 삽입, 손쉬운 청소, 스탠드 믹서 보울에 적합 - ruhrkanal.news",
+      "media": "ruhrkanal.news",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUZJUVdZTnVNNnRhQWxXWG11SkluemRvcl9uQ0ZITERWQUN0cTlhZDk3Q3FZT21YS0ZtWDJ6VmgyX3VhdjJVZ00ycDFQLVRIQTRmdGc3OFVlZTIxTjMzX1hGNUl2Y3d2VTdGQXFYSjJFZThLbHMxWjJ2STA4LTl1RUxncTRpQVU2ZElyNTBMcU9Ydw?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1774115060,
+      "summary_kr": "5쿼트 키친에이드 믹서용 실리콘 보울 라이너 - 유연한 붙지 않는 삽입, 손쉬운 청소, 스탠드 믹서 보울에 적합  ruhrkanal.news",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "실제로는 엄청난 돈 낭비가 되는 베스트셀러 가전제품 10가지 - Moneydigest.com",
+      "media": "moneydigest.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWS05blpfcWdyWEx0b0VzY0VuSHFrSGFPWWo4V3d6Z3lMZGFuQjhyc3BJdGVYWmdrUG1ZSjFvWllwaUdNWGFpd1NHZ0hROTZpOTItWDNPTUhHTTFTSFdLNDZkd0dlbjNBbkJablBXLVZjbFZyaEk1ajJ0LXhoOG8?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1774113300,
+      "summary_kr": "실제로는 엄청난 돈 낭비가 되는 가장 많이 팔리는 가전제품 10가지  moneydigest.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 독자들이 사랑할 아마존의 39가지 식품 및 주방 제품 - buzzfeed.com",
+      "media": "buzzfeed.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeFlOdE02WEN5YkJEamVCLUwyN09TQlFKdmw1UVZrSENCYlZjODZmX1V4cllURVR1Q2FpWm5JQmVkSE1JSnlOUWF0el9vTlFSbVoxU2NpWDNoaGlRclF1bUZDSmdUbVRMWW1tVnNrMXoya3R4X3U1SWMwbUFwMjNMbXNRZ3NVYWJLRmxBVXBFa0ljVy0xUWc?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1774099863,
+      "summary_kr": "2026년 독자들이 사랑할 아마존의 39가지 식품 및 주방 제품  buzzfeed.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Cuisinart 빵 파스타 및 반죽 제조기 기계가 87달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUnIydXN4LURPbEVjcHhTNTFUajNqcG9tbFhFR1U2aWNaMEpfXzFNZ19YTUJJU3dfajExOWdsZ1hJWmkzTXRJNl9ST2NuVmRXTzZRTGw4c3MzS3lDUGk1RElGcnpKRE9vTW9Id1Fvd3ozb09tTlVMaVNxZE1RanNwUkpoTG1HY3FJcU5jSkZR?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1774095835,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "일상적인 주방용품으로 진입로 잡초를 '영구적으로' 죽이세요 - Daily Express",
+      "media": "Daily Express",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa2MtdnY3Z0haTmZ6N240Qm9jR3NuNGpDVFgxNk16a1BYMFFvRmhaZXcwYU5RUWtjODJ6ZmdlcGswaHpkV2dwMTBKVFI4bURiSXVZUFpKMllyRkYtY3pLMDRjV1UyTlRweEpuTWkwbVh6QXAwMmVfQmlQRG05VUtpWmJndzdYcnYtb0VJbHFOM1pXeG5sU2szZzBn0gGfAUFVX3lxTE84NU1jYV83T2hRQ1JSd1AyT1BVUEpiS1RBa3p0ZzFPVUJ1NG5TTF9NTk1BWTdqYzFkbHNDd01QNDh0OVl1RWdzSThmS3Q0a2pjVm5FRk9IWTF0ZGEyOGFROWEtT1VBTjNmbTludXUtMTI1Wm1uVVpibEN2elM4aVNTQVJhUkgyTG11a2FRblR2MEZxRGlGbzFMWl9EdkVxYw?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1774092480,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "MOLUCKFU 밥솥 내솥 교체 - 가정용 주방용 2리터 붙지 않는 그릇, 다용도 조리 냄비 - ruhrkanal.news",
+      "media": "ruhrkanal.news",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVllWc0VoZEpIZDl0QjJ4My1hc1dwbkxNVkRtb3c3bTg4QzZwc0I0MEItWG5uZHdKcjlhSkpWekVzaWlDaVcyTkJsbDUwaWVkUXRqTk12eXNaQ1JWRXNOLXZVZmtEc0ZnTkVWanhjUUJXY3pZYmdGeXpjNWJRWFNXR0tzRUJYWmhiOERFSVNPTzhOeDlr?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1774090149,
+      "summary_kr": "MOLUCKFU 밥솥 내솥 교체 - 가정용 주방용 2리터 붙지 않는 그릇, 다용도 조리 냄비  ruhrkanal.news",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "적은 비용으로 주방을 럭셔리하게 업그레이드하세요. 단 £8부터 15가지 프리미엄 가전제품과 액세서리를 만나보세요 - TechRadar",
+      "media": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ05vZVRQcW5tSGluNW1nWnRSektHSndCYzRYWmplVTF1bWw1c1RjcDRJYzRJVGFPNElVUW51QVh6U0ZNVEhlc2lFcHk5aEhHTUVNSDJla0Zfc0NLVHJSSWNCcUNwUGJVTTNjTzYyVTdIMTVBSlhOYlB2RmpDVmpDTEs2WUMyY2hsVkpkd1Z3ZlRnck9iVjhPUVhoVzktSldIdURFUXZqYVN1YUM0ZjAyV1dQanZwU3NOWXZpRHVtaU5Hblk?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1774080000,
+      "summary_kr": "적은 비용으로 주방을 럭셔리하게 업그레이드하세요. 단 £8부터 15가지 프리미엄 가전제품과 액세서리를 만나보세요  TechRadar",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
