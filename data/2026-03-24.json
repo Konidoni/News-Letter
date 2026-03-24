@@ -1,0 +1,397 @@
+{
+  "date": "2026-03-24",
+  "date_display": "2026년 03월 24일",
+  "generated_at": "2026-03-24T11:07:12.073833+09:00",
+  "generated_at_display": "2026.03.24 11:07 KST",
+  "category_counts": {
+    "Competitor Analysis": 3,
+    "Samsung DA": 2,
+    "Market Dynamics": 19,
+    "Samsung Bespoke": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 2건 감지",
+      "desc": "오늘 수집된 26건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: 리콜 감시 목록: 가전제품, 차량, 가정용품에 대한 주요 리콜 발표 - 41NBC News. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 15건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 15건이 감지됩니다. 주목 기사: Haier, 더 스마트하고 더 큰 가전제품이 견인력을 얻으면서 Horizon 냉장고 제품군 공개 - Channelnews.com.au. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: Haier, 더 스마트하고 더 큰 가전제품이 견인력을 얻으면서 Horizon 냉장고 제품군 공개 - Channelnews.com.au. 시장 전반 기사 19건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier, 더 스마트하고 더 큰 가전제품이 견인력을 얻으면서 Horizon 냉장고 제품군 공개 - Channelnews.com.au",
+      "media": "channelnews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0MyX080ME5WbEY3OFQzV2haMzVEdUNLQlJYazRfUDlXM3dTc2VoSGdtWnMwd2RfNFFHZU5sa0Jic3QtN2I2WGFuby15ZnVMMm9HQXhsc0RYb040SjVwYlF0SkJnLTlDS0ZfVDlUZkNGNWMzWGI0aTB4RC1LanZkQ01WNktTME9iOFpveU1QUVVDQ3hGcGZVWGdsTGdmMWRYOV9vb1ZUZm0zRVNWLXc?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1774310449,
+      "summary_kr": "Haier, 더 스마트하고 더 큰 가전제품이 견인력을 얻음에 따라 Horizon 냉장고 제품군 공개 채널news.com.au",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성과 현대, 새로운 차량용 SmartThings 제어 기능으로 자동차와 주택 연결 - Channelnews.com.au",
+      "media": "channelnews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYjA0Z1U3UzI2cG1zMVdqVy10QWg4M1FjUVdhVWlDOUZ2WGxhR2hQLWdkUktoTTdTaFQzS0Vydm05aXNwVWpPMEEzTnNxM01HZTlMN01XWGJVOEJJOE5Zb3lBUXRxbklnMzRjR012NlUyRE1IY29vR3I4R3NrYjQ0MEhqR3hBQlJ6QUFSWmpETjZ6cmxnYnRPRnpwM080dWF6bHp3TzhlS2R4RFI3?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1774309725,
+      "summary_kr": "삼성과 현대, 새로운 차량용 SmartThings 제어 기능으로 자동차와 주택 연결channelnews.com.au",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "건조 화상 방지 기능이 있는 미니 계란찜기 - 빠른 아침 식사를 위한 1~3단 조리대 보일러(녹색, 2단) - ruhrkanal.news",
+      "media": "ruhrkanal.news",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1NlN2JOY21SeTJpa182bWNQSGZqSE9hakpsX3VveFBDWWJ4NFR0Z0pvcWlmYnBDN3cxM0RRaGlsWFNkWF9LWjYwQ2hJVFgwbFZTM25uT25TUHl1ZkcxOG94bzJXcmlZdGpoVU9nREVnZmtDRktIRjhlWHY0Q3o0NEZOd3BRZjVNN05xUTJpOA?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1774308882,
+      "summary_kr": "건조 화상 방지 기능이 있는 미니 계란 찜통 - 빠른 아침 식사를 위한 1-3단 조리대 보일러(녹색, 2단)  ruhrkanal.news",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전문가들은 이 조리 방법이 주방에서 오염물질을 10배 적게 배출한다는 사실을 발견했습니다.",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaXFpS0Nxd1VpOG5GTW9Bb0hWbWNtaF9QR083aFlMTUM5Yy1ubXJvU0RnZTlMMWJhSndyUFE2aHVIVlYxZ1M4VlhPR0NzUFBkNHRMV21lc1A4X0tEb0ZqaXpnUmVGQ1Rpd1ByZF94UUJhYnF0enVLajlCOWNFQXZ5WQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1774293442,
+      "summary_kr": "전문가들은 이 요리 방법이 주방에서 오염물질을 10배 적게 배출한다는 사실을 발견했습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "시간과 에너지를 절약할 수 있는 멋진 주방 도구 12가지 - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSHRXd1dZaXdBWDd5cW03WGdTY2x1VWZaRjVXaFZaLW1KdmtlcVI0SmNncTlHSEd3M2dUYkNoN3YzRjVDcmFWUlV1WXJCUlRscThVcjJ5czVhNXJDYnFoZEs1czAtMzNIVEFUNm9uXzI0T2liWTFYOFU0dTRxWEFJVkpPSU8xRlk?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1774283400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 전자레인지는 2,100개 이상의 완벽한 평가를 받았으며 현재 31% 할인 중입니다 - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUU0Z3UycE5XcDhsR1I1bk1KenNpMU0yQnpTanNSMmxhczVzOEp2eU5VdmNrTm1aaldTd1JaSDA5NFFnQnowZ2thdndIREdSTVpzTFRKVlp6cjV1eXRPa05adkNvZ1FmcXEwN1Q5a0hQaXBjdG1SWlVLM29oZjI0V3NlMllULWRwRFdlVQ?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1774281601,
+      "summary_kr": "이 전자레인지는 2,100개가 넘는 완벽한 평가를 받았으며 현재 NBC 뉴스에서 31% 할인 중입니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "컨슈머 리포트: 주방 가전제품을 더 오래 보관하세요",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/money/other/consumer-reports-keep-your-kitchen-appliances-longer/vi-AA1ZfDl9",
+      "time": "10h ago",
+      "pub_ts": 1774281540,
+      "summary_kr": "컨슈머 리포트(Consumer Reports) 전문가들은 비용과 문제를 절약하고 가전제품을 장기간 가동 상태로 유지할 수 있는 팁과 요령을 공유합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "가벼운 스마트 오븐을 이용한 요리 브랜드가 문을 닫았습니다 - The Ambient",
+      "media": "The Ambient",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUNYLXRJazhYRFBJYmdvekxRZUNKMW9SckVqcGVTcTBVRTBXdnY4bWVGd1J5TXMyM3NiNWRoUENUVnJ4VFo4YnAzd2N1c1R6a0Nwc2h2R1BaMy1QUFpfVXd5a0dvNnBTQmZ3OXN1bkswMGJrejZ2czJNSHdkc1VfbDdYT2UxN0lrNXdQZEpB?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1774281259,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "리콜 감시 목록: 가전제품, 차량, 가정용품에 대한 주요 리콜 발표 - 41NBC News",
+      "media": "41NBC News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oUWZaWFVZZ3c2VnJTcWxON05WOE90MWVvOTR6VVBTM2hBdkJNQzM0ZjFQUlRFbE95a1Z6ZlZBU0hGQXVEMjZfZFc1YnBtTmk3bHB6c01VTjlCZEQwREJ5ekViTC1RSmQtZmw4VGJ4RlM5ZDRL?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1774281059,
+      "summary_kr": "리콜 감시 목록: 가전제품, 차량, 가정용품에 대한 주요 리콜 발표  41NBC News",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "고양이가 주방용품을 능가하고 두 번째 고양이가 강도에 가담하자 양지머리를 훔쳤습니다.",
+      "media": "Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jT0wtTVRwRFJSVURLNkNKNXZKeVBjM1Zndm9nOHM4SjFaS19rSTM5N051VjlabzNwYldtUHM4UEJNVTVWWEZEVGVLR1gxVUFEZ09nZ0l3?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1774279018,
+      "summary_kr": "고양이가 주방용품을 능가하고 두 번째 고양이가 강도 사건에 가담하자 양지머리를 훔칩니다. Fox News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "윌리엄스 소노마의 새로운 미래 주방에서 훔칠 5가지 천재적인 디자인 디테일",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/lifestyle/shopping/5-genius-design-details-to-steal-from-williams-sonoma-s-new-kitchen-of-the-future/ar-AA1ZfdzZ",
+      "time": "12h ago",
+      "pub_ts": 1774274400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Amazon의 대규모 봄 세일 진공 딜이 조기에 시작됩니다. Dyson, Shark, Roomba 등의 무선, 직립형 및 로봇 옵션을 최대 70% 할인 받으세요 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNMG11VUEwVGFZQWpZQjRad2Zrelh3c1RFOU5SazIxZktpMWd1MW94SjVGNHFtVUNfd0s2bE8tOVpXVGUzM05LSU4taDBhRC1ZWnFyczdmTlpjbkN2cTM5Qmc3Vl9ZM2JsenRnYTQwZXBQSXRVSnNxT2F4R2EwRDVsOUVzTHpKckJyTDBvNF84TS1sRU11S1NlWkNhWHpiUmpZWGVnM0lOT1Job1V3Z3BfUGNBMDUzXzQ5X3c1R0tjdS1PNy1SUFpXODFVZnRNcDRkSkc5ZVp2d2MyY1BIdDBIRFh1NFkyNnFHX3dkZmhIYTFEd3FFWmdENml5a0ZZOEl5dmRsNFlfSXd1RUt3R3JCcXlldUJaRmtqWFFFekhJeUVjSXhYTDY0OWFn?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1774274307,
+      "summary_kr": "Amazon의 대규모 봄 세일 진공 딜이 조기에 시작됩니다. Dyson, Shark, Roomba 등의 무선, 직립형 및 로봇 옵션에서 최대 70% 할인을 받으세요.  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "수상 경력에 빛나는 주방 가전 - Trend Hunter",
+      "media": "Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wZVgyc3ZUb1hJMjhRTWtldS13aW9sRF8zWTBlM1I0dXlRZnVoUEpOb05PeXQ2ZEx1bUhORVBKWmJKV29QWmlHV3hCdlhNRGNXRGtSRmpfa0hXM00yQWlN0gFkQVVfeXFMT1VPaDJGaERvT2dCcVNZcVpSUVpRYlJGVm9HS1NuN2RqNGtvSXNDLWhnSU5Ydm1MYXF5Z0pDcU5reTVrZjAzNG5Xamhqc19yUklwWU5QTkw4ZTQ2ajNXYkdWOWtZcw?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1774270607,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성 Jet 95S 진공청소기는 AI를 뺀 맞춤형 성능으로 작동합니다. - SamMobile",
+      "media": "SamMobile",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1hwMmhrejNoNTF3bld1b1l5X0pDeVFnRS11dmRQUnNnVWtmQUg0UWpMLXAyWHBvSkxscXRnYlBJWmxZYi0zcVZEQ0J5YWNycnc5SXlvOTB4dXBZSFNkYmp5cE9Na2NYTnBhcFF5cHZmVUQwQ205X3JSOTJvNE9ETVpwWW1pSmotTHhIWFRPTGNlbGRnWU1zOVRaakM?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1774267620,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Haier의 새로운 Horizon 냉장고 제품군은 더 오래 지속되는 식품을 약속합니다 - Trusted Reviews",
+      "media": "Trusted Reviews",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUJKWEZnYW9qTVAzRThEMmJWVWdtUUpxejRwblpZTGxQSUVaNGxnYlFkdkhROG1sRTMtREJWSHhOc1dxRzhXN2NWbDVzQzdLOHhqRXFQRHVMS2dDa0xGTTBGcjd2cVVNaXk2UnQ5NE0wVVZDTnRWYm9PTFdrUlNraUpZRjlKYXRRUTVuYU80d0ozR3ZWc2ZfSXZYSTk?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1774265582,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "GE Appliances, JD Power 2025 미국 가전 신뢰성 및 서비스 연구에서 가장 신뢰할 수 있는 가전 브랜드 1위로 선정 - Newswire 대한민국",
+      "media": "Newswire Canada",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMjhYSGJIMWQteXlNNGZfMDByYjM2ZVh1RkgtNWlESDRzd0tWQWdIcmxjWmwyaWxYNkN2TXZobFZMdFY5VzJTcVBNem9pc3ZoLUZXejVMZF9CWDRaNzBTZEZVR3M3MFBpZGNXN3hPN09fUlA4QXJQNU1kdThRdUs4YUhDVk5QWmhreWswRHNLZEZRWjJJZTk2NTBWOU5mRk1xRnpfRkFrX0lCU3QzRGk1SmpQVHQ1UmFsWGwtVEhQTDJkQmZFZlRYWHNIUjRmMC1HeEhiWU9OYmE0WGpYeXQ1SkJIM0djdmFsdDRPc3QtQ1lUb1Izc2F4TDNNRXFTMmFBcWVJ?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1774265280,
+      "summary_kr": "GE Appliances, JD Power 2025 미국 기기 신뢰성 및 서비스 연구에서 가장 신뢰할 수 있는 기기 브랜드 1위로 선정 뉴스와이어 캐나다",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Emerson MWG1191SB Microwave, Amazon에서 99.99달러로 하락 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkNUUGxxNlVCUnNwV2NQTGZvQmxEZ3FYaEFFSE1MWXQzanN1eW5TVndaM0d2Rm5YT093R2VaWldjb0t6dzRYdDZ6Q0llNElNWmx3TjEyY2xiZ0VQQzZ5QU04Rk9XcUJRM0pVUVZWUUU2OGlEWDFEM1h5aGtydFNDWUhNUkJQRTVGQTB3?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1774265167,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "인도 가전 시장 규모, 점유율 및 동향(2026-2035년) – openPR.com",
+      "media": "openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlZrWWRMYmpCWmpVQUdwSVNZVHlPYXQwQU1WWGJKUHZnYkxKTXp2cGMzLUhDQ1A5QWdjYmR4ZGdCUnRfUlhMWWYtQzFzRENHbWczOG1QTUU3VUFHMy1POEFGNWVjaE5DcXE1NjRmNGxiUEVISmZNOFduR1JRRnF5Vy1FQk8zNk9SUzVZVFBNSDllOUR6bnl2Tm9jWjM?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1774264591,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "주방의 스트레스를 없애고 싶은 삼성 비스포크 AI 냉장고 - Gizmodo",
+      "media": "Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMXd5N2xrWFpMTHZIc3hrd0k5Sy1QX1M5LW5KZ3p5M19oRlMtOE1Ob1NKYi11aklkTlE3d0x1U1F0NWZtaFl0UVNad3BlZjNBOUIwU3dJMGFXS2EyZTZYQkU2NHI3TFFNbEppVWItV2JsTXJ2YnZDT2pKYkZJTjZrd0VqbU5TZlhQTmJTQXNCazgtNWUwWVhlUWw4NnFUZlRrSmVub1pva1hzZw?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1774262184,
+      "summary_kr": "삼성 비스포크 AI 냉장고, 주방의 스트레스 없애고 싶어 Gizmodo",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon Prime Shopping Days의 마지막 날 할인! 가정 및 주방용품 최대 45% 할인 | 기술 뉴스 - Hindustan Times",
+      "media": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSm04YmdKZlc4dXBTbEVteGE1cWU4U3o5THJzWUpaZFJXa05Fb2QtQm4wbDVJZHF2MG1CZ0p1ZkhmTXlnTTdfZ1c3M0Z3ZEFyVkNTUHpRbTQ2MW9GU2tqRDBvVmFpVVIwSUVxd1F6MHJweVFyUEVEdjU0dTA2ZHZLU2hrOXFTdENXQVhXZkw2bDVua2trRlNPZ05HQU5HU3hsekVqdnVVVDUwbno5RDNyZVVCWGlJWktnTjlEQUhJT2R3cHdReVE5QUJlQ2dHVU5fY2t3ZVZTaXl3N1RfenhHTlFZX1NFd9IB6wFBVV95cUxNaUdFZDhHQlpQZnpzTS0zS3pURzZ6S0xWbHBtWHVJd0tjRVhmdkRFWE9FQjJHRHlLcGZDdm1sNHo4RnpjSUE3TFdYOC1tSnVPMU0xaTluZl9YUkFrOGs3RXZfWXEyM3o3RUpuSjFjU0NjWXJWUkl6UEVidWZhbjFsM1JTSTdwd3pZVXU0Tk9ZWUh0ODdxRnZUajJKZ1NNVERjd1FkQWdhbmxqU0RTbUYxMTY0VUdTVjE2RGstajBZQi11TVVraWFrUjk4MW1mazVTc04yWWlWOF8wLXJzSkpual81ZUQ1VWVkSDk4?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1774254324,
+      "summary_kr": "Amazon Prime Shopping Days의 마지막 날 할인! 가정 및 주방용품 최대 45% 할인 | 기술 뉴스  힌두스탄 타임즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "냉동실 공간을 극대화하는 벽돌 쌓기 방법을 시도해보았습니다 - Homes and Gardens",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkM0cHVlMFJ1c0FGRDMzM0pKMWNzckphMHFQZjlIN3pNQ09qaWNvb0RlTmd6QjNrMWFueEpCbWphNWxRWFplclBXajltTWtsM1M0ZjhKV2ZBNGVqY2ZOWldvVkJsVTRrTHp1TDJtWUxpN3U5RG4yUGNsV2JOcFpJcENycFRSUTRfaDBVWmpUUnhLMllFVTVOaXFac1pMQVk?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1774252800,
+      "summary_kr": "집과 정원 냉동실 공간을 극대화하는 벽돌쌓기 방식을 시도해봤습니다",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Morphy Richards, AWE 2026에서 수상 및 새로운 주방 가전 공개 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGxwYWtjRlUxczFMb3d6Xy1kT2lmR29XN3lELTZma1VVZElHYjc3a001NG5vcjNDUk1fNWM4enQ1aElUdklXcG5jOXFBNFN5YUprTmtxN1JQSUhWaDQwaC0xTEhFQmkydXVQOGFzM0FrMU55a3NXeGFzcEwtRHBqT3F4ek4temVHZFF6YmJPNWVITFJNR1ZkVklUdGo0RGhfZ2N4NHNWTEpjeDJmNV9RbGdPZVdxak9senROLU1ReXFYMEU?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1774251300,
+      "summary_kr": "Morphy Richards, AWE 2026에서 상을 받고 새로운 주방 가전 공개 PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "현대·기아차, 삼성 가전 제어하는 ​​차량 내 서비스 출시 - 중앙일보",
+      "media": "Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYW44dG05OVhqdFlkdWk1TlF4bVpnN3d0Q21yUFFJVWhKODhEX1BRYU5zOFhYRV9BMmlxckNHbEY5SjFnNi1lam9wbXRNdE80MHF4d0kwNDViU1VraE5CRjAtVE9LeEFVWENDT1FQSHUyM3IwZGVfQ2NaZFVFcDJKeFRtRmR2ZDY0dzZRckxBVURTZVVXeHlxMEl2eDVkVWZIRS1CYWpFZlJCanVPa0M2cFdhb0pTNmZuODI1aU1teFl1QVM0ZVk1TXFDSjhnN0haYjdwckNoSERwYm9lLUtDQ1ZR?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1774250465,
+      "summary_kr": "현대·기아차, 삼성 가전 제어하는 ​​차량 내 서비스 출시 중앙일보",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "저전력 소모의 에너지 절약형 냉장고 - Zee News",
+      "media": "Zee News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVDNUQjJ4VUo0VGtOZnZzOGE1WjVQYzlWdkdGVVdzUGV0dnlha2FFTlNfdEJyY2FuelZSWkROMlJGaWgtWlhrR3RfdlpuVVhVeGxTYTFCSDl2MGtIdkxSMzhINUFXZTA1cGxCVC1FQVNuLUp2OU1hUWpkRU1jQV81SS03N0pBeXVBY3lfaGo5cGE1OVBDSURMMGpjRWNyQlRBVEFQNnR4Z3BreDZjLUJKMll1a3QwYkhhYkU3bWpKTTh3QkREVDJSam1BUHFPcWUybmlQNtIB1AFBVV95cUxNVDNUQjJ4VUo0VGtOZnZzOGE1WjVQYzlWdkdGVVdzUGV0dnlha2FFTlNfdEJyY2FuelZSWkROMlJGaWgtWlhrR3RfdlpuVVhVeGxTYTFCSDl2MGtIdkxSMzhINUFXZTA1cGxCVC1FQVNuLUp2OU1hUWpkRU1jQV81SS03N0pBeXVBY3lfaGo5cGE1OVBDSURMMGpjRWNyQlRBVEFQNnR4Z3BreDZjLUJKMll1a3QwYkhhYkU3bWpKTTh3QkREVDJSam1BUHFPcWUybmlQNg?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1774249200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "아마존 쇼핑객들은 50달러 미만의 주방 도구, 액세서리, 가전제품에 대한 열광을 멈출 수 없습니다. - 식품 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyNXM1RVJJaThzeHpoSDBzei1HRldFanlUWEJzbEYwc2pDS2psWF9vSWFuQkhRZWQxaVRBOHgyTHVsRVRXd2xTa2JOc3NKSEZRZ2tOVTZ4RnpISzZRb2dMeUZlZll2N1B6R1RjSnFsTUhDQ0E5cnlmc1hlRjM?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1774245600,
+      "summary_kr": "아마존 쇼핑객들은 50달러 미만의 주방 도구, 액세서리, 가전제품에 대한 열광을 멈출 수 없습니다.  음식 및 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "류재철 사장, LG전자 로봇·AI센터·스마트팩토리 전환 가속화 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83YTBQWk0xS3lNaXhUd1k5aWpQN1FDZ0VXcDNlRDd0SlFjWGhnMTBjWDJ6Vl91Uzk4bkhMdDhmeV94dDRhbU13VEdvWTVaTTZSV1lTZkN6Z25MWHVsZzYzR0wyTkxrb05MZU5TdnJkRW5XTzlXMGh0Unp30gGOAUFVX3lxTE9HWjZTMjBmLXp6ZzRUanpfZWRfM2R5WV9FNWRQcjBJMXdJdENtenJ2TG1FeUs0Q2NjQ2d1bzJ6amJxd0E0dTE5MW9fQ3JlenkzRW1JOFgxNDZKRGcwR2ZORGY1bFdCM2Q2bkIyTkNnUzU0N080RTlkSDUzUkE4elZqalhVSVo5aUkzWHBaWEE?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1774233000,
+      "summary_kr": "류재철 부회장, LG전자 로봇·AI센터·스마트공장 전환 가속화 - CHOSUNBIZ 조선비즈",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
