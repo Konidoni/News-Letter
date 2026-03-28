@@ -26,14 +26,19 @@ SINCE     = NOW - timedelta(hours=24)
 BLOCKED_DOMAINS = (
     ".co.kr", "naver.", "daum.", "chosun.", "joongang.", "yonhap",
     "koreatimes", "koreaherald", ".cn", ".jp", "sina.", "qq.com",
+    # 어그리게이터 — URL 기반 차단
+    "msn.com", "aol.com", "yahoo.com", "flipboard.com",
+    "smartnews.com", "ground.news", "newsnow.co.uk",
+    "news.google.com/rss/articles/",  # Google News 리다이렉트 URL (원본 아님)
 )
 
-# 어그리게이터 / 신디케이션 매체 — 원본 기사 재탕
+# 어그리게이터 / 신디케이션 매체 — 매체명 기반 차단
 BLOCKED_MEDIA = {
     "aol", "msn", "yahoo news", "yahoo finance", "flipboard",
     "smartnews", "ground news", "newsnow", "alltop", "feedly",
     "pocketworthy", "upworthy", "buzzfeed", "patch",
     "dailymotion", "dailymail", "the mirror", "the sun",
+    "bing news", "google news",
 }
 
 # 삼성이 만들지 않는 제품 키워드 — 제목에 포함 시 제외
