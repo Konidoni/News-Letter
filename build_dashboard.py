@@ -166,6 +166,22 @@ a.news-card{{display:block;text-decoration:none;color:inherit;}}
 .toast{{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(80px);background:var(--accent-green);color:#07090F;font-size:13px;font-weight:700;padding:11px 22px;border-radius:8px;z-index:999;transition:transform .3s cubic-bezier(.34,1.56,.64,1);white-space:nowrap;}}
 .toast.show{{transform:translateX(-50%) translateY(0);}}
 
+/* PAT MODAL */
+.modal-overlay{{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:1000;display:flex;align-items:center;justify-content:center;backdrop-filter:blur(4px);opacity:0;pointer-events:none;transition:opacity .2s;}}
+.modal-overlay.open{{opacity:1;pointer-events:all;}}
+.modal-box{{background:var(--bg-card);border:1px solid var(--border);border-radius:14px;padding:28px;max-width:420px;width:90%;box-shadow:0 20px 60px rgba(0,0,0,.2);}}
+.modal-title{{font-size:15px;font-weight:700;margin-bottom:6px;}}
+.modal-desc{{font-size:12px;color:var(--text-secondary);line-height:1.7;margin-bottom:16px;}}
+.modal-desc a{{color:var(--samsung-blue);}}
+.modal-input{{width:100%;border:1px solid var(--border);border-radius:8px;padding:10px 13px;font-size:13px;font-family:var(--font-mono);background:var(--bg-deep);color:var(--text-primary);outline:none;transition:border-color .2s;}}
+.modal-input:focus{{border-color:var(--samsung-blue-accent);}}
+.modal-actions{{display:flex;gap:9px;margin-top:14px;justify-content:flex-end;}}
+.modal-btn{{padding:8px 18px;border-radius:7px;font-size:12px;font-weight:700;cursor:pointer;border:none;font-family:var(--font-body);transition:all .2s;}}
+.modal-btn-cancel{{background:transparent;border:1px solid var(--border);color:var(--text-muted);}}
+.modal-btn-cancel:hover{{border-color:var(--text-secondary);color:var(--text-secondary);}}
+.modal-btn-confirm{{background:var(--samsung-blue);color:#fff;}}
+.modal-btn-confirm:hover{{background:var(--samsung-blue-accent);}}
+
 /* ANIMATIONS */
 @keyframes fadeInUp{{from{{opacity:0;transform:translateY(14px);}}to{{opacity:1;transform:translateY(0);}}}}
 .animate-in{{animation:fadeInUp .4s ease both;}}
@@ -225,10 +241,10 @@ mark{{background:rgba(20,40,160,.12);color:var(--samsung-blue);border-radius:2px
     <div class="header-right">
       <div class="live-badge"><span class="live-dot"></span>LIVE</div>
       <div class="timestamp" id="ts">—</div>
-      <a class="refresh-btn" href="https://github.com/konidoni/News-Letter/actions/workflows/daily.yml" target="_blank" rel="noopener">
-        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 2v6h-6"/><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M3 22v-6h6"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/></svg>
-        지금 수집
-      </a>
+      <button class="refresh-btn" id="collectBtn" onclick="triggerCollection()">
+        <svg id="collectIcon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 2v6h-6"/><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M3 22v-6h6"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/></svg>
+        <span id="collectLabel">지금 수집</span>
+      </button>
     </div>
   </div>
 </header>
@@ -302,6 +318,24 @@ mark{{background:rgba(20,40,160,.12);color:var(--samsung-blue);border-radius:2px
 </main>
 
 <div class="toast" id="toast">✓ 클립보드에 복사되었습니다</div>
+
+<!-- PAT MODAL -->
+<div class="modal-overlay" id="patModal">
+  <div class="modal-box">
+    <div class="modal-title">🔑 GitHub Personal Access Token</div>
+    <div class="modal-desc">
+      수집을 즉시 실행하려면 GitHub PAT이 필요합니다.<br>
+      <strong>필요 권한:</strong> <code>repo</code> 또는 <code>actions:write</code><br>
+      <a href="https://github.com/settings/tokens/new?scopes=repo&description=Samsung+DA+Briefing" target="_blank" rel="noopener">토큰 생성하기 →</a><br><br>
+      토큰은 이 브라우저에만 저장되며 외부로 전송되지 않습니다.
+    </div>
+    <input class="modal-input" type="password" id="patInput" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" autocomplete="off">
+    <div class="modal-actions">
+      <button class="modal-btn modal-btn-cancel" onclick="closePatModal()">취소</button>
+      <button class="modal-btn modal-btn-confirm" onclick="confirmPat()">저장 후 수집 시작</button>
+    </div>
+  </div>
+</div>
 
 <script>
 const ALL_DATA  = {all_data_json};
@@ -523,13 +557,118 @@ function copyCard(btn,title,summary,impl,media,url) {{
   const text = `📋 [Samsung DA 전략 브리핑]\\n\\n■ ${{title}}\\n\\n▶ 현황\\n${{summary}}\\n\\n▶ 전략적 비고\\n${{impl}}\\n\\n출처: ${{media}}\\n🔗 ${{url}}\\n\\n— Samsung Electronics DA Division · ${{new Date().toLocaleDateString('ko-KR')}}`;
   navigator.clipboard.writeText(text).then(() => {{
     btn.classList.add('copied'); btn.textContent='✓ 복사됨';
-    const t = document.getElementById('toast'); t.classList.add('show');
+    showToast('✓ 클립보드에 복사되었습니다');
     setTimeout(() => {{
-      t.classList.remove('show'); btn.classList.remove('copied');
+      btn.classList.remove('copied');
       btn.innerHTML='<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect width="14" height="14" x="8" y="8" rx="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>복사';
     }}, 2000);
   }});
 }}
+
+// ── COLLECTION TRIGGER ────────────────────────────────────────────────────
+const GH_OWNER = 'konidoni';
+const GH_REPO  = 'News-Letter';
+const GH_WORKFLOW = 'daily.yml';
+
+function triggerCollection() {{
+  const token = localStorage.getItem('gh_pat');
+  if (!token) {{
+    document.getElementById('patModal').classList.add('open');
+    setTimeout(() => document.getElementById('patInput').focus(), 100);
+    return;
+  }}
+  runWorkflow(token);
+}}
+
+function closePatModal() {{
+  document.getElementById('patModal').classList.remove('open');
+  document.getElementById('patInput').value = '';
+}}
+
+function confirmPat() {{
+  const token = document.getElementById('patInput').value.trim();
+  if (!token) return;
+  localStorage.setItem('gh_pat', token);
+  closePatModal();
+  runWorkflow(token);
+}}
+
+async function runWorkflow(token) {{
+  const btn   = document.getElementById('collectBtn');
+  const label = document.getElementById('collectLabel');
+  const icon  = document.getElementById('collectIcon');
+
+  btn.disabled = true;
+  label.textContent = '수집 중...';
+  icon.style.animation = 'spin 1s linear infinite';
+  icon.style.transformOrigin = 'center';
+
+  // spin keyframe 동적 추가 (최초 1회)
+  if (!document.getElementById('spinStyle')) {{
+    const s = document.createElement('style');
+    s.id = 'spinStyle';
+    s.textContent = '@keyframes spin{{from{{transform:rotate(0deg)}}to{{transform:rotate(360deg)}}}}';
+    document.head.appendChild(s);
+  }}
+
+  try {{
+    const res = await fetch(
+      `https://api.github.com/repos/${{GH_OWNER}}/${{GH_REPO}}/actions/workflows/${{GH_WORKFLOW}}/dispatches`,
+      {{
+        method: 'POST',
+        headers: {{
+          'Authorization': `Bearer ${{token}}`,
+          'Accept': 'application/vnd.github+json',
+          'X-GitHub-Api-Version': '2022-11-28',
+          'Content-Type': 'application/json'
+        }},
+        body: JSON.stringify({{ ref: 'main' }})
+      }}
+    );
+
+    if (res.status === 204) {{
+      label.textContent = '✓ 수집 시작됨';
+      icon.style.animation = '';
+      showToast('✓ 수집이 시작되었습니다 — 약 3~5분 후 자동 업데이트됩니다');
+      setTimeout(() => {{
+        label.textContent = '지금 수집';
+        btn.disabled = false;
+      }}, 5000);
+    }} else if (res.status === 401 || res.status === 403) {{
+      localStorage.removeItem('gh_pat');
+      label.textContent = '지금 수집';
+      icon.style.animation = '';
+      btn.disabled = false;
+      showToast('❌ 토큰 인증 실패 — 다시 시도하면 재입력할 수 있습니다', true);
+    }} else {{
+      const body = await res.json().catch(()=>({{}}));
+      throw new Error(body.message || `HTTP ${{res.status}}`);
+    }}
+  }} catch(e) {{
+    label.textContent = '지금 수집';
+    icon.style.animation = '';
+    btn.disabled = false;
+    showToast('❌ 오류: ' + e.message, true);
+  }}
+}}
+
+function showToast(msg, isError) {{
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.style.background = isError ? 'var(--accent-red)' : 'var(--accent-green)';
+  t.style.color = '#fff';
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 4000);
+}}
+
+// 모달 외부 클릭 시 닫기
+document.getElementById('patModal').addEventListener('click', e => {{
+  if (e.target === e.currentTarget) closePatModal();
+}});
+// Enter 키로 확인
+document.getElementById('patInput').addEventListener('keydown', e => {{
+  if (e.key === 'Enter') confirmPat();
+}});
 
 // ── INIT ─────────────────────────────────────────────────────────────────
 renderTabs();
