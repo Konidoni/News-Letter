@@ -166,6 +166,22 @@ a.news-card{{display:block;text-decoration:none;color:inherit;}}
 .toast{{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(80px);background:var(--accent-green);color:#07090F;font-size:13px;font-weight:700;padding:11px 22px;border-radius:8px;z-index:999;transition:transform .3s cubic-bezier(.34,1.56,.64,1);white-space:nowrap;}}
 .toast.show{{transform:translateX(-50%) translateY(0);}}
 
+/* PAT MODAL */
+.modal-overlay{{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:1000;display:flex;align-items:center;justify-content:center;backdrop-filter:blur(4px);opacity:0;pointer-events:none;transition:opacity .2s;}}
+.modal-overlay.open{{opacity:1;pointer-events:all;}}
+.modal-box{{background:var(--bg-card);border:1px solid var(--border);border-radius:14px;padding:28px;max-width:420px;width:90%;box-shadow:0 20px 60px rgba(0,0,0,.2);}}
+.modal-title{{font-size:15px;font-weight:700;margin-bottom:6px;}}
+.modal-desc{{font-size:12px;color:var(--text-secondary);line-height:1.7;margin-bottom:16px;}}
+.modal-desc a{{color:var(--samsung-blue);}}
+.modal-input{{width:100%;border:1px solid var(--border);border-radius:8px;padding:10px 13px;font-size:13px;font-family:var(--font-mono);background:var(--bg-deep);color:var(--text-primary);outline:none;transition:border-color .2s;}}
+.modal-input:focus{{border-color:var(--samsung-blue-accent);}}
+.modal-actions{{display:flex;gap:9px;margin-top:14px;justify-content:flex-end;}}
+.modal-btn{{padding:8px 18px;border-radius:7px;font-size:12px;font-weight:700;cursor:pointer;border:none;font-family:var(--font-body);transition:all .2s;}}
+.modal-btn-cancel{{background:transparent;border:1px solid var(--border);color:var(--text-muted);}}
+.modal-btn-cancel:hover{{border-color:var(--text-secondary);color:var(--text-secondary);}}
+.modal-btn-confirm{{background:var(--samsung-blue);color:#fff;}}
+.modal-btn-confirm:hover{{background:var(--samsung-blue-accent);}}
+
 /* ANIMATIONS */
 @keyframes fadeInUp{{from{{opacity:0;transform:translateY(14px);}}to{{opacity:1;transform:translateY(0);}}}}
 .animate-in{{animation:fadeInUp .4s ease both;}}
@@ -173,6 +189,41 @@ a.news-card{{display:block;text-decoration:none;color:inherit;}}
 
 mark{{background:rgba(20,40,160,.12);color:var(--samsung-blue);border-radius:2px;padding:0 2px;}}
 ::-webkit-scrollbar{{width:5px;}}::-webkit-scrollbar-track{{background:var(--bg-deep);}}::-webkit-scrollbar-thumb{{background:#C8C0AA;border-radius:3px;}}
+
+/* VALUE PROP BANNER */
+.value-banner{{background:rgba(20,40,160,.06);border-bottom:1px solid rgba(20,40,160,.1);padding:9px 24px;font-size:12px;color:var(--text-secondary);text-align:center;letter-spacing:.02em;}}
+.value-banner strong{{color:var(--samsung-blue);font-weight:700;}}
+
+/* SORT */
+.sort-select{{padding:7px 10px;border:1px solid var(--border);border-radius:8px;font-size:12px;color:var(--text-secondary);background:var(--bg-card);cursor:pointer;font-family:var(--font-body);outline:none;}}
+.sort-select:focus{{border-color:var(--samsung-blue-accent);}}
+
+/* TAG QUICK FILTERS */
+.tag-filters{{display:flex;gap:7px;flex-wrap:wrap;padding:8px 24px 0;max-width:1440px;margin:0 auto;align-items:center;}}
+.tag-label{{font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);font-family:var(--font-mono);margin-right:2px;}}
+.tag-chip{{padding:5px 12px;border-radius:20px;font-size:11px;font-weight:600;cursor:pointer;border:1px solid transparent;background:transparent;transition:all .2s;white-space:nowrap;}}
+.tag-chip-risk{{color:var(--accent-red);border-color:rgba(192,57,43,.3);background:rgba(192,57,43,.06);}}
+.tag-chip-risk:hover,.tag-chip-risk.active{{background:var(--accent-red);color:#fff;border-color:var(--accent-red);}}
+.tag-chip-opp{{color:var(--accent-green);border-color:rgba(26,122,74,.3);background:rgba(26,122,74,.06);}}
+.tag-chip-opp:hover,.tag-chip-opp.active{{background:var(--accent-green);color:#fff;border-color:var(--accent-green);}}
+.tag-chip-watch{{color:var(--accent-gold);border-color:rgba(184,134,11,.3);background:rgba(184,134,11,.06);}}
+.tag-chip-watch:hover,.tag-chip-watch.active{{background:var(--accent-gold);color:#fff;border-color:var(--accent-gold);}}
+.tag-chip-all{{color:var(--text-muted);border-color:var(--border);}}
+.tag-chip-all.active,.tag-chip-all:hover{{background:var(--samsung-blue);color:#fff;border-color:var(--samsung-blue);}}
+
+/* ENHANCED EMPTY STATE */
+.empty-info{{margin-top:20px;display:flex;gap:28px;justify-content:center;flex-wrap:wrap;}}
+.empty-info-item{{text-align:center;}}
+.empty-info-label{{font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:.1em;font-family:var(--font-mono);}}
+.empty-info-value{{font-size:13px;font-weight:700;color:var(--text-secondary);margin-top:4px;}}
+.empty-hint{{margin-top:16px;font-size:12px;color:var(--text-muted);}}
+.empty-hint a{{color:var(--samsung-blue);text-decoration:none;font-weight:600;}}
+.empty-hint a:hover{{text-decoration:underline;}}
+
+/* SOURCE CREDIBILITY */
+.trust-bar{{display:flex;align-items:center;gap:16px;padding:8px 0;flex-wrap:wrap;}}
+.trust-item{{display:flex;align-items:center;gap:5px;font-size:10px;color:var(--text-muted);font-family:var(--font-mono);}}
+.trust-dot{{width:5px;height:5px;border-radius:50%;background:var(--accent-green);}}
 </style>
 </head>
 <body>
@@ -190,13 +241,18 @@ mark{{background:rgba(20,40,160,.12);color:var(--samsung-blue);border-radius:2px
     <div class="header-right">
       <div class="live-badge"><span class="live-dot"></span>LIVE</div>
       <div class="timestamp" id="ts">—</div>
-      <a class="refresh-btn" href="https://github.com/konidoni/News-Letter/actions/workflows/daily.yml" target="_blank" rel="noopener">
-        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 2v6h-6"/><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M3 22v-6h6"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/></svg>
-        지금 수집
-      </a>
+      <button class="refresh-btn" id="collectBtn" onclick="triggerCollection()">
+        <svg id="collectIcon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 2v6h-6"/><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M3 22v-6h6"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/></svg>
+        <span id="collectLabel">지금 수집</span>
+      </button>
     </div>
   </div>
 </header>
+
+<!-- VALUE PROP -->
+<div class="value-banner">
+  지난 <strong>24시간</strong> 내 글로벌 가전 업계 뉴스 중, <strong>삼성 DA 전략에 영향 있는 이슈만</strong> 선별한 브리핑 — 18종 키워드 자동 수집 · 중복 제거 · 한국어 번역
+</div>
 
 <!-- DATE TABS -->
 <div class="date-tabs-wrap">
@@ -209,6 +265,10 @@ mark{{background:rgba(20,40,160,.12);color:var(--samsung-blue);border-radius:2px
     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
     <input class="search-input" type="text" id="searchInput" placeholder="키워드 검색 (예: Samsung, LFP, Whirlpool)">
   </div>
+  <select class="sort-select" id="sortSelect" title="정렬 기준">
+    <option value="time">최신순</option>
+    <option value="impact">영향도순</option>
+  </select>
   <div class="filter-chips" id="filterChips">
     <button class="chip active" data-cat="ALL">전체</button>
     <button class="chip" data-cat="Samsung DA">삼성 가전</button>
@@ -219,6 +279,15 @@ mark{{background:rgba(20,40,160,.12);color:var(--samsung-blue);border-radius:2px
     <button class="chip" data-cat="Market Dynamics">시장 동향</button>
     <button class="chip" data-cat="Supply Chain">공급망</button>
   </div>
+</div>
+
+<!-- TAG FILTERS -->
+<div class="tag-filters wrapper" id="tagFilters">
+  <span class="tag-label">이슈 필터</span>
+  <button class="tag-chip tag-chip-all active" data-tag="ALL">전체</button>
+  <button class="tag-chip tag-chip-risk" data-tag="risk">🔴 위기 이슈</button>
+  <button class="tag-chip tag-chip-opp" data-tag="opp">🟢 기회 신호</button>
+  <button class="tag-chip tag-chip-watch" data-tag="watch">🟡 모니터링</button>
 </div>
 
 <!-- MAIN -->
@@ -236,12 +305,37 @@ mark{{background:rgba(20,40,160,.12);color:var(--samsung-blue);border-radius:2px
     <div class="empty-state" id="emptyState">
       <div style="font-size:32px;margin-bottom:12px;">📭</div>
       <div id="emptyTitle" style="font-size:15px;font-weight:700;color:var(--text-secondary);margin-bottom:8px;">오늘은 관련 뉴스가 없습니다</div>
-      <div id="emptyDesc" style="font-size:13px;color:var(--text-muted);line-height:1.7;">가전 업계 주요 뉴스가 발생하면 다음 수집 시 자동으로 업데이트됩니다.<br>매일 오후 4시 KST 자동 수집됩니다.</div>
+      <div id="emptyDesc" style="font-size:13px;color:var(--text-muted);line-height:1.7;"></div>
+      <div class="empty-info" id="emptyInfo">
+        <div class="empty-info-item"><div class="empty-info-label">마지막 수집</div><div class="empty-info-value" id="emptyLastFetch">—</div></div>
+        <div class="empty-info-item"><div class="empty-info-label">다음 자동 수집</div><div class="empty-info-value" id="emptyNextFetch">—</div></div>
+        <div class="empty-info-item"><div class="empty-info-label">모니터링 키워드</div><div class="empty-info-value">18종</div></div>
+        <div class="empty-info-item"><div class="empty-info-label">수집 대상 매체</div><div class="empty-info-value">글로벌 주요 언론</div></div>
+      </div>
+      <div class="empty-hint" id="emptyHint"></div>
     </div>
   </div>
 </main>
 
 <div class="toast" id="toast">✓ 클립보드에 복사되었습니다</div>
+
+<!-- PAT MODAL -->
+<div class="modal-overlay" id="patModal">
+  <div class="modal-box">
+    <div class="modal-title">🔑 GitHub Personal Access Token</div>
+    <div class="modal-desc">
+      수집을 즉시 실행하려면 GitHub PAT이 필요합니다.<br>
+      <strong>필요 권한:</strong> <code>repo</code> 또는 <code>actions:write</code><br>
+      <a href="https://github.com/settings/tokens/new?scopes=repo&description=Samsung+DA+Briefing" target="_blank" rel="noopener">토큰 생성하기 →</a><br><br>
+      토큰은 이 브라우저에만 저장되며 외부로 전송되지 않습니다.
+    </div>
+    <input class="modal-input" type="password" id="patInput" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" autocomplete="off">
+    <div class="modal-actions">
+      <button class="modal-btn modal-btn-cancel" onclick="closePatModal()">취소</button>
+      <button class="modal-btn modal-btn-confirm" onclick="confirmPat()">저장 후 수집 시작</button>
+    </div>
+  </div>
+</div>
 
 <script>
 const ALL_DATA  = {all_data_json};
@@ -254,6 +348,8 @@ const catLabel = {{"Competitor Analysis":"경쟁사 동향","Technology Trend":"
 let curDate = LATEST;
 let curCat  = 'ALL';
 let curQ    = '';
+let curTag  = 'ALL';
+let curSort = 'time';
 
 // ── 날짜 탭 렌더 ──────────────────────────────────────────────────────────
 function renderTabs() {{
@@ -273,8 +369,10 @@ function switchDate(date) {{
   curDate = date;
   curCat  = 'ALL';
   curQ    = '';
+  curTag  = 'ALL';
   document.getElementById('searchInput').value = '';
   document.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c.dataset.cat === 'ALL'));
+  document.querySelectorAll('.tag-chip').forEach(c => c.classList.toggle('active', c.dataset.tag === 'ALL'));
   renderTabs();
   renderStats();
   renderTakeaways();
@@ -369,36 +467,72 @@ function cardHtml(item) {{
 }}
 
 // ── RENDER ───────────────────────────────────────────────────────────────
+function nextCollectionTime() {{
+  const now = new Date();
+  const next = new Date();
+  next.setUTCHours(5, 0, 0, 0); // 14:00 KST = 05:00 UTC
+  if (now >= next) next.setDate(next.getDate() + 1);
+  const diffMs = next - now;
+  const diffH  = Math.floor(diffMs / 3600000);
+  const diffM  = Math.floor((diffMs % 3600000) / 60000);
+  return `약 ${{diffH}}시간 ${{diffM}}분 후 (14:00 KST)`;
+}}
+
 function render() {{
   const q        = curQ.toLowerCase();
   const articles = curData().articles || [];
-  const filtered = articles.filter(a => {{
+  let filtered = articles.filter(a => {{
     const catOk = curCat === 'ALL' || a.category === curCat;
+    const tagOk = curTag === 'ALL' || (a.tags||[]).includes(curTag);
     const txtOk = !q || (a.title+a.summary_kr+a.strategic_implications).toLowerCase().includes(q);
-    return catOk && txtOk;
+    return catOk && tagOk && txtOk;
   }});
+
+  // 정렬
+  if (curSort === 'impact') {{
+    filtered = filtered.slice().sort((a,b) => (b.impact||0) - (a.impact||0));
+  }} else {{
+    filtered = filtered.slice().sort((a,b) => (b.pub_ts||0) - (a.pub_ts||0));
+  }}
 
   const empty = document.getElementById('emptyState');
   const d     = curData();
-  document.getElementById('feedLabel').textContent =
-    `Intelligence Feed — ${{d.date_display || curDate}}`;
-
   const allArticles = d.articles || [];
+
+  document.getElementById('feedLabel').textContent =
+    `Intelligence Feed — ${{d.date_display || curDate}} (${{filtered.length}}건)`;
+
   if (!filtered.length) {{
     document.getElementById('newsGrid').innerHTML = '';
     empty.classList.add('visible');
-    // 필터 vs 진짜 없음 구분
+
     if (allArticles.length === 0) {{
       document.getElementById('emptyTitle').textContent = '해당 날짜에 수집된 뉴스가 없습니다';
-      document.getElementById('emptyDesc').textContent = '가전 업계 주요 뉴스가 없었거나 수집에 실패했습니다. 다음 수집 시 자동으로 업데이트됩니다.';
+      document.getElementById('emptyDesc').textContent = '가전 업계 주요 뉴스가 없었거나 수집이 아직 완료되지 않았습니다.';
+      document.getElementById('emptyLastFetch').textContent = d.generated_at_display || '수집 기록 없음';
+      document.getElementById('emptyNextFetch').textContent = nextCollectionTime();
+      document.getElementById('emptyHint').innerHTML =
+        `수집 대상: Samsung Bespoke · Jet Bot · LG · Whirlpool · Haier · Bosch 외 18종 키워드`;
     }} else {{
       document.getElementById('emptyTitle').textContent = '검색 결과가 없습니다';
-      document.getElementById('emptyDesc').textContent = '다른 키워드나 카테고리로 시도해보세요.';
+      document.getElementById('emptyDesc').textContent = `현재 필터 조건으로는 결과가 없습니다. 총 ${{allArticles.length}}건 수집됨.`;
+      document.getElementById('emptyLastFetch').textContent = d.generated_at_display || '—';
+      document.getElementById('emptyNextFetch').textContent = nextCollectionTime();
+      document.getElementById('emptyHint').innerHTML =
+        `<a href="#" onclick="resetFilters();return false;">필터 초기화</a>하거나 다른 키워드를 시도해보세요.`;
     }}
     return;
   }}
   empty.classList.remove('visible');
   document.getElementById('newsGrid').innerHTML = filtered.map(cardHtml).join('');
+}}
+
+function resetFilters() {{
+  curCat = 'ALL'; curTag = 'ALL'; curQ = '';
+  document.getElementById('searchInput').value = '';
+  document.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c.dataset.cat === 'ALL'));
+  document.querySelectorAll('.tag-chip').forEach(c => c.classList.toggle('active', c.dataset.tag === 'ALL'));
+  render();
 }}
 
 // ── EVENTS ───────────────────────────────────────────────────────────────
@@ -410,18 +544,131 @@ document.getElementById('filterChips').addEventListener('click', e => {{
 document.getElementById('searchInput').addEventListener('input', e => {{
   curQ = e.target.value.trim(); render();
 }});
+document.getElementById('sortSelect').addEventListener('change', e => {{
+  curSort = e.target.value; render();
+}});
+document.getElementById('tagFilters').addEventListener('click', e => {{
+  const chip = e.target.closest('.tag-chip'); if(!chip) return;
+  document.querySelectorAll('.tag-chip').forEach(c => c.classList.remove('active'));
+  chip.classList.add('active'); curTag = chip.dataset.tag; render();
+}});
 
 function copyCard(btn,title,summary,impl,media,url) {{
   const text = `📋 [Samsung DA 전략 브리핑]\\n\\n■ ${{title}}\\n\\n▶ 현황\\n${{summary}}\\n\\n▶ 전략적 비고\\n${{impl}}\\n\\n출처: ${{media}}\\n🔗 ${{url}}\\n\\n— Samsung Electronics DA Division · ${{new Date().toLocaleDateString('ko-KR')}}`;
   navigator.clipboard.writeText(text).then(() => {{
     btn.classList.add('copied'); btn.textContent='✓ 복사됨';
-    const t = document.getElementById('toast'); t.classList.add('show');
+    showToast('✓ 클립보드에 복사되었습니다');
     setTimeout(() => {{
-      t.classList.remove('show'); btn.classList.remove('copied');
+      btn.classList.remove('copied');
       btn.innerHTML='<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect width="14" height="14" x="8" y="8" rx="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>복사';
     }}, 2000);
   }});
 }}
+
+// ── COLLECTION TRIGGER ────────────────────────────────────────────────────
+const GH_OWNER = 'konidoni';
+const GH_REPO  = 'News-Letter';
+const GH_WORKFLOW = 'daily.yml';
+
+function triggerCollection() {{
+  const token = localStorage.getItem('gh_pat');
+  if (!token) {{
+    document.getElementById('patModal').classList.add('open');
+    setTimeout(() => document.getElementById('patInput').focus(), 100);
+    return;
+  }}
+  runWorkflow(token);
+}}
+
+function closePatModal() {{
+  document.getElementById('patModal').classList.remove('open');
+  document.getElementById('patInput').value = '';
+}}
+
+function confirmPat() {{
+  const token = document.getElementById('patInput').value.trim();
+  if (!token) return;
+  localStorage.setItem('gh_pat', token);
+  closePatModal();
+  runWorkflow(token);
+}}
+
+async function runWorkflow(token) {{
+  const btn   = document.getElementById('collectBtn');
+  const label = document.getElementById('collectLabel');
+  const icon  = document.getElementById('collectIcon');
+
+  btn.disabled = true;
+  label.textContent = '수집 중...';
+  icon.style.animation = 'spin 1s linear infinite';
+  icon.style.transformOrigin = 'center';
+
+  // spin keyframe 동적 추가 (최초 1회)
+  if (!document.getElementById('spinStyle')) {{
+    const s = document.createElement('style');
+    s.id = 'spinStyle';
+    s.textContent = '@keyframes spin{{from{{transform:rotate(0deg)}}to{{transform:rotate(360deg)}}}}';
+    document.head.appendChild(s);
+  }}
+
+  try {{
+    const res = await fetch(
+      `https://api.github.com/repos/${{GH_OWNER}}/${{GH_REPO}}/actions/workflows/${{GH_WORKFLOW}}/dispatches`,
+      {{
+        method: 'POST',
+        headers: {{
+          'Authorization': `Bearer ${{token}}`,
+          'Accept': 'application/vnd.github+json',
+          'X-GitHub-Api-Version': '2022-11-28',
+          'Content-Type': 'application/json'
+        }},
+        body: JSON.stringify({{ ref: 'main' }})
+      }}
+    );
+
+    if (res.status === 204) {{
+      label.textContent = '✓ 수집 시작됨';
+      icon.style.animation = '';
+      showToast('✓ 수집이 시작되었습니다 — 약 3~5분 후 자동 업데이트됩니다');
+      setTimeout(() => {{
+        label.textContent = '지금 수집';
+        btn.disabled = false;
+      }}, 5000);
+    }} else if (res.status === 401 || res.status === 403) {{
+      localStorage.removeItem('gh_pat');
+      label.textContent = '지금 수집';
+      icon.style.animation = '';
+      btn.disabled = false;
+      showToast('❌ 토큰 인증 실패 — 다시 시도하면 재입력할 수 있습니다', true);
+    }} else {{
+      const body = await res.json().catch(()=>({{}}));
+      throw new Error(body.message || `HTTP ${{res.status}}`);
+    }}
+  }} catch(e) {{
+    label.textContent = '지금 수집';
+    icon.style.animation = '';
+    btn.disabled = false;
+    showToast('❌ 오류: ' + e.message, true);
+  }}
+}}
+
+function showToast(msg, isError) {{
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.style.background = isError ? 'var(--accent-red)' : 'var(--accent-green)';
+  t.style.color = '#fff';
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 4000);
+}}
+
+// 모달 외부 클릭 시 닫기
+document.getElementById('patModal').addEventListener('click', e => {{
+  if (e.target === e.currentTarget) closePatModal();
+}});
+// Enter 키로 확인
+document.getElementById('patInput').addEventListener('keydown', e => {{
+  if (e.key === 'Enter') confirmPat();
+}});
 
 // ── INIT ─────────────────────────────────────────────────────────────────
 renderTabs();
