@@ -1,39 +1,53 @@
 {
   "date": "2026-03-31",
   "date_display": "2026년 03월 31일",
-  "generated_at": "2026-03-31T15:45:38.759920+09:00",
-  "generated_at_display": "2026.03.31 15:45 KST",
+  "generated_at": "2026-03-31T17:17:20.332918+09:00",
+  "generated_at_display": "2026.03.31 17:17 KST",
   "category_counts": {
-    "Market Dynamics": 14,
-    "Samsung DA": 6,
-    "Technology Trend": 6,
-    "Competitor Analysis": 3,
-    "Samsung Bespoke": 1
+    "Market Dynamics": 16,
+    "Samsung DA": 4,
+    "Technology Trend": 5,
+    "Samsung Bespoke": 1,
+    "Competitor Analysis": 3
   },
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 3건 감지",
-      "desc": "오늘 수집된 30건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: 삼성전자, 가전제품 빅스비 개선 위해 퍼플렉시티 AI 도입 - 코리아타임스. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 29건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: 삼성, 가전제품용 빅스비 개선 위해 Perplexity AI 도입 - 코리아타임스. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
       "title": "시장 기회 8건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: 가족용 대용량 식기세척기 - Zee News. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: Morphy Richards, AWE 2026에서 수상 및 새로운 주방 가전 공개 - ANTARA News. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
       "title": "경쟁사 기사 3건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: 먼지를 털어내세요 - Amazon Big Spring Sale 진공 딜은 최대 50% 할인됩니다. 시장 전반 기사 14건, 기술 트렌드 6건 함께 검토 권장."
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: Amazon 봄 세일 진공 딜: Shark, Dyson, iRobot 등과 같은 인기 브랜드를 Snag Prime Day에 알맞은 가격으로 구매하세요 - Yahoo Tech. 시장 전반 기사 16건, 기술 트렌드 5건 함께 검토 권장."
     }
   ],
   "articles": [
     {
       "category": "Market Dynamics",
+      "title": "Morphy Richards, AWE 2026에서 수상 및 새로운 주방 가전 공개 - ANTARA News",
+      "media": "ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNzJNMDhZWWNkelg2QWpfRFZ5NU5CZ21EdkQ2UU5XWTNUMzVDcTJRRVVJeVVfU2JIRG9aQ2QwRWNiMXJJRXhoUmZrX3JheWpma2hPU3lCbFUyUUV0eDJaNDRZYmZOcUxqdXRBa2Y3ZEdfSG83OXdRa2pFamlqX1gtZ3pWcnZYcmNhNVRLb2NDVHlUZk1DNUNKYjZIOEw4cnRya1N6UnlwRm1HdDjSAbABQVVfeXFMUFo5UUF5TXVUSEFyVFJLOHpLNkJxT2YzN3owZTh1eEhCcjUtdWVETXlEM1NsNE9Id3kyN2NCWDF2eFF5VnFkOXZIRFBscEZ1UEFubTV1MDhvdFVCWFBCNXlTZ2FhY1dxeGMzX01fbFlja1pMNkZQRlRnSTZVSkZuZV9yV09nalpnUlF6MEFTNDBKTUlqY2l0MFJLZG5QMDd1dmZSRFJRMVljZXJ2aGUxZlQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1774939551,
+      "summary_kr": "Morphy Richards, AWE 2026에서 수상 및 새로운 주방 가전 공개 ANTARA News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
       "title": "가족용 대용량 식기세척기 - Zee News",
       "media": "Zee News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWtmOERnSEdnbmpua1VvazFFOTFnLWVHUnV4NlpzU25DUjRqZXBuanZKYlo5b2cxT2pBZWdyU1g1VG5oR2duenM4Tl81TWh0MDVjSTZVZ0pQdmpvU2dUMExSVW9HeEZMa0hVZ0d5eGN6YkxNNDhqTnQwZV9QSEdzV0lnR1BpZVRiTndIcnBfN1V0ajBqWFHSAZYBQVVfeXFMUGlrZjhEZ0hHZ25qbmtVb2sxRTkxZy1lR1J1eDZac1NuQ1I0amVwbmp2SmJaOW9nMU9qQWVnclNYNVRuaEdnbnpzOE5fNU1odDA1Y0k2VWdKUHZqb1NnVDBMUlVvR3hGTGtIVWdHeXhjemJMTTQ4ak50MGVfUEhHc1dJZ0dQaWVUYk53SHJwXzdVdGowalhR?oc=5",
-      "time": "Just now",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc05ESF8yaktKb19QWjl1Ul9TS0hjcEZsSEUyY0I2QXhSdzN5Y2VLc19YNGkwTEJpeTRoVnFFb3J1bVYtV0stZEJtbHQ4TjNPSGVwYlpGMXN5MTNxMDZyVFd3ekFvMVhucFNiSG9adFRmTUJqS1RJbGhtQ2thUEhnc0R0QXBaV0I1UEFvTEhhTmpHRzFVRjJLck1VSHJZVHdzSEUyQ3kyUXNIeFZIRDc2QmQ0ZzFJOFVub0IwcnU0MG5hV3PSAcMBQVVfeXFMTXNOREhfMmpLSm9fUFo5dVJfU0tIY3BGbEhFMmNCNkF4UnczeWNlS3NfWDRpMExCaXk0aFZxRW9ydW1WLVdLLWRCbWx0OE4zT0hlcGJaRjFzeTEzcTA2clRXd3pBbzFYbnBTYkhvWnRUZk1CaktUSWxobUNrYVBIZ3NEdEFwWldCNVBBb0xIYU5qR0cxVUYyS3JNVUhyWVR3c0hFMkN5MlFzSHhWSEQ3NkJkNGcxSThVbm9CMHJ1NDBuYVdz?oc=5",
+      "time": "1h ago",
       "pub_ts": 1774938600,
       "summary_kr": "",
       "strategic_implications": "",
@@ -47,7 +61,7 @@
       "title": "삼성, 가전 전반에 걸쳐 빅스비 업그레이드 - Let's Data Science",
       "media": "Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN3dPdmRQVlk4djFIRkswcUtuYXJ3MThodE95MGtrbUhTajV3b0lfMGxpNzJDNDdHbUFpcVVfVGJJRFhwRjlOd043eVVrSmNUcGJwajR1ZFJQS21vcFY2MGNrQ09WbExGMHptNjZLN1hVaHctRllwWlNxdHV3ZEkxOXFVNTdxWVp6dVFkOC03OXk?oc=5",
-      "time": "Just now",
+      "time": "2h ago",
       "pub_ts": 1774936324,
       "summary_kr": "",
       "strategic_implications": "",
@@ -58,10 +72,10 @@
     },
     {
       "category": "Samsung DA",
-      "title": "삼성전자, 가전제품 빅스비 개선 위해 퍼플렉시티 AI 도입 - 코리아타임스",
+      "title": "삼성, 가전제품용 빅스비 개선 위해 Perplexity AI 도입 - 코리아타임스",
       "media": "The Korea Times",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlpWMVdRNmhIY29qU1ZGUTdkelhqOTYxZDFON2pvMVZXYWlTMmpTa3hXZUR1aVlzWWpybEd0MGZVLU96YmQ2ZjFDdVV2azlBaFlyVWpXWTJmaV9WdElHcDh0QTR6cXVxSFdIVzB4a2NCSkFFUWo1VTJjUjNWQS1XaEZGRXZSZElOektuQU5iU2dnREh2bWNadVhfa0FCX19Rcnh2NUZqZ2QzOWJQN2ptVTRhNHlrRm9hbWtoZTRsd9IBxAFBVV95cUxNR25qTVQ5dVhYYjJXelp0LTBubFMzOTJ6WmJMb1BMSE5iQjU0NGxvNUhadFJhMzJPQnNkUDM4YjRsa2l5RG9qY3A0R2tqeDE3Y1g1TkR3TnNzbEc2bkZodEltZEUyWElWeVk0WUpHUjlHa3pZMmJHR0NaUGkxYVh4dF9sTnZndXloTENUbnlfUHozRmNFNGhMZk1ZZS05NHpOVlZsdnh0aGJZU19WUDdVYndzbkZRTEhsSVplWG9TOC1jNWVT?oc=5",
-      "time": "Just now",
+      "time": "2h ago",
       "pub_ts": 1774936266,
       "summary_kr": "삼성, 가전제품용 빅스비 개선 위해 Perplexity AI 활용",
       "strategic_implications": "",
@@ -72,10 +86,24 @@
     },
     {
       "category": "Market Dynamics",
+      "title": "기다리지 마세요! Amazon 봄 세일이 끝나기 전에 주방 특가를 4달러부터 구매할 수 있는 마지막 기회입니다 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlZCSDRPZVFvb3U2bmxwODJHQy1lbWJEM2F3R3NfRWhnVXdsQzdtV015Q0M0SlN6RnhwdkQ2Y19KUEJjSkp4dDByM2VVemNZRlJJUFljSG5hZ0dlNzJnendFQTg4YW1YR0wxYmdlSG8xTjRMcXJjd3VkMC1idnFhZEJidF9RUTda?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1774933184,
+      "summary_kr": "기다리지 마세요! Amazon 봄 세일이 끝나기 전에 주방 할인을 받을 수 있는 마지막 기회입니다. 최저 $4 Allrecipes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
       "title": "SUNVIVIPRO 프로그래밍 가능 슬로우 쿠커(Programmable Slow Cooker)가 $71.87로 인하 - Technobezz",
       "media": "Technobezz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkdnOHlFQzZMeUp4OHI5UUJobnpaU3d2YVpCM3ZOU3dfcmdzWFFySDNuUFhvaEkwUzNuZi1uUlZRRVhQdGctNTZQaGJaaGs5N3kteUZTTlBBT3RpWm93dy1ScnJqZGJGd3JNQlpSaE4tTzg3Mmlfd0RDZkNqS0YzSlJuelQyUVd4?oc=5",
-      "time": "2h ago",
+      "time": "3h ago",
       "pub_ts": 1774932168,
       "summary_kr": "",
       "strategic_implications": "",
@@ -89,7 +117,7 @@
       "title": "Zojirushi CD-LFC30 파노라마 창형 보일러, $319.98로 인하 - Technobezz",
       "media": "Technobezz",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR3FEYm1oZkRZYmpyUEE4VHN1enlud0NwYkJQYml6QmhWb3J4Z1hSMG5rVlNCT29ZX3Q1UGpfN2NXN2pxS1FJNXlkVEtMVHNrdE5IaEJrbnFDOHpoRVFZclVGejJKY2VWbGFrRFhYMXNwaEJtMy0ySUg5Z0piYVBnVHN5VXE3Z1dhUVVwbW1TLTlxbXlPU3pwN3Vn?oc=5",
-      "time": "2h ago",
+      "time": "3h ago",
       "pub_ts": 1774931854,
       "summary_kr": "",
       "strategic_implications": "",
@@ -101,10 +129,24 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Amazon 봄 세일이 오늘 밤에 종료되지만, 비밀 아울렛에는 여전히 개당 46센트부터 시작하는 할인이 있습니다 - Allrecipes",
+      "title": "서두르다! 오늘 밤 Amazon 봄 세일이 끝나기 전에 Brooks, Breville 등 최대 77% 할인을 받으세요 - EatingWell",
+      "media": "EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbHk0cWtxOVhqZ0dlNEktVUg4LTVBMzZBYVN3cUxNbVU4b2hQVzhUckF2cFNtUDRNdHNLTktsU2hJbGJ6MTZZbnpCcXg3dHZmQVNTTFN2dDM2UHVZaEdPeTFMeWpORWI2SF9GNW52TkFZOUNhQ0ZIdEg4ak5tZVdRLVpFSFR0Yi1x?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1774931400,
+      "summary_kr": "서두르다! 오늘 밤 Amazon 봄 세일이 끝나기 전에 Brooks, Breville 등 최대 77% 할인  EatingWell",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon의 봄맞이 세일은 오늘 밤에 종료되지만, 비밀 아울렛에는 여전히 개당 46센트부터 시작하는 딜이 있습니다 - Allrecipes",
       "media": "Allrecipes",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWTJsMjlUNGxDbkJ5NHpEYnVYVmI2Y19nZGt5UE5hUmNoZUFJTk82VlJUdmYzdE5RLUF0X3dkRVo5eW4zM0hZZ0doQkdtVW9MWUFaSWJaYWI0a1JqN3VtUFpkdjJ6bG93YmoxNGUxbi1DbVRFQW1ONWRmbnVKd25mQ1pWbnRiZlQxS1BhRVc0RG1fQQ?oc=5",
-      "time": "2h ago",
+      "time": "3h ago",
       "pub_ts": 1774931400,
       "summary_kr": "Amazon의 대규모 봄 세일은 오늘 밤에 종료되지만, 비밀 아울렛에는 여전히 개당 46센트부터 시작하는 딜이 있습니다.  Allrecipes",
       "strategic_implications": "",
@@ -115,38 +157,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "서두르다! 오늘 밤 Amazon 봄 세일이 끝나기 전에 Brooks, Breville 등 최대 77% 할인을 받으세요 - EatingWell",
-      "media": "EatingWell",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbHk0cWtxOVhqZ0dlNEktVUg4LTVBMzZBYVN3cUxNbVU4b2hQVzhUckF2cFNtUDRNdHNLTktsU2hJbGJ6MTZZbnpCcXg3dHZmQVNTTFN2dDM2UHVZaEdPeTFMeWpORWI2SF9GNW52TkFZOUNhQ0ZIdEg4ak5tZVdRLVpFSFR0Yi1x?oc=5",
-      "time": "2h ago",
-      "pub_ts": 1774931400,
-      "summary_kr": "서두르다! 오늘 밤 Amazon 봄 세일이 끝나기 전에 Brooks, Breville 등 최대 77% 할인  EatingWell",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Samsung DA",
-      "title": "Samsung Bixby는 가전제품에 상황 인식 인텔리전스를 제공합니다 - Sammy Fans",
-      "media": "Sammy Fans",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWg4cm9FLWVNcnJsWTJ0bUhXLWRBanFlSnNuMTJSZGVhNjRNdE9RbUo2UFQwdnJjNklyNU93RV9IQWEwbmNzRzFndG5jUTJ5Y2NCNUl3MnlUTDlVSnQtRkhJZkUxTm1VVjVYY2RYbEYtOUY2ZXJRWG9Ycm9pQWxNaERJSUFmbWxzSEhDOVlIXy14ZzdvTHRaMjBlMDU0YnVQX0ZUbld30gGmAUFVX3lxTE5xaDhyb0UtZU1ycmxZMnRtSFctZEFqcWVKc24xMlJkZWE2NE10T1FtSjZQVDB2cmM2SXI1T3dFX0hBYTBuY3NHMWd0bmNRMnljY0I1SXcyeVRMOVVKdC1GSElmRTFObVVWNVhjZFhsRi05RjZlclFYb1hyb2lBbE1oRElJQWZtbHNISEM5WUhfLXhnN29MdFoyMGUwNTRidVBfRlRuV3c?oc=5",
-      "time": "3h ago",
-      "pub_ts": 1774925151,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
       "title": "가전제품 배터리와 함께 주방을 보조하는 무선 장치 - pickr.com.au",
       "media": "pickr.com.au",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNzRud1k2S0NXUGdQRVBNc09sYngyTnBhN1JQU1hobjhCNnludEUyblZuUGN6d2FhaGdJcWxwenJUbG5HY2pkV0hHNVlfa0RpbklGLWViV1dGbG16ZmdjOEhEQ1RwUTNPSG1kNDRSSHZGa3RSZndRZlVBR1F4WjN0U19xMlhsS1llSVNSZzFkb19UbFlBcVlqSk1mNA?oc=5",
-      "time": "5h ago",
+      "time": "7h ago",
       "pub_ts": 1774919196,
       "summary_kr": "",
       "strategic_implications": "",
@@ -160,7 +174,7 @@
       "title": "LG 전자의 WASHTOWER™, 전 세계적으로 320만 대 판매 돌파 - PR Newswire",
       "media": "PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHJUcU1rNVZUbUt4VXlBNk84NnFlakdicWRGSWFvcXhoN0hGbElBUjRzdWw4Nkd3WWU3dWlzb3RmOHNoVHZtcjlDdm1JMDV0SVlaX3YxOUhRR3VialJZNEVpcnVVbjQ1dUFwd0VZbV9URXE4dzk2NF9mQUd1ejFBRDZfakxyaGxLZlM4V0RDNF9xVTZSTUZYT09qRklIYWR2c01rTnI4MzBTaWZueG5GUFNpVi1vcEVZU2lsci01WldNUjhvTF9B?oc=5",
-      "time": "5h ago",
+      "time": "7h ago",
       "pub_ts": 1774918800,
       "summary_kr": "LG 전자의 WASHTOWER™, 전 세계적으로 320만 대 판매 돌파 PR Newswire",
       "strategic_implications": "",
@@ -171,12 +185,12 @@
     },
     {
       "category": "Samsung DA",
-      "title": "삼성전자, Perplexity와 Bixby 결합해 대화형 AI 가전제품 강화 - CHOSUNBIZ - biz.chosun.com",
-      "media": "biz.chosun.com",
+      "title": "삼성, Perplexity와 Bixby 결합해 대화형 AI 가전제품 강화 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CWGNDdFdTRFQ0bE9JTm1HWmVXN2xyWkJ1ZW9Vd0pJMWVqOUdoZFduR1l3SXZ4aDNuVWprOHdVb29Gd0JzT0t1VWxiMlJ2bTRtRG45ZzFIOXhXMWh4N0VqS3lQRkV4MlYwMFJQQkh2ZmpvVEtFd014WFdB0gGOAUFVX3lxTFBOenl1aHNMNHBwMkVCcGlzLWNZUmVKdjhheWdEYlpyckR0WFU4YW81TjViUE02clhNMXBqRE0tSnRiRmFEZ2xsbV8xbW1jTkZ6bE43R3p0MGNfY0Z2aklERUZUTTE5SnYyVDNzV1dtbU9LT01MckZmSlV3dlliVEFNWlVuM1V1VWFHLTBjZGc?oc=5",
-      "time": "6h ago",
+      "time": "7h ago",
       "pub_ts": 1774917480,
-      "summary_kr": "삼성, Perplexity와 Bixby 결합해 한국에서 대화형 AI 기기 구동 - CHOSUNBIZ biz.chosun.com",
+      "summary_kr": "삼성전자, Perplexity와 Bixby 결합해 대화형 AI 가전제품 강화 - CHOSUNBIZ 조선비즈",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -188,7 +202,7 @@
       "title": "삼성 네팔, 할인과 EMI 계획으로 새해 캠페인 시작",
       "media": "Bing News",
       "url": "https://thehimalayantimes.com/business/samsung-nepal-launches-new-year-campaign-with-discounts-emi-plans",
-      "time": "7h ago",
+      "time": "8h ago",
       "pub_ts": 1774914180,
       "summary_kr": "삼성네팔이 신년 캠페인 'Smart Ghar, Smart Suruwat'을 발표하고 TV와 가전제품 할인, EMI 요금제, 묶음선물 증정 등을 진행했다.",
       "strategic_implications": "",
@@ -202,7 +216,7 @@
       "title": "이 탄소 붙지 않는 팬은 극찬을 받았으며 한 달 동안 매일 요리한 후에 그 이유를 완전히 이해하게 되었습니다. - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUV3X2QxdUVkdHNYVWZHeG5iNGpNS0phVWZPSGZLbWtGcEVQa21rZG85QzkxazRoQjlhZ3pYTFZubVpIckJjMGRjazVxdDA5MlkzV3p1V2cyOEJ3M1FXR0NsNF9WVHNtOVh4ck1IMFpSWDJvN3FXaU9xRTRkYmtyZ3Vn?oc=5",
-      "time": "7h ago",
+      "time": "8h ago",
       "pub_ts": 1774913464,
       "summary_kr": "이 탄소 붙지 않는 팬은 극찬을 받았으며 한 달 동안 매일 요리한 후에 그 이유를 완전히 이해했습니다. AOL.com",
       "strategic_implications": "",
@@ -216,7 +230,7 @@
       "title": "콜로라도에 본사를 둔 회사, Lynden 가족 가전제품 사업 인수 - Bellingham Herald",
       "media": "Bellingham Herald",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvMmJ0S2EtNHhvSE1zM2hIUlRWY0JEeVZuWlpQZ09WMXFtdlY0Z2FKVko4T2w3NW5oZnkxdmppdFdmSS1IR0J5N3NSUjlZa3B1emxYZU1sYl9fZ0lSTWFvdTdZRk56dW9JcVZCcmttYUZsWVltQWpr0gF3QVVfeXFMT3dURzdIVWxVS2lpM283WjlENTNTSEM4SnZ1YUExOWFQX3pWd1F4SVVtRjkyTUY4N3FwaElxSkhUYmJnV0o2bkM3d1ZkTndCWUxSSndNWWVFWW90VjFTWndMOVpDc1BYSFpyRGNQeXpCNkdzemRYOXc?oc=5",
-      "time": "9h ago",
+      "time": "11h ago",
       "pub_ts": 1774905282,
       "summary_kr": "콜로라도에 본사를 둔 회사가 Lynden 가족 가전 사업부 인수 Bellingham Herald",
       "strategic_implications": "",
@@ -230,7 +244,7 @@
       "title": "하이얼, 세계 1위 스마트 홈 기업으로 성장 - Nepali Patro",
       "media": "Nepali Patro",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OVnJDVkttRWp6MEhJb2ZNakF4T3YxdERrOVluQ1V2alpVdkN0UWM5R2NqVE9FX19TRTdiT3VBWDlMMnhIYTFnTTNLTGplU2hEQi1Cb3pHSVh1Zw?oc=5",
-      "time": "9h ago",
+      "time": "11h ago",
       "pub_ts": 1774903935,
       "summary_kr": "",
       "strategic_implications": "",
@@ -244,7 +258,7 @@
       "title": "Amazon의 대규모 봄 세일이 3월 31일에 종료됩니다. 여전히 구매할 가치가 있는 제품은 다음과 같습니다. - SFGATE",
       "media": "SFGATE",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMm8xNVp5Y2ZWVmQ2eVVVeU9OTEZwSjlGcnBHeGZlZklQeFNDa2pmSEZZYTk2N1R0S0VpU2FnV25WTEowanVaNnZJRmdqam82Z1l5Y1RIRmthbi1BQVVuRTlEVTZTOVduQU5mZ3RudWE4bTJQdkFrYzlHVW1MMzM2eHVzd3BwMmhaYVgtWHctRQ?oc=5",
-      "time": "10h ago",
+      "time": "11h ago",
       "pub_ts": 1774902811,
       "summary_kr": "Amazon의 대규모 봄 세일이 3월 31일에 종료됩니다. 여전히 구매할 가치가 있는 제품은 다음과 같습니다. SFGATE",
       "strategic_implications": "",
@@ -258,23 +272,9 @@
       "title": "집에서 전문적인 결과를 제공하는 15가지 주방 도구 - Gadget Review",
       "media": "Gadget Review",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLThNLUZLdjJ4RlVLWDVjSGxvbF9qNlBMSkFPaVYtTlBYTi13OFFOcjVPdjJCTmtkdGNIWGV5Wld5N092aWVmRXlJcFJQWV8zQ0RXQ1Q2T1o0c3dEOGJrSU1HVWgwdGg5WS1ZeGxWcHFYazJDaWRBN1d5cnZNRzZ4ODN0bGVMU2VVbjA2T0g4UQ?oc=5",
-      "time": "10h ago",
+      "time": "11h ago",
       "pub_ts": 1774902600,
       "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Competitor Analysis",
-      "title": "먼지를 털어내세요 - Amazon Big Spring Sale 진공 딜은 최대 50% 할인됩니다",
-      "media": "Bing News",
-      "url": "https://www.aol.com/articles/suck-savings-50-off-best-113600832.html",
-      "time": "12h ago",
-      "pub_ts": 1774893720,
-      "summary_kr": "봄맞이 대청소 시즌이 공식적으로 시작됨에 따라 Amazon은 Big S의 진공청소기와 기타 고가의 유틸리티 품목 가격을 최대 50% 인하합니다.",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -286,7 +286,7 @@
       "title": "스마트 홈 청소 기술이 환경에 미치는 영향",
       "media": "Bing News",
       "url": "https://signalscv.com/2026/03/the-environmental-impact-of-smart-home-cleaning-technologies/",
-      "time": "14h ago",
+      "time": "16h ago",
       "pub_ts": 1774885800,
       "summary_kr": "스마트 홈 장치는 가정이 일상적인 청소를 처리하는 방식을 근본적으로 변화시켜 시간에 쫓기는 소비자에게 매력적인 수준의 자동화를 제공합니다.",
       "strategic_implications": "",
@@ -300,7 +300,7 @@
       "title": "KitchenAid가 디자인을 그대로 유지하면서 전설적인 주방 믹서를 업데이트한 방법 - Fast Company",
       "media": "Fast Company",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRWdGdl9WTXVveUhROVVwMHc5MnBvOVN2RE13azJIUHZTWnJLcGJRXzE5dnJuTTQyNFJOODFsbXlvbG1HSjQ1S1FQSEEyUlZFazlBNXhyUnR4bDRIbEFDdWdPWU16aDFWT1R0WENmaVp3LS1oVkM2a1c4N0xhN2RsYkFkWVA?oc=5",
-      "time": "16h ago",
+      "time": "18h ago",
       "pub_ts": 1774880050,
       "summary_kr": "KitchenAid가 디자인을 희생하지 않고 전설적인 주방 믹서를 업데이트한 방법  Fast Company",
       "strategic_implications": "",
@@ -314,7 +314,7 @@
       "title": "2026년에 사용해야 할 12가지 필수 스마트 홈 기기",
       "media": "Bing News",
       "url": "https://www.msn.com/en-us/lifestyle/shopping/12-essential-smart-home-gadgets-you-should-be-using-in-2026/ar-AA1ZKGOV",
-      "time": "17h ago",
+      "time": "19h ago",
       "pub_ts": 1774875720,
       "summary_kr": "시장이 확대되고 심화됨에 따라 자신만의 스마트 홈을 만드는 것이 매년 더 쉽게 접근할 수 있게 되었습니다. 이 가젯은 2026년에도 최신 정보를 제공할 것입니다.",
       "strategic_implications": "",
@@ -328,7 +328,7 @@
       "title": "삼성의 새로운 스마트 AC는 당신이 잠든 시간을 알고: 신체 데이터를 사용하여 방을 조절하는 방법 - SoyaCincau",
       "media": "SoyaCincau",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGlzWXl0QU9vR1h5cmgzNUZSajdYd1ktZW11Sm1DSm1Rb0xLdEFXd01oYkhnN3ctSkNBNC0tNWFkajFsSWZxYlRobC1pWDlkeURUMmZ1ZFBORTU4d2lTYUJNQXJwNVpQY1ZwcW1BNE10OXNKaHpYSHV4emt0bjN4d1pzNjYyZ1JtRUJDWV90d09kZGFXSWtQc3hHZHRtZDZyUHJwZ1k0aHVQQzNiVjdvSEQycw?oc=5",
-      "time": "17h ago",
+      "time": "19h ago",
       "pub_ts": 1774875298,
       "summary_kr": "삼성의 새로운 스마트 AC는 당신이 잠든 시간을 알고 있습니다: 신체 데이터를 사용하여 방을 조절하는 방법 SoyaCincau",
       "strategic_implications": "",
@@ -339,10 +339,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "KitchenAid의 상징적인 스탠드 믹서가 70년 만에 가장 큰 업그레이드를 이루었습니다. 그리고 제가 먼저 사용해 보았습니다. - Allrecipes",
+      "title": "KitchenAid의 상징적인 스탠드 믹서가 70년 만에 가장 큰 업그레이드를 이루었고 제가 먼저 사용해 보았습니다. - Allrecipes",
       "media": "Allrecipes",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmVRT1E4T2h2ZkRWampsYWxCNEhSUUkzT29tT1AtbkhZYmFObEU5N2FlbG5jN3NoTUhOb3NjeUJnb1h3X3U5U3lwYzhLV3FTbUs2ZGdobjY0ZTN5OVQwamhuTUdzYVVzQW5mS21iSjhDRnlTMTd0V1B6M2RvT3RFeA?oc=5",
-      "time": "18h ago",
+      "time": "20h ago",
       "pub_ts": 1774872000,
       "summary_kr": "KitchenAid의 상징적인 스탠드 믹서가 70년 만에 가장 큰 업그레이드를 이루었습니다. 그리고 제가 먼저 사용해 보았습니다.  Allrecipes",
       "strategic_implications": "",
@@ -356,7 +356,7 @@
       "title": "KITCHENAID 브랜드, 수십 년 만에 가장 큰 틸트 헤드 스탠드 믹서 혁신 공개: ARTISAN® PLUS - Morningstar",
       "media": "Morningstar",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZkVUODdWVzlfZllWeVRCYmRqUGJjRWMwOGZ6aHA5OUExNkV5RVFTQ2Nvb3FpcHRxTmRJdjJHTnNfb1d2cHltdzVnc2N3eWFqQ0wtcnhwcFJRWHdCaU9QLVJFdDB2aVNGRWo5ellKSVljTFRMMXd0TlJ5MU1DajIxUkNMUlpDZFpBdGdCZVBSaE1ydEI4QUNuUVJfQU1ycVIxY3ZxWnhWX194ZmhzZm9zV0VGQS1adnFjNmZweUhqRFpCTHRIeVFXTkZ5bDB4N0NBN3JsM3R6LXFMeHZlUTFFS0ZVYnFFZjNhdUE?oc=5",
-      "time": "18h ago",
+      "time": "20h ago",
       "pub_ts": 1774872000,
       "summary_kr": "KITCHENAID 브랜드, 수십 년 만에 가장 큰 틸트 헤드 스탠드 믹서 혁신 공개: ARTISAN® PLUS  Morningstar",
       "strategic_implications": "",
@@ -370,7 +370,7 @@
       "title": "Amazon 봄 세일 진공 딜: Shark, Dyson, iRobot 등과 같은 인기 브랜드를 Snag Prime Day에 알맞은 가격으로 구매하세요 - Yahoo Tech",
       "media": "Yahoo Tech",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxORXp0amwzMTNWdzlmMGl0S01fZ1VCNHhlcFp5RWpDMVMwMWVzMkRHQXN0amQ4X21CVE9hQ3lCTXVDektrMUtvUnpQS3hqNkFwOE83QlUxNXFDRm1NR0tEN0dIWDFEbGtyRC1Ua05CWmQ2NkVaeWJ3RW15a29jSHltV1BZZGJDTE5McmpHcDQwOWJ6eEtudGxzZ3g2Wkp5NnFWSFBqdHhtLWg3RTk4czRHdmpuZkliNkVyU0libWlQRm5xQWpJdTU2OTZCMHpuQTh4RWsyb0o1QnZpRXdGYlZuYjVqRzZJb20tTU45N3A2Ym1DUTAtZUR4SURzN3ZwaHNkcV8yTDhxekRpTEViRzFZ?oc=5",
-      "time": "18h ago",
+      "time": "20h ago",
       "pub_ts": 1774871792,
       "summary_kr": "Amazon 봄 세일 진공 딜: Shark, Dyson, iRobot 등과 같은 인기 브랜드를 Snag Prime Day에 맞는 가격으로 구매 가능  Yahoo Tech",
       "strategic_implications": "",
@@ -384,9 +384,23 @@
       "title": "하이얼 스마트 홈 주식회사: 자사주 매입 시 매각 제한이 없는 상위 10대 주주 및 상위 10대 주주의 주식 보유에 대한 공지 - TradingView",
       "media": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMFNWRG8yMjBmaFlMdUVZcjdvRDNmSW5IQUFfYUtxOGVNQVRWZWlVcWhZR25PTDZYc3ZIS0hqSTNOWXlXekNjNXBHbFloUGlRcF90RmNPWWhKWWRtZ3lBX3lPeVNiUVpsQUpFd1djcXczUGMtdTdlVzJuZkl5SE02cDlFcXhMWTRTUzJXNTZvcUJIMjZES24yZ0J4ckd2SzRxMGgxY003NEhYZlQ5STlFRUFDcFlBVFNhTF9yd0JxQTA5Tk1DODhFZDdoUTg1M3FtX3FBel92TEQ3akFFc3B5YnFkR2wwNnNEcW8zT3dXWUNjYXlFcE8xQjJRN2c1X2VqbjJTTmRVTUhsODFMNjlQVnZzTUN2dmJKUHdMNFNSR3NMTlZRMlNXazgwYUR0dm1LNWxSdHY0NGxIaUdSc0pDdWJRQQ?oc=5",
-      "time": "19h ago",
+      "time": "20h ago",
       "pub_ts": 1774870643,
       "summary_kr": "하이얼 스마트 홈 주식회사: 매각 제한 없는 상위 10대 주주 및 상위 10대 주주의 지분에 대한 공고",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "봄맞이 대청소는 힘들 필요가 없습니다. Amazon 진공청소기 거래로 최대 50% 할인",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/lifestyle/shopping/spring-cleaning-doesn-t-have-to-suck-save-up-to-50-with-amazon-vacuum-deals/ar-AA1Zmpir",
+      "time": "21h ago",
+      "pub_ts": 1774868520,
+      "summary_kr": "봄맞이 대청소 시즌이 공식적으로 시작됨에 따라 Amazon은 Big S의 진공청소기와 기타 고가의 유틸리티 품목 가격을 최대 50% 인하합니다.",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -398,7 +412,7 @@
       "title": "최신 NAS가 스마트 홈 허브, 백업 솔루션 및 미디어 서버를 대체했습니다.",
       "media": "Bing News",
       "url": "https://www.msn.com/en-us/news/technology/a-modern-nas-replaced-my-smart-home-hub-backup-solution-and-media-server/ar-AA1ZN9n8",
-      "time": "20h ago",
+      "time": "21h ago",
       "pub_ts": 1774866621,
       "summary_kr": "",
       "strategic_implications": "",
@@ -412,41 +426,13 @@
       "title": "테스트에 따르면 Shark와 Dyson 진공청소기를 비교하는 방법",
       "media": "Bing News",
       "url": "https://www.msn.com/en-us/lifestyle/shopping/how-shark-and-dyson-vacuums-compare-according-to-our-testing/ar-AA1ZJ446",
-      "time": "21h ago",
+      "time": "23h ago",
       "pub_ts": 1774862220,
       "summary_kr": "이러한 인기 브랜드는 일반적으로 테스트에서 정면으로 맞붙습니다. 쌓이는 방법은 다음과 같습니다.",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
         "watch"
-      ]
-    },
-    {
-      "category": "Samsung DA",
-      "title": "삼성전자, 11년 연속 유럽 전자레인지 부문 1위 차지",
-      "media": "The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanpSYnBNUUtxbjlYeVhZS090YllWLWJWUFgtYThZaWR6ZnIxMEYzSm1nUGs1TVBNbGZGOVpkcVVfdDV3aVdIcnFNNGFyQTdfN2RvWkV2anJ4a2lWN1dQTkw5WGxBZGRRUTZjdXk2SmxzVlBfTDY2dkZheThqZGtmajFDa1llU2xUdjBqZzRURG1tMjhEdnphVQ?oc=5",
-      "time": "23h ago",
-      "pub_ts": 1774856400,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Technology Trend",
-      "title": "TCL, 자동 센터와 협력하여 스마트 홈 소매 추진 촉진 - InsiderPH",
-      "media": "InsiderPH",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYV9sRjVjUGdYLWV2QUR6VXh4N091Unh1dENER1lYMVZjZUtrdXV1QmdKWXJzcGNjSVV3X1VMaGVFRVhZZExLUXFRaFpHNHRFcUktVlNoblF5b3h5eE9NNnViTTdTaWFURGZXdEZBeFQtRjFEQzdFenZteDdDSm5kMDNOamc2dHRXcVE?oc=5",
-      "time": "23h ago",
-      "pub_ts": 1774853300,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "opp"
       ]
     }
   ]
