@@ -1,0 +1,425 @@
+{
+  "date": "2026-04-01",
+  "date_display": "2026년 04월 01일",
+  "generated_at": "2026-04-01T17:12:31.994032+09:00",
+  "generated_at_display": "2026.04.01 17:12 KST",
+  "category_counts": {
+    "Market Dynamics": 11,
+    "Competitor Analysis": 4,
+    "Samsung DA": 3,
+    "Samsung Bespoke": 7,
+    "Technology Trend": 2,
+    "Samsung Jet Bot": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 3건 감지",
+      "desc": "오늘 수집된 28건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: Hamilton Beach 6쿼트 9-in-1 프로그래밍 가능 슬로우 쿠커가 99.99달러로 인하 - Technobezz. 경쟁사 동향 4건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 8건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: KitchenAid, 70년 만에 최초의 Artisan 스탠드 믹서 업그레이드 공개 - National Today. 삼성 Bespoke 7건, Jet Bot 1건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 4건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 4건 수집. 주요 동향: LG 가전은 누가 만드는가?. 시장 전반 기사 11건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "식기세척기에 넣지 않으면 절대 망칠 위험이 있는 5가지 일상 주방용품 - Daily Express",
+      "media": "Daily Express",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ05tQ0VXa1MzNmlNeFNSN01Wa05pYVpRSEwyVGlHalpWWWhzamhDRVVqS2tsNmw4TDJGdkRrbzA5VVVFT05mdU1kd3lpaGEzM0dRNUJRcUlwYUVTSWc0dE91MzRIWjd1UW5xbDBuSE95OWxjMEhBSVhSdDdPUW5NZE9DLWVOc2tZVkptYWtQazVJTXhSQnfSAZsBQVVfeXFMT1Y3aEp5SGdkQkhiZHRzOGR6TS1wcFFqSVoxa0Nvd2VCRS1zaUtoZTB3ZHpSSEtIQjVvN01fazJka1l2THhGa2NNMUI5QXp5NUdidk9Bel9wV1d3elhjd0lxQ08tYXdFbF9oOXhqUTBwUS1Kc0JUVEx4a1NVQkpHTTZlMjlJRGJkc0stOFZKa29RT0NYZVlYX3hxTVk?oc=5",
+      "time": "Just now",
+      "pub_ts": 1775030040,
+      "summary_kr": "식기세척기에 넣지 않으면 망칠 위험이 있는 일상용 주방용품 5가지  Daily Express",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Hamilton Beach 6쿼트 9-in-1 프로그래밍 가능 슬로우 쿠커가 99.99달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUdva3ZFaDB1Wm9aYUJRR3I1dzR3czZ5cU5BWUJUSzFPVUVRU0ZyOHYzVUdTeDZyZ1JIbFZfb1dRbFhaVkxISDJ0OGxQZVd2akMxLUI3djB1VHlfM0pmSW5KUE1neVZJQkVSYTAydUNVM2dya3ZOa2dwVlBDTkxFUC1kdWdLTlBqLXhQS0oyUHNCOVFCQ1FjTmFyRTIzRENaR2c?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1775014124,
+      "summary_kr": "해밀턴 비치 6쿼트 9-in-1 프로그래밍 가능 슬로우 쿠커가 99.99달러로 인하  Technobezz",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG 가전은 누가 만드는가?",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/money/general/who-makes-lg-appliances/ar-AA1ZRKv7",
+      "time": "7h ago",
+      "pub_ts": 1775004300,
+      "summary_kr": "LG는 세계에서 가장 큰 가전 브랜드 중 하나이지만 제조 공간은 여러 국가와 소수의 외부 파트너십에 걸쳐 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1FKY3Rqcm9iemstYTRUWXVTQWJPTEYtT3pzaTBtTEJRUFpLVVNOdzE3MEpMampWdi1OQTcwdTFDUlFMUGdOcEJFQTVlc3NaODRLZmJUdVBmTUtrMUFDeEJOZ1dMOFo2RldmQWtlY0tiVW8wRHNkVjZaTXVxLWxwLXM0UElvMmVjR1hzYnF2QnFqWmowNHRTSjZ5dw?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1774999476,
+      "summary_kr": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "KitchenAid, 70년 만에 최초의 Artisan 스탠드 믹서 업그레이드 공개 - National Today",
+      "media": "National Today",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV0YzS0s3amJza1dSQk1sNW54djQyR21fZ1pNZzhlTHBDU0FHb2gwTzVfbkl5dTdmOVIyUTN0N3Nybld5akVtai02WUl6WnV1V0pTQjg3aGNiSllaQWtUcXYxbHZ5NFdHbnd1dkRNaFlOQ2xTY3ptb0IzUENFOEZrTjdBUTBMSVhwMkZxM3VDTXhVTzExb0hzcUZoaFZnYUtNLUc3bVF6SkQ4NExQOVhkdEl1dmdpZWNlbDlPVQ?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1774995128,
+      "summary_kr": "KitchenAid, 70년 만에 최초의 Artisan 스탠드 믹서 업그레이드 공개  National Today",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "아마존 빅스프링 세일 마지막 날입니다. Dyson, Apple, KitchenAid 등에 대한 20가지 최고의 거래 - MarketWatch",
+      "media": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNdFBRX3Voc2RvSktEZ0lJWW5rWjlGcGMtVGJ2dHMzRVFXeG8xTWkxSVkxMVV6Q0EwQURPMWZ3YjNycl94ckJ4WUlqVHQ2ZEdvdGNlYlRWSFVtNTRzVWVGUXdNNkM1LUZrc1R0c09LUTFuNXN2UWt4M05DMTBJQXB4c0s5MEc0UmM5Rm1PbHJaNEx6NmpkUFRQaThNV0x1elBKeUJhZkdFa0w4aHg3Y0gtQlA3TkwzVFl4YzhHTkI0R1ZIdDV3eW9ZakllSV9LT2lWdmRDQkJXUHAtRjZ3WjVnS0hqZWNhOUNVZFN3VFY5XzBDUmh6YWxkYS10T1NfWThrRXdkSmZUa3RxM1NZNXNIWm1XZjVrZVhLSmsyaUpMWEczY2lzVGJhSFJFcWl0cWtFNnVzb3JoaU1MNDNGZ001X3BpZ0VMTWNnREp4VlByUDc1WFVhTHkyVnhMYVFTNFROd2VKX045cTkwS0cxajVSZGlDUWNlSDR4NDlWZEY5SUhQdDJ2OWtVTHBNbGZ3c3JiZ3Y0ZlIzSlp2TktBUjQ5ZGNueU1aSS1Tbmg1M2ZGbmF6RnVfTkhKZ1V6clBXMDdHaV9wUGlVYUxGVHBBb0Z1R0J4cE9wUQ?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1774994280,
+      "summary_kr": "아마존 빅스프링 세일 마지막 날입니다. Dyson, Apple, KitchenAid 등의 20가지 최고의 거래  MarketWatch",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성 갤럭시 워치 6 비스포크 44mm 독점 가격이 280.55달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnpzb3ktWW5xQXI5aHRGbnpzbm1LTVJlSG1aTUFzY25GeXBORTZqYW0wSUNOTG5ObTdpUmRaTFhfWEc0Q2RzdHlGSnZaaVFuZE1lQ1hlcnRHc21xSHhZUXN5dlVJa2RFSzlhSENQZ2VtWGE4SmFsekFrVWd4Q2dDcmxKb0NTQU5rbUduYWJiTjBla0Rubl93?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1774990806,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주목할 가치가 있는 코스트코 주방용품 15가지 - 시식 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVb0RGSkh1bWVuQ2syU2kxOThwMWV0djdVTy0tYlFVLTl2YWFHUndnUUJENk9yei1lZVNUZEN5MXdLRTMtNGpMdG1LUUFDaUp5NHhYTUVKS0sxeUxhV3lKb3NWR0FnbE1QZ09OS08xVWZoUQ?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1774987200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "앨라배마 가전제품이 포함된 야외 주방 영감 | 앨라배마 이야기 | 2026년 3월 31일 - abc3340.com",
+      "media": "abc3340.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMC04UFlpYXJxMUp1VnJPLWxtd09wQTdBbnl5QTFScDlQUy1qemdNS1ZWd3A3NlU3VFd5YkJlcHlhdFdUaWdZRDBfcDk0UEttY3N4cjdQcXg5eVZ4b2d3Y19xNjgtRmdUak5qQ1N5QzVnTXRCTHhaeG9vMTc2dlh5bjVCNmlkc0R6VVNPdFdTdXZEU1FTUHRaaEl0TzJUSTJUNWtSb1RyMVQ0S2ZldUNMc08ycmk?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1774986525,
+      "summary_kr": "앨라배마 가전제품이 포함된 야외 주방 영감 | 앨라배마 이야기 | 2026년 3월 31일  abc3340.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성의 2026년 3월 업데이트로 갤럭시 휴대폰의 사용자 정의 글꼴이 깨졌습니다 - androidheadlines.com",
+      "media": "androidheadlines.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU2JzUG1xTVlCZXEtTXdLUTZRTnN2dTVLak5RVlJhblRuQmdreVpIWUp4bl9lWngwOHNEZVVTSEcwY2l3OXI0NDYtU0hzT0JrMzkzeEFjU2VVaG40dUZvUjkxTzdUMnhsaVVkNDJ2bUZwMGc3cnNDeFpycXBzQy1HVHgxOXJVaWxfM0pzelBLYXhleFJrX3dPelpkRi11ZGowV1Y3WWpiTlk5dw?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1774981170,
+      "summary_kr": "삼성의 2026년 3월 업데이트로 갤럭시 휴대폰의 맞춤 글꼴 문제 해결  androidheadlines.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "냉장고와 대화하세요: 새로운 Bixby AI 업데이트가 삼성 스마트 가전제품에 적용됩니다 - androidheadlines.com",
+      "media": "androidheadlines.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamhLYk5rc2xLdERPNkotbFVaclk1ZW8ybHl2Um1LSzFlZWdPSnFYLXExTGlKbjE1VWpBcWQ4bmJMMVRPa2JtOGtOVmZJbTJ5TXN5ckwzbmc5V2dkQWZNTnNodkR4ZmFyMG9HYjRKSHcyOWJsR2dNMVZkRThSMFVtU3R4dVJ5U3VUMm1tNTNSc0V6cVFpaTBoLXp3?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1774974964,
+      "summary_kr": "냉장고와 대화하세요: 새로운 Bixby AI 업데이트가 삼성 스마트 가전제품에 적용됨 androidheadlines.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "카우보이가 말하는 주철 팬을 영원히 지속시키는 방법 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FN1piQ0xZSGR2cXBXeFZZM1kyTy1tRERrQ3pEU2c4RF9wOFpNcnJxQmlpUTZmdDE2N3lOOVZZUGpmSGxDajlHTTZzN1JTbmpkU2N4YjI2OUtYQXpVd1N3Wm5mSkN5OE5kN1FleVE2RWppUUVIUldqckJ3?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1774970330,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "이런, 삼성은 최신 업데이트로 맞춤형 글꼴을 깨뜨렸습니다 - Android Police",
+      "media": "Android Police",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObHQ0UnZJWGd3b0lGa3J4NUoxRGpPNlVuZ3U2SUZhSWdhbkdidE9rS0Qzckt3Yll2QXRhX3dtdVN1SzZTdDJBSlFmNU1TUEZYNEZLVmdIUmFPNG5fdHhuWlNoR2NmekhWSEg1VkRsQ2V6blhHX2F6dDNrYi1ZaUpPMG9XelBhYmNv?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1774970153,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "아마존 봄맞이 할인 세일 마지막 날 쇼핑할 가치가 있는 진공 딜은 Dyson, Shark, Roomba 등을 여전히 최대 70% 할인합니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQMTJ0ZWRCVllxLUptcloyOG1ldWthOTZ2Qmk5LTRPTVZoTDc1cklJVTRYcGRlQ0FCVmRHVGhoRHhWc1kzUy1pc055XzA0eUdJZG9Pd1BuMjQ5bVd2ZUVjWlp1RGdUWlE5UFg5TmpEZUlRSWpTVUdhbExKQ3FRZU5iTEUyWWNhQ2NYY1h2cHIxV2MxMjFjbzVMUzlJcmtWQnozbjJ1cV84NEVCNVBqS2tOakRhY3c1dlpFa3FaWjcwM0tBQUlyR1ZjSGs5dExrWmNkUENkUTZmSlZtcF9jYmtoaGZuNUxqRlQxaUluUzk5MWl6UlE0SWJLdUNUS2NtaXE5SnBfSUZONjZBamRIUzlJYTBDT3NFWWhQYlBYc2NCSlQ?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1774969476,
+      "summary_kr": "세일 마지막 날 쇼핑할 가치가 있는 Amazon 봄 세일 진공 딜은 Dyson, Shark, Roomba 등을 여전히 최대 70% 할인합니다.  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Amazon 봄 세일 진공 딜의 마지막 날: Shark, Dyson, iRobot 등을 Prime Day에 맞는 가격으로 쇼핑하세요 - Yahoo Tech",
+      "media": "Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNzFjVmNrRmEyWmg3bXBuYTZSRWJ6TW5zRkhCTkFLTThBYlFnMWhvcDRFc3lybEdQWWpULWtGcWlZdjI5VFhMRjZQQjNYM1pvU2o4R0pQbi1oVE41Q193WGExQTgtYUpnTnV5alhMdnF5RXBDa2JxWF9UVmJyN1lKT3YxYmk4bHNWN0ZWX0REMjFoVEVRQUhxVXg4LWNMYk5uXzZjNG5LUEtwaDVfS1l4b2V4eXozY3ctc1RDWHNhLUo4ZW9OYXJfSTlQTzZxY1M1dm5yZ1VXd3pLUkV0T0MyV2wza1RjTVFsQzF5TUhyenFDbjRZcXVJd3RTNVFZY2xkcmRUcw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1774965765,
+      "summary_kr": "Amazon 봄 세일 진공 딜 마지막 날: Shark, Dyson, iRobot 등을 Prime Day에 맞는 가격으로 쇼핑하세요.  Yahoo Tech",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "내부의 모든 병을 알고 있는 4,280달러짜리 와인 냉장고 - The Gadgeteer",
+      "media": "The Gadgeteer",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0N3ZUxhVGZEbEh6eVJyejhJZ29rdS1KOFhMaUZHaWg1WUU3NlhCS1ZCSGo1SWo4TkZFZ0J3TGtGaEtncmQxM2Fva0tMWUZtOXdlMnkxQzk4LUVpOXFkbm1fb0ZoVW1nay1CQzBaakFlU09hNEk3aFlqdTJ2WHg2WmhjYjJJUnlpMllLX2NkMEE?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1774963810,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Dyson Spot+Scrub Ai 리뷰: 하이브리드 로봇 청소의 강력한 경쟁자 - PCMag",
+      "media": "PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnM09nRHhyNmlscDFKZ3Q5UkZKNHFWOGtzWU1OYi1UbWFsQW5PNkh4YUFidHBVUldHTVk4WFp4N0luN2JEMXJrcU5oTzlvTGF0VklmbG1Eck9mMEVlX3U4T2VLNA?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1774962022,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "화약 없는 \"사냥\": 가전제품 제조업체가 로봇 제조업체로 변모하고 로봇 제조업체가 가전산업 제어를 위한 입찰 - 36 Kr",
+      "media": "36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzdEo2VWxhQUZmQkpPYnpwbldKcU9vTVlDRUlTRHc3U0JMSlRTZXBUV1B5bGtqU2VwaXJBM2JkWmQ0SnlWQ29nOTNrb2FrYzRsVEU0?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1774961692,
+      "summary_kr": "화약 없는 '사냥': 가전 제조사의 로봇 제조사로의 변신과 로봇 제조사의 가전 산업 통제에 도전  36",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전자레인지 커버 천 – 방수, 방유 먼지 커버, 북유럽 스타일, 장식용 주방 가전 보호 장치 - ruhrkanal.news",
+      "media": "ruhrkanal.news",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUm43Y2gtc0gwTGVjUG9iUGxOYmctWndJRlExTGphQUwyV1VRT1BROTd6Y3poZ0NiWElEVnJrSHVQMVVvWFdKVFJfMmRHWE5fNGltX1RmcFZ5TE43SWxPRW5sUE5LS1dWck5aR01ZSlZsbWNzN0UyWWxYZkQzYzFJZnUySldQT1VIaW0w?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1774958843,
+      "summary_kr": "전자레인지 커버 천 - 방수, 방유 먼지 커버, 북유럽 스타일, 장식용 주방 가전 보호 장치  ruhrkanal.news",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성의 맞춤형 AI AC 제품군, 인도 여름을 위한 더욱 스마트한 냉각 목표 - t2ONLINE",
+      "media": "t2ONLINE",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmczbWU4YUxyOGR5U0YxeFFJU29RTTN4WTRvNldqbDlDcHhsOWZLY3VNVXpLMUNBNzMxS3RZb3E0N0ktRXlFX1JLLVF4SkI4WnhUSThrS0MwdDFXRGE0bGZfMEYtcVNvSFRnckwzSmM1dHVKNjNiUDA1RWVfYnlTZWtlcURkM2hER29reEpycVdRbHhBNnlDS0l4cU9mVUhEYlkyREtpcUNHMnBYX0tWNHdqbHpuUQ?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1774958640,
+      "summary_kr": "삼성의 맞춤형 AI AC 제품군, 인도 여름을 위한 더욱 스마트한 냉각 목표 t2ONLINE",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "KitchenAid, 현재까지 가장 정밀한 스탠드 믹서 출시 - 가정 및 정원",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWh4VGFpaThKQV93bVJ6bkdkdVRjU0E4cXhSWHVWNEdKbk9SSnpLQTZ3aF8wSWJSY1R2c2l1bUVkM0dOWWN1UDJJdUx6bVkxTkx1aWJtclpELUVsZlE3QXFfdVpwOUFuS0xGd3ZBSVRwdDIyeW9fZFB5anpjRFZwY1k4NWpIb3lsRGdmOWZhcHVJWWZWWFczUW93?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1774958400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Gemini for Home의 새로운 '표현력이 풍부한' 조명 컨트롤을 사용하면 분위기를 표현할 수 있습니다.",
+      "media": "Bing News",
+      "url": "https://www.androidauthority.com/gemini-home-expressive-lighting-3653611/",
+      "time": "20h ago",
+      "pub_ts": 1774958340,
+      "summary_kr": "원하는 분위기를 설명하여 스마트 조명 색상을 설정할 수 있는 Gemini for Home 업그레이드에 대해 알아보세요.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Jet Bot",
+      "title": "삼성 제트봇 AI+ 로봇 청소기 아마존에서 374.10달러로 하락 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTFhKbllwbEItallOOGFzaWhZbkhWVjFleFNPbzV5d0lvbVdMYWZrVm8zYm9QVmZPa29zbVFMOHA3eV9mdmN4OEswMjdMVVhZaUh6dURtUWhFT09yOVFfYXF2WGVBYXFwa3ZibDZXdTVibUp3djg1Y1ppVkVHWWpLcmpIZE11WW1BcUN2SEJFOWRjdw?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1774957968,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "최신 삼성 업데이트로 사용자 정의 글꼴이 자동으로 종료됩니다 - Sammy Fans",
+      "media": "Sammy Fans",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUN3VDVxeXVJdFVTaXFGMks4a1laZVpUZkhNdENxWEp5eW1Bb2NvZHRvTHJTZEdUaGNnYXplMXlqRjQ5QjRsc1VwLTVLMVpVYWpZa2o2bGhfZy1xZXhScV9RNDdXQ25HS29lamFxNWMwZzhWY1VnUDlwX0RBZFNZSUtOQTFLdDM1R2JJaW1mTGHSAZYBQVVfeXFMTUpkclEwZ1BaaEZibFdzckk3c25XM3FSQkNJSDBKQ2dqNmZtQjVjNGVFYnVvR3hqcG9mM3ZDTmNXdXNCOEg5ZHY2X0tJeVFzcDFzajJIeVlKOUZnTzBSUkRlQXlab0Y4LWxlVmtrQ2VVYWh6dG1ralJvN1NGTVJCcldkUHFqMVVVVXo0TW52eHplVVFHYnlB?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1774957746,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Galaxy 휴대폰의 맞춤형 글꼴이 마음에 드시나요? 그런 다음 2026년 3월 업데이트를 다운로드하지 마세요. - 안드로이드 권한",
+      "media": "Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS21scVpJdzZFbG1JM0Y2WXExMkgxUmptWjBRS2RiYWVGNGZMQnVQZ1JHV3ZySFFFWUJLV2VGNlRyU0FqWE5fVlBSaWVJSkRCamlvejZOOEVwb3piYmNEWmtSa1hVVF85dEtyT3UybGVhMGx6MUVaQ29xdVBseDN3Z2hoaVZabU0?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1774956222,
+      "summary_kr": "Galaxy 휴대폰의 맞춤형 글꼴이 마음에 드시나요? 그런 다음 2026년 3월 업데이트를 다운로드하지 마세요.  안드로이드 권한",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "시간이 촉박합니다: 오늘 밤 Amazon의 대규모 봄 세일이 끝나기 전에 Le Creuset, OXO 및 기타 거래를 $4부터 쇼핑하세요 - 음식 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOC15aUotNXloZ2l2cFFoYVczUUR0ZS1xcjh5ckJCdExmcGZoeW9hY2hIZC03STdJenJDQ0EyYjJ4TFFLdmI3SGc3enJPNlJLRzNqZUxSYks5azR0cUo5alRrc1JLeWI0aWMxMWFsa25iMDZqcTVMRXVXcEZNcVBoOE5sM0syY1dqbXc?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1774949400,
+      "summary_kr": "시간이 촉박합니다: 오늘 밤 Amazon의 대규모 봄 세일이 끝나기 전에 Le Creuset, OXO 및 기타 할인을 4달러부터 쇼핑하세요.  음식 및 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sharp Mikrowelle JP3359600008: Sharp Corporation의 소비자 가전을 이끄는 혁신적인 주방 가전 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNazVGVUtWREsySjZ3TVpEbThiS2loam1wWGtLbDZnaFBCSkhpamlRWWhSS2lzRlBmY2pzRkM0UkFPOE9MSy1TNWJUWkRoNXpmNDk5VFZoOGNHUDRDRFdzYnQwWVFEWE1ubGMxV3dVX2ZWTXRMWDFMdUI1U2FtMEpMZ0ZtcWJFdkRiSGhOaUtoaWZyODkxZ19DR1Q3Ni02WXhhZ19jM2NwNXo5bHg4akk3YVRZMmNNeGs2RVB4bG1Xb3FQTUZ5eTFseFN3cw?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1774947607,
+      "summary_kr": "Sharp Mikrowelle JP3359600008: Sharp Corporation의 소비자 가전을 이끄는 혁신적인 주방 가전  AD HOC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "'Welcome to BESPOKE AI' 이벤트 스케치_한국 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1Vm4yVk5NazhjMXRnZUh1cVJ0a2NMVXBJUXd6UXhTQ0dpWWZkc0F4X1dBckU3a1R2OHgtTDFvXzFvb2ZjeDRCOVFEWFdsNWJWRmlBTnRBbjdZaU0ta1d5Q2VfR1VsRWREcXlYV0twcmFoUE0?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1774946434,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
