@@ -1,13 +1,13 @@
 {
   "date": "2026-04-01",
   "date_display": "2026년 04월 01일",
-  "generated_at": "2026-04-01T17:12:31.994032+09:00",
-  "generated_at_display": "2026.04.01 17:12 KST",
+  "generated_at": "2026-04-01T17:47:31.514201+09:00",
+  "generated_at_display": "2026.04.01 17:47 KST",
   "category_counts": {
     "Market Dynamics": 11,
-    "Competitor Analysis": 4,
     "Samsung DA": 3,
-    "Samsung Bespoke": 7,
+    "Samsung Bespoke": 6,
+    "Competitor Analysis": 4,
     "Technology Trend": 2,
     "Samsung Jet Bot": 1
   },
@@ -15,12 +15,12 @@
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 3건 감지",
-      "desc": "오늘 수집된 28건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: Hamilton Beach 6쿼트 9-in-1 프로그래밍 가능 슬로우 쿠커가 99.99달러로 인하 - Technobezz. 경쟁사 동향 4건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 27건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: Hamilton Beach 6쿼트 9-in-1 프로그래밍 가능 슬로우 쿠커가 99.99달러로 인하 - Technobezz. 경쟁사 동향 4건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
       "title": "시장 기회 8건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: KitchenAid, 70년 만에 최초의 Artisan 스탠드 믹서 업그레이드 공개 - National Today. 삼성 Bespoke 7건, Jet Bot 1건 커버리지 확인 바랍니다."
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: KitchenAid, 70년 만에 최초의 Artisan 스탠드 믹서 업그레이드 공개 - National Today. 삼성 Bespoke 6건, Jet Bot 1건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
@@ -48,7 +48,7 @@
       "title": "Hamilton Beach 6쿼트 9-in-1 프로그래밍 가능 슬로우 쿠커가 99.99달러로 인하 - Technobezz",
       "media": "Technobezz",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUdva3ZFaDB1Wm9aYUJRR3I1dzR3czZ5cU5BWUJUSzFPVUVRU0ZyOHYzVUdTeDZyZ1JIbFZfb1dRbFhaVkxISDJ0OGxQZVd2akMxLUI3djB1VHlfM0pmSW5KUE1neVZJQkVSYTAydUNVM2dya3ZOa2dwVlBDTkxFUC1kdWdLTlBqLXhQS0oyUHNCOVFCQ1FjTmFyRTIzRENaR2c?oc=5",
-      "time": "4h ago",
+      "time": "5h ago",
       "pub_ts": 1775014124,
       "summary_kr": "해밀턴 비치 6쿼트 9-in-1 프로그래밍 가능 슬로우 쿠커가 99.99달러로 인하  Technobezz",
       "strategic_implications": "",
@@ -58,25 +58,11 @@
       ]
     },
     {
-      "category": "Competitor Analysis",
-      "title": "LG 가전은 누가 만드는가?",
-      "media": "Bing News",
-      "url": "https://www.msn.com/en-us/money/general/who-makes-lg-appliances/ar-AA1ZRKv7",
-      "time": "7h ago",
-      "pub_ts": 1775004300,
-      "summary_kr": "LG는 세계에서 가장 큰 가전 브랜드 중 하나이지만 제조 공간은 여러 국가와 소수의 외부 파트너십에 걸쳐 있습니다.",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
       "category": "Samsung DA",
       "title": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다 - samsung.com",
       "media": "samsung.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1FKY3Rqcm9iemstYTRUWXVTQWJPTEYtT3pzaTBtTEJRUFpLVVNOdzE3MEpMampWdi1OQTcwdTFDUlFMUGdOcEJFQTVlc3NaODRLZmJUdVBmTUtrMUFDeEJOZ1dMOFo2RldmQWtlY0tiVW8wRHNkVjZaTXVxLWxwLXM0UElvMmVjR1hzYnF2QnFqWmowNHRTSjZ5dw?oc=5",
-      "time": "8h ago",
+      "time": "9h ago",
       "pub_ts": 1774999476,
       "summary_kr": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다",
       "strategic_implications": "",
@@ -103,7 +89,7 @@
       "category": "Market Dynamics",
       "title": "아마존 빅스프링 세일 마지막 날입니다. Dyson, Apple, KitchenAid 등에 대한 20가지 최고의 거래 - MarketWatch",
       "media": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNdFBRX3Voc2RvSktEZ0lJWW5rWjlGcGMtVGJ2dHMzRVFXeG8xTWkxSVkxMVV6Q0EwQURPMWZ3YjNycl94ckJ4WUlqVHQ2ZEdvdGNlYlRWSFVtNTRzVWVGUXdNNkM1LUZrc1R0c09LUTFuNXN2UWt4M05DMTBJQXB4c0s5MEc0UmM5Rm1PbHJaNEx6NmpkUFRQaThNV0x1elBKeUJhZkdFa0w4aHg3Y0gtQlA3TkwzVFl4YzhHTkI0R1ZIdDV3eW9ZakllSV9LT2lWdmRDQkJXUHAtRjZ3WjVnS0hqZWNhOUNVZFN3VFY5XzBDUmh6YWxkYS10T1NfWThrRXdkSmZUa3RxM1NZNXNIWm1XZjVrZVhLSmsyaUpMWEczY2lzVGJhSFJFcWl0cWtFNnVzb3JoaU1MNDNGZ001X3BpZ0VMTWNnREp4VlByUDc1WFVhTHkyVnhMYVFTNFROd2VKX045cTkwS0cxajVSZGlDUWNlSDR4NDlWZEY5SUhQdDJ2OWtVTHBNbGZ3c3JiZ3Y0ZlIzSlp2TktBUjQ5ZGNueU1aSS1Tbmg1M2ZGbmF6RnVfTkhKZ1V6clBXMDdHaV9wUGlVYUxGVHBBb0Z1R0J4cE9wUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPcm91OUI5cVJIbXVlT3YxakdWUVU5d0pXay1XRGN2Q3lRb3NYQTloMFpQajUwUTh0N0cwT1dvcTZUb1lmQzFjZUpVMGJMZmFuS0xfMUZDUXJ0eFlZS1Fkek83WWFfYl9yYXBBNmRzNVlzSWlyU3VTenlIbzhRS2tUV1lBY3hJM2U4TmtWOHI1S3RBVkFEcnQ0M0Q4WWQzekZKRG1ocDdtcXd5eFJ5YllTd0p0SDVLaVNLLWdETXU4aU1UdmJlbmFnUk51WEQwQTVvMElFX3cybmt0Z1RHYjd0YWZqWlFXemtLVFdVbWdlbWI4SVlrbEhYMnBmVmllTC1ERVJkcFMxbEFMWE5pUVJBbG1xY2hPY2Q1clFzWTZPT3RjQ2Job1F1NXp3SklDSmpMcDhXWkIybll5bTJRVzhaSmNqb3NuTjhRYUt4U3ltazh5bncwcjkzNEdKTVZ0WkVtOUdkSVd4bk9pYUh1STViWUlUMVlYakNIS2FMOXhiUEloSGZPWVkxTXBwdXRkeHdQNmlLLVkwTC14WHhwcXVnRThvcnJtSkJvbjdydENBMmVDcGtwZXIxTkY2TkFzb3gtaVB1cWtuT2F3YllKRjVPS1VLWVFiZw?oc=5",
       "time": "10h ago",
       "pub_ts": 1774994280,
       "summary_kr": "아마존 빅스프링 세일 마지막 날입니다. Dyson, Apple, KitchenAid 등의 20가지 최고의 거래  MarketWatch",
@@ -129,8 +115,8 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "주목할 가치가 있는 코스트코 주방용품 15가지 - 시식 테이블",
-      "media": "Tasting Table",
+      "title": "주목할 가치가 있는 코스트코 주방용품 15가지 - Tastingtable.com",
+      "media": "tastingtable.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVb0RGSkh1bWVuQ2syU2kxOThwMWV0djdVTy0tYlFVLTl2YWFHUndnUUJENk9yei1lZVNUZEN5MXdLRTMtNGpMdG1LUUFDaUp5NHhYTUVKS0sxeUxhV3lKb3NWR0FnbE1QZ09OS08xVWZoUQ?oc=5",
       "time": "12h ago",
       "pub_ts": 1774987200,
@@ -156,13 +142,27 @@
       ]
     },
     {
-      "category": "Samsung Bespoke",
-      "title": "삼성의 2026년 3월 업데이트로 갤럭시 휴대폰의 사용자 정의 글꼴이 깨졌습니다 - androidheadlines.com",
-      "media": "androidheadlines.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU2JzUG1xTVlCZXEtTXdLUTZRTnN2dTVLak5RVlJhblRuQmdreVpIWUp4bl9lWngwOHNEZVVTSEcwY2l3OXI0NDYtU0hzT0JrMzkzeEFjU2VVaG40dUZvUjkxTzdUMnhsaVVkNDJ2bUZwMGc3cnNDeFpycXBzQy1HVHgxOXJVaWxfM0pzelBLYXhleFJrX3dPelpkRi11ZGowV1Y3WWpiTlk5dw?oc=5",
+      "category": "Competitor Analysis",
+      "title": "LG 가전은 누가 만드는가?",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/money/general/who-makes-lg-appliances/ar-AA1ZRKv7",
       "time": "13h ago",
+      "pub_ts": 1774986300,
+      "summary_kr": "LG는 세계에서 가장 큰 가전 브랜드 중 하나이지만 제조 공간은 여러 국가와 소수의 외부 파트너십에 걸쳐 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성의 2026년 3월 업데이트로 갤럭시 휴대폰의 사용자 정의 글꼴이 깨졌습니다 - Android 헤드라인",
+      "media": "Android Headlines",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU2JzUG1xTVlCZXEtTXdLUTZRTnN2dTVLak5RVlJhblRuQmdreVpIWUp4bl9lWngwOHNEZVVTSEcwY2l3OXI0NDYtU0hzT0JrMzkzeEFjU2VVaG40dUZvUjkxTzdUMnhsaVVkNDJ2bUZwMGc3cnNDeFpycXBzQy1HVHgxOXJVaWxfM0pzelBLYXhleFJrX3dPelpkRi11ZGowV1Y3WWpiTlk5dw?oc=5",
+      "time": "14h ago",
       "pub_ts": 1774981170,
-      "summary_kr": "삼성의 2026년 3월 업데이트로 갤럭시 휴대폰의 맞춤 글꼴 문제 해결  androidheadlines.com",
+      "summary_kr": "삼성의 2026년 3월 업데이트로 갤럭시 휴대폰의 맞춤 글꼴 문제 해결  Android 헤드라인",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -171,12 +171,12 @@
     },
     {
       "category": "Samsung DA",
-      "title": "냉장고와 대화하세요: 새로운 Bixby AI 업데이트가 삼성 스마트 가전제품에 적용됩니다 - androidheadlines.com",
-      "media": "androidheadlines.com",
+      "title": "냉장고와 대화하세요: 새로운 Bixby AI 업데이트로 삼성 스마트 가전제품에 적용 - Android 헤드라인",
+      "media": "Android Headlines",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamhLYk5rc2xLdERPNkotbFVaclk1ZW8ybHl2Um1LSzFlZWdPSnFYLXExTGlKbjE1VWpBcWQ4bmJMMVRPa2JtOGtOVmZJbTJ5TXN5ckwzbmc5V2dkQWZNTnNodkR4ZmFyMG9HYjRKSHcyOWJsR2dNMVZkRThSMFVtU3R4dVJ5U3VUMm1tNTNSc0V6cVFpaTBoLXp3?oc=5",
-      "time": "15h ago",
+      "time": "16h ago",
       "pub_ts": 1774974964,
-      "summary_kr": "냉장고와 대화하세요: 새로운 Bixby AI 업데이트가 삼성 스마트 가전제품에 적용됨 androidheadlines.com",
+      "summary_kr": "냉장고와 대화하세요: 새로운 Bixby AI 업데이트로 삼성 스마트 가전 기기 Android 헤드라인 장식",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -188,7 +188,7 @@
       "title": "카우보이가 말하는 주철 팬을 영원히 지속시키는 방법 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FN1piQ0xZSGR2cXBXeFZZM1kyTy1tRERrQ3pEU2c4RF9wOFpNcnJxQmlpUTZmdDE2N3lOOVZZUGpmSGxDajlHTTZzN1JTbmpkU2N4YjI2OUtYQXpVd1N3Wm5mSkN5OE5kN1FleVE2RWppUUVIUldqckJ3?oc=5",
-      "time": "16h ago",
+      "time": "17h ago",
       "pub_ts": 1774970330,
       "summary_kr": "",
       "strategic_implications": "",
@@ -202,7 +202,7 @@
       "title": "이런, 삼성은 최신 업데이트로 맞춤형 글꼴을 깨뜨렸습니다 - Android Police",
       "media": "Android Police",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObHQ0UnZJWGd3b0lGa3J4NUoxRGpPNlVuZ3U2SUZhSWdhbkdidE9rS0Qzckt3Yll2QXRhX3dtdVN1SzZTdDJBSlFmNU1TUEZYNEZLVmdIUmFPNG5fdHhuWlNoR2NmekhWSEg1VkRsQ2V6blhHX2F6dDNrYi1ZaUpPMG9XelBhYmNv?oc=5",
-      "time": "16h ago",
+      "time": "17h ago",
       "pub_ts": 1774970153,
       "summary_kr": "",
       "strategic_implications": "",
@@ -244,7 +244,7 @@
       "title": "내부의 모든 병을 알고 있는 4,280달러짜리 와인 냉장고 - The Gadgeteer",
       "media": "The Gadgeteer",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0N3ZUxhVGZEbEh6eVJyejhJZ29rdS1KOFhMaUZHaWg1WUU3NlhCS1ZCSGo1SWo4TkZFZ0J3TGtGaEtncmQxM2Fva0tMWUZtOXdlMnkxQzk4LUVpOXFkbm1fb0ZoVW1nay1CQzBaakFlU09hNEk3aFlqdTJ2WHg2WmhjYjJJUnlpMllLX2NkMEE?oc=5",
-      "time": "18h ago",
+      "time": "19h ago",
       "pub_ts": 1774963810,
       "summary_kr": "",
       "strategic_implications": "",
@@ -370,7 +370,7 @@
       "title": "Galaxy 휴대폰의 맞춤형 글꼴이 마음에 드시나요? 그런 다음 2026년 3월 업데이트를 다운로드하지 마세요. - 안드로이드 권한",
       "media": "Android Authority",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS21scVpJdzZFbG1JM0Y2WXExMkgxUmptWjBRS2RiYWVGNGZMQnVQZ1JHV3ZySFFFWUJLV2VGNlRyU0FqWE5fVlBSaWVJSkRCamlvejZOOEVwb3piYmNEWmtSa1hVVF85dEtyT3UybGVhMGx6MUVaQ29xdVBseDN3Z2hoaVZabU0?oc=5",
-      "time": "20h ago",
+      "time": "21h ago",
       "pub_ts": 1774956222,
       "summary_kr": "Galaxy 휴대폰의 맞춤형 글꼴이 마음에 드시나요? 그런 다음 2026년 3월 업데이트를 다운로드하지 마세요.  안드로이드 권한",
       "strategic_implications": "",
@@ -384,7 +384,7 @@
       "title": "시간이 촉박합니다: 오늘 밤 Amazon의 대규모 봄 세일이 끝나기 전에 Le Creuset, OXO 및 기타 거래를 $4부터 쇼핑하세요 - 음식 및 와인",
       "media": "Food & Wine",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOC15aUotNXloZ2l2cFFoYVczUUR0ZS1xcjh5ckJCdExmcGZoeW9hY2hIZC03STdJenJDQ0EyYjJ4TFFLdmI3SGc3enJPNlJLRzNqZUxSYks5azR0cUo5alRrc1JLeWI0aWMxMWFsa25iMDZqcTVMRXVXcEZNcVBoOE5sM0syY1dqbXc?oc=5",
-      "time": "22h ago",
+      "time": "23h ago",
       "pub_ts": 1774949400,
       "summary_kr": "시간이 촉박합니다: 오늘 밤 Amazon의 대규모 봄 세일이 끝나기 전에 Le Creuset, OXO 및 기타 할인을 4달러부터 쇼핑하세요.  음식 및 와인",
       "strategic_implications": "",
@@ -405,20 +405,6 @@
       "impact": 4,
       "tags": [
         "opp"
-      ]
-    },
-    {
-      "category": "Samsung Bespoke",
-      "title": "'Welcome to BESPOKE AI' 이벤트 스케치_한국 - samsung.com",
-      "media": "samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1Vm4yVk5NazhjMXRnZUh1cVJ0a2NMVXBJUXd6UXhTQ0dpWWZkc0F4X1dBckU3a1R2OHgtTDFvXzFvb2ZjeDRCOVFEWFdsNWJWRmlBTnRBbjdZaU0ta1d5Q2VfR1VsRWREcXlYV0twcmFoUE0?oc=5",
-      "time": "23h ago",
-      "pub_ts": 1774946434,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "watch"
       ]
     }
   ]
