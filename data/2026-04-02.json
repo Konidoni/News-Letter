@@ -1,0 +1,356 @@
+{
+  "date": "2026-04-02",
+  "date_display": "2026년 04월 02일",
+  "generated_at": "2026-04-02T16:05:32.507884+09:00",
+  "generated_at_display": "2026.04.02 16:05 KST",
+  "category_counts": {
+    "Competitor Analysis": 2,
+    "Technology Trend": 1,
+    "Market Dynamics": 14,
+    "Samsung Bespoke": 5,
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 8건 감지",
+      "desc": "오늘 수집된 23건 중 8건이 리스크 신호를 포함합니다. 주요 이슈: Sunvivi Electric Roaster가 $62.99라는 새로운 최저 가격으로 인하되었습니다 - Technobezz. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 6건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: 회사원 A씨는 대체품을 찾다가 신모델 할인판매를 보고 깜짝 놀랐다.. - 매일경제. 삼성 Bespoke 5건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: 회사원 A씨는 대체품을 찾다가 신모델 할인판매를 보고 깜짝 놀랐다.. - 매일경제. 시장 전반 기사 14건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Competitor Analysis",
+      "title": "회사원 A씨는 대체품을 찾다가 신모델 할인판매를 보고 깜짝 놀랐다.. - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ESWx2anJDWkhyT0EzNmhzcHFManA0UE5MRUpYZE5TaURjZlVvZF9WQ3FybVJWbjZBLXgzQWdmZ0tidGVUUHpuYi1jT1gtdk4xOEE?oc=5",
+      "time": "Just now",
+      "pub_ts": 1775111877,
+      "summary_kr": "직장인 A씨는 대체품을 찾다가 신모델 할인판매를 보고 깜짝 놀랐다.. 매일경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "JD.com-SW(09618.HK), 100개 이상의 브랜드와 협력하여 가전제품 및 가구에 대한 100억 위안 이중 보조금 계획 출시 - AASTOCKS.com",
+      "media": "AASTOCKS.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOExNMzVTRTZRSGtwQU9zMVFuRXExY2x0QTF3cVNaWm5PekR3VTJEV3FUZDk5RTd6Ykw4Tnp6S01yVVVKVy1kQmUzclVEZ1lfVy1PRGNhaGxzb3BKUER0VUFpS2RXQ1lNLUN4dGp1MHQ4VmpxRnd3aVQ1ZHVBaXN3eDQxSkw1ZmxfSXZJ?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1775097960,
+      "summary_kr": "JD.com-SW(09618.HK), 100개 이상의 브랜드와 협력하여 가전제품 및 가구에 대한 RMB100억 이중 보조금 계획 출시  AASTOCKS.com",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sunvivi Electric Roaster가 $62.99라는 새로운 최저 가격으로 인하되었습니다 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUDNlUEdmNEt3b1VnVkIyQ0FrNUwxb3JvYjFzTGU1eG9QVFYtUGpZNWlKdTc5MldTUzR1T18waTdXa2kzRVNJOHI5alFjTU55WnNKaHJJMmNjaF9ONHA2RU1Qbk43NjJkNWdwU24wZVRobzMzNG5XTUpfY2N2Y0VSb0RtaWVncWhfbk15TE5pWWRNNDA?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1775097571,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Farberware 1100W 조리대 전자레인지가 Amazon에서 146.99달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnRrRTg4bXRCZmlNRm5Kc1FhVFNOOTJQVXdyRW5MSnVmNWI2dUUyVzRqeTVkX3N0REtmSVJwWk44SHdjTll0ZTZvam1CaHNTVC15V0hwblc1SEZWRWpzbnk0OFVYOVJFVl9sWmJyU1lFTjF1YWRYTWZRWGxucV83ZzlrcktVcHZLTjFKS2FBSUg4ZXF2UzNBbkdn?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1775097270,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "쿠쿠 마이컴 밥솥, 아마존에서 87.99달러로 하락 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb3p0eGt6UUdNLU5leEtjTVZrMUdQWHZUUS1UaTJiWjZIY1lhMmlhb1J5UkJWS0FuRjRvYXVOcUF6VE9rYWR3UUd5WXVtSmh1c3lSb0ltQmFEUk9SYXJ5QmdKQUNxVnhjQnVWOEZGTDRjY19ZOWRPS2Y4MnpKUWxKRzF2V1hLZFk?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1775096969,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성 갤럭시 워치 6 비스포크 44mm 독점 가격이 280.55달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckc5TGdjd3VLck90ZEdIbTl5bUU3ZFJ4MlE2RExwc0FGSFJwdER2UWNzOThfakNsaWliVDNPY0Z6endDdGhsNUppMjgwWUprbllQVW9WYi1xTnM5OEhPN0xNMFdXNzVjeHp0djJkamJmbXY1UEFZU1RZVXp2eF9jYXFacy13ejhDMnZQeXJwSGVuaThPc05sQWFPbXBzQQ?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1775082500,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Weston Brands 2-in-1 실내 전기 흡연기 $99.99로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmRZOFdzY1BxaXNkeUZfaUNueUNVNHpxVW5WRlFqZTZjNmtxLXBIZTNtWEk5aDAxdHZSanVNNXFLb25OYlNhTXJmc0JhaU5IN0hxMnNudGpEbWxuMkRtbFd1VGxKNnFqQmFESkFuOVpRaEhxT0JmZVR5TF9DM01OMnMyazdUOE5YbzlBZkJvZ2pmeVU?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1775078021,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "쿠쿠 압력솥, 최근 가격 인하로 99.99달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeHNOT0lxTnRkSHBuZW5mWHNpckdmY28zNWdEUUtsME1VV0l5Mnl6RmtKemNNTWFqOEZkSjJ1SFlCVXdlbjdyVjVSdkxSWFZfT0V2QVVUanZmb21FcFlRa0dlZ1k0OWhEWGd2a2E3UncybTRBZnRGaFNraFN4aFkxSEduclZEZXYtYkg2QXJ2YlhjUQ?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1775077984,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "공간을 최대화하고 어수선함을 최소화하는 5가지 주방 수납 트렌드 - marthastewart.com",
+      "media": "marthastewart.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OVW1VUFdma2tUYldQUVVIaFp0eEJSUnFDelhZNmcwTmROZlpVUGVtS0owMEVmZkpvLTBBMUZlOUZFdHlMeUJJaE16REw2LWoxRHRwazBxV0E4VzNMMllSeUU5d0ZiZUR1UGMzRXJR?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1775077320,
+      "summary_kr": "공간을 최대화하고 어수선함을 최소화하는 5가지 주방 수납 트렌드 marthastewart.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "WantJoin Electric Rotisserie Oven이 아마존에서 139.99달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUpCbmpXNGlyRWZRREdlc1M3RnpybGFGaGZnVk9sZktfa2MtaHZWLXlxOWRMMkpudFR2cXlXZkNuU0VNN3RFSlo1R2Y1d1NRWG1OTm13X3g3OS1yU1FIZ3FaenF2VDVMeWI2eF93NTJ1dEZoc1FsZDNuQkNJVjRoYkdyYWFlOHhtTjBKVC1CZ1hXOGZW?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1775077082,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "2026년 최고의 5대 깊이형 냉장고 - RTINGS.com",
+      "media": "RTINGS.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYeWthNVZtNlMyS1k4YjhiclJ2bElQaWlzcWV1RS1qYWFTT0t0TlZLQUw5aG1wWUN3T1BrUUNpb3haN1dqWXFBMHpHNTAxNW5qRmlsbnhReldWV2ZGWE1XaU1RZFIwMHVrbERXYlBETQ?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1775074872,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Wayfair의 150,000평방피트 규모의 새로운 애틀랜타 매장을 방문했는데, 구매하기 전에 실물의 모든 것을 볼 수 있습니다 - Business Insider",
+      "media": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LOGlxN2RaUXM3M0VrMEhSajZ3ZjU2YzM5UHRHWE9ER3N1ZHZtRGpzeUdqV040WmpuamVFSlFMb0hDRl9OdXRTaW9kcEtmdmFKWUpjSjFXUElGOGl3Qk81RTAyQTJfdGlybVhRN0xaVU5xdE9hSjdTOUlKRzQ?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1775072520,
+      "summary_kr": "Wayfair의 150,000평방피트 규모의 새로운 애틀랜타 매장을 방문했는데, 구매하기 전에 실물의 모든 것을 볼 수 있습니다. Business Insider",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 1달러짜리 진공청소기 액세서리로 청소하는 동안 집안 전체가 앤트로폴로지 매장 냄새를 맡을 수 있습니다.",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXVlQllsckdQUDctN3ZEUFpoOGlWaHB3Y2ljdi1TWVBwQjVHRUdTZWI4VlBSZHQycmJrMmEtRnYyOWVrVjFxYlg3azdLR19tYnlRaEdmZlFCU1VManRMWS1SMy1QSm1wWnh3ak5faldnWlQ0VnU1QXdVZ3VoSHBjOWxmNzBZUE5YYWc?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1775070000,
+      "summary_kr": "이 1달러짜리 진공청소기 액세서리로 집과 정원을 청소하는 동안 집 전체가 앤트로폴로지 매장 냄새를 맡을 수 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "꽃무늬 주방 액센트가 봄 트렌드입니다. 알아야 할 사항은 다음과 같습니다. - Tasteofhome.com",
+      "media": "tasteofhome.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42Y19WUmJEbi1fUENDRmJLN21rWkRaSmtWZDRkc1hwcmRRX28xWmJ1RWtaX3BTdm1XbTZvSnFfal9fanl3VFNmV1lfVHVFdklVS016Q2JnRnlreE5SUnFPSXNKOFk2OUFsWUh5RmltRVgyV2FxNHMtak8yUQ?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1775069675,
+      "summary_kr": "꽃무늬 주방 액센트가 봄 트렌드입니다. 알아두어야 할 사항은 다음과 같습니다.tasteofhome.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성 세탁 업데이트로 인해 비스포크 콤보로 옷을 세탁할 수 없게 되었습니다 - SammyGuru",
+      "media": "SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNejU5NTk2d2FON3Z2U1pDSTcyWnkwVW16dkJiTW1qaWtzUXJSdmo2aWVUNlhZd256eXRlUkEzS1FRYjlrX25LQXhLMXFidC1jZWJmeDJzZlR3cEVjOFlFejFkdnFncFpWbVJkeVhDV3JHZ19mMFFrc3ViMkZFd19Xa3VMN2R1eXJxWVE?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1775067668,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성 업데이트로 인해 Bespoke 제품의 세탁 기능이 중단되었습니다 - Sammy Fans",
+      "media": "Sammy Fans",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFI0US1yVllmZThoVEdwNXlwZGpZUUFYV3BaVFQ0U25HeEMyRUdFb0xsbTFrTGdBV1BlUGk4Y1ZZVmhIVmZ4UkxFVXBDblQwc21sb2wydmxZX0ZkMnlyZnBRdGx6QXM1aE5ZalRBMUdmVVhaY2xxNWRJa3ZsUDRnUUg5Q1RMS1BxclhwX3lEUkMxSUhONWVGWl83ONIBoAFBVV95cUxNcDNidUpGZzAzbGxMNDVsX2gxYWdQeGpBajFUN3l3ZncxYkhOdDEzT0hqbzJOWVJjRTRtQUxhcHMtSnc1NTJ1SUtUVXVacjFnbmQwS1doV2dXLVNIQTN4Q296ck9jTUVaYVV1aVpaOUZDV0lKR1pIdjcwZ3FEQW1oUk9SN0R6Y0NzUTEtSGZmSHpHZ29WUmZrcFBWSEQ3UTB0?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1775064857,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성 업데이트 실패로 인해 사용자는 깨끗한 옷을 입지 못하게 됩니다 - Android Authority",
+      "media": "Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UQ3E2clZOR25zbVdMWjJFUVMtQTNXc1JWWFNxVzR2QnJqOExONzV1ZDNvR3VtVEV4cmE4eENzajVDdE9GbUpvTlVxWTdHWWdhMFBkdlVtQnI0bWNPSTVCNm43dHFIVTlDZFI2anRWRU0?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1775061870,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "더 깨끗하고 덜 어수선한 공간을 위한 5가지 주방 수납 트렌드",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/home-and-garden/home-improvement/5-kitchen-storage-trends-for-a-cleaner-less-cluttered-space/ar-AA1ZWel5",
+      "time": "17h ago",
+      "pub_ts": 1775052120,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Lowe의 대규모 봄 세일로 파티오 가구, 정원 용품, 그릴 최대 50% 할인 — 집에서 쇼핑하고 싶은 15가지 상품 - Tom's Guide",
+      "media": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSy15WEV6NEJDTndMOGotSGhCc0pFQTZ0YW5EcWk1WUo0M0tzb0VvTGZaM1Z1U0owcUh4MVJfaWRpM3pKa2xPYkpZS1ZpRmxDWVFRTmZENGVOZWs0QVBSVVpiZ0pWRzJ4RjJXVnZlWE1FMTc4VnByZ2V5NXRrTThFTloxYklreTJrM2NqZHdyZHJwTTJDcjNEWU92RWd1ZlhWWF81WGpyWjJhRnVtOUs1MU9BYWdpU3BOY3lGc1NKSTNlQngwbUU3NV9vWnhmVDh6SFY0N2ZEQXhwTlVTdXlCNXNXai00MXhsMTRrNk9KbFJBZw?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1775050166,
+      "summary_kr": "Lowe의 봄 세일로 파티오 가구, 정원 용품, 그릴 최대 50% 할인 — 내 집에서 쇼핑하고 싶은 15가지 할인  Tom's Guide",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "이 회전식 건조기를 사용하는 주택 소유자는 '즉시 사용을 중단하고 플러그를 뽑으십시오'를 촉구했습니다.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-gb/money/other/homeowners-with-this-tumble-dyer-urged-to-immediately-stop-using-it-and-unplug/ar-AA1ZWv8g",
+      "time": "18h ago",
+      "pub_ts": 1775046480,
+      "summary_kr": "Lancashire Fire and Rescue Service는 특정 유형의 회전식 건조기를 소유한 모든 사람에게 안전 경고를 발령했습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "오늘날 주방에서 거의 볼 수 없는 복고풍 가전제품 10가지",
+      "media": "Bing News",
+      "url": "https://www.yahoo.com/lifestyle/articles/10-retro-appliances-rarely-see-162000889.html",
+      "time": "19h ago",
+      "pub_ts": 1775042100,
+      "summary_kr": "과거의 상징적인 주방 가전제품이 있었지만, 다른 것들은 분명한 이유로 인기를 잃었습니다. 여기 우리 대부분이 더 이상 사용하지 않는 복고풍 가전제품이 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "뉴욕시, 10,000채의 아파트에 주방용품 개량 개시 - The Cool Down",
+      "media": "The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNlo3aThlaHhRbGk5QTJyZ0tmYTUzWDNrTGRMZmxVUEMwZk45QnNnWkpnQ01lQUF4Ml9sUHR2UWdZOVJETlRWME1oS2VVYkNLUUpMbUpJM2VYMXBOU0lwLUFvS3hUaWt2QWlYdS0wak5qRWZ5bzNBVHg0RGo0dlcwSDNsRnRibTdRcEx2bDBaUk0tVkUzMkR3SW9qR0NvRXFwWUE?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1775037600,
+      "summary_kr": "뉴욕시, 10,000채의 아파트에 주방용품 개조 출시  The Cool Down",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 웰컴 맞춤형 AI 행사서 'AI 홈' 비전 공개 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3gyblFBYS1NUkI4S0Q5Smo3N1M1Z2toY3YwUXY1dnVudTVrSVFJZDhtYXdkTVNXLUV3Y1o4aExfSTlpb1R0LTNQWHVraEhxVEI3b19fbkxrUWhyS1RjdEthZVJzREFySHZRajRNNktBLUU2bWhiMU5SNDkxUjhrUG5ITHc0QzA?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1775035237,
+      "summary_kr": "삼성전자, 맞춤형 AI 이벤트 웰컴에서 'AI 홈' 비전 공개 samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
