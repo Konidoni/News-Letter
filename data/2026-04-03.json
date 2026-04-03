@@ -1,39 +1,53 @@
 {
   "date": "2026-04-03",
   "date_display": "2026년 04월 03일",
-  "generated_at": "2026-04-03T16:16:32.676809+09:00",
-  "generated_at_display": "2026.04.03 16:16 KST",
+  "generated_at": "2026-04-03T17:08:43.883742+09:00",
+  "generated_at_display": "2026.04.03 17:08 KST",
   "category_counts": {
-    "Samsung DA": 3,
-    "Market Dynamics": 12,
+    "Market Dynamics": 13,
+    "Samsung DA": 1,
+    "Samsung Bespoke": 2,
     "Samsung Jet Bot": 2,
-    "Samsung Bespoke": 1,
-    "Technology Trend": 2
+    "Technology Trend": 1
   },
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 5건 감지",
-      "desc": "오늘 수집된 20건 중 5건이 리스크 신호를 포함합니다. 주요 이슈: 삼성 제트봇 AI+ 로봇청소기 가격 336.69달러로 인하 - Technobezz. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 19건 중 5건이 리스크 신호를 포함합니다. 주요 이슈: 삼성 제트봇 AI+ 로봇청소기 가격 336.69달러로 인하 - Technobezz. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
       "title": "시장 기회 7건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: Xiaomi의 새로운 PFAS 프리 밥솥은 티타늄 냄비를 사용합니다 - The Gadgeteer. 삼성 Bespoke 1건, Jet Bot 2건 커버리지 확인 바랍니다."
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: Xiaomi의 새로운 PFAS 프리 밥솥은 티타늄 냄비를 사용합니다 - The Gadgeteer. 삼성 Bespoke 2건, Jet Bot 2건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
       "title": "경쟁사 기사 0건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 12건, 기술 트렌드 2건 함께 검토 권장."
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 13건, 기술 트렌드 1건 함께 검토 권장."
     }
   ],
   "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "주방 전문가가 알려주는 9가지 부활절 조리기구 및 필수품 - t3.com",
+      "media": "t3.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WR1JWdEFyQnQyN2ZfbVZMRnZBZWN6MENSY1A0NVB0bUZtVXJKa05WV2FnWFRCVUdEc3lyUUFJNDJpWXBUblhualRIUWVQeVNrbjZVYUw5TDBaYUVpUmVScV9OQzQ2ZkFIU2NSTE5obERWUQ?oc=5",
+      "time": "Just now",
+      "pub_ts": 1775203200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
     {
       "category": "Samsung DA",
       "title": "미국 철강 관세 인상, 한국 가전제품 수출에 엇갈린 영향 - 조선일보",
       "media": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWZoV0xIRGUySkpDaG9QaFpQS0JidVp3Q2t6ZUJ2azE1R0xmdHNLaUt0TVlVdXIzNTBJOUxjc2loWVBsQVhyM2ZZN0ItS1ZHOFVqSUI0LWF6dGJHekZaUmQ1ZmxLRGJIeGNGcHI5akdwdzVpcUtGdmJDY2RLNWdQeUxtckgtMDJv?oc=5",
-      "time": "4h ago",
+      "time": "5h ago",
       "pub_ts": 1775185279,
       "summary_kr": "",
       "strategic_implications": "",
@@ -47,7 +61,7 @@
       "title": "Xiaomi의 새로운 PFAS 프리 밥솥은 티타늄 냄비를 사용합니다 - The Gadgeteer",
       "media": "The Gadgeteer",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVlXbWIwc2VPcHBpMGd3VzRndTd1MVpYcGlqT3BWVnlDNWlmdnNiWEg0SUdFYlNKS1p6NE5MNW9NWUN6YWdHRDRhNkZvdkp4NmVMN042SGs5Qnl4QTlKWnBqaXExSmFEYVF0ZnU2RW9PMUdLdzc5QWVac0xhdnhpOUpxYzd3Snh1LW1odWY0WXRCNVNzTEE?oc=5",
-      "time": "5h ago",
+      "time": "6h ago",
       "pub_ts": 1775181625,
       "summary_kr": "",
       "strategic_implications": "",
@@ -61,7 +75,7 @@
       "title": "쿠첸, 3세 후계자 경영에 오너경영으로 전환 - 매일경제",
       "media": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjRElMMVNsQzZIcnJvNEd6dUtCQ0V0QzlZbmdYaG9RN1Z5aVlUNXBHYmc0Wi1mSzlZNHJCYWNTWS0zcEdCSVQ5bjdTZ2swM3hab3c?oc=5",
-      "time": "5h ago",
+      "time": "6h ago",
       "pub_ts": 1775180221,
       "summary_kr": "",
       "strategic_implications": "",
@@ -71,11 +85,25 @@
       ]
     },
     {
+      "category": "Samsung Bespoke",
+      "title": "2026년 최고의 무선 진공청소기 5개 - RTINGS.com",
+      "media": "RTINGS.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DNDhXY3prcEhhNFNsaFd4NW5wYVJ5VTZEalJvWG9hZmJOMHhUa0NLWFh1SGhwRTFKTVBKdDI3NDB2MXpMUXIta0NJRVNzSmFtQ2ZSek1rY29feEJRU1YtVg?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1775174383,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
       "category": "Samsung Jet Bot",
       "title": "삼성 제트봇 AI+ 로봇청소기 가격 336.69달러로 인하 - Technobezz",
       "media": "Technobezz",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3h6U1VpR3JreC1tcGNyeTFoSmlGeC1GbEpVTUZtcUZzWWFJYjFDUkdTS0E2VW9lVGY3dUNVVmNIWGZxa0hqOUg5ZFhMd2plcHVzY1k0Xy04Y0xENzBiY1JOMUNiR19vUDhlRUpxa21zN3I3bmRjazgzU3ZTY0ZYVFB2Umk?oc=5",
-      "time": "8h ago",
+      "time": "9h ago",
       "pub_ts": 1775171292,
       "summary_kr": "",
       "strategic_implications": "",
@@ -86,10 +114,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "KitchenAid의 상징적인 스탠드 믹서가 역대 최대 규모로 업그레이드되었습니다. 새로운 기능이 있습니다 - AOL.com",
+      "title": "KitchenAid의 아이코닉한 스탠드 믹서가 역대 최대 규모로 업그레이드되었습니다. 새로운 소식이 있습니다 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmx4eER4ZWFONlYtY1FfLVRWdjdxMHlLRk10a2VzYWJDNmRxRWc4eHJQZnVWaG5jbDhvbW14eGJjVzlZeDBfLVE3N3BkSXVsRlZqbVlETll1LTZCaFBXWGxsTE9Od29iQ0dFd0hJdl8xek13WkFTUkkyVS1wa2prUjVFLVo?oc=5",
-      "time": "10h ago",
+      "time": "11h ago",
       "pub_ts": 1775163841,
       "summary_kr": "KitchenAid의 상징적인 스탠드 믹서가 역대 최대 규모로 업그레이드되었습니다. 새로운 기능은 다음과 같습니다. AOL.com",
       "strategic_implications": "",
@@ -103,7 +131,7 @@
       "title": "JennAir, LLDS 2026으로 돌아와 현대 주방에서 존재감과 연결의 예술 선보여 - Newswire 대한민국",
       "media": "Newswire Canada",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOG1yYUExSlVOOTQxZXV6ZlJORlVMSTJkQUtZQWJUQWpfdnBMa2NnalFndmljc0p5R1ZMTncwUTZxRHU2SF9rRm5iRm5idmNXQ1pVX1U0WkpuWmIwQVZ4Y0JyRDhTMHhRcTZTVU9GT0VXUzc1RklJTXlmZ1dzZzJPSFhUYzAxTlhrV2JWS2NVbEt3d052eFA4Ulo0ZjdIdDJqRktLRWxtZm9WTEhiUUhpUGdNU3BFQk5SX3p2d25oVzRvSEdaT3RHaVVSYV9INVV4Z3BRREFhUU42cnJOQXAxUFVBNA?oc=5",
-      "time": "11h ago",
+      "time": "12h ago",
       "pub_ts": 1775160000,
       "summary_kr": "JennAir, LLDS 2026으로 돌아와 현대 주방에서 존재감과 연결의 예술 선보여 뉴스와이어 캐나다",
       "strategic_implications": "",
@@ -114,10 +142,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Martha Stewart가 새로운 소형 주방 ​​가전제품 라인을 공개했으며 모두 Amazon에서 쇼핑 가능 - SheKnows",
+      "title": "Martha Stewart가 새로운 소형 주방 ​​가전 제품 라인을 공개했으며 모두 Amazon에서 쇼핑 가능 - SheKnows",
       "media": "SheKnows",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa0VrRG1RSVJUXzZMOUhhWUZQSHZRRU5tZWFjN2FhQTBLaG1hMV9lRDF3a1lFS0pIYXk1Q0V0ZGdUdi1BMFVJZzEtNV9OSy1hRmM3RFpxdFc3MWpTX2hHeUVvV21pY3hsYkl0ZUZORDJGSHJSY1A5VUpUUHNqd0thZUtiX2oxMnBOblNUaDBadGZxT3BiNXRvZw?oc=5",
-      "time": "11h ago",
+      "time": "12h ago",
       "pub_ts": 1775158920,
       "summary_kr": "Martha Stewart가 새로운 소형 주방 ​​가전제품 라인을 공개했으며 모두 Amazon에서 쇼핑할 수 있습니다.  SheKnows",
       "strategic_implications": "",
@@ -131,7 +159,7 @@
       "title": "LG 조리대 전자레인지, 아마존에서 149달러로 인하 - Technobezz",
       "media": "Technobezz",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNW84d1o4UGlLekxBVkRZM29pUU5pVjZPWTMyU3U5emNDRDFHRWxLbVd6cVBTeDE2QlJ4T0JoajdRTjhFbWpFeU14b2hBQ3dTY0RubDV3RF82MWhEZ2s3TXZEcVhucnA4LWFIblEyR0hsTTRwUXJWelRiby05ZTV2OXp6Mks?oc=5",
-      "time": "14h ago",
+      "time": "15h ago",
       "pub_ts": 1775148808,
       "summary_kr": "",
       "strategic_implications": "",
@@ -145,7 +173,7 @@
       "title": "Frigidaire EM0953WHTE White Microwave가 Amazon에서 89.98달러로 인하 - Technobezz",
       "media": "Technobezz",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWN5NGljVU42VFQ3NVlYVDZNYVd5bklhd2oxWkEwY0I5T0VKOWJPZnlZeFJSXzZDRzhPQ0xnNFRjN21EUzh5YUhIT3VDV19LeEZTZFRZT3d3TTJwMzN2a0pnQXRsdW5pTDRSd1phalVvZmZYWEZZTjhtNWpDOEdrM056YzBXQ2RYRmt5cVJ4bUh4SndrSjhTOA?oc=5",
-      "time": "14h ago",
+      "time": "15h ago",
       "pub_ts": 1775148320,
       "summary_kr": "",
       "strategic_implications": "",
@@ -156,10 +184,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "화상 위험으로 인해 가스레인지 리콜 발행 - VOCM",
-      "media": "VOCM",
+      "title": "화상 위험으로 인한 가스레인지 리콜 발행 - vocm.com",
+      "media": "vocm.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90c01Ha19GbzVvNVd4ZEFwY1QwQ21JU2lkRTBjUHlOZnVBTjFhUUFvTGlCVFN0UTdpUzJIa3ZmYnRhQm5Ja05tNlJ6LURtbURCc2hRUVh2ZVRydm04ekZ5djdjX0lWWDdVU25XblZhbF81Q1VnZ1QzLQ?oc=5",
-      "time": "14h ago",
+      "time": "15h ago",
       "pub_ts": 1775147640,
       "summary_kr": "",
       "strategic_implications": "",
@@ -173,7 +201,7 @@
       "title": "삼성 제트봇 AI+ 로봇청소기 가격 336.69달러로 인하",
       "media": "Bing News",
       "url": "https://www.technobezz.com/best/samsung-jet-bot-ai-robot-vacuum-drops-to-33669",
-      "time": "14h ago",
+      "time": "15h ago",
       "pub_ts": 1775147580,
       "summary_kr": "보다 스마트한 집 청소를 위한 고급 물체 인식 및 LiDAR 탐색 기능을 갖춘 삼성의 프리미엄 Jet Bot AI+ 로봇 진공청소기를 $123.69 할인 받으세요.",
       "strategic_implications": "",
@@ -183,39 +211,11 @@
       ]
     },
     {
-      "category": "Samsung DA",
-      "title": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다 - samsung.com",
-      "media": "samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczdrNkRxVDEyUi13cnNKUHk4aGZEd19jUTB4MGFENXZYSHl6ektCdDhwLTNzanRWUUJkYzJkVXd6SThRSGhzSUhPejA0Mkkwc2xNY29JdzBiTUVoZ0dXOUlodFZSYWlXOEs0YU4wRGFjZlJEQUxCSkg1cjBCN1Jqcg?oc=5",
-      "time": "15h ago",
-      "pub_ts": 1775144110,
-      "summary_kr": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Samsung DA",
-      "title": "삼성전자 아메리카, 럭셔리 시장 진출 가전 포트폴리오 확장 일환으로 Dacor 인수 - samsung.com",
-      "media": "samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ3lIbkJPMVJoTVBTOVp2U2gybVR6TFYyeDBtVUdkUFU4SzRfajVOcXZzZFhpU3JHOFAzRm1TNllDcUI5SFFGaEhVN0xtaWhTYWh4YlUxRDB6cVgxMDd6NDBGM0FVV05LM2ZGSWlFTk1kTDctQWZlRnB0ZDMtY0Iyelc2NVVWVUll?oc=5",
-      "time": "17h ago",
-      "pub_ts": 1775139295,
-      "summary_kr": "삼성전자 아메리카, 명품 시장 진출 가전 포트폴리오 확장의 일환으로 Dacor 인수 samsung.com",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
       "category": "Market Dynamics",
       "title": "요리 전문가들은 그릴 청소의 다음 트렌드는 증기에 달려 있다고 말합니다 - 좋은 하우스키핑",
       "media": "Good Housekeeping",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb01ZdTZfZDdGS3hJNzhKTHlYX05tMFJFc05KdTlwbWlpYVU3VzV4aTZvRmNTYmlyTGUtZDZPWnktRFhMZ0VWNk1DNWd1d1ZMMG1xaUZIbHJnN1ltU2FpMDVpaDR6dDZwT0JzZHkwaGlEeHN6RnpMZkJ3VnIzRFkwcUFwem9XX1hGM281aHNDM04zMnlPcjM1ZHI3UQ?oc=5",
-      "time": "17h ago",
+      "time": "18h ago",
       "pub_ts": 1775138733,
       "summary_kr": "요리 전문가들은 그릴 청소의 다음 트렌드는 스팀에 관한 것이라고 말합니다.  좋은 하우스키핑",
       "strategic_implications": "",
@@ -229,7 +229,7 @@
       "title": "코스트코에서 구매하고 싶은 소형 주방 ​​가전 8가지 - 테이크아웃",
       "media": "The Takeout",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVnRlR0I0eTBwdV9PUEpDUGstR25CTk9OZ0M2UUlNWTgyVEdveFhKNVpIUHYtMGlQNnhsaWYtQXRmMkwxeXpjbWRBUi1BSklLeVowTnAyUzhFQVp1MEhQTE9keXV0T2hVTEFIdHFfWDU3Y0s3OTlrUHFjRzBtY3NubDZrdw?oc=5",
-      "time": "17h ago",
+      "time": "18h ago",
       "pub_ts": 1775138400,
       "summary_kr": "",
       "strategic_implications": "",
@@ -243,7 +243,7 @@
       "title": "What Willy Cook이 노샘프턴셔에 본사를 둔 Howdens 독점 브랜드와 제휴하여 번거롭지 않은 요리를 옹호하는 요리 센세이션 - Northamptonshire Telegraph",
       "media": "Northamptonshire Telegraph",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOYkx3cHVacHY3Tk1NTGNOLV9PUU41bnNMaGwzR3hXNjFjQlM2OTVFbW0yQjMzTDZZbENUZDVoQXY3dVhfaXVudE0xYXJBZEY1ZXZFbnpza3F0amFYYWJERlB6MmRpM0o3bGlobzZ5M2NQNklCcHRNZFRyYWdXdmVUV0NpcUtnam9oYkFwQ1JBVWpOa1d0VHRMeHJvNlZvRGJQODZxRUJPd2tNUGZKZENHWndvbHVNTE53MVRuTXdjVnM0am1DLUNDRnRVNkVYZkZLU01qWXhnaklKN0hTVmFZWXpZZGNMTkJ0SXRaMUZwamFCZXpUQVpic2x3S2hRMFBtTXhYaXRTNXpfd2h2b1pnamRqQWM?oc=5",
-      "time": "17h ago",
+      "time": "18h ago",
       "pub_ts": 1775136240,
       "summary_kr": "What Willy Cook이 노샘프턴셔에 본사를 둔 Howdens 독점 브랜드와 제휴하여 번거롭지 않은 요리를 옹호하는 요리 센세이션  노샘프턴셔",
       "strategic_implications": "",
@@ -257,7 +257,7 @@
       "title": "삼성 세탁기 소프트웨어 업데이트로 사용자들에게 깨끗한 옷이 없어 - SamMobile",
       "media": "SamMobile",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGpTdjhSMGpZYlVQd2ZlcWJXNzZkWE1VVTdnZUVhY2RNRGxmYnhBSDJ1aVNPMGdxLWctVDR4czNsTTNJb0R6Vm16ZUdBdVZWdEwzMlY5Z2hIeF9ZU2JicjBSOUJUY1pxemRrX19pMG5yN3F2c0pxQkFpUnhWRXJweEtMWVhnWVZnMEZiM0lNMld5dksyZmlTZmRRaw?oc=5",
-      "time": "18h ago",
+      "time": "19h ago",
       "pub_ts": 1775133480,
       "summary_kr": "삼성 세탁기의 소프트웨어 업데이트로 인해 사용자는 깨끗한 옷을 입을 수 없게 되었습니다.  SamMobile",
       "strategic_implications": "",
@@ -271,7 +271,7 @@
       "title": "Haier Smart Home Co Ltd 주식: 스마트 가전 분야의 글로벌 리더, 공유 속에서 생태계 확장 주목 - AD HOC NEWS",
       "media": "AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYXV6S3dpZHV6VlRZVGFkaTZDWlo2eVo3ajQ2Z2ZiUU9UUGZsSE53QV9pWUJPaWw2NkVCS3NVZm9HRWI3SUxzSURtM25rakM0a3dEaTZCMndoeTZnRFRfdDNNV0lBT2RUMi15czBqcnBnRjJyZnRLX3FkMVota3NEZkNoSWRDWmxKT0E2M29mbVpBYVRNaGVEclMyUUJmNTRUUklZNGRCU2JPelBhSVVCWE5LOG8zekc2NXBLNG9Jam1hYXRRZVE?oc=5",
-      "time": "19h ago",
+      "time": "20h ago",
       "pub_ts": 1775128795,
       "summary_kr": "Haier Smart Home Co Ltd 주식: 스마트 가전 부문의 글로벌 리더, 공유 속에서 생태계 확장 주목 AD HOC NEWS",
       "strategic_implications": "",
@@ -285,27 +285,13 @@
       "title": "KitchenAid의 새로운 프리미엄 스탠드 믹서는 베이킹을 한 단계 더 발전시켜 줄 것입니다. 반죽이 있다면 - TechRadar",
       "media": "TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPenNIVjF1cnpxcGs5LVJhM25xODhhOUVkUWFvRUtkMFl5dzlYeWtoQjJ6NXR2a3h3OERmRFExbmZ5Z05vcUcxYVJvRDRpeFl0ZFZ0Z1FBSTFHR0FmOWtLcXMteGNjV29WZ1VicTM3U21YYUVpZXR4Z0tiOHBmMFJKZXZuRU9yTFZGNDIzeVppU2lrX0dlVUk2blRtVmlETmNCR3VlaWZBeVZqemZCRlBCYkVMOENWTU15Q2ZUYkxZSmlFRVp5eTZkRmJNRFNSNEU2VV82Nm1icXFNTWdQeWxLVQ?oc=5",
-      "time": "20h ago",
+      "time": "21h ago",
       "pub_ts": 1775128037,
       "summary_kr": "KitchenAid의 새로운 프리미엄 스탠드 믹서는 베이킹을 한 단계 더 발전시켜 줄 것입니다. 반죽이 있다면 TechRadar",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
         "opp"
-      ]
-    },
-    {
-      "category": "Technology Trend",
-      "title": "2034년까지 사우디아라비아 가전 시장 규모는 94억 달러에 이를 것으로 | CAGR 3.25% - openPR.com",
-      "media": "openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa2oyMW5UVGhSTm0wbTNveXpQekdSWHpTWk1HRUN4QUd2ZGlHLXotVVpSMjU5cy1FdXE5Nm5mN2diMWZwc2lzeU9hVkZiN05ZMG5WQlhnRlNTR0dGRzduRUladC1tNV9tMGtPbzZaWmZlaDg2Tk13SnplZzY5NEdYa2tBb3N6RGI2a0FoTEZXMkt1cFpqcjg3ZEpxNEMyclFpQnc0?oc=5",
-      "time": "20h ago",
-      "pub_ts": 1775126260,
-      "summary_kr": "2034년까지 사우디아라비아 가전 시장 규모는 94억 달러에 이를 것으로 | CAGR 3.25%로 openPR.com",
-      "strategic_implications": "",
-      "impact": 5,
-      "tags": [
-        "watch"
       ]
     }
   ]
