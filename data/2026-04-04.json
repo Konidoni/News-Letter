@@ -1,0 +1,199 @@
+{
+  "date": "2026-04-04",
+  "date_display": "2026년 04월 04일",
+  "generated_at": "2026-04-04T16:39:06.563957+09:00",
+  "generated_at_display": "2026.04.04 16:39 KST",
+  "category_counts": {
+    "Market Dynamics": 6,
+    "Samsung DA": 3,
+    "Samsung Bespoke": 2,
+    "Competitor Analysis": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 4건 감지",
+      "desc": "오늘 수집된 12건 중 4건이 리스크 신호를 포함합니다. 주요 이슈: 철강이 세탁기와 냉장고의 60% 차지: 삼성, LG, 더 큰 손실 직면 - en.sedaily.com. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: KitchenAid의 상징적인 스탠드 믹서가 역대 최대 규모로 업그레이드되었습니다. 새로운 기능이 있습니다 - AOL.com. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: 한 푼도 투자할 가치가 있는 주방 가전 브랜드 5가지와 피해야 할 4가지. 시장 전반 기사 6건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "KitchenAid의 상징적인 스탠드 믹서가 역대 최대 규모로 업그레이드되었습니다. 새로운 기능이 있습니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UN0VxU3RBRWhJaXlodnpBaml3RW13djV5UzBONUxzbWdPVnY5TmUyQUQ4dEQ1MjRCQ19HY1lMeUsweEJ0bVRNcnIzaXZ4QW5XUkZrWUtjazZnQ0N4TGNFallGVkpmUWVTbnlTZW84c18xeEJXSndKQQ?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1775268225,
+      "summary_kr": "KitchenAid의 상징적인 스탠드 믹서가 역대 최대 규모로 업그레이드되었습니다. 새로운 기능은 다음과 같습니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "컨슈머 리포트(Consumer Reports)는 주방 가전제품의 수명을 연장하는 팁을 제공합니다 - WMUR",
+      "media": "WMUR",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORlcyLTBTeTNfX1U1cmRTZUtrcXJjdFpNcWgzUWZGb25DSUVXQW9jdUgyS2t5WTVNQ0I5MzRqY3h4aWV2bWJ2d2paWFZzUm8xeGZiSEFKNGxsTUdEVTlkSjhRZDQzX3BPWmV5YjNHempHczJBajYycmNRS3lzbDhnRURJazc?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1775262300,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "철강이 세탁기와 냉장고의 60% 차지: 삼성, LG, 더 큰 손실 직면 - en.sedaily.com",
+      "media": "en.sedaily.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY1BMcDVhS0tScmpDQUZFcm1kRUN5TDhMclBZQ2RXRzE3VHRXUGR0c3FoeVFxQU56MW9HelVjODVqZ0ZlOTRUQW1vSTcyenlDdTZ4dEt6QXZ0bVMwYzRXcjJRTUFCNGU5U00wZ0JPY193aEhMNGNSU0wzM2ZraUJYWGVadmlNZnRLdXM1T1diamdTVktCaW1namNqQjRFZHhxTV9z?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1775251505,
+      "summary_kr": "철강은 세탁기와 냉장고의 60%를 차지: 삼성, LG, 더 큰 손실 직면 en.sedaily.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "GreenPan의 이 인기 조리기구 세트는 \"영원한 화학 물질\"이 없으며 51% 할인됩니다 - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGJncmdJMDdIa0ZXRVJ1a0lSRXNJUTNNSjdqMkNzeEgzMHJyQ04xUEhBSFdOdU51Y1FkTzFSanNuYldFQzNkaGs1SzRRR09vcnR1S2NMT0xVR0JrX3JvSFNOdkxHTFpPV214bHpMVFZ2YWtTWVBjM2FLS0VBZ3JGdUJiZ2dBR29EelliZ3I2U0JHYmZOV0FoNw?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1775238950,
+      "summary_kr": "GreenPan의 이 인기 조리기구 세트는 '영원한 화학 물질'이 없으며 NBC 뉴스에서 51% 할인됩니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, IFA 2025에서 신형 A-65% 맞춤형 AI 세탁기와 2세대 맞춤형 AI 세탁 콤보 선보여 - news.samsung.com",
+      "media": "news.samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXFnMnF3V01lczY5OUFfMHJVdkRjLW1acXo0WlhNNzEzRFFVd08tYjZGcTlvMTlQNkJkeWFQbTJjTGVwVkpLZFFfUktjRTVkOVlzcGZ5OU8xcTRwdlktZDlac2xaWmZnZ2UtWkhYOURIMTVNMWJlUEZ6OERLWGxRbg?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1775237177,
+      "summary_kr": "삼성, IFA 2025에서 신형 A-65% 맞춤형 AI 세탁기와 2세대 맞춤형 AI 세탁 콤보 선보일 예정 뉴스.samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다 - news.samsung.com",
+      "media": "news.samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb2NEbVhfTkZqSnZMWmJOczJZLUF1aFRIT3BINzlqbDVzUU9HazkwVk1PT0g5WGV6bFBUcTlOOFgxRlEtTFRQTnZPTTgwb3ZoMW11U3dhZERpUTRNOFdrcmR2MHBSY0FUbi1IWWRJNURqYzBaV3VoNkRCYkJ1N2diSXpVemZkbk5Q?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1775232521,
+      "summary_kr": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다 뉴스.samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "한 푼도 투자할 가치가 있는 주방 가전 브랜드 5가지와 피해야 할 4가지",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/lifestyle/shopping/5-kitchen-appliance-brands-that-are-worth-every-penny-and-4-to-avoid/ar-AA207G2U",
+      "time": "16h ago",
+      "pub_ts": 1775229540,
+      "summary_kr": "주방 가전제품은 저렴하지 않습니다. 따라서 신뢰할 수 있는 브랜드 중 하나를 선택하여 돈을 잘 활용하고 평판이 좋지 않은 제품은 피하세요.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 미국 최고의 맞춤형 냉장고 1,300달러 할인 - SamMobile",
+      "media": "SamMobile",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWi02bmhpV2hfTFhtYW1uRTVtdy1TTFNOVDZEYW9vQTVnM2M0QVhqS2N4ZmJ6cWhLaFNnamJ1Wm1Bclh3QzBSMUJKTEJYVFc4d1BmR0pxbGw2MHBtM0k2dFA5NmVWLUVOeVdOb1VZeFYwSzI4V3lfckRzWGg1bWtKbVNkYkw5dlFfZGduYl9aZW1QXzMw?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1775224140,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon 아울렛에는 KitchenAid, Stanley 등의 봄 주택 특가가 여전히 가득합니다. 최대 60% 할인 - Real Simple",
+      "media": "Real Simple",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55MjliSWIxbHcxU0xyS0Y0Q0NaV0JqdnpuZW5tMWRjSG9YY2l3ZjR5MVNuNTFOUFZVODdZVzIyMDdQdEhVdEVhVnQtSG9wckRuU0RvOG5kbnFOZlZjNmhHMllfNVJaMDBpMmg3S2JyTFJKRHBDYTJaYzFDMA?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1775217600,
+      "summary_kr": "Amazon 아웃렛에는 KitchenAid, Stanley 등의 봄 주택 특가가 여전히 가득합니다. 최대 60% 할인  Real Simple",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "STIRMAX 7.5쿼트 디지털 멀티 쿠커가 $73.17로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0hKNG5PM0g3TUVvMEpVWldBOElaTlJPV3NpNUdUT253Y2ZMSmhOT09EOTNiWlBVVE5VTDZONDg5SV9hckVRdElwcU9XdGpJRkRlZkk5WTVNaGVwdlVQaWtSdVduY212RkVWVmpHSGMwWk84dUNETXgtUVN6SnVGcUNSblB3aExEaDlV?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1775216377,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "FRIGIDAIRE EMW736BLK 0.7 Cu. 포트. 전자레인지 가격이 69.99달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXlqSS1oWFI0LVQwQVhCaTducnpSTVNGVk5OQzNwaDYtUk5LMk1HT2ROdHgzTjdUOGItaElVbkRDdjZDSU1zdjdlb1c1SzBVOWZsQ1hXQlpBMWFXcURQLV9UYU9RYmpaQ3FQSDl1ZHZ6dTNHdjdCbVJEVmdSN2Z2aEV1TE9CMnZLYnRHVEpB?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1775216377,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "미국 관세개편에 국내 가전업체들 재계산 - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWZoV0xIRGUySkpDaG9QaFpQS0JidVp3Q2t6ZUJ2azE1R0xmdHNLaUt0TVlVdXIzNTBJOUxjc2loWVBsQVhyM2ZZN0ItS1ZHOFVqSUI0LWF6dGJHekZaUmQ1ZmxLRGJIeGNGcHI5akdwdzVpcUtGdmJDY2RLNWdQeUxtckgtMDJv?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1775202383,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
