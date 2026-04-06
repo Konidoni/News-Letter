@@ -1,0 +1,228 @@
+{
+  "date": "2026-04-06",
+  "date_display": "2026년 04월 06일",
+  "generated_at": "2026-04-06T17:14:06.589934+09:00",
+  "generated_at_display": "2026.04.06 17:14 KST",
+  "category_counts": {
+    "Market Dynamics": 11,
+    "Competitor Analysis": 1,
+    "Technology Trend": 1,
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 5건 감지",
+      "desc": "오늘 수집된 14건 중 5건이 리스크 신호를 포함합니다. 주요 이슈: TrueSteam™ 및 QuadWash™: LG는 식기 세척 성능을 재정의합니다.. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: Häfele, 코치에 Appliances Studio 출시, 케랄라 지역 입지 확대 - Hotelier India. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: TrueSteam™ 및 QuadWash™: LG는 식기 세척 성능을 재정의합니다.. 시장 전반 기사 11건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Häfele, 코치에 Appliances Studio 출시, 케랄라 지역 입지 확대 - Hotelier India",
+      "media": "Hotelier India",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSVJMcWt3V2haWlJ4UzUwVFdxMDBwMmxNWTBDazVVa2ZzV2FSV19IcXc1dnl1RmVDSkRyMjRxYlBtdVRDTEQ4VTl2LVo2RXZWXzJ4ZWNnNW1ncGRROWo2OFJPT3NyNmxiUWZnNEthYUI3N3FVd0RtaTJQS3pqWUR2Y2poOWFfeW1qVjVxVmVQS0pmenBrUU9ReU5WbGpCR2xLNVFMbmpJT3NyWGZ4?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1775456147,
+      "summary_kr": "Häfele, 코치에 Appliances Studio 출시, 케랄라 지역 입지 확대 Hotelier India",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "물을 끓이는 수도꼭지는 내가 생기기 전까지는 필요없다고 생각했어요 - Livingetc",
+      "media": "Livingetc",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NZFhmTXhjYWlOb1Z1d3BTTGhmR3NWOGtrM3JlQWE4dHJJdmFtYXFHREZpMzJrM0ZWX1B6dmZad2ZSUF81VGR5Wk9Mbk16UkM5Z2V6TTJXN19yVTZid0xUbjloaUFVa2pqOGtITnlLSG5rNzZW?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1775453400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "건강한 요리를 위한 다용도 압력솥 - Zee News",
+      "media": "Zee News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSGo2aE5JSHg2NGw3QWs4cEVzRDVnMlI3SU5VcVFQY2dDMTd4TUk3cjdzZGsyWjVydUMtOHlVcmFuSmNRR18zZXM5NzhNelM5bnk1WmJjWmloNjE5M3otUzRKVjZ4clY5dGxGaXl3a04yLWhVQXB1c1ZjdWM5MXRxaGtfYnpTLXRFYXdxMkFOckhYcVMzbXlZb3ZLc3dpNTBlZndDZHBUMEJ1RTJXdktJRUxxQ1NwLVVtcEdSU1B2R2s4ZldwQVJNQy1ybXhaYzDSAc8BQVVfeXFMTUhqNmhOSUh4NjRsN0FrOHBFc0Q1ZzJSN0lOVXFRUGNnQzE3eE1JN3I3c2RrMlo1cnVDLTh5VXJhbkpjUUdfM2VzOTc4TXpTOW55NVpiY1ppaDYxOTN6LVM0SlY2eHJWOXRsRml5d2tOMi1oVUFwdXNWY3VjOTF0cWhrX2J6Uy10RWF3cTJBTnJIWHFTM215WW92S3N3aTUwZWZ3Q2RwVDBCdUUyV3ZLSUVMcUNTcC1VbXBHUlNQdkdrOGZXcEFSTUMtcm14WmMw?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1775446200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "TrueSteam™ 및 QuadWash™: LG는 식기 세척 성능을 재정의합니다.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/technology/consumer-electronics/truesteam-quadwash-lg-redefines-dishwashing-performance/ar-AA20fiAC",
+      "time": "8h ago",
+      "pub_ts": 1775433600,
+      "summary_kr": "뉴스 요약 LG전자가 더욱 스마트하고 편리한 가정생활을 지원하는 식기세척기 기술을 선보입니다. 핵심 기능에는 TrueSte가 포함됩니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "우리가 청소하는 것을 잊어버린 주방 공간과 그것이 생각보다 중요한 이유 - atvtoday.co.uk",
+      "media": "atvtoday.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45Qi1UY2dWWlktZUxjU1dGdHdZWS1wQm1MRTdFdHdRLVJfcEY3TVNLZVhGSmhRWXhqMlp6aW9IOHVCLU04VUVYTGktbUpqejVRODh1cFNERkRITHFn?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1775423126,
+      "summary_kr": "우리가 청소하는 것을 잊어버린 주방 공간과 그것이 생각보다 중요한 이유 atvtoday.co.uk",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "LG 홈디포 봄세일, 레인지, 냉장고, 세탁기 최대 43% 할인",
+      "media": "Bing News",
+      "url": "https://www.popsci.com/gear/lg-appliance-home-depot-deals-march-madness/",
+      "time": "11h ago",
+      "pub_ts": 1775421600,
+      "summary_kr": "홈디포에서 LG의 March Madness 세일은 스마트 벽오븐 1,800달러 할인, 프렌치도어 1,500달러 할인 등 200개 이상의 가전제품을 최대 43% 할인합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성가전, 미국·프랑스 베스트픽으로 평가 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NWjZyNk5vMVhHYlYydTlDWVcwT3hfM1RHZXN2SWZqOXhvWHZWbXM2MFlUMHIxamRZMVppQ293ajlNNEhwZzhnNy10dnhNSFpteVZGYWY3enBlcDRkU05IbVJZOXJyT2xxWTNSemJUa19KNTg2cEdmQ3FIQkM0dw?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1775418858,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "골든 그레이 대리석 자석 식기세척기 커버 - 주방 가전제품 및 냉장고용 23\" X 26\" 껍질 및 스틱 데칼 - ruhrkanal.news",
+      "media": "ruhrkanal.news",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbW9DNGtZSjFILVZWcU5jb3pIS0VOSHk1RmwyTGRrSXNrWWxBc3dHZkpRTjM0UnEyQ1VMdmsyc0FRSm5hVC1jSjRrcHRXUVJGVkV2YS1VeXNWanllUzBwTm1tS0lJeFh2cmd1V2ZqRWhJWnBWTWZyMVpiMjBwN25zU1N1cXpLN1RQdEpENHYwUQ?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1775400576,
+      "summary_kr": "골든 그레이 대리석 자석 식기세척기 커버 - 주방 가전제품 및 냉장고용 23\" X 26\" 껍질 및 스틱 데칼  ruhrkanal.news",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "금속 주방용품 보관함 - 전자레인지 스탠드, 흰색, 36x28x40cm 조리대 정리용 - ruhrkanal.news",
+      "media": "ruhrkanal.news",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkJfR1MyV2RYSF91WF9xOGFFSDJVNjUxNjBJdHBvOThVODhxYkloNlM1UFdrRU1VeVV4UW1LY1QzOHg2OVJTT0lBRjFHeU9oZ2U1ekdoQUNUUDhnd05fZzBVcHlvbVNPNzRGM09VLXlKMzNGN2I1RE5ZV3VNTURBNmJVaHNNZw?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1775400574,
+      "summary_kr": "금속 주방용품 보관함 – 전자레인지 스탠드, 흰색, 36x28x40cm 조리대 정리용  ruhrkanal.news",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Mike Holmes가 당신이 돈을 낭비하고 있는 주방 가전제품을 선정했습니다.",
+      "media": "tastingtable.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG5JTVctTnhUX0ExRzduRVlLUXdNc3k5WG5YOTlqWVYxVTh6aHN4eUdGajhtdmoyakhnSUI1cU0zcnlBb29vVVVDTEFtNThVYUZjNl9WWjlZZURkNzNXTTF4OEdKUXdkblVNT3Y5by1xdzRUdkZENTY0QjZibDVIaTViLWVyYldabFBBeVM5Z1hNM2tUaWlnWWFjS0g4bUlDS0NmTWdrSQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1775392200,
+      "summary_kr": "Mike Holmes가 tastingtable.com에서 돈을 낭비하고 있는 주방 가전제품을 선정했습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전기 요금을 높이는 상위 5가지 주방 가전 제품",
+      "media": "Bing News",
+      "url": "https://www.yahoo.com/lifestyle/articles/top-5-kitchen-appliances-raising-173500199.html",
+      "time": "20h ago",
+      "pub_ts": 1775390100,
+      "summary_kr": "에너지 사용과 청구서를 억제하고 싶다면 비용을 추가할 가능성이 있는 다음 5가지 가전제품의 사용량을 살펴보세요.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "GreenPan 13-in-1 Elite Countertop Oven이 299.99달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXBhUEJ1bEJnd1Q5blktbjlzbW45ZDBHX2FvTDNOUnRvMVVXNDFQa25zY3FaODd5MERMT1A3TmRmeWtyWUloWnNyQ3FNTlphQjkxLW9UX2RLS2M2VnU0TWFqWlk3U3R2NERuUXcycW1jR2RnQkhCVVdoVU9ubDVlRWE5MFdrRlpKTmgtaVJ3?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1775389032,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Dreo ChefMaker Combi Fryer가 Amazon에서 269달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVhkNHNnSmw1djdIWGFWUlFkaFpQbkl2aXNrMk5kVzFBdGNmamdoUXgzLUhpNFI5eFB6ZGEzczNaN1QybHhqOEJrZnlWRTF4cm43SE1GS3UwSDZ2eGhCR2dSSGhaeUlmQmNCZ1JyczlBdkU1UUNlTWpDX1B5V1ItalBwSldKRFBK?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1775388731,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "22쿼트 전기 로스터 오븐, 아마존에서 64.99달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVpuZ2FMSU9ZbEZkWHJSOER5bElaTGgyLXVxdDZGSGJUb0FscFdZeDBkcFc2c2dMeXpMLXlzVUltTG9qSHZsS29TeUlHcktqb3pTSjBGTjRDdVNhOXhvR3o1dExMaUlRMGNQSzRYQUZjOEw0d19IQzl0VGZXRVA0QlRxS212VW5wWnVLWlRhTQ?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1775388731,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    }
+  ]
+}
