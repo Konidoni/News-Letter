@@ -1,24 +1,24 @@
 {
   "date": "2026-04-10",
   "date_display": "2026년 04월 10일",
-  "generated_at": "2026-04-10T15:28:30.592354+09:00",
-  "generated_at_display": "2026.04.10 15:28 KST",
+  "generated_at": "2026-04-10T16:41:49.868072+09:00",
+  "generated_at_display": "2026.04.10 16:41 KST",
   "category_counts": {
+    "Samsung Bespoke": 6,
     "Market Dynamics": 23,
     "Samsung DA": 1,
-    "Samsung Bespoke": 5,
     "Competitor Analysis": 2
   },
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 5건 감지",
-      "desc": "오늘 수집된 31건 중 5건이 리스크 신호를 포함합니다. 주요 이슈: 해밀턴 비치 전기 스탠드 믹서가 98.99달러의 새로운 최저 가격으로 인하 - Technobezz. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 32건 중 5건이 리스크 신호를 포함합니다. 주요 이슈: 해밀턴 비치 전기 스탠드 믹서가 98.99달러의 새로운 최저 가격으로 인하 - Technobezz. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 14건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 14건이 감지됩니다. 주목 기사: 아마존 쇼핑객은 다음 주방 상품에 대한 첫 번째 정보를 얻습니다. OXO, KitchenAid 등 최대 67% 할인 혜택을 누리세요 - 식품 및 와인. 삼성 Bespoke 5건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "title": "시장 기회 15건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 15건이 감지됩니다. 주목 기사: 삼성, 인도 최고 탑재형 냉동고 냉장고로 맞춤형 AI 라인업 확대 - samsung.com. 삼성 Bespoke 6건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
@@ -28,11 +28,81 @@
   ],
   "articles": [
     {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 인도 최고 탑재형 냉동고 냉장고로 맞춤형 AI 라인업 확대 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjVEM3NqOU5tMk9lQlRjb1ROc05xZllzTXRwWHJTZy1pX2ZPb1BCX1pEelF3SlE5U1AxWnNHaHBQS1p3dThjNUlVWGZWSHhTdG9wUUU5Mzh4aHRoaWNnVVBWZy0xSmFKSUthNERlVjE4N2FiNW9UeDJIaU9mMU9FUnlTNWR4WUpPMEhVdm10aWdvaGgyTHpTMnhrTVhSazZBMVFtWkVObFpwQQ?oc=5",
+      "time": "Just now",
+      "pub_ts": 1775806479,
+      "summary_kr": "삼성, 맞춤형 AI 라인업을 인도 최고의 냉동고 냉장고로 확장 samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 인도에서 맞춤형 AI 탑마운트 냉동고 냉장고 출시 - FoneArena.com",
+      "media": "FoneArena.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHlzN09ORDNfeGRCREs0UHRRQzFmSmo3bzVvNjNLQmJFTGtOQTAwMkU0N2tTR0lrVE9pd3RmWG9oMjBHWmhVdXBrMVpIMExhX0hvcU1FMkR6bmpQeUwteG03UFk0VHpsZXRLcFd4QzBKMzhMdUN2dS1LRmsxQlA3U21JQXBkUjFWeE9zRnVlSzNUXzNOcmd2S1N5M1JYOF90dXpEcVptVzdrZmRXcmJKWE9JRdIBuAFBVV95cUxNSFhiVnlVRnNUQVVuVk5acjhlZV9tSllicEN6aUlLeHRVcnpSRXdRYldFUE01aFUwSjNtNTF2NHdGNzFEYlhpaHpwQXhCZ3JFUkkySzYzbFBfVURveUZ3NTZpd0lHRmdVV3ktOVdvTzh1UUloNVhhUnBvMTlTNnQ5RkdHbjlQb0dVNUdNenJ1WVdjcUVvazEtc3c1WjdhejBvNGZhY3hBWGhpOTdZS0NuZDFvbTNVUnFR?oc=5",
+      "time": "Just now",
+      "pub_ts": 1775804568,
+      "summary_kr": "삼성, 인도에서 맞춤형 AI 탑마운트 냉동고 냉장고 출시  FoneArena.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 인도에서 SmartThings 연결 기능으로 맞춤형 AI 냉장고 제품군 확장 - t2ONLINE",
+      "media": "t2ONLINE",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOXFibG1kR3VwTUZxVWtqMTlHX3UwczV1dkRTeXAwdUxxNDZURUNoOVpvZEtEa1dKbXZZOUNYZ2lUYV95XzJlckZiMHZycDdvRmNWWS0tMEZMV3M1endLdnJkeFhfdlYxcVZvTWxuRjQzSHpxQTFRbnY2UURJTTZkc25UelpZTFNoVElpemxrQmNXanpxUklHaTZ2NDJjTVJhV1U1NHlvc19nTkhTdVFrajYwUGVfal91NmtQcnFzclhnN3lGeDNLSE5SM25LZw?oc=5",
+      "time": "Just now",
+      "pub_ts": 1775803800,
+      "summary_kr": "삼성, 인도에서 SmartThings 연결 기능으로 맞춤형 AI 냉장고 제품군 확장  t2ONLINE",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Walmart는 Drew Barrymore의 Rubbermaid 및 Beautiful을 포함하여 이번 주 최대 82% 할인을 제공합니다 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wUzFydlpNMW5GYzRQWE5VczJWcnNabGlMLU5xLWUzQkxybVNtQkV4TFRMN0tCTGh0akVUVURfVVQ3UzZBM2EzaEtsNC1zVjBhMnNCNHFxQWE3X1hISUJWTm9kNDZnYmJqTGVTdkF3ZXREVm9hMVpaREdn?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1775802600,
+      "summary_kr": "Walmart는 Drew Barrymore의 Rubbermaid 및 Beautiful을 포함하여 이번 주 최대 82% 할인을 제공합니다.  Allrecipes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "한 푼도 아깝지 않은 주방 가전 브랜드 5가지와 피해야 할 4가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HaGUyMDZSdzYza2xrczZQSGI0UG80eTlLdS16Q2Q3S25mdjA2ZDRkempPNjZhVlp2Y2pKd3F5SnBWV1h4Zl9nalZDdHBnY0pRbTVRVzJESmpnM2NHWWNObURoa2Zzb2VmV05WT2FTMkNlM1Rob3c?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1775799147,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
       "category": "Market Dynamics",
       "title": "아마존 쇼핑객은 다음 주방 상품에 대한 첫 번째 정보를 얻습니다. OXO, KitchenAid 등 최대 67% 할인 혜택을 누리세요 - 식품 및 와인",
       "media": "Food & Wine",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0ljZ09OX2JudXMxdjk0VVIzaTJQX00xdXNveW9DUzNuWVQtYUJVdEhqa1NsVVpPNWFQWXd0ZHQ5NjJDWlVSREtPWkZyWWtYTVJKRzZQSHk2cnFld2FGc0tCc0syTDdCX0wwcVhtSVVuUGdDeWxRNkJuWVJYcGRSM0pNTQ?oc=5",
-      "time": "1h ago",
+      "time": "2h ago",
       "pub_ts": 1775797200,
       "summary_kr": "아마존 쇼핑객이 주방 특가 상품을 먼저 받아보세요 — OXO, KitchenAid 등 최대 67% 할인 혜택  음식 및 와인",
       "strategic_implications": "",
@@ -43,10 +113,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "컨슈머 리포트의 가장 신뢰할 수 있는 주방 가전 브랜드는 더 이상 LG가 아니다 - AOL.com",
+      "title": "컨슈머 리포트가 선정한 가장 신뢰할 수 있는 주방 가전 브랜드는 더 이상 LG가 아니다 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QT09iTFQtbUZnMV83QWRrMUFGaXRkdlVzZ05hNGp6RG52Tjc5UFFTSkpkUzdlelc5cHRkTFZsLUhhWGJSMzNIZlh6Y2ZJaEpwemNQVFZCTWt4bGF2V0xQc0RaMWc0RHBraVRnUmUwWjBudklCd2lzQjVvZWJMZw?oc=5",
-      "time": "1h ago",
+      "time": "3h ago",
       "pub_ts": 1775795852,
       "summary_kr": "컨슈머 리포트의 가장 신뢰할 수 있는 주방 가전 브랜드는 더 이상 LG가 아니다 AOL.com",
       "strategic_implications": "",
@@ -60,7 +130,7 @@
       "title": "삼성전자 가전사업부 회복 조짐 - 디지타임즈",
       "media": "digitimes",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWY2Y0lTTjhRZjBxMGwtVEZGTi15ZzhkNURFTFJ4T28xYVNHb2JGSS1hWnIwRF9ydWtVbmdsXzE3a1BNMS10blFGbDhmZHdJc29LMUc0R1c2Z1k0TGRSWnBOamQyWkdYakF2M21fd09oMk9WVHhzWVpHS3ZNNGI0V1BVQ2w0dml1Sy1jbU8xQ1Boa1NiQTdLVUpLMlNmMldzTXNYRnF3aF9UUHRoT3c?oc=5",
-      "time": "3h ago",
+      "time": "4h ago",
       "pub_ts": 1775789690,
       "summary_kr": "",
       "strategic_implications": "",
@@ -71,24 +141,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "한 푼도 아깝지 않은 주방 가전 브랜드 5가지와 피해야 할 4가지 - AOL.com",
-      "media": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HaGUyMDZSdzYza2xrczZQSGI0UG80eTlLdS16Q2Q3S25mdjA2ZDRkempPNjZhVlp2Y2pKd3F5SnBWV1h4Zl9nalZDdHBnY0pRbTVRVzJESmpnM2NHWWNObURoa2Zzb2VmV05WT2FTMkNlM1Rob3c?oc=5",
-      "time": "4h ago",
-      "pub_ts": 1775788099,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
       "title": "해밀턴 비치 전기 스탠드 믹서가 98.99달러의 새로운 최저 가격으로 인하 - Technobezz",
       "media": "Technobezz",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYVlFRWR4WHpOVDlmcG5NNktBaDg3NmVDQXZ2T1dwT05kVmVtSE5xekw1YXl0MFRhUjFNbWRJaC1VaDRXc01YazZfQk5wSlJVNUlhRjJQM3dqaS1ucDBRUWlfMDRoQmZFb29XTXpHYVkyb2J3VTlRekg0VGJ2MmxoQjBkd2FuU0hWNUFkRFN0WHVIanpjeF9TaTdHemVTVVA0OVE?oc=5",
-      "time": "4h ago",
+      "time": "5h ago",
       "pub_ts": 1775785623,
       "summary_kr": "Hamilton Beach 전기 스탠드 믹서가 $98.99의 새로운 최저 가격으로 인하  Technobezz",
       "strategic_implications": "",
@@ -100,24 +156,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "절대로 교체하면 안 되는 빈티지 주방 가전 - AOL.com",
-      "media": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTVTb3FDWDF2WXRTVzBnaDJxN0FEeFNzWmtteUU2S2Zhc2hxNFk2ZFRyMXJTV0gzRWlxdEdZcmZGWmpmbEFTQkhiZ0tWRjVqb0xiQ19vUlh3SFRJZlhkWHlVQ19YTE1saWNEcXY3cnBLeGdhMDJUNmdHbmlGSFRsYV9DRFNyTzZ5QmQxZnJnZw?oc=5",
-      "time": "4h ago",
-      "pub_ts": 1775785379,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
       "title": "'인크레더블' 기능으로 '불량' 주방 문제 해결 - News.com.au",
       "media": "News.com.au",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcjJKQndINjBMOUxxdWt3T2RheWVhbV9xaVlnbV9mNUsxTzBXaXZWUW0zbnZYUGc2RHlIWkQ1aTAwWEFQUENacVd6RWdPUHY5dTBVZFoxOUl4VFBvTk84SFdxMmNZUTNGVDYyRVIzZWJTWkJQWXVKR2RUakN2VVdLQnc2aFUxWGk5WDNvcFE1TTh6YjNNcTh0X0t1V0NINEZzS2dVb2FsRzZrakRma256aXk5TjhIcUg5dWs2NWJ4UmtaY20xQjdwQnlad01VMEw3STJLbTM0UmZ6a21IOGp2YUVrSy16V0VmWktLUUVZTdIB9AFBVV95cUxPYTB4R3NGbktKOWk0NGdXTkw5ZXFKejBsTloxWlFyRnpnaGwtdkVaRUFXQ04wdHZNVGRNSThDV0dXYkFGSHlpYUlMcWNIM1puTm0tNmw2MDUyZlFwdXI5QXdBOWRJajVneWZfcG1DN0dQeG5jNmRySUR2ZkxWa0s1RlBkeHlQcFg2OHJoNG9PWmZoUUFvS2ExTXU2NVo1aXlmeV9VNGxzUXNqUFRZZk1aSnE2MGZrbkdrTkFkVVM3XzZhZHlKRUxNd1EyRllSbnhmTXNES2hWdkhQVnlDWkpFNHVZazZxR0VJUnZ1QjI1elhTcWZv?oc=5",
-      "time": "8h ago",
+      "time": "10h ago",
       "pub_ts": 1775770273,
       "summary_kr": "",
       "strategic_implications": "",
@@ -131,7 +173,7 @@
       "title": "나쁜 리뷰에 시달린 악명 높은 식기세척기 브랜드 - 테이크아웃",
       "media": "The Takeout",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DT2gwZVdac3BHUE1CSko0TWlzbURqREtlb2VUTWRpMFFmNEVDQ3VxNklQUzc5ek5PTDZhYVlWLUxLZUZkVW8wcUlVNTVlQTBQcmNWY3lPS1JNMDV0RG5tcXJ3Y01MWGJUVFo2MXhZbjZfRjZ2OFRJSkg5eGZPbzA?oc=5",
-      "time": "9h ago",
+      "time": "10h ago",
       "pub_ts": 1775769600,
       "summary_kr": "나쁜 리뷰에 시달린 악명 높은 식기세척기 브랜드 테이크아웃",
       "strategic_implications": "",
@@ -145,7 +187,7 @@
       "title": "삼성, 미국 전역에서 사용할 수 있는 2026년형 맞춤형 AI 기기 출시 - Android 헤드라인",
       "media": "Android Headlines",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGhjd1lncUdVN3VoUmhjaFpXRzQ5SjgxY0VjZG9UNkotMmdkbGYxcURYNU9CREd3ODR2ajRhRzdyWXZKcVlPZEU2aWdiaDNISS12NVRXempDOXF3RV9JekYwXzdUeEI4bExMTVdUYnQzSWF3N21DampsQUoxd0d4dXdsYnpTb3BzTmVTaXAtbEU1dVNuVnlNN0dRaUh3RlpIdkpJX0JvdERmTmdvSWc?oc=5",
-      "time": "9h ago",
+      "time": "10h ago",
       "pub_ts": 1775767529,
       "summary_kr": "삼성, 미국 전역에서 사용할 수 있는 2026년형 맞춤형 AI 어플라이언스 출시 안드로이드 헤드라인",
       "strategic_implications": "",
@@ -159,7 +201,7 @@
       "title": "LG전자, EUROCUCINA 2026에서 새로운 빌트인 키친 스위트 공개 - malaysiasun.com",
       "media": "malaysiasun.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFVlMm9ZYkhDTEw5dkpVSWhndEVJcTJ5SUVIUTRjN2JXLWZDMHN4cEg4U1hGdGgwcVhRdnVEMlItRmVmdjcxMjhRakloX1pEUHltaEw3UnZUOW00a3lfTTYyQktsWF9aLVF6VU5pNFo4OG9MUGhvd0FrcUlvRVlwSU1mRGFLRjVDbWlwMEh6NUpuUHRDT2xuUE12VzdBcVhiTVlwMjZUMmNuaThia2c5NTJpN0RsZw?oc=5",
-      "time": "9h ago",
+      "time": "11h ago",
       "pub_ts": 1775766600,
       "summary_kr": "LG전자, EUROCUCINA 2026에서 새로운 빌트인 키친 스위트 공개 malaysiasun.com",
       "strategic_implications": "",
@@ -173,7 +215,7 @@
       "title": "마사 스튜어트(Martha Stewart)가 40달러부터 시작하는 멋진 새 주방 가전제품 라인을 방금 공개했습니다. - Yahoo",
       "media": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYmtDM21PbjFuSW11QUM4cFdQQVNMaVQ2TGF4TFoxbERtajFYUkRkUEc5anpUdUluMGtLZnpFY09MaWxaVVVuaEg4WWZoMURyekEzYnMxR0U5VXhyX2xhQlVIWXlWbHFaTFFkMUJnb2xBVVJoeVlta3FDSEljX3ZxUFUzTFJKSTM1QVAwYXE0ay1qLXNuZnNVdmNCODNxLVEyZENlaVMxWVVZTjJjT3BqTDlOVU1Hdy1Nc0tDOEVFWmZVTmFpUDF6U0VjOWxQU2pkaXVHdkp4OHRvakNZUDJ3aEV0VTRFLXVmVHc?oc=5",
-      "time": "10h ago",
+      "time": "11h ago",
       "pub_ts": 1775765927,
       "summary_kr": "Martha Stewart는 $40부터 시작하는 멋진 새 주방 가전제품 라인을 방금 공개했습니다. Yahoo",
       "strategic_implications": "",
@@ -187,7 +229,7 @@
       "title": "HelloNation에서 가전제품 전문가 Bill Pronovost가 올바른 냉장고 크기를 선택하는 방법에 대해 논의합니다 - Vermont Community Newspaper Group",
       "media": "Vermont Community Newspaper Group",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPa1Axc1VjMExrTk9uNEFiWFNDRHo2TjNCN2J6OEtxclg3UHJGTmFmcTVUZWN2OE9oMlEzY182TXA3WGV3enpENWsyLW9aMF9VNDlzYW0tLUFHbDRDdTBlMlI2UVlYNU8xRjVNTDJNSkZJTHdyY1VhTzhtQ2RtVWxXcnhhdWVKNUtzcnljM2Mwc0Q4cTl3d2dTSzJvYVJxRFBjSnRWQzFaa1JfaWpXSXBNRFFLcmczajNIdXI0andlTy1qX240OFN6VUJCeHZoYUZXcEp5ZFpOcGVaSTdocFJhWEVxNXdsLUw0VnlmZFpLUzY3dU8yTFE0ejZKOFM5RTB1d1oyY3NFZzItZDUxbFVmQ2M1Z0s0a19DWmZSbHJkUFdpMEpp?oc=5",
-      "time": "10h ago",
+      "time": "11h ago",
       "pub_ts": 1775765040,
       "summary_kr": "HelloNation에서 가전제품 전문가 Bill Pronovost가 올바른 냉장고 크기를 선택하는 방법에 대해 논의합니다.  버몬트 커뮤니티 신문 그룹",
       "strategic_implications": "",
@@ -201,7 +243,7 @@
       "title": "GreenPan 30oz Nut Milk Maker Machine이 아마존에서 79.99달러로 인하 - Technobezz",
       "media": "Technobezz",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlNHVDlUb2NZWHVMODhnZFFFLUxicXd6X2tkMnJ3Y3dqZVZ5Z0U3UllEdm9DOGJfXzVXUmM3MUNQLUFTcXRXTGJydDFvNzZTbVZ5OWtrVkNjaDczdTBaV1dpNklKUEVfbGxUOEJxUURJRFA5S04zQUc1RHpoU2QtQUtXVzR3Tnd2czBrUzdTeVlDSk9YRjhz?oc=5",
-      "time": "10h ago",
+      "time": "11h ago",
       "pub_ts": 1775764290,
       "summary_kr": "",
       "strategic_implications": "",
@@ -215,7 +257,7 @@
       "title": "봄이 가전제품을 업그레이드하기에 완벽한 시기인 이유 Trail Appliances - Castanet",
       "media": "Castanet",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMFhiUXF3TGVJNDItaDdPeTRSdkNUUmppUE5lbmZCRGIyQmo0Uk9GT0t2RG8zeVpfZUZSQVhkYXd4SmFvZ0lwaDF6bkVEZGdDYWJIZlZfc3FjTlNMb1o2ejBPMGFxc1VGNVNYR2N0YjhBMWRLcE40OXdMNWszS1FxbjlfWFRRV3BfU2NZck8xY2Y5MUxaeUVLSFA4WFh1OUVSZ2RhVHUtR2R4dE9RRVZocUFkNHZiRTVzZDh0SUlYUnpBSW5fX0E?oc=5",
-      "time": "11h ago",
+      "time": "12h ago",
       "pub_ts": 1775761260,
       "summary_kr": "봄이 Trail Appliances Castanet에서 가전제품을 업그레이드하기에 완벽한 시기인 이유",
       "strategic_implications": "",
@@ -229,7 +271,7 @@
       "title": "LG 전자, EUROCUCINA 2026에서 새로운 빌트인 키친 스위트 공개",
       "media": "Bing News",
       "url": "https://www.finanznachrichten.de/nachrichten-2026-04/68163394-lg-electronics-inc-lg-electronics-unveils-new-full-built-in-kitchen-suite-at-eurocucina-2026-008.htm",
-      "time": "12h ago",
+      "time": "13h ago",
       "pub_ts": 1775758860,
       "summary_kr": "효율성, 공간 최적화, AI 기반 성능을 위해 설계된 6개 카테고리 통합 라인업뉴스 요약LG전자가 새로운 'LG'를 공개한다.",
       "strategic_implications": "",
@@ -244,23 +286,9 @@
       "title": "Martha Stewart의 새로운 주방 가전 라인이 출시되었습니다. 가장 아름다운 봄 색상으로 출시됩니다 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkFfNEdUcjVJRnoxWmZNZXk5YlVnd09QbXRNU3VUcm0xbTdpMVl6ajMxT0dlRE5vV2o4VVBscmN6V2RtVTVWM2ZwQVFoMW5UVE1pY2tlMDR4SnlfQ3A4RWdRT1kwNDN4ODRfb2dFZWVyT3F1Y1JsdEQtd0p4UnJYUlhYWGRkdFZ0SFE?oc=5",
-      "time": "12h ago",
+      "time": "13h ago",
       "pub_ts": 1775757288,
       "summary_kr": "Martha Stewart의 새로운 주방 가전 라인이 출시되었습니다. 가장 아름다운 봄 색상으로 출시됩니다. AOL.com",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "opp"
-      ]
-    },
-    {
-      "category": "Samsung Bespoke",
-      "title": "삼성전자, 비스포크 냉장고 라인업 확대·비스포크 프렌치 도어 최초 공개 - samsung.com",
-      "media": "samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmF1dDNDaFMwc2lmSmkycTdWZmt3dEktNk0td0ZXRHlwVGJiTi01dVFFcWZ3LVZZQV8yVldQa21meDAzN2xhMk11c3BLWVBnOWpCdUc0cUdfZEJPQzZJblJZaUpSOFlITDVadHRJQldLdjJGdEZveHNKcDU4amx6dnJQX0dJVGRX?oc=5",
-      "time": "12h ago",
-      "pub_ts": 1775757077,
-      "summary_kr": "삼성전자, 맞춤형 냉장고 라인업 확대로 최초의 맞춤형 프렌치 도어 발표  samsung.com",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -272,7 +300,7 @@
       "title": "Martha가 사상 최초의 주방 전기 제품 컬렉션을 출시했습니다. 여기에서 아름다운 제품을 쇼핑하세요 - marthastewart.com",
       "media": "marthastewart.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ1NMNjRZRGJib0NfaHBnUDF3dEFCTnVlZUFDWFZQbS1hMk1tZjZxU05TRXJLTmQyRjA1cE5lS3ltSEhqNmlTQ3Nlb0I1cWFfUzBkQUw4TDYzSHNUdmtzcVdaLWJyc09rblVWMGk0M1MtaG1RSVhyOHlIQ3QyVjNpLWZjcVRlc043aEptdHhXb0laa2VVQ1E?oc=5",
-      "time": "13h ago",
+      "time": "14h ago",
       "pub_ts": 1775755324,
       "summary_kr": "Martha가 처음으로 주방 전기 제품 컬렉션을 출시했습니다. 여기에서 아름다운 제품을 쇼핑하세요. marthastewart.com",
       "strategic_implications": "",
@@ -286,7 +314,7 @@
       "title": "홈디포 봄 블랙 프라이데이 세일: Shark, Ryobi, Ring 최대 56% 할인 - NBC News",
       "media": "NBC News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmJ3blVONUxoUkxEUHB0VkR2Qkt5aTNaZzJqUllfTTktblp2cWpwdmozdnBUZm1Cby0zbldsdmtaRWo0aWRIbDFDcVU1Tl8taG5DQzlWY2pMMVloVkhmUDdoaHR4V0JNY05rOTE4eU5lcGZLdU9JVDQ5LUhRQ2JtR3B2cGxfR2hDSVdFODdTNkhmZElhZEE?oc=5",
-      "time": "13h ago",
+      "time": "14h ago",
       "pub_ts": 1775753119,
       "summary_kr": "Home Depot 봄 블랙 프라이데이 세일: Shark, Ryobi, Ring 최대 56% 할인  NBC News",
       "strategic_implications": "",
@@ -297,10 +325,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Dash, 집에서 먹을 수 있는 디저트용 냉동 간식 기기 출시 - 뉴스와이어",
+      "title": "Dash, 집에서 디저트를 위한 냉동 간식 기기 출시 - HomePage News",
       "media": "HomePage News",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNllrUjQ4NmlaM0p1M0Q0NE15c0dVeEJlNVdJLUF3b25qeVBDTUZvOF9OTHhmT0FqV0syYjhySDhTSWI1bG5LOU5ad2J4VXp0YWRNcXZCUDVWMWpiOXJ4ZUw2cVFSQWtBcmc0RmZXZFdNbUJIdzBKa2RPakc4M241UTZyaFpHUnRaNElTX3pKeDdtZE5NYmtpVGdxT0p6TU9rRGxYdjdB?oc=5",
-      "time": "14h ago",
+      "time": "15h ago",
       "pub_ts": 1775751316,
       "summary_kr": "",
       "strategic_implications": "",
@@ -314,7 +342,7 @@
       "title": "Alabama 가전제품을 사용한 주방 맞춤화 | 앨라배마 이야기 | 2026년 4월 9일 - WBMA",
       "media": "WBMA",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEVhWlFwaUllM0N5QnE3Q0o2bnNBYnBnWkhTejJTeDJmdkVKTEVvd0YzM2ctOFBuLXlQSGQ3NEhicllRYV83cDFvNWQtVXJVdDh2S3BIekdGQ2NJRE5XdGt6Nngxb0RoNjJnTDNMVWd0Tm5wbUxNTEdIblJrUXdQb0xnZmFQaW9ycGxiWUl0VU9MX1pVM2VnRVhzQU9wam96R0VKbUNzV3hQaVhLVkFOc0FB?oc=5",
-      "time": "15h ago",
+      "time": "16h ago",
       "pub_ts": 1775746291,
       "summary_kr": "Alabama 가전제품을 사용한 주방 맞춤화 | 앨라배마 이야기 | 2026년 4월 9일  WBMA",
       "strategic_implications": "",
@@ -328,7 +356,7 @@
       "title": "삼성 2026 맞춤형 AI 가전, 미국서 판매 시작 - SamMobile",
       "media": "SamMobile",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWko0dW5rRTdha0pwcXN2RHZWcnF0WXJDUl9lRHhzb1dsclVwc0t0M0JaRHdJbVU3MDJIZVhVcjJvQkc1Zjh0R2s3RWZfS3Z1RUZnQUVpR2RDS3NReERMMXZtOXJQYnBYMEo2dF9FeWc3c0lDekN2TU9GSEtvWEhHby12aEVRVU9TQ3JzZVVDd1R5UQ?oc=5",
-      "time": "16h ago",
+      "time": "17h ago",
       "pub_ts": 1775744700,
       "summary_kr": "",
       "strategic_implications": "",
@@ -342,7 +370,7 @@
       "title": "Martha Stewart가 방금 아마존에 주방용품을 내놓았습니다. 제가 먼저 봤거든요 - Good Housekeeping",
       "media": "Good Housekeeping",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZGZJb0JxVHhkaUJvcVlNMl9ieDVsVG1VVGEya05MY1ZrWE9Ta0JESHU2ME5mZ1dMcC1Rc0J5SDZMQnlnTlBNZGNnRy1fUXhGN0I0NVZPaGVKVXhMbDJsQWZaeFlhTV9SaWFPUk4ySVFnSDVZM0J5ZGdvVDZ3aXNOVnpQZElSNXF1V0ljSFZ3VHVTNmdfelpWTG1B?oc=5",
-      "time": "16h ago",
+      "time": "18h ago",
       "pub_ts": 1775741700,
       "summary_kr": "Martha Stewart가 방금 아마존에 주방용품을 출시했습니다. 처음 봤습니다.  좋은 관리",
       "strategic_implications": "",
@@ -356,7 +384,7 @@
       "title": "2026년형 삼성 비스포크 AI 주방가전 출시 - samsung.com",
       "media": "samsung.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZtaWViaWU3dGN4c2ZnZ3JZRC1oQXVPeXA4TFlZd1FRTDlpYnNFYVczUVlZdUFNQWFmOFRXRUdqR1BUYnJrZGRyZ3R3dmk3Slc2aHZTMkFaTXNLeENEc0Rnb3ktZDc2S3pOMWEzZFZvRnJzUUQ1RENqYXJfeFZ5MkdLQjYyaUZhdzJLYWdR?oc=5",
-      "time": "17h ago",
+      "time": "18h ago",
       "pub_ts": 1775739912,
       "summary_kr": "",
       "strategic_implications": "",
@@ -370,7 +398,7 @@
       "title": "사용할 때마다 플러그를 뽑아야 하는 주방 가전제품 3가지 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFajVWWEVtM3laTjFvbFZxS253WTRLSlpwQm1VTDk3TllFMzZMZHUyVHRyTFRZVl9MamZ0VU9qbTNhbmxEcnpMOVRwQnRtMXEzdlA2eXpkZ0NqdGl6RzZhX1Y3ZE1ucEd0b2R3cXNoUnFSUEFBcDFz?oc=5",
-      "time": "18h ago",
+      "time": "19h ago",
       "pub_ts": 1775736439,
       "summary_kr": "",
       "strategic_implications": "",
@@ -384,7 +412,7 @@
       "title": "완전 돈낭비인 주방가전 12가지",
       "media": "Bing News",
       "url": "https://www.aol.com/articles/12-kitchen-appliances-total-waste-120055234.html",
-      "time": "18h ago",
+      "time": "19h ago",
       "pub_ts": 1775736000,
       "summary_kr": "일반 가정에서는 부엌에 조용히 앉아 아무런 가치도 없는 기계에 전력을 공급하는 데 연간 수백 달러를 소비합니다. 사람들의 일상",
       "strategic_implications": "",
@@ -398,7 +426,7 @@
       "title": "Frigidaire EM0953WHTE White Microwave가 Amazon에서 69.98달러로 인하 - Technobezz",
       "media": "Technobezz",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkVObGlmOW5PR1F4VVlHMHNOX3RkX2tEamFoVXpaSDV3VkcxSTVfekdzbWtxZ3ZORUEtemNhdFV4MHZsamJ4c2tXcWpZcVNDdGlUX1FPVF92T1pVMmhUY2RPUFlEd05SX3dtR19XY0pLSkZnZG9XVHNGdG8wcGRlakZZUlRFY0FUbEdTVEJ5aVByV1ZvSWtQaw?oc=5",
-      "time": "18h ago",
+      "time": "20h ago",
       "pub_ts": 1775734617,
       "summary_kr": "",
       "strategic_implications": "",
@@ -412,7 +440,7 @@
       "title": "nutribullet Ultra Plus+ 3-1 컴팩트 주방 시스템이 $155.41로 인하 - Technobezz",
       "media": "Technobezz",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNGlVeWJlSFFDbk13WWkxSXZxMUdrMmJScnpPTEExa0dqOFZON3ozLVJQMlJyRmw4eFluTFVtM05ZLXk4akdsWlMxZUt5M0NuelRSRU1fMktybkp5Tm9fZjQ5dW9yVkhPSlE4dDl0Z0pWdTBKdks4RjFsVXF3MUowQWJpUHJ2bFc5VmFqcjUzcUhUS3ZzTXFpendDWW4?oc=5",
-      "time": "18h ago",
+      "time": "20h ago",
       "pub_ts": 1775734316,
       "summary_kr": "",
       "strategic_implications": "",
@@ -426,7 +454,7 @@
       "title": "바쁜 집에서 세계에서 가장 작은 로봇청소기를 테스트해봤습니다.",
       "media": "Bing News",
       "url": "https://www.msn.com/en-gb/lifestyle/shopping/i-tested-the-world-s-smallest-robot-vacuum-in-my-busy-family-home/ar-AA1Ziad9",
-      "time": "18h ago",
+      "time": "20h ago",
       "pub_ts": 1775734235,
       "summary_kr": "iRobot이 세계에서 가장 작은 로봇 진공청소기를 출시했습니다. 하지만 바쁜 집에서는 어떻게 대처할 수 있었나요? - 깔끔한 크기는 청결함을 타협해야 한다는 것을 의미합니까?",
       "strategic_implications": "",
@@ -440,27 +468,13 @@
       "title": "부엌이 깨끗하다고 ​​생각하시나요? 주방 전문가는 이 '비밀' 장소에 기름기와 오물이 묻어 있다고 경고합니다. - Yahoo",
       "media": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDlRUWVTMF9abHZyUEVNQ1VVdnFEVUxvdXozYWxsVUQyX0NsaHZDS1VqM0tPelZwTzF6dkxiTzByTnZLNldMQ21RWlhGeXhMTU9VbFNPc09CWjlxZDBjQVFScDVoQkxnUmttcDZsWmJMemJHNTZPYndEa1FqV1RrT0dGbjZqaUIweW9hSHNpWllZQllf?oc=5",
-      "time": "19h ago",
+      "time": "20h ago",
       "pub_ts": 1775732943,
       "summary_kr": "부엌이 깨끗하다고 ​​생각하시나요? 주방 전문가는 이 '비밀' 장소에 기름기와 오물이 묻어 있다고 경고합니다. Yahoo",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
         "watch"
-      ]
-    },
-    {
-      "category": "Samsung Bespoke",
-      "title": "삼성, 인도에서 가장 지능적인 에어컨 출시: 맞춤형 AI WindFree Pro를 만나보세요 - smartprix.com",
-      "media": "smartprix.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWdiN0JIQ0x1ejhKVkVoYzVUdDdqdGVBWjlfSDhxbHR5dDJwT0FmbVhtVUwtX0dJNFpXX3F3UUZyWUVUbVEyeHpHSmd4NGdsNUswOHR3a3MxMkRhemJnWFFKdzE2dXJKR2Ewb0otWjY5UGdxWGRFOGJ0bVNlem02TFVIMnRpN29UZlk2WnVETFAxazRzekhYc3lGRlN3eFJocHdjTDQwQ0lDM01rVlZHbnBFNHVDdw?oc=5",
-      "time": "22h ago",
-      "pub_ts": 1775720021,
-      "summary_kr": "삼성, 인도에서 가장 지능적인 에어컨 출시: 맞춤형 AI WindFree Pro를 만나다 smartprix.com",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "opp"
       ]
     }
   ]
