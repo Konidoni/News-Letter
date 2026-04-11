@@ -1,0 +1,340 @@
+{
+  "date": "2026-04-11",
+  "date_display": "2026년 04월 11일",
+  "generated_at": "2026-04-11T14:55:15.934838+09:00",
+  "generated_at_display": "2026.04.11 14:55 KST",
+  "category_counts": {
+    "Samsung DA": 2,
+    "Market Dynamics": 12,
+    "Samsung Bespoke": 7,
+    "Competitor Analysis": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 22건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: Tribest Sedona Food Dehydrator가 Amazon에서 $168.42로 하락 - Technobezz. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 8건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: 새로운 KitchenAid 스탠드 믹서에는 3가지 최초의 기능이 있지만 우리가 기대했던 기능은 아닙니다. - AOL.com. 삼성 Bespoke 7건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG전자, 이노페스트 2026 APAC에서 새로운 가전제품과 솔루션 선보여. 시장 전반 기사 12건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Samsung DA",
+      "title": "삼성은 글로벌 칩 경쟁으로 초점이 이동함에 따라 중국의 후퇴를 고려하고 있습니다: 애널리스트 - South China Morning Post",
+      "media": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYlc2bG53ZzZCNWVTSS1DN2NDRC04V3QwOFREUFlYc2dFSk1hNnZoQWxwTVNfRlUtQ05PYUFobVF5TUtNYmgwSHlYazBsRVBnNEhNVGxreGVvbjAtZEVrbHZ6SDBFd3NyNTVsLXdhLVhnUmhfY1puNWVFQ2EtOHVJNUxsVXMwQmJSRk1GeTdtMjBNMFdXZlR5MlM4U1dYZ3F2S2pSRHMyeW44RHdBQVVZenZ6SDM2OWV6WUHSAboBQVVfeXFMTXNQbnhoT0NIUTd2enBhcnliZzNYRjkzSWpzV01YaUNPYVA0Xzd4Rk5VU1pNcUp3TW5MWHZzbUJZX3NOMEY0anI1MEZvT3h6cF9UdjhaTXFPeEc1WlR5Tzdtd2pHSi15YUg2c0lxVl9OMk4ta0dtRUxNT3F2aTZnSEZVZlN3VmdkVDRzb0lvSlBaZUFCN2dyMnU3TW4yd2hNQWtKdXhwZXVDLVhVR3ZXRE5KUHgtRGlXSC1B?oc=5",
+      "time": "Just now",
+      "pub_ts": 1775884108,
+      "summary_kr": "삼성은 글로벌 칩 경쟁으로 초점이 이동함에 따라 중국의 후퇴를 중시합니다: 분석가 사우스 차이나 모닝 포스트",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Martha Stewart는 매일 '건강한 시작'을 위해 하나의 주방 가전을 맹세합니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlRhZEtZV3JFd0VBejdQUlRHSkJZRkltMmhyOHZRYTlxeGNkNHFMbm9aVU5qYTVvbnN0Mi16SEEySF9ZbGJpdWJlQ3dGT3h6WnJhZkdEOE1rZUNPY2xzTXdUMUlJblppdDBvZ3YtRzBlMTRQajFpMjUzUGpLQVVIbnYweFg?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1775881628,
+      "summary_kr": "Martha Stewart는 매일 '건강한 시작'을 위해 하나의 주방 가전을 맹세합니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소비자 보고서에 따르면 LG는 더 이상 가장 신뢰할 수 있는 주방 가전 브랜드가 아닙니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54QWx3RXlXdnROMG00YkdOZnNuSy0tRjQ0aHJiTkUwdmZ3a2xEdGJrRE9hdXhqdU43a2xxUWM1clJ2MENtVWNQVEpMdHRTTWltekkwSDBtbl9qUUFldXhCYVZlb2s4SjBSTkNNSlB3?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1775881543,
+      "summary_kr": "소비자 보고서 AOL.com에 따르면 LG는 더 이상 가장 신뢰할 수 있는 주방 가전 브랜드가 아닙니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "한 푼도 아깝지 않은 주방 가전 브랜드 5가지와 피해야 할 4가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HaGUyMDZSdzYza2xrczZQSGI0UG80eTlLdS16Q2Q3S25mdjA2ZDRkempPNjZhVlp2Y2pKd3F5SnBWV1h4Zl9nalZDdHBnY0pRbTVRVzJESmpnM2NHWWNObURoa2Zzb2VmV05WT2FTMkNlM1Rob3c?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1775875604,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "평생 가스를 사용하다가 인덕션 스토브로 바꿨습니다. 난 절대 돌아가지 않을 거야 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGU4VGhoaE8wOUtUamhtVUNJQ2lrdTZrbHRyaHRiZ3RaT1gxRFo3NVhMUzlrLVpmWGd1dmxOOWhwbWwxV185UzAzVFhfU1J2UGFWQk83c1VlMUVEMG5lSGRZTXN5cDViV1o2Rml4bnU1UTNVSk1Uei1CZk53TEtYR2JqRmF4UzIy?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1775871184,
+      "summary_kr": "평생 가스를 사용하다가 인덕션 스토브로 바꿨습니다. 나는 다시는 돌아가지 않을 거예요 AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Tribest Sedona Food Dehydrator가 Amazon에서 $168.42로 하락 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDFfWWZtZjh4ZndCb0NUYS1jM0psakdJbGRwa0tTUHpMRHlFdlFyTXVyT29LRXZyUWR0TFE0TjFwb2ZFdUNhbmhjWnE3VFNkaG9KVjQ1WXBLQkUxRnRVaHBMR2sxbkRGejFMbkV6aUYyUzFfbHVwZGhQbGN1RTVIaEF1b3BaX2VoS1JZdWxwUlE?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1775869060,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "새로운 KitchenAid 스탠드 믹서에는 3가지 최초의 기능이 있지만 우리가 기대했던 기능은 아닙니다. - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QTW1udnNEQ05oR0JIV3ptcDl5WG84UG9vWDlMaWQ2MWtFTjExWXpsNi1CcmhvcFZhYkhyWHEtTmdTYlltYjhIb01oOFlqSWI0RlI2NnAzNTFIZTdfNXpoTDYxRS11T2FnMkg3SGVCTXhfNnhXOEJYLVRBeWJyMFU?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1775865873,
+      "summary_kr": "새로운 KitchenAid 스탠드 믹서에는 3가지 최초의 기능이 있지만 우리가 기대했던 기능은 아닙니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전문가에게 전화하지 않고 물이 새는 식기세척기를 수리하는 빠른 팁 - 시식 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaXhKTDQzTXlBM3d3TVBESHBycUo5aDF6bnU1N1Y0NzZuWElyeFI2a2swMVhrVWN6cE9RNWVPMEZmSk9ZYmU4QXJEWmtHUHc1TGEtWDRXaUZnS3Zqamk4THZIS3VBNThJQ3lzMm1CekZ0ZzZTTmstWTJfUDFMSXk4aEFzM2gxc1FzVlE?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1775860800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "고가의 가전제품을 찾고 있었다면 이제 쇼핑할 시간입니다 - House Beautiful",
+      "media": "House Beautiful",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYmVBd244X2RpQjgxcmI2QUhlV3VZQWZIMENJM2J2ZTBfWkVIZ3M1RGhlckRycGwzcjhwT2o3azVpWHlWNkJWTFJNTk9kbkZ3UGdRRk5ZVnpKZkx5UU55VU9MdmNtOHVHbTBsdVE3STk1T2ZGclFZTjRhWjhJRW5SMXpMeTU0dFJCai0zRGlUd2NDMzAtTk4xYzhNN0d5dUxuUG5NRGVCZ3lpN2p0YkdnRmZ4enZhaU1lNXc0M1pRNEZKcXo1?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1775851295,
+      "summary_kr": "고가의 가전제품을 찾고 있었다면 이제 아름다운 집을 쇼핑할 시간입니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "크기가 중요합니다: 점보 Benriner가 얇은 슬라이스 분야의 헤비급 주방 챔피언인 이유 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ095cmRVQUc4OS1KdFZDYm94OTFGSE5yd1VsbnFuVjJnRVJPNUdXcnZCUVA5U0VURVpIMVF2emVuUFJkMzJOQ29QeFZyVm5CWHZNMnIzaTdRVkNkRF9SNHpxQXJKNXZoX1BvLTEwUUJxUmlFbElLeE1yWUg3UjRSYg?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1775851245,
+      "summary_kr": "크기가 중요함: 점보 Benriner가 얇은 슬라이스 분야의 헤비급 주방 챔피언인 이유 AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "매일 주방 가전제품 3개를 뽑아두면 연간 최대 180달러를 절약할 수 있습니다 - the-sun.com",
+      "media": "the-sun.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1ZKdU1YMWh1TUFJZUxxSFBYNDhLYXZnUHVvUWNkWExzR1lETHdnaTRXdkV0Y1IwX3lYMzdvVEFuYTdKYm9qMXFDUkYweGl3MnduLWVlT3lmNUphTEM2QlNyZ3NmVXNMb3JGdGNFS014TDIxaWViWUljdGR4bUVHWlRlSzJVSHNZbnJUMw?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1775838460,
+      "summary_kr": "매일 주방 가전제품 3개를 뽑으면 연간 최대 180달러를 절약할 수 있습니다. the-sun.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "인기 있는 Chefman 소형 가전제품을 Amazon에서 최대 49% 할인 받으세요 - Fox 59",
+      "media": "Fox 59",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnVyVkJrQUprTUV4SEFMZzRoUWgxNWJudWFZelV4RHY5a1ZkM1dDVXBPeVRKbnpSb29YZ3VFNlFyZHVoc0xtb0xEZTFBSl9PRFFqNE84Yno2bFN4NGdBMzg3MG5md2l5eUVGT0dERWlqRl8wNjl2dmw2aGxvcmt4d3o0Z3ZoRDliZXdCcXpXR1lOM2RJZS1wWjFlMEtUcHdUdHFtQk91QkFjVExSZlRoQzFlVdIBuAFBVV95cUxNUElxLXJRQ0dVci12UUY0eThZSkktR0ZvQzFsX1BUNmlncncxQ01VZ01EQk1kLXFycm5CWkUtdHFJdDk4WnAxb2ZONFpDZGc2dWgxVGdpQmJqdUtfeGxPclZtWFUwdG9LOFYxbkU0ODNrb0xCTnJWUEpGQ2NQM1dFUDVDZE9ic3RMWVpqUDBEc01CazVNRXN0a2REQzhBRGFlVWhJcG5McXRCVVloLVFjaWxxczNEeDJq?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1775836310,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "인기 있는 Chefman 소형 가전제품을 Amazon에서 최대 49% 할인 받으세요 - KRON4",
+      "media": "KRON4",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd013NTRtRk1DZGd2LVRhZ2FNVWRpNHJad1I5RnpxaS1zVFI4UWxpcHRZcWh1NlFrWHhsNVJ5R1BuQnJXZkczeWFjM1B5XzdYSlAxa0lSLW84MGlXOTNGTkNIdDhkQ0RQcE1nanM5eFc2clJEMjJmUmt1RGh5VDNWQ1FXZW5icUZvbjJ2cmNlTmRJLThfVE5hanUyZGNqZk53TXQ5LTFpR3I3SkdYdE9MNGlaNkRpV2Y00gG-AUFVX3lxTE11b3RVbWkxbG10OHBWZk5pdVM5S3JQajd0UGZ5Y0RqLV9leEZjUmtkUWR2ZlJ4QXpyWlFoQ2lnSXJEbk0tam53enE4dzhzUU9GZ3ktdmhrTVItLXdseVBpTmpJZU9QVzJyY2dBVG81NG1qaEFsazNyMnhDNG11UmZITkpoZG1XaW4xRS1lTlpFbG1zQi1sTDV4aW5pSl91WV9JOVpQMlBVc0xYd1B5bU90bFFWMUNoS3JPOFlRTnc?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1775836310,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 인도에서 맞춤형 AI 탑마운트 냉동 냉장고 확장 : 가격, 기능 및 기타 세부 사항 - The Times of India",
+      "media": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYU1DX2tqWW5fMDN4VDNLVFYxNjQyYkFZZks4amRDNWo4eWhGNUdESjE0WVBDT194Ukc3QUJobmhPdmtYX1hUcV9vYVhjc2RxS3RieGZrNFBoazF6MlBqMEdPVTYwM01UbGJHb1FibHZjR2V0cWVpeTNuZ3JJQlZsd2N6QkRDVy14X3dEdHE0UkxSTE1XUnFrNjRCUG5sX2t0T1E3UWloOXZZTThLX2RMdHlJZ3pMaWpScFk2Mm9fUTgyMnpZUkc2Q1dWTnREeHRpUnZvUEttbGhyaUc5R2xUZGxKN1lkbUM3N1hjUU9meHN4M18tMk5tT2lYMWJNb1lPQ19oTjNqZVE5aHo1TDdyVFVn0gGXAkFVX3lxTE8wTmJiZFVWRFAtdWhTNm5scnhYNnRhNF9ZcVFEMkxWNGlheTBLejRJTlY1WUZKMG9BTVF2M3RTY0s3c3ZUdkVmcVBjRGFoWDQ2ZXRaNnQ5WTRxdUFIRnN6LTFTNzlLdGttMHI3dDNQWnVsMjdvSXRaOThyMEZuVkJ3aGhHV0VBZXNiT1Y2LXBKT3M4bE03UUJZQUhUZGxkeDlGWGVqYVVkRTdGYmlWaEVDNmlNcm83WFRjdzVlZjVPLWdNbnNXVk9aQ0x4YW9ha2pkMnpiX2xGc3FaT2MyelJCWWFhcVVtdHdGQXZUZFdCVmtmd25IaU4wRkU1Z0daeFBIMHlHSEJXYkYxLUxhRmlCS0l0eWdvQQ?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1775833980,
+      "summary_kr": "삼성, 인도에서 Bespoke AI 탑마운트 냉동 냉장고 확장: 가격, 기능 및 기타 세부 정보  The Times of India",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 인도에서 새로운 맞춤형 AI 탑마운트 냉동고 냉장고 모델 출시 - SamMobile",
+      "media": "SamMobile",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWnRqQVh0YkxWb0lMRU1mUEZNakFfM1dPVy1HbHlySnNMQ2N4UnNPbHE3c1d6cXpUTzRIcUNTdl9ZZlVKQXlBVnQwcHRNaTZERktvOFlneHZHMmZGQXFPZnFodUlqdHZlRGlLVDBqbDlBREtiOVVNQ3g4RTRkd1FBbDVEb2tWU0s1N3VmNGRfcllQVThUYTQ0VzBMaVJPNVlKcG9XWl8yLTFReWc?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1775833620,
+      "summary_kr": "삼성, 인도에서 새로운 맞춤형 AI 탑마운트 냉동고 냉장고 모델 출시  SamMobile",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "지구의 달: 지속가능성을 향한 삼성의 간단한 발걸음 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFhweXJmV29nTHlzcjVGV0xUZXU5dzN6YW5Qb05yb0FPTXlEYlhEN1JNZ1BIcEl5bW15bjAtSHhXbTJVWmNrdWRWN0VtdWsyMGVHMU4zZkNMQWlBaUNnS0p4T0lDcVJralNMcTZVTmwzY3U3SFk3MldqYXpfQXlMOVZMbTJxTXZkM0pz?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1775830501,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNGd0U1ppNDhiZlJTd29JQzNCU3FKX1UzaTBzT0ZWbjJ5bjRpYTBocXlkNDZ0RTdETkNQbW1Zc1hnVEZBcjNsOHpacGdMWDB1M0FCa29jX3NIMUVfQXFUTldjMGt4MnVxbkQ5LXpMdFhOa3pKRS1SVWhBa3VaZ3QyZg?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1775827586,
+      "summary_kr": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, SmartThings 지원으로 인도에서 맞춤형 AI 냉장고 라인업 확대 가격은 Rs부터 시작됩니다... - Moneycontrol.com",
+      "media": "Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORndiWWRCWVZ2TVFTRkpiZnhZT1NYUVBtWjFmczcwNVFDNXNkazRRcS1iY2t4MkVhQnRIVjQwTkltQnRFQlRzbndpSU9VbHk1S3k2aVdGSVBsTjNlUjVSa1h5MzkyZTFoaWJmV0NOV0xrWUVrTVFteTNQcEJPN010ZFpNSTBfN2NDb21XOGhhNVQzdkZmZlc5V3FlVGg5UzRoM19nTlUzVFZsOEFtMXRoSGh2aWhobWhlSnduXzFnSDZwN3ROeFl1WW9xNFBjMjlFN3F4dG5rdUw1YlBzX19XckNJblRKS2xrUWRaTGZKZnF4WjdhNDNtME9yZjZaUdIBgwJBVV95cUxPdUEwcERfdVVfVDJjc1BSTjc0MWlZbGQyYS1BQ0JzZjF5QjdBLS1ESWdVWWJ6cGNoeWhWZEgwd0FGQkY2dS13R1RCa2IweTVZWVB5US0zbHlkbV84cVhRaWhYWEFKU1NicVRtdjJFT2VVa0otOW4wQzlEZWdRYl9qeWZISG1MUTZ2dzdpTzZ4SVJjZG4wNnNPSWFwTG1fQ2dKek4tMTRBSElJTVMxNEJFY3hGazVGd2JyQ1lqcFRMUVl1M001dXkxUWxOLUx2Rk1NWHpVdzdNZGxkM3YtLTlaMUZnMGlWSDU2bzRKa1lXWnhzZFhxXzVZalpXNXRGejVvVW5J?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1775822530,
+      "summary_kr": "삼성, SmartThings 지원으로 인도에서 맞춤형 AI 냉장고 라인업 확대 가격은 Rs부터 시작됩니다...  Moneycontrol.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 이노페스트 2026 APAC에서 새로운 가전제품과 솔루션 선보여",
+      "media": "says.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pTDAwVzV6aFJoRTNuSGZtdDM1SGxXdkRieFpOc2Z0VDUtcnAyYmt5b09XdFdLS2l5cncyQmp6S0pqc0RxZjRRMDZUNU94SGtsc0pxQUI3cy1saUhVTU1keXp3?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1775815560,
+      "summary_kr": "LG전자, Innofest 2026 APAC에서 새로운 가전제품과 솔루션 선보여",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 인도 최고 탑재형 냉동고 냉장고로 맞춤형 AI 라인업 확대 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjVEM3NqOU5tMk9lQlRjb1ROc05xZllzTXRwWHJTZy1pX2ZPb1BCX1pEelF3SlE5U1AxWnNHaHBQS1p3dThjNUlVWGZWSHhTdG9wUUU5Mzh4aHRoaWNnVVBWZy0xSmFKSUthNERlVjE4N2FiNW9UeDJIaU9mMU9FUnlTNWR4WUpPMEhVdm10aWdvaGgyTHpTMnhrTVhSazZBMVFtWkVObFpwQQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1775806479,
+      "summary_kr": "삼성, 맞춤형 AI 라인업을 인도 최고의 냉동고 냉장고로 확장 samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 인도에서 맞춤형 AI 탑마운트 냉동고 냉장고 출시 - FoneArena.com",
+      "media": "FoneArena.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHlzN09ORDNfeGRCREs0UHRRQzFmSmo3bzVvNjNLQmJFTGtOQTAwMkU0N2tTR0lrVE9pd3RmWG9oMjBHWmhVdXBrMVpIMExhX0hvcU1FMkR6bmpQeUwteG03UFk0VHpsZXRLcFd4QzBKMzhMdUN2dS1LRmsxQlA3U21JQXBkUjFWeE9zRnVlSzNUXzNOcmd2S1N5M1JYOF90dXpEcVptVzdrZmRXcmJKWE9JRdIBuAFBVV95cUxNSFhiVnlVRnNUQVVuVk5acjhlZV9tSllicEN6aUlLeHRVcnpSRXdRYldFUE01aFUwSjNtNTF2NHdGNzFEYlhpaHpwQXhCZ3JFUkkySzYzbFBfVURveUZ3NTZpd0lHRmdVV3ktOVdvTzh1UUloNVhhUnBvMTlTNnQ5RkdHbjlQb0dVNUdNenJ1WVdjcUVvazEtc3c1WjdhejBvNGZhY3hBWGhpOTdZS0NuZDFvbTNVUnFR?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1775804568,
+      "summary_kr": "삼성, 인도에서 맞춤형 AI 탑마운트 냉동고 냉장고 출시  FoneArena.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 인도에서 SmartThings 연결 기능으로 맞춤형 AI 냉장고 제품군 확장 - t2ONLINE",
+      "media": "t2ONLINE",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOXFibG1kR3VwTUZxVWtqMTlHX3UwczV1dkRTeXAwdUxxNDZURUNoOVpvZEtEa1dKbXZZOUNYZ2lUYV95XzJlckZiMHZycDdvRmNWWS0tMEZMV3M1endLdnJkeFhfdlYxcVZvTWxuRjQzSHpxQTFRbnY2UURJTTZkc25UelpZTFNoVElpemxrQmNXanpxUklHaTZ2NDJjTVJhV1U1NHlvc19nTkhTdVFrajYwUGVfal91NmtQcnFzclhnN3lGeDNLSE5SM25LZw?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1775803800,
+      "summary_kr": "삼성, 인도에서 SmartThings 연결 기능으로 맞춤형 AI 냉장고 제품군 확장  t2ONLINE",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
