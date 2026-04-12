@@ -1,0 +1,226 @@
+{
+  "date": "2026-04-12",
+  "date_display": "2026년 04월 12일",
+  "generated_at": "2026-04-12T15:20:37.618932+09:00",
+  "generated_at_display": "2026.04.12 15:20 KST",
+  "category_counts": {
+    "Market Dynamics": 9,
+    "Samsung Bespoke": 2,
+    "Samsung DA": 3
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 2건 감지",
+      "desc": "오늘 수집된 14건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: SUNVIVIPRO 22쿼트 전기 로스터 오븐, 아마존에서 57.99달러로 인하 - Technobezz. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: 삼성전자, 에어컨 라인 풀 가동, '윈드프리' 10주년 프로모션 론칭 - 디지털투데이. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 9건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "사용할 때마다 플러그를 뽑아야 하는 주방 가전 3가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFajVWWEVtM3laTjFvbFZxS253WTRLSlpwQm1VTDk3TllFMzZMZHUyVHRyTFRZVl9MamZ0VU9qbTNhbmxEcnpMOVRwQnRtMXEzdlA2eXpkZ0NqdGl6RzZhX1Y3ZE1ucEd0b2R3cXNoUnFSUEFBcDFz?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1775964561,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "한 푼도 아깝지 않은 주방 가전 브랜드 5가지와 피해야 할 4가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HaGUyMDZSdzYza2xrczZQSGI0UG80eTlLdS16Q2Q3S25mdjA2ZDRkempPNjZhVlp2Y2pKd3F5SnBWV1h4Zl9nalZDdHBnY0pRbTVRVzJESmpnM2NHWWNObURoa2Zzb2VmV05WT2FTMkNlM1Rob3c?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1775964245,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성전자, 에어컨 라인 풀 가동, '윈드프리' 10주년 프로모션 론칭 - 디지털투데이",
+      "media": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNW9leGhrZzhCdDZpdGdUSkM2MjlUWkRKN0lwbXhaVEJIYTRQR1JGdXBwSkZRRy1UT3dVVk5WRU5VUmljYlhaQXp0bXZuWFFoQmw5TVlrVS1PeWhEQ3ZlOEZWRWNKR0xuNEhjVU9CbXpTa3R5ZC0zTFJFNms0dVJ4akMzcF9DZVZLUWd0bGFuMXQ0bk1GSi11dEEyUU5oSzZqSUJ0Xzc5YTBGaEYtY0dBYndjS0tDSGZ6SGJBMlloZUExYVA0bjhhSGJVSEdPZnRtTFJaX2N0Vll5eDBxUXM3bFd3QkhHcl9T?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1775958704,
+      "summary_kr": "삼성전자, 에어컨 라인 풀 가동, WindFree 10주년 프로모션 출시  디지털투데이",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "SUNVIVIPRO 22쿼트 전기 로스터 오븐, 아마존에서 57.99달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY1B2aUJVN2p1MkVYM3pPcWYzRXpEVld5QXVoUHFuQ2Y2b3BWcUFvcHJicU5LQTVlX184QzN1VGxRTDRsTkxjRlNIdVpBaTJPZFl0dTRSLTlsVTNxSEo1SW1DQjM2WVZKeEUxM1lzUnd3VVF6ODdhNm80QldIWnBQSTlpenRjeVUyeFZxTUNxYVlGQ2hTZGZUOU5wUDZPQQ?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1775957133,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "자동 아이스크림 제조기 - 가정용, DIY 냉동 간식용 1L 소형 소프트 서브 디저트 메이커 - ruhrkanal.news",
+      "media": "ruhrkanal.news",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNU54cGNYaFF3UFZyWXVrRmNPU0U4VmJReGxaUkRYcjBLNWRDSHZiRURweGtVUF9IUjYyZ3FKckx1akw5dFEwMnhjaEN1aUtDTy14WVlHaHBRZHp2ZnZZUHY4c1pHRklkZjJxSXBGUEltWkpKdEtEWjRYaWV3bW55eUdYOGxkcGRSSlp0Vnp3?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1775954332,
+      "summary_kr": "자동 아이스크림 제조기 - 가정용 1L 소형 소프트 서브 디저트 메이커, DIY 냉동 간식  ruhrkanal.news",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 전기 피자 오븐은 바비큐 시즌에 맞춰 20% 할인됩니다 🍕 - USA Today",
+      "media": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFAxZlFXTjdsQ2stZEJhbFFxMXEwNUF3d0FRZW5MdmxqWW9zOVhiMFZmc3ZCRkwyeWJaSjEya3NUTnJYMjQ1X0lURlQzbkFKSTB5SW1BLThSQU4wWHVUaHJ1dkdiYkZZenl2ZG9TdFRQeDFfcVNralRQalgwT0NyaVZMZE9XLW02TjdnQUdiQlBNT3pQcVBnYnRiM2FWV1lxdXZuWmFEbWprQmJCUllLdUE5T2QxQQ?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1775932500,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Vikaluz 스탠드 믹서 2-IN-1 전기 주방 믹서가 $75.98로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVHZUSjVQaTlfWGxSenZPVjktQUZnWlprV1dTM2JKV216NHEzT2liZFE2bmh1eGZ1QmVDSW5OM05kdF9GRkgzUzk1NnhKYUY3X215MnhSNTczZEVvMW9EeFkzRHhLVnpvLVg4cGlud2JfaE5YclNjcV9idjV0RkNjbjhVXzFUV2plUXlGVGNHZ2l0NUl2TEtFLURJMA?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1775916255,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소비자 보고서에 따르면 7개의 오븐 브랜드 순위 - bgr.com",
+      "media": "bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQk81SG1sLUlaSGlIdmwxLUxPLXJXb2EtQ3hrbVdYM1AxSjA2eVBXUEVmeUZnY1FHT2hCZTIyUXpLVWo2MmZXM1NfT1FDZUtCQnNob0t6R2RUNUc1alVuVHpqMUxXZXJGNjhOVEN2T0doMnFMakYwdmdCNUhycXdNdFdJNA?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1775916120,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "가전제품을 영구적으로 손상시킬 수 있는 스펀지 청소 실수 - The Spruce",
+      "media": "The Spruce",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5adm1tVEI2ZzhqYW9kd3RBWkZLdGg0MllBc2l3VnhINnEtNjBFRk8xa3Q1bjdWb1BjZzlkQUtPblJ0QzNpS0ZURjZkRnlzZmdKS1FjTmRHM01oM1I3aXdYRzdkOEFHem1jQmtuTnJNbV81X2Fhb0JfOWVWMmtBZw?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1775913960,
+      "summary_kr": "가전제품을 영구적으로 손상시킬 수 있는 스펀지 청소 실수",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성은 중국 사업 규모를 축소할 계획인가? - 뉴스바이트",
+      "media": "NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVTJJVUYxSXhPTGtoaEFkREctekRUZ0RYeWMtelVveWt0M296b3M1Vzh2bW5DaVEyeU94dUNEOHZqNVlmS0xzb3QycTBiWWRIa2NfRnBBeW0tblZjcV91ZUVWWTdFc1llaGpfS1ZxUnNTM2hEYUJ3cUtqaEgyYUJrb3NvQ08tNGNORGRLSlhCVVp2cTlPWG5oNnc0YktGMGxNN1pvMHhINW8ydlk?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1775910105,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 인도에서 맞춤형 AI 탑마운트 냉동 냉장고 출시: 가격 및 가용성 - digit.in",
+      "media": "digit.in",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSXU0c3p6Y242V21ickpCYWJOUkREYmc1cnN5QkI5YTVlbWlCOGRTQkxWdGdXWTRFNVlMX2o5bmJ3cUMyYUZyWG1taUVMWUVUWkNYcGhGM05JYnNCbmtBSzB2Q3A2U2lKYWtHN3ZNSjdGNWVDLWFXb2NtUHZ0N3BoWmFEejRqaHBzXzNlOFFRZXQ4bGM0WFM5bHRfWWhPZzl6Ym1XcnhYVdIBrgFBVV95cUxORE5sVWl0U3pzSnhwZTJzdHZUT1VIWE85b1UzR3JtWVg3UnR4VTZRYWV6ZFo1Tmo0ZXZOT1hNTFVPVTM5ZFhxYjBPc0FhSG9JMl85Y1RvMDFRSl9rakstSlhIRWFaMm5uQWVxZjFqbUlGOEtXVFFXQlVxZGJtX1FobUFwUkFybHdTM0R1Z09laURhbWk2Q1ZaOTFHa0hlYTFfTHBNSWttcnRRRU1SWGc?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1775907540,
+      "summary_kr": "삼성, 인도에서 맞춤형 AI 탑마운트 냉동 냉장고 출시: 가격 및 가용성 digit.in",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성의 빅 차이나 엑시트? 기술 거인은 칩과 휴대폰만 보유할 수 있습니다 - Gizmochina",
+      "media": "Gizmochina",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGw3dkEzQ3c3TFlZbnFhZHNfUG1fU1JockhaLThJelpqWVN3ckNMZklNbWNfUE80SmtqZWtPZWtrNzJfbVpaX21vQWVrdVhITXRfZ21vM3FId0wzdXRnejlZTmZlQjVDcUNhaW9WaXE2SlBka21wWDJhc2k1WVNKbXVrWWJ6T25pLS1tNzdSVnNJbm01V3pJYQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1775903020,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소형 가전제품을 고칠 가치가 있나요? 전문 수리공 2명이 말하는 내용 - CNET",
+      "media": "CNET",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkRicDRiM1ZVXzE5TWxfQmlFVmtyM0ZqMGU0QXdtRWNuSEp3R1hkNlNYa3NKc2RpX0dQcmFna2d2TDJvVE94QTl3MDV5V0FhdVh1YmlBcXdoa1RKU3VlMmJKT1BkWHQ3R25GMEdZb2tWakQwSVJqN1ZCZl9xbWstZXo5YWhVQkV6Skx4cVptbkRCQ2tsV2pISnRiY01fclZxWUlfSHY1bEJIMFpDa3hBSWJQd0hyTDRpN29tWVBqWFhGbkVM?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1775901660,
+      "summary_kr": "소형 가전제품을 고칠 가치가 있나요? 전문 수리공 2명이 말하는 CNET",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성은 현지 경쟁사의 압력이 가중되면서 중국 개편에 무게를 두고 있다: 분석가",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-xl/news/other/samsung-weighs-china-retreat-as-focus-shifts-to-global-chip-race-analysts/ar-AA20Dj2d",
+      "time": "23h ago",
+      "pub_ts": 1775889000,
+      "summary_kr": "국내 경쟁업체들이 중국에서 입지를 굳히면서 삼성이 자원 배치 위치를 재평가하게 되면서 잠재적인 하락세에 대한 보고가 나왔습니다. 삼성전자",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
