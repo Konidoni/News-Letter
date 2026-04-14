@@ -1,0 +1,352 @@
+{
+  "date": "2026-04-14",
+  "date_display": "2026년 04월 14일",
+  "generated_at": "2026-04-14T15:27:23.645790+09:00",
+  "generated_at_display": "2026.04.14 15:27 KST",
+  "category_counts": {
+    "Market Dynamics": 20,
+    "Samsung Bespoke": 1,
+    "Technology Trend": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 4건 감지",
+      "desc": "오늘 수집된 23건 중 4건이 리스크 신호를 포함합니다. 주요 이슈: Nuwave Pro Plus 2 적외선 오븐이 Amazon에서 179.99달러로 인하 - Technobezz. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 10건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 10건이 감지됩니다. 주목 기사: Sharp Mikrowelle: 에너지 효율성 엣지가 스마트 홈 경쟁에 직면하다 - AD HOC NEWS. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 20건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Frigidaire 가전제품을 만드는 회사와 제조 장소 - 시식 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DV1RJbTg1bmFNY0dUX1lJbzlDckw1UVlqejdXOENJRzNRVk5YVG1aMEFfelVXY1dhOHN1MmU1SFhYOUs3eHJXd01CR3Jma3hxbnFfYVhmazZVTThVdGdnNWhoaEhKNW1ZUjVqbTlYTktMZ01odmN2Qg?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1776130526,
+      "summary_kr": "냉장고 가전제품을 만드는 회사와 제조 장소는 어디인가요? 시식 테이블",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Nuwave 휴대용 인덕션 쿡탑 다이아몬드가 99.99달러로 하락 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHp3WEZYeFlwUnNTdDZwQ016YTIyYVlCM0tzZXplUnNycC1Ub2MtSjJ0V3RJelZoRDZIUkR6QW84QUxwQ2NUQ2RDTDlaRXBfT2RNaWxUd2M2emZjdXJBdEF0MTA5SUw0MXVNenNtYlZ0TnlwbmpsbnZMOXY5dE9yblNHYzB1b2U1UXhubHRqQ0Q?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1776130313,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sharp Mikrowelle: 에너지 효율성 엣지가 스마트 홈 경쟁에 직면하다 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWpMbkV4TUhuM3NUOUxrRFB0aDFvMWZkOEJCWGdxaXdSR1IyQjdZeUJLcFI3LXJsRzJhTjVXbktIWmp0TFhqZTBMUFZSeXBqYk1pS3VRbVVEUzZpRjg1cUdhaEI2VEQ0ejRwQlh0SmlqTWJ1TnJfZ21XaHFlZ1J6UmtKVDZmcmdVNWhJeTA0Y2lKX0NhVDBNWEhfS3FlZTR6OEZ5d1J1MndreGotNk9QY1RnV2tKNTk3enUwc0IzbHR5ZkM1elE?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1776123810,
+      "summary_kr": "Sharp Mikrowelle: 에너지 효율성 엣지가 스마트 홈 경쟁에 직면하다  AD HOC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 세계 최초 UL 인증 AI 기반 무선 스틱 진공청소기 Bespoke Jet™ AI 글로벌 출시 발표 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sTWt5N0tSSUFLOGhwRy1mZ0VjQVFEZmtsTDgxNHNIb004ZlMwWkU2Tjk1ODRNN0JNLVpTYzhhRWRtUnF3dFY3cHdWeEpyWUJHRmo2VG94Mm9QcU9RSGh1VkdEc1JIQjdsU0F6clZ2TjZjdVE?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1776112717,
+      "summary_kr": "삼성, 세계 최초의 UL 인증 AI 기반 무선 스틱 청소기인 Bespoke Jet™ AI의 글로벌 출시 발표 samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "RR Kabel, 주방 가전제품 및 공기 냉각기로 FMEG 포트폴리오 확장 - Indian Television",
+      "media": "Indian Television",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVExla3VhY1NlRXJsVFYxQ0JvR0E5eXd4RzVaUGVNcXZUVE53Q0stNVF0Uy1IclVZZ2o4TTMyZWswWTdaWHB1dDBJSGdKaGNHY21EUFlweWpxRF8yeDRDYUVZMjNWY1ZuaURlQmdKRWFMalI5UUZTZ0dqYjUtTFdLM0UwMVpiTVZTREd2T2Y2Y3dhLVh2TDNQZ2dLWi00blQxcU5jZ1FoN0o?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1776109166,
+      "summary_kr": "RR Kabel, 주방 가전제품 및 공기 냉각기로 FMEG 포트폴리오 확장  Indian Television",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG전자, 유로쿠치나 2026에서 새로운 빌트인 키친 스위트 공개 - WebWire",
+      "media": "WebWire",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyWFFFczYwdHJOSVkyYW0zNkRlS1AwaFRuUzhQbUx4VmNOeWpodjYyRTI3bkxOaHZ3bmkwYUtUbTVyN1NUY214ZnZFbWhaZkM5MHJCYmtWUGNFRjdGQlFnSQ?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1776100283,
+      "summary_kr": "LG전자, EuroCucina 2026에서 새로운 빌트인 키친 스위트 공개 WebWire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "많은 중고품 가게가 소형 주방 ​​가전 제품을 받아들이지 않는 이유",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/money/other/why-many-thrift-stores-wont-accept-small-kitchen-appliances/ar-AA20PnGr",
+      "time": "13h ago",
+      "pub_ts": 1776099600,
+      "summary_kr": "중고품 매장에서는 모든 기능을 갖춘 품목에 대해 인상적인 할인 혜택을 제공하지만 가전제품은 그 자체로 하나의 카테고리이므로 법적 보호를 통해 회색이 발생합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "프로 조직자들은 미니멀리스트의 주방 카운터에서 이 6가지를 결코 볼 수 없을 것이라고 말합니다 - The Spruce",
+      "media": "The Spruce",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjBMYlVCdzhabzVHRnp4ZUlXalZqMzJfNWNGVFotME4wRC10YzRZRHY2MEZBdDZVSkhXb3F4Ui1ENTdpVHNmSy16ZFQtbWRRYWtvX0h4aGRqbHV4cGtiRlV6Y2JKS0JpeEZiQnI5cGk1N3hMWEl4SHViXzE5ZTVBQmFEQQ?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1776099240,
+      "summary_kr": "프로 조직자들은 미니멀리스트의 주방 카운터에서 이 6가지를 결코 볼 수 없을 것이라고 말합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Tefal Jamie Oliver Pfanne: 프리미엄 내구성으로 주방 가전제품 가격 상승에 직면 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNzd0blc3VVhtNzY3T1FhQkhVSlVwRVN2U3FHLXkydFdtMHBFQ0Zray11YTJWMWRaVkJDeGwySmxVQVBJSnFMRXN2NFpaY29EM0Mtc0lGeVo0bG13Rjc3X3R6TTJWY3dabGlKcG1MNVlOR1liWTl4U0lKQ1dCSE00a1VBeWVscTh6YlNUNUF6VDEyS25tOG9aSWh4VVNLWXRqTlVOYkZEWk5ZanA1TWQtdUdTTFc3ZVJ4eFpV?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1776096614,
+      "summary_kr": "Tefal Jamie Oliver Pfanne: 프리미엄 내구성으로 인해 주방 가전제품 가격 상승 직면  AD HOC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "고장난 소형 가전제품을 수리하거나 교체하시겠습니까? 전문가들이 말하는 내용은 다음과 같습니다 - CNET",
+      "media": "CNET",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVZXb1pCd2JjXzRXd1h4ZjhuZVRGMmRwZkNaV3RxSkk3T29TNGFUb1JCWVVUeGhkaEpSY0djX2dQeTRXd2JjZUhCRm0zb08wRXY2alVZU3NjV1FscG9fRXhBOXZUQ3ljNHBnWnUyZ1VmbkM3cDJucnhnY1dOTENWZW1TMjRDN2hiTUpHSm13a1M4RVZ0T3kyeXVueXphYkVrYkFZbXd3cS1yTlcxMWt3NklpSTlLbEQwUUpvVmpwaUY?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1776092460,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Cuisinart Griddler, 103.96달러라는 새로운 최저가 달성 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQlVSNXNrUFppTV8zaUlfZDk0QjVmbTBiUzIxeUtTbGNMRTYzN3ZEYWN3ZkNJNWFEM3BXSVI5dmtiR015dG1EZW5yZlQ2aWNxTmtfajBtUjZMQU8tY0FIUDZLR2ctajRkYzRZc0pzYW5nYXFDVmR0RXZRQzU1U292WVJLc2s?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1776090929,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Nuwave Pro Plus 2 적외선 오븐이 Amazon에서 179.99달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFdvTkE3cnB5NC1aemlWQk45SG55X3hPQ01tS1h4anctTG85ZFVLVkxNbFgxWW5hWXV2RkNoLTNsc3ZhMmI5NjBxTmNXS3dQN2pSOVp1LS1oREhUeklUN0QyVURXQVBycHoxeHkwTUxJNWF2M1hRN252a0JQSExybDdCTWtkdzJUWDM0N19fb3IxQ0E?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1776090628,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "GreenPan Elite 14-in-1 전기 슬로우 쿠커가 240달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3o3aW9JT2hJZWwzdFo0QWtFZjhxZnQzaE1aRllYYjRYUDJRMjYxN2tVdV81RUg2dFctWTI2X1dhSzZiRnBfcGdtWS1ZRE1UOTcwZktnQ2ZmS3ktU2drcHhfTlRjMXFGaVdmQU1GS3N4cEtyNzBROXhSREQ5SzB6MnVuSGpKN0FLLThSU0RmTk1jdw?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1776090628,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "DUMOS 전기 압력 밥솥 16-in-1이 Amazon에서 59.99달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHYyRUdHQk5xV0JLQ2VJcTRBYjJEaXRoZTBXUWVkeklVbmxmTTRHbWtVVm9uNi03UWw0QkRrVTB0ZW1zcFZ5djFwblpsTzdkdDJockdILTZQeTVKY3JNLW9xUkV3QkpPRTdWeERQV2hmNEpYQ1I4aTFOMnJCZDJEbXhaMkxCM1F0VTNKejdLOUVUdXVyTDdvY053?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1776089424,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sunvivi Electric Roaster가 $122.78에서 $79.99로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXzhkaktDd21CSVQ5cF9jT3RwTzIwOEQ1ZmJFN1dnY2pidW5PQV9GVFlSMmpTOWpMNGdTUGdpNTVGOUxLRVJWc0dsekVmR0o5Zktjd0gybHpscmZlaE44QV91Skl2MENTcFRsRGZhXzY4cTF2UHlyOHAwWUJWT0tMZHJaeGdMZjlH?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1776089123,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sharp Mikrowelle: 에너지 효율성 추진으로 Sharp Corp 주식 매력을 높일 수 있음 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSndOQThKZ1J4OE5SQWtSUnVJWlF5dDJhNUtuWm1SaV9jV0x4Wk5FcHRNU2JvXzRILVRoX0ZTODRCT1VoRmRsdFA4ampfc1dvbUtTOFhlc0NaQzVqN211ZngwTzVnQUFvcElqYUdNajhncnZtYnRYNHZtcjRmc1dpaGE3SnhPanBiMExSam84QTZwaXJrVFlLTk9sbmxGOTFaUmRTYkZ3SkFPV2ZKYUtiNHRzLVlzbnYwVzJKYVhnOA?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1776087423,
+      "summary_kr": "Sharp Mikrowelle: 에너지 효율성 추진으로 Sharp Corp 주식 매력을 높일 수 있음  AD HOC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "LG전자 주식(KR7066570003): 미국 투자자들에게 가전 우위가 충분히 강한가 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUGpWb05uZ2Q1eHRWRGhnY2NSaHU4QWN6UVVEVV91dmNhd1VUSHBFV1FZZDNuZDhwM19pVWhjWllacXgxc2FjTTZhWGZfRkx2dWx1d0o2a2JSeHNGMmNuSUZBNFhBbUNCX05kajhtdEtkeUprMUtQNldNTVJkQzZHTzBULVpGZlY1dXJGZnFRc2JRamRWYVNHSENGQ0lScXF2RnhtcXptV05iUTRiTWlCZ2RucC10emV6dlRZT0NGRldhYTQ?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1776083869,
+      "summary_kr": "LG전자 주식(KR7066570003): 미국 투자자들에게 가전 우위가 충분히 강한가 AD HOC NEWS",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2031년까지 급속한 혁신과 채택이 예상되는 스마트 주방 기기 시장 - industrytoday.co.uk",
+      "media": "industrytoday.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR1l2bjlPY2JRb2Q1cWlqUUwzenRPbkExODJTRGhpemVzSFpOOGM5eHZFSmJmX2xIZ2FUWHgzMk9vX2wzMnpEVzZhVHpWcUxNYVdhVnVrS1JmN2dJdWM2WG9NYlVnblNEOGU2dHJ3MTZ5eUl0cnpuX1BsQkZMYld1aS1Yd1BlYmsyUnRIVTctdDNtNjU5NmtVaGFQaHh3Um5vSFAxeXpaVGJPMkw2OU9yMmd6cktfV2lESnktZUNNU0c?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1776081090,
+      "summary_kr": "2031년까지 급속한 혁신과 채택이 예상되는 스마트 주방 기기 시장 industrytoday.co.uk",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "R R Kabel, 새로운 주방 가전제품과 향상된 공기 냉각기 제품군으로 FMEG 포트폴리오 확장 - Business Standard",
+      "media": "Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOX2ZOSWJTLVZ6Q1JQa1ZCdmNqV0ZZY1I2b2RubExXblg2ckNSS3VmYVNhdldMSkhRVDVYM1ZZMUctR3JyN0YtdjF0SU0tX2ozSDh6NVZNeUNzN0dNbFU3R2ZmTS1sYlhUSFBNeEFDaFVQUHJXaXMzM0RtVmdGTzRRVGRZUXBWVEtTbXE0RDNJRkV5VlhSWjE4dzcyaUdjVnlRYVREWUNieWFYR3hKcXZDTWRkWGEzMWVTLXMxNnRJaG0wVlF0cEc2Rk5DRmNvRGxjQ3VRSkpRNlBfTjVqaGdUcFpSSWtpd2NncWR6Rzhnb3VtVTFzZXNGejhSak02SnlxZ1HSAYcCQVVfeXFMTkFjZWxKMFR3WDA3VlBhTjh0OTRzamNYNXdEb29hc1pFTVJyRmRUOEVBYzZuY0NDUTlENWUxNDhKMkd0TUpSbVNLalV2Z1hzaVlQVkNFa2hfQkp0cTE3dTctRWtUUERiSW1jTElKOFJJUnpWbU1iSEhNcmtOSmE4aEZHYS1fajlBYnczQjdnaEtfUXk1R3AtOF94c1VZUUc5VkMyWEV0ZlZ1MEVkWHFNTV9ReGNjNVNWT2lMUVV5eFpXQVFTM1ZhazQxc0ZiM2NtV09Ja2tTWjBkWkF1OGFiYzFFZTk1Qi02c0JOR0JKbVF6Y0dyRmR6VjR6MkVORVhKQ3NDZFI5c2c?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1776069242,
+      "summary_kr": "R R Kabel은 새로운 주방 가전제품과 향상된 공기 냉각기 제품군으로 FMEG 포트폴리오를 확장합니다.  Business Standard",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "귀하의 소형 가전제품을 고칠 가치가 있나요? 전문 수리공 2명이 이렇게 말합니다.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/technology/is-your-small-appliance-worth-fixing-heres-what-2-professional-repairmen-say/ar-AA20Fv9l",
+      "time": "22h ago",
+      "pub_ts": 1776067260,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "스마트 냉장고가 필요 없는 이유",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/technology/general/why-there-s-simply-no-need-for-a-smart-refrigerator/ar-AA20MZsg",
+      "time": "22h ago",
+      "pub_ts": 1776065400,
+      "summary_kr": "스마트 냉장고는 종이 위에서는 매우 유용해 보일 수 있는 매우 독특한 기능을 가지고 있습니다. 하지만 실제로 이러한 기능이 자신에게 얼마나 필요합니까?",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "R R Kabel, 주방 가전 부문 진출 - Business Standard",
+      "media": "Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnA2NWhWVTNxUzBkLVVUM2l3OFp4cHZlbjdqdElUVXlGZGlYYnVOeDJYay1uM3JUV21hZUZQaHo4ckFoemFvUm1nc2xLcFdHNWE1bUdxYXhERThOYjJicDdFVTZVWUEweEkxMTRETDZOZjNNNEJBNlRDNnlmcUxLejFDMmRsQ0x3LXhiRUJfRHZnbUotM1lmcjVoaHdtbnIzU09KMEprZVJ3UVpGWC1yQmtwQ3U3VFNmYjUtVWpjUHFIcnBRRnp5Xy130gHPAUFVX3lxTE4xQzhYbzJLYjUxTFBGYk05c2JicXNwUUJEam9peFhGVFNjLUhOXzFhQVVMT25qdzJCNFZ5NWpBMzVEb1ZySldvN1lQTUdISDc3RVBnOU9Oc0p2TW4yTEhtR2N6dm9FRjRKZ3VJaHFmTC1rMGlYclJJeHUxWTBnWUxLVml3U3BrVjRrM3BXZEJhb3RHRDdFVUJWOGludnJxYnJsbWZVaUY0Z1lEVXBxRnpWR1g4djF1clhjSnIxajM5c0VfV3JTQXBUNDk3dG43RQ?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1776063662,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "IoT 도입과 스마트 홈 통합에 힘입어 강력한 성장세를 보일 글로벌 스마트 주방 기기 시장 - openPR.com",
+      "media": "openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRk1jaHhiQllYaWZXS0ltVlkzSm9YMUR2TGsxcWlUZVNOaFB1REJSZ1pnMXoyeTRQcHFMbm9nUVI5dHpGUjFFVFVtMmpqZkplZU9CTWVDemJjcm1ScTdsYlAtU0UycktZUzRFd1ZJcjRGZzlLWjlkSk13SkpoaHB0a0dXU1AzVkNrNmJjcmEzYUI1N1FJRnY1VzAtNA?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1776061898,
+      "summary_kr": "IoT 도입과 스마트 홈 통합으로 강력한 성장세를 보일 글로벌 스마트 주방 기기 시장 openPR.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
