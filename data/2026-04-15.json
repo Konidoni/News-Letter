@@ -1,0 +1,300 @@
+{
+  "date": "2026-04-15",
+  "date_display": "2026년 04월 15일",
+  "generated_at": "2026-04-15T15:28:54.252895+09:00",
+  "generated_at_display": "2026.04.15 15:28 KST",
+  "category_counts": {
+    "Market Dynamics": 13,
+    "Samsung DA": 1,
+    "Technology Trend": 2,
+    "Competitor Analysis": 2,
+    "Samsung Bespoke": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 3건 감지",
+      "desc": "오늘 수집된 19건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: HEYNEMO 26쿼트 전기 로스터 오븐 $94.96으로 인하 - Technobezz. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 10건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 10건이 감지됩니다. 주목 기사: Bajaj Electricals Ltd 주식(INE499A01024): 소비자 가전 모델이 U에게 더 중요한 이유 - AD HOC NEWS. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: LG전자 AI 기술이 일상 가전제품을 스마트 생태계로 변화시키는 방법 - Big News Network.com. 시장 전반 기사 13건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Bajaj Electricals Ltd 주식(INE499A01024): 소비자 가전 모델이 U에게 더 중요한 이유 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNF9LUlhqZVotcEQ3Y0Q5U29DREgwMHJJV29PRjVDeUFnTXllMXlVazRIWGJ4WWYwSzE5RXNveVpDSHUyYjIwNlZTTVdtZnRwem0wOTdtX244cFJsaVE4Z2tCYnVuWm50NklUdGloVlNDVTBVTkpJempCbUNxdFZxWHZYaDU0VkNNUnR2Umh1YVVkUm03ZGVLVVQzWWZaMUp4eWNIWWl3N3dYNGltSWgxdnBfMW1sRzU2QW1kLXZB?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1776228759,
+      "summary_kr": "Bajaj Electricals Ltd 주식(INE499A01024): 소비자 가전 모델이 U  AD HOC NEWS에 더 중요한 이유",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "HEYNEMO 26쿼트 전기 로스터 오븐 $94.96으로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVh1MDY3bVR5M0dPZnFfREh3T3JDUk1RVFZFTXVpdXF5RlNQUFNleG11dktucTVUTW9OQy1VZnZtSnZWc1N0SXpiV2RjNDVBVEJOVGdpaEx2TzBXSEtKVW8tVi13SVVEbGhSMElQYXBqdVBtYThtamg1SzRBWDZSMDllNjlnXzVWSk1Ydg?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1776216926,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "윌리엄스 소노마(Williams Sonoma), 브레빌 혼합 금속 컬렉션 홍보 파트너십 발표 - 홈퍼니싱비즈니스",
+      "media": "Home Furnishings Business",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTVZxakhES3NhUHZhSXQxZmpJLWhfNHRiYnp0OUNuZ2QxSWRzd0ljU1F3eGliN0haVlFFZkVidEFQRFZIV3BfQ2FFM0ZTam1CTzdlMHRSbVl2YjhEQkE0eE1NSDJLcWU0VWJ3Q0dxbktPbzhNRkpKOEQyMWp1OFNrNFdtclRwdmtGam1nVGxUX2licS1RUVMyeVNfYkY2bkNXOGlPZ1V3RnN0VnRjN3pLYnRzVXEyOFFQeEx5ZnFBOVI4VVU?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1776216304,
+      "summary_kr": "윌리엄스 소노마, 브레빌 혼합 금속 컬렉션을 홍보하는 파트너십 발표 홈 가구 사업",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 국내 경쟁사 압박에 중국 전면개편 검토 : 애널리스트 - 코리아타임스",
+      "media": "The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMXd0Qmo3bVlia3VJRFVPbWhHTVQ3bnVJR0x5X2d2YUkwRERTQ1BLT183MTZyQmg1NWpSb2FfXzhLU0NhNW92am5zenFTR1ppR3M1LXpCaEoxSkFwYmxrbDdxREU2SUpVajR6MnFCNWtSRzE2akRwdXpaUmNUZDE3Z1BQeEFPSTg4aGJkYVVUQWpPcmE3enptNFNPVjNNV1RjZlJ2VWF5cnNQbUhJbEhFei1oaGhhSmMyY3ZKQWloeDlZRHl3U3RjZE1RWjnSAdIBQVVfeXFMTjFsSlBZX1hJNVN0ODZETHpVWTdtVnlPZjY5R1ZPbVJneUQySDdlVHJQYTE1T0gzSnBLM05SN3IxUkJGRkFwSUFueHRrUnItTnY3YndUc19Jd3JmY3Q1RGxzbXV1S083amNzTW9iNTY5N3JvQTU2VVg4dVdMeWJEamppc1BXTnZNX291VUFDa0V5N2Joa3ZJQTBRMWVxMEU4b1Y1LW9ZejZlYjRaU0hWMXZJMUlLTWlDeU94blNIMTFkUDRKa0lJTy0tZ2c3SWtZM0ZR?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1776204000,
+      "summary_kr": "삼성은 현지 경쟁사의 압력이 가중됨에 따라 중국 개편에 무게를 두고 있습니다: 분석가",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Whirlpool Corp. 주식(US9633201069): 현재 미국에서 가전제품 탄력성이 더 중요한 이유 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdzZDWjZkMTBjOG5EcHpsdkpyOHRiZExIVldfTTNiOXMweFVNMENiM0hGVGx2NmdFbDZVTDlOaml1LW50ZEJfRk5IZm5lOXVzSTFhLU0tRy1EcDZsa3p0eEs3VkZRV09VMFRPdnpCUG5OQ1JOOWVPMDY3Z2ZlZ2pma013QXM5YmFKRVRtNHRIRnAyQ2ljV2NnakxLRW5QNnJabURGTDBqM2VBU2lMUUZxZmd2bFlwODQ1RXBNUg?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1776202374,
+      "summary_kr": "Whirlpool Corp. 주식(US9633201069): 이제 미국에서 가전제품 탄력성이 더 중요한 이유 AD HOC NEWS",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Property Brothers가 집에서 제거해야 할 주방 가전 제품을 선정했습니다. - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNamY1dDU0aVBzYi15OF9YZi1yU3Vmb2JuTE5XMjMyU3lnS1BMOTIzNGpqY1RoN1FiTGhCeUczclg3cm9Rd0pQSFQ4OWVva1RMWU5yV01xRGlEeUJ2WjdnWkNfVDdJMzU0YkJkNEtwV0lZaDZSUl8yOVNNZHBSbU9HZGxCNXIxbHdWTnVncw?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1776195064,
+      "summary_kr": "Property Brothers가 집에서 제거해야 할 주방 가전 제품을 선정했습니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "윌리엄스 소노마(Williams Sonoma), 디자이너 켈리 웨어스틀러(Kelly Wearstler)와 함께 브레빌 라인 출시 - 뉴스와이어",
+      "media": "HomePage News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZkRhNk5KOHJXZWlvcjMxR0hpM3BnNVpaQWhOVjFrNk1UNkd5TGM0S2xwUVp6QUwweVFRX04weXFQem9rMHZ3aXNqX2dZc0JuWnRaYXlWdkZZbURYV3dfeGgtTTlpUzg2cWJSemg5S2lFSVkzNnREdVJ1Sjk5d2FxQzgyZWJyV0tiYVJiQVB2dG9MQ21VLVczWGtGd1o0ak9ZeFdXQUJGTk41dzd0bExkYzNB?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1776189932,
+      "summary_kr": "윌리엄스 소노마, 디자이너 켈리 웨어스틀러와 함께 브레빌 라인 출시 홈페이지 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자 AI 기술이 일상 가전제품을 스마트 생태계로 변화시키는 방법 - Big News Network.com",
+      "media": "Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlR4N0E0MkZIRHRSSmdjYzFhQThRYTljM2pQSTVnaER0c2U4blZjci0yWklBdG9wTkVBU3RoT1FYTHVlOGcyblAyVnVUYXBEdm02N2o3TkhMSHRQLTVzS3d3cExIS3BrdldOOGdDTmtZb05DUzA2NkxFNEU5VWdYeFJ1OGVyb2hfc2I1c1dIR3F5dWhOcnh0SDByYVQ3Y25FTUEzaTJ6LXVrZVNmcjUxV3MtbDlWaGlERmdWUUZWM3h0U2RqbVRIdFlkOXNGQzNpWHc?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1776184320,
+      "summary_kr": "LG전자 AI 기술이 일상 가전제품을 스마트 생태계로 변화시키는 방법  Big News Network.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "모든 70년대 주방에 있었던 것 - 수납장 밑에 꼭 맞는 공간 절약형 도구",
+      "media": "Bing News",
+      "url": "https://www.aol.com/articles/every-70s-kitchen-space-saving-143000326.html",
+      "time": "15h ago",
+      "pub_ts": 1776177000,
+      "summary_kr": "주방 공간을 절약하고 빈티지 미학을 좋아한다면 투자할 가치가 있는 영리한 70년대 장치가 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Breville Group Ltd 주식(AU000000BRG2): 프리미엄 주방 가전 혁신이 충분히 강력합니까? - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaV9XOVZDWkhia09YeTVqUVdnTl9KTTEyd1Nqam92eXdTVVVpdmZzVWFGdWQ2UEFERWpsRGtqa1ZLRWkyZnJQZ1hlTmxSR3JIVzlER0QtSlhKV0J5cHA3Z1ZNWW1aWFF3RVVfWEdiTDdXNnlRNVpxaVM3cEhBdUNlNWJEV1l5SG1naVdlc0xxODdHc1ItUmF4SkZaQklzd3dXWW81UFkwaGZkUlFfN2xPc0cyTU93Ykl3VHdRaA?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1776176584,
+      "summary_kr": "Breville Group Ltd 주식(AU000000BRG2): 프리미엄 주방 가전 혁신이 AD HOC NEWS를 취소할 만큼 강력합니까?",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "SUNVIVIPRO 12-in-1 Multicooker가 Amazon에서 80.99달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnRFTEVLeUFielBUR3NJZ2h1UTF3bUdiWFphQVcyMmZFUkJKa1lwREFidThCSDJQZF9LQUx3MzhUcFI0WkNmajFlcnNaSkRDampLUmhVYmVRX3VLRlZXNGZSWFNzVUVNOURYcmxSRUNNOHlmZFBzT3BkRXQ3NlpxeFlGandHeTVIeXgyUjhfMA?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1776175100,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Vestel Beyaz E?ya Sanayi 주식(TRAVESBE91C3): 가전제품 엣지가 글로벌에 더 중요한 이유 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ2FROGtPZjBaMUZPRkU1eWhQOEJmTVRGY2RKNVBvMmotRlM4RFRTbkxSVlhtcWxlakZSa2VTVENoV3p1N3Z3dDVDdEVUNjFleHZLUThpYlZ0VTFROUQ2TFpCSTNnQkV2U25WTzFXYmVnRGJUMGp2dU1pWkVFNlBpLWVhRkoxeWRGU0JOUVBXU0pWYm8xbk9VUWE3UG9iSnBHbVdzQ0xxWEY3SGJxaGtqRUJhMkduMmpLZl9vUW84dVVvblZOQTB0UXpB?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1776171674,
+      "summary_kr": "Vestel Beyaz E?ya Sanayi 주식(TRAVESBE91C3): 왜 자사의 가전제품 엣지가 글로벌에 더 중요한가 AD HOC NEWS",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Kelly Wearstler는 Williams Sonoma를 위해 Breville의 혼합 금속 가전제품을 스타일링했습니다. - Stock Titan",
+      "media": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcl9rTFktU0hEWHlaaExreWVvMEFqWFNDclE5dTZkdVVyMlBFdFNVXzBHT2dLNW1hb2lhbl93RVRnQnA5ZGxqV2dQTDVUVWVBcTZRTVRvZ2pYQWpuR2xxZTBLZkRkVlVJT2Zmamc0YXhHd0xWVzEwNFF6R2hTNE5fUkVJTWl3Q1NHTmV3S01mcHdwOHVSajMtejNmMWkxTFNOdjBVOEZ1NDRzWDBHdF9oTkRHQnNFcTJuM3NPQTZ3?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1776171600,
+      "summary_kr": "Kelly Wearstler가 Breville의 Williams Sonoma Stock Titan을 위해 혼합 금속 가전제품을 스타일링했습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "RR Kabel, 주방 가전제품 및 공기 냉각기 제품군으로 FMEG 포트폴리오 확장 - bestmediainfo.com",
+      "media": "bestmediainfo.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUkZVbzNJUUd3NW51NGNLMlNXWTNOczZkZ1lyLUlGaEdldGdVTGE4R3JpblNrMGZlMkpvakJmMFVibm44U0ZTTzBzT0lBOTcxVnMzLXFTSE5GVHlhNHAwS21OT3VrMTQzS2VIZHp0NnFZcGlXZkVaSnpfLTF4VnJsVDNiU05PT19LY091Q040a040Y0hwTkRXWWtzdjItVVVRV2thdEZBdjdNanpJNWhTZDRGVElKc29qeHJORFB6UEgzRm53MDQyUXVsOXQxM0lEb1FYUUJRd1bSAdgBQVVfeXFMT1JGVW8zSVFHdzVudTRjSzJTV1kzTnM2ZGdZci1JRmhHZXRnVUxhOEdyaW5TazBmZTJKb2pCZjBVYm5uOFNGU08wc09JQTk3MVZzMy1xU0hORlR5YTRwMEttTk91azE0M0tlSGR6dDZxWXBpV2ZFWkp6Xy0xeFZybFQzYlNOT09fS2NPdUNONGtONGNIcE5EV1lrc3YyLVVVUVdrYXRGQXY3TWp6STVoU2Q0RlRJSnNvanhyTkRQelBIM0ZudzA0MlF1bDl0MTNJRG9RWFFCUXdW?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1776168637,
+      "summary_kr": "RR Kabel, 주방 가전제품 및 공기 냉각기 제품군으로 FMEG 포트폴리오 확장 bestmediainfo.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 빅 비스포크 AI 페스티벌 발표, 최대 Rs 20,000 캐시백 제공 - The Times of India",
+      "media": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOE9FaUwyWkhSaDFoWnNzcEY4WURLQzU4QjhZSGFHZ0U4ek81eG9xSkU0LVp5cHRyR29naVZueE9ETWJXUHQ3TUFpS0VvVDhPcVNnMkQ2SXN3Njdsb1ppSUFfemtSQlA1UzBlNy1OMTd5THNqdDA5d1E4c182Rl9YMjFXMUlLQVlyN0otWnpXTGZxWDY3V0w2SHJwbU1KUjY0U1dva3pocEppQ213aUp4cTV6RUZDaVFvRHZ2UldKeWNoR2pTWnpLdzFFbjBoUnVPMHNsQ3RUZGxMcWVaTmhOSS1xbWlfdFHSAewBQVVfeXFMTU1sVU9yaTNxdW5ISjBwY09BUUdGaXRzaWtaRFEycjVHazRwSWZydGVEOUdJa1o5NHcxbmE4aUc0ZFgyTWp1THlWdTJoeFZDSHFqMFUtQWlQbUtXdE1NcHJRSTRsTFhHa25YSXIzUi1GTmtScWFzbWxlbXIxM1JSRngwVlZSbXJVVmpmTXA2VmwyaWIzYUJaWUtXLU4zWjJWT1NwdmhXc1FBaUhBa2FwX0N2RGdHTG45RWVwQzBBTUNfN282TmZVWjBBNXlWcUtscXZZV3BQRERLQ3hMT3JiU2d6X1dkalZDMUpQeEQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1776166020,
+      "summary_kr": "삼성, Big Bespoke AI 페스티벌 발표, 최대 Rs 20,000 캐시백 제공  The Times of India",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "RR Kabel, 주방 가전제품 및 향상된 공기 냉각기 범위 진입으로 FMEG 포트폴리오 확장 - Machine Maker",
+      "media": "Machine Maker",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTG1EbzU3TW44bWx6T19YckxPVkZyNmdtalg1MWoyTnZYaUc5dERCelF6ZDFVczhidEs4OC10cVRQYjZSdnZtYnhnNWtnUnZjMDJWR29fNWhac0VRY01keklpWFI3MURVNnJsZ0xUd29mVWlFTXQ5VHprZm5nR19ORk9zbjJveUY5WWVVMkpkZExUekZtSFIzWXF0MDJwS2JJbTFnWWFTMFVrSTFzQ1p0ZEhINDdYYURQbVVDaUh1eW9teEJFaXloYVlB?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1776164667,
+      "summary_kr": "RR Kabel, 주방 가전제품 및 향상된 공기 냉각기 제품군에 진입하여 FMEG 포트폴리오 확장",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "올웨이즈팬(Always Pan)에 밥솥을 추가하면 이보다 더 귀여울 수 없다 - CNET",
+      "media": "CNET",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXNUaVNZMUlkNDNtanp1RWVuQWk4VmF1NnotZ05kQ3Rnc3lnVEZ0TUQzdlc4aFNJLURVSHNUZFVVYzFnNEdTX29tVk9hMUFGSVQ2bnRoTXBJYlpBYkZabGpWOE10M3NWcUg5bjY0Q2U4cGc2QXB2MjNjQUdUSnBLcXJCRnNhWlhweXZyU0ptRlM3c1FoSmc?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1776164400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, LG INNOFEST 2026 APAC에서 아시아 지역 혁신과 성장 전략 선보여 - ITWorld Korea",
+      "media": "Thailand Business News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd0tRaUZocHZYSmplZWJldEFoZEdQX1pJbDUwbGhlU1l0b21GS2NYN2w0NlFOVFlQNjFyUVhseExHLXNuZHRoSUVveVJZQi1HcFh3NU00eWd1b3JDR3hGOG12akVIVmJCUFMyTlp1d0RfNmRoemdUck5vSjk4N0lyVC04RUV2TUhma1hqMVFCbnlVRVNBcmZPNVlNQlIyNktibUNja2FiWkZRTm5LQThIdWRSOHJtMHJrVjBQeVpPeWlYOFQyN3dFMVd3X1BzY0pKYmc?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1776153747,
+      "summary_kr": "LG전자, LG INNOFEST 2026 APAC 태국에서 아시아 지역 혁신과 성장 전략 선보여 - 뉴스와이어",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "1,000달러 미만 냉장고를 포함한 최고의 냉장고를 찾았습니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeTBFVXhZWEk1a0IzSWdkRi1ONl8wOF9WZnBJbFJmZi16eDVCN3ZIaVB5ME50U1c4VHFpSG1PVVBaMlBiVVpYdDNwZ1pSME42MHkyLV9HblJaUHRWcXNRSnVMOXhiUnZ3NFgxanYzNVh1ODNxN1RfcWVxUHhOUjR1UDJoYw?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1776151483,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
