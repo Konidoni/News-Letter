@@ -1,39 +1,67 @@
 {
   "date": "2026-04-15",
   "date_display": "2026년 04월 15일",
-  "generated_at": "2026-04-15T15:28:54.252895+09:00",
-  "generated_at_display": "2026.04.15 15:28 KST",
+  "generated_at": "2026-04-15T16:02:01.036961+09:00",
+  "generated_at_display": "2026.04.15 16:02 KST",
   "category_counts": {
-    "Market Dynamics": 13,
+    "Market Dynamics": 14,
     "Samsung DA": 1,
     "Technology Trend": 2,
-    "Competitor Analysis": 2,
-    "Samsung Bespoke": 1
+    "Samsung Bespoke": 1,
+    "Competitor Analysis": 1
   },
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 3건 감지",
-      "desc": "오늘 수집된 19건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: HEYNEMO 26쿼트 전기 로스터 오븐 $94.96으로 인하 - Technobezz. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 19건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: HEYNEMO 26쿼트 전기 로스터 오븐 $94.96으로 인하 - Technobezz. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 10건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 10건이 감지됩니다. 주목 기사: Bajaj Electricals Ltd 주식(INE499A01024): 소비자 가전 모델이 U에게 더 중요한 이유 - AD HOC NEWS. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "title": "시장 기회 11건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 11건이 감지됩니다. 주목 기사: Bertazzoni, 후드와 손잡이가 통합된 새로운 Professional 시리즈 인덕션 호브 공개 - KBBFocus. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
-      "title": "경쟁사 기사 2건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: LG전자 AI 기술이 일상 가전제품을 스마트 생태계로 변화시키는 방법 - Big News Network.com. 시장 전반 기사 13건, 기술 트렌드 2건 함께 검토 권장."
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG전자, LG INNOFEST 2026 APAC에서 아시아 지역 혁신과 성장 전략 선보여 - ITWorld Korea. 시장 전반 기사 14건, 기술 트렌드 2건 함께 검토 권장."
     }
   ],
   "articles": [
     {
       "category": "Market Dynamics",
+      "title": "Bertazzoni, 후드와 손잡이가 통합된 새로운 Professional 시리즈 인덕션 호브 공개 - KBBFocus",
+      "media": "KBBFocus",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2RvOHowT0NsMEFaZ0JKWjBMY3lDalJ5bEZwOGJwc3gtdkpOOHdZczRQci1Ia29PeTdBaW41Sl9QSVctZllWb1VqZ2VZVTYwNHprTEZRNjJyNDVkNHFnVFpWYzZkSjRnd25GanZ6WndCUktJSnJDLWx6eURkY3B6ZTVLdEt3c2pabnhXSG5rMUlEajJxOXlyT2lCbDAxQkp0V1JYeFkteVEyVHVuSnNQZ29sWmxYWDAxMUE?oc=5",
+      "time": "Just now",
+      "pub_ts": 1776234787,
+      "summary_kr": "Bertazzoni, 후드와 손잡이가 통합된 새로운 Professional 시리즈 인덕션 호브 출시  KBBFocus",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "침실용 소형 공기 냉각기 - Zee News",
+      "media": "Zee News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORzhKMGg2VG5oeXF0M0dZZGNIanFnR2FJYk52RFg1UWgzVnVCMVU5Y0c1ZUR2LVowU1J5dGcyTjdLOUxFWE1wbnUxdVFZMGdOellJOWh6ZWFEWFF2N29LZkFCQS1ud1BUV1Ayd0Z6Vmt5TUo2NUZCdHNlTDN1UjFTVnBxdW9WZ2JtNExtdVBjMXFXZGNUc1FVaHpBSmlBRHdWVU5QRzBHM1BYblFOTkhFV29UX3A1QdIBtgFBVV95cUxORzhKMGg2VG5oeXF0M0dZZGNIanFnR2FJYk52RFg1UWgzVnVCMVU5Y0c1ZUR2LVowU1J5dGcyTjdLOUxFWE1wbnUxdVFZMGdOellJOWh6ZWFEWFF2N29LZkFCQS1ud1BUV1Ayd0Z6Vmt5TUo2NUZCdHNlTDN1UjFTVnBxdW9WZ2JtNExtdVBjMXFXZGNUc1FVaHpBSmlBRHdWVU5QRzBHM1BYblFOTkhFV29UX3A1QQ?oc=5",
+      "time": "Just now",
+      "pub_ts": 1776234600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
       "title": "Bajaj Electricals Ltd 주식(INE499A01024): 소비자 가전 모델이 U에게 더 중요한 이유 - AD HOC NEWS",
       "media": "AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNF9LUlhqZVotcEQ3Y0Q5U29DREgwMHJJV29PRjVDeUFnTXllMXlVazRIWGJ4WWYwSzE5RXNveVpDSHUyYjIwNlZTTVdtZnRwem0wOTdtX244cFJsaVE4Z2tCYnVuWm50NklUdGloVlNDVTBVTkpJempCbUNxdFZxWHZYaDU0VkNNUnR2Umh1YVVkUm03ZGVLVVQzWWZaMUp4eWNIWWl3N3dYNGltSWgxdnBfMW1sRzU2QW1kLXZB?oc=5",
-      "time": "1h ago",
+      "time": "2h ago",
       "pub_ts": 1776228759,
       "summary_kr": "Bajaj Electricals Ltd 주식(INE499A01024): 소비자 가전 모델이 U  AD HOC NEWS에 더 중요한 이유",
       "strategic_implications": "",
@@ -47,7 +75,7 @@
       "title": "HEYNEMO 26쿼트 전기 로스터 오븐 $94.96으로 인하 - Technobezz",
       "media": "Technobezz",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVh1MDY3bVR5M0dPZnFfREh3T3JDUk1RVFZFTXVpdXF5RlNQUFNleG11dktucTVUTW9OQy1VZnZtSnZWc1N0SXpiV2RjNDVBVEJOVGdpaEx2TzBXSEtKVW8tVi13SVVEbGhSMElQYXBqdVBtYThtamg1SzRBWDZSMDllNjlnXzVWSk1Ydg?oc=5",
-      "time": "4h ago",
+      "time": "5h ago",
       "pub_ts": 1776216926,
       "summary_kr": "",
       "strategic_implications": "",
@@ -75,7 +103,7 @@
       "title": "삼성, 국내 경쟁사 압박에 중국 전면개편 검토 : 애널리스트 - 코리아타임스",
       "media": "The Korea Times",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMXd0Qmo3bVlia3VJRFVPbWhHTVQ3bnVJR0x5X2d2YUkwRERTQ1BLT183MTZyQmg1NWpSb2FfXzhLU0NhNW92am5zenFTR1ppR3M1LXpCaEoxSkFwYmxrbDdxREU2SUpVajR6MnFCNWtSRzE2akRwdXpaUmNUZDE3Z1BQeEFPSTg4aGJkYVVUQWpPcmE3enptNFNPVjNNV1RjZlJ2VWF5cnNQbUhJbEhFei1oaGhhSmMyY3ZKQWloeDlZRHl3U3RjZE1RWjnSAdIBQVVfeXFMTjFsSlBZX1hJNVN0ODZETHpVWTdtVnlPZjY5R1ZPbVJneUQySDdlVHJQYTE1T0gzSnBLM05SN3IxUkJGRkFwSUFueHRrUnItTnY3YndUc19Jd3JmY3Q1RGxzbXV1S083amNzTW9iNTY5N3JvQTU2VVg4dVdMeWJEamppc1BXTnZNX291VUFDa0V5N2Joa3ZJQTBRMWVxMEU4b1Y1LW9ZejZlYjRaU0hWMXZJMUlLTWlDeU94blNIMTFkUDRKa0lJTy0tZ2c3SWtZM0ZR?oc=5",
-      "time": "8h ago",
+      "time": "9h ago",
       "pub_ts": 1776204000,
       "summary_kr": "삼성은 현지 경쟁사의 압력이 가중됨에 따라 중국 개편에 무게를 두고 있습니다: 분석가",
       "strategic_implications": "",
@@ -89,7 +117,7 @@
       "title": "Whirlpool Corp. 주식(US9633201069): 현재 미국에서 가전제품 탄력성이 더 중요한 이유 - AD HOC NEWS",
       "media": "AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdzZDWjZkMTBjOG5EcHpsdkpyOHRiZExIVldfTTNiOXMweFVNMENiM0hGVGx2NmdFbDZVTDlOaml1LW50ZEJfRk5IZm5lOXVzSTFhLU0tRy1EcDZsa3p0eEs3VkZRV09VMFRPdnpCUG5OQ1JOOWVPMDY3Z2ZlZ2pma013QXM5YmFKRVRtNHRIRnAyQ2ljV2NnakxLRW5QNnJabURGTDBqM2VBU2lMUUZxZmd2bFlwODQ1RXBNUg?oc=5",
-      "time": "8h ago",
+      "time": "9h ago",
       "pub_ts": 1776202374,
       "summary_kr": "Whirlpool Corp. 주식(US9633201069): 이제 미국에서 가전제품 탄력성이 더 중요한 이유 AD HOC NEWS",
       "strategic_implications": "",
@@ -103,7 +131,7 @@
       "title": "Property Brothers가 집에서 제거해야 할 주방 가전 제품을 선정했습니다. - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNamY1dDU0aVBzYi15OF9YZi1yU3Vmb2JuTE5XMjMyU3lnS1BMOTIzNGpqY1RoN1FiTGhCeUczclg3cm9Rd0pQSFQ4OWVva1RMWU5yV01xRGlEeUJ2WjdnWkNfVDdJMzU0YkJkNEtwV0lZaDZSUl8yOVNNZHBSbU9HZGxCNXIxbHdWTnVncw?oc=5",
-      "time": "10h ago",
+      "time": "11h ago",
       "pub_ts": 1776195064,
       "summary_kr": "Property Brothers가 집에서 제거해야 할 주방 가전 제품을 선정했습니다. AOL.com",
       "strategic_implications": "",
@@ -127,26 +155,11 @@
       ]
     },
     {
-      "category": "Competitor Analysis",
-      "title": "LG전자 AI 기술이 일상 가전제품을 스마트 생태계로 변화시키는 방법 - Big News Network.com",
-      "media": "Big News Network.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlR4N0E0MkZIRHRSSmdjYzFhQThRYTljM2pQSTVnaER0c2U4blZjci0yWklBdG9wTkVBU3RoT1FYTHVlOGcyblAyVnVUYXBEdm02N2o3TkhMSHRQLTVzS3d3cExIS3BrdldOOGdDTmtZb05DUzA2NkxFNEU5VWdYeFJ1OGVyb2hfc2I1c1dIR3F5dWhOcnh0SDByYVQ3Y25FTUEzaTJ6LXVrZVNmcjUxV3MtbDlWaGlERmdWUUZWM3h0U2RqbVRIdFlkOXNGQzNpWHc?oc=5",
-      "time": "13h ago",
-      "pub_ts": 1776184320,
-      "summary_kr": "LG전자 AI 기술이 일상 가전제품을 스마트 생태계로 변화시키는 방법  Big News Network.com",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "opp",
-        "watch"
-      ]
-    },
-    {
       "category": "Market Dynamics",
       "title": "모든 70년대 주방에 있었던 것 - 수납장 밑에 꼭 맞는 공간 절약형 도구",
       "media": "Bing News",
       "url": "https://www.aol.com/articles/every-70s-kitchen-space-saving-143000326.html",
-      "time": "15h ago",
+      "time": "16h ago",
       "pub_ts": 1776177000,
       "summary_kr": "주방 공간을 절약하고 빈티지 미학을 좋아한다면 투자할 가치가 있는 영리한 70년대 장치가 있습니다.",
       "strategic_implications": "",
@@ -174,7 +187,7 @@
       "title": "SUNVIVIPRO 12-in-1 Multicooker가 Amazon에서 80.99달러로 인하 - Technobezz",
       "media": "Technobezz",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnRFTEVLeUFielBUR3NJZ2h1UTF3bUdiWFphQVcyMmZFUkJKa1lwREFidThCSDJQZF9LQUx3MzhUcFI0WkNmajFlcnNaSkRDampLUmhVYmVRX3VLRlZXNGZSWFNzVUVNOURYcmxSRUNNOHlmZFBzT3BkRXQ3NlpxeFlGandHeTVIeXgyUjhfMA?oc=5",
-      "time": "16h ago",
+      "time": "17h ago",
       "pub_ts": 1776175100,
       "summary_kr": "",
       "strategic_implications": "",
@@ -188,7 +201,7 @@
       "title": "Vestel Beyaz E?ya Sanayi 주식(TRAVESBE91C3): 가전제품 엣지가 글로벌에 더 중요한 이유 - AD HOC NEWS",
       "media": "AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ2FROGtPZjBaMUZPRkU1eWhQOEJmTVRGY2RKNVBvMmotRlM4RFRTbkxSVlhtcWxlakZSa2VTVENoV3p1N3Z3dDVDdEVUNjFleHZLUThpYlZ0VTFROUQ2TFpCSTNnQkV2U25WTzFXYmVnRGJUMGp2dU1pWkVFNlBpLWVhRkoxeWRGU0JOUVBXU0pWYm8xbk9VUWE3UG9iSnBHbVdzQ0xxWEY3SGJxaGtqRUJhMkduMmpLZl9vUW84dVVvblZOQTB0UXpB?oc=5",
-      "time": "17h ago",
+      "time": "18h ago",
       "pub_ts": 1776171674,
       "summary_kr": "Vestel Beyaz E?ya Sanayi 주식(TRAVESBE91C3): 왜 자사의 가전제품 엣지가 글로벌에 더 중요한가 AD HOC NEWS",
       "strategic_implications": "",
@@ -202,7 +215,7 @@
       "title": "Kelly Wearstler는 Williams Sonoma를 위해 Breville의 혼합 금속 가전제품을 스타일링했습니다. - Stock Titan",
       "media": "Stock Titan",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcl9rTFktU0hEWHlaaExreWVvMEFqWFNDclE5dTZkdVVyMlBFdFNVXzBHT2dLNW1hb2lhbl93RVRnQnA5ZGxqV2dQTDVUVWVBcTZRTVRvZ2pYQWpuR2xxZTBLZkRkVlVJT2Zmamc0YXhHd0xWVzEwNFF6R2hTNE5fUkVJTWl3Q1NHTmV3S01mcHdwOHVSajMtejNmMWkxTFNOdjBVOEZ1NDRzWDBHdF9oTkRHQnNFcTJuM3NPQTZ3?oc=5",
-      "time": "17h ago",
+      "time": "18h ago",
       "pub_ts": 1776171600,
       "summary_kr": "Kelly Wearstler가 Breville의 Williams Sonoma Stock Titan을 위해 혼합 금속 가전제품을 스타일링했습니다.",
       "strategic_implications": "",
@@ -258,7 +271,7 @@
       "title": "올웨이즈팬(Always Pan)에 밥솥을 추가하면 이보다 더 귀여울 수 없다 - CNET",
       "media": "CNET",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXNUaVNZMUlkNDNtanp1RWVuQWk4VmF1NnotZ05kQ3Rnc3lnVEZ0TUQzdlc4aFNJLURVSHNUZFVVYzFnNEdTX29tVk9hMUFGSVQ2bnRoTXBJYlpBYkZabGpWOE10M3NWcUg5bjY0Q2U4cGc2QXB2MjNjQUdUSnBLcXJCRnNhWlhweXZyU0ptRlM3c1FoSmc?oc=5",
-      "time": "19h ago",
+      "time": "20h ago",
       "pub_ts": 1776164400,
       "summary_kr": "",
       "strategic_implications": "",
@@ -279,20 +292,6 @@
       "impact": 4,
       "tags": [
         "opp",
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "1,000달러 미만 냉장고를 포함한 최고의 냉장고를 찾았습니다 - AOL.com",
-      "media": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeTBFVXhZWEk1a0IzSWdkRi1ONl8wOF9WZnBJbFJmZi16eDVCN3ZIaVB5ME50U1c4VHFpSG1PVVBaMlBiVVpYdDNwZ1pSME42MHkyLV9HblJaUHRWcXNRSnVMOXhiUnZ3NFgxanYzNVh1ODNxN1RfcWVxUHhOUjR1UDJoYw?oc=5",
-      "time": "23h ago",
-      "pub_ts": 1776151483,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
         "watch"
       ]
     }
