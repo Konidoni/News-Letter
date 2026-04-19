@@ -1,0 +1,257 @@
+{
+  "date": "2026-04-19",
+  "date_display": "2026년 04월 19일",
+  "generated_at": "2026-04-19T15:25:41.848152+09:00",
+  "generated_at_display": "2026.04.19 15:25 KST",
+  "category_counts": {
+    "Samsung DA": 1,
+    "Market Dynamics": 12,
+    "Competitor Analysis": 1,
+    "Samsung Bespoke": 1,
+    "Technology Trend": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 3건 감지",
+      "desc": "오늘 수집된 16건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: SUNVIVIPRO 14쿼트 전기 로스터 오븐이 $59.39로 인하 - Technobezz. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 8건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: 삼성전자, AI 기반 홈테크로 에디슨상 수상 - ITWorld Korea. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG전자, 지구의 날 맞아 10개국 나무심기·전자제품 폐기물 모으기 활동 - CHOSUNBIZ - 조선비즈. 시장 전반 기사 12건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, AI 기반 홈테크로 에디슨상 수상 - ITWorld Korea",
+      "media": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdEc4MHg5Z2FJcHktNFozd3hlaHpHSHNBZEM2WV96UE9YcXBSZXF1RzA5NDZWNkU3NzUtaWE4TnR1STloNjdrbnIyUldPRy1vZVBUSmpSc1FTVGI4cDdBU2RMWkQxZ09wSm9SRlg2dkFFQktWdEQzcnFESWJVVE83ZEJfVW9WUERhbVNUdnYxRmw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1776575640,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "SUNVIVIPRO 14쿼트 전기 로스터 오븐이 $59.39로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaENnbTNfTmt0QzBROWJZM3lUSU5qNHdoYWd5ZXc2MGpjVUdJVzRkalRGc2VxVm5feUV3LUd3SjNNaU1xM0FiRDdhNWsxNjNob1hiLVVYYnExc1dfUVhtVEI3eHVCOU5ZMXgtX3A4LVhVX3NSYlNjZVY2cjdwSko2RVpBNmFEVTlvNExPSmVmMEs?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1776562230,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Frigidaire Retro Microwave가 Amazon에서 99.98달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXhtc2E1b1JkUDVwMkRZVk4ySlU4MThKaDBvYk5qem9ZRkFkZ1VlNldxMW1UQ2xJT2k0X3hVbEVNdkozV210T2FvYzNYcGJ3NVFXcmNCVFIyRnZaMFZfWVctXzRDQ3VWVHBwdnJRQWtqZDh3NzVld2lhT19WYldXeGJVdDhINDZzR3c?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1776562230,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "RoyalCraft 22쿼트 전기 로스터 오븐이 62.99달러라는 새로운 최저가로 떨어졌습니다 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQkw5d3ZlZ054NHNnRzN0cFY0TU41ZDYxOTU3Wnp4MFNNX3E0a3JrUUZXZ3BOVTVsZ0RMQ0ZFSU9pdkVaeU5xRTM3TldqU0tXWDJuTFhLSUZ5MVA5S2JobC1OVW5LNGFuaXo4SlJ0STAxMGd3ZmRtRjRrQ19qZlMxV0xTU2ZPazhHTUhqTDQ3ay0xWHBLZnJfSEpON2VQanBFb1E?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1776561748,
+      "summary_kr": "RoyalCraft 22쿼트 전기 로스터 오븐이 $62.99라는 새로운 최저 가격으로 떨어졌습니다.  Technobezz",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 지구의 날 맞아 10개국 나무심기·전자제품 폐기물 모으기 활동 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zZFQxa1RsZ0kwQXplR3hEN0FQa3lZdHlwWWRvNk1JU0E5X1NfbGV2WkFQLUhKbUMtbFdWN3c4WndaRlU4eTI5NTdTTWd0SEpQbnpnWi1PS2FrR2RXdjlCek1fSXJpNl9YMVpxQlRZTTJ5SGlqR2x1bW9R0gGOAUFVX3lxTE83VWtsX0EtNEZLME9fN05wQW9PNS1HalB0bnlrVEY5NEdkaHVuMURCdzB5bUtOeUlaYThSZDl3c0VsQTYzaWNpZ1ZXcTYzN25PU054ektUM2h6WjFKYXUwdUo2UDZfbnNHZEtMMW9HMWJnTGVnTU1hRGR2b0I5YjlZd200NWxsc3VncHVtVHc?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1776560400,
+      "summary_kr": "LG전자, 지구의 날 맞아 10개국 나무심기 및 전자제품 폐기물 모으기 활동 - CHOSUNBIZ 조선비즈",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "당신이 알지 못할 고급 가전 브랜드 5개 - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGpIN2gxb1VYSHpBNU10c3NMVUtKdzRYWjFPMVZNbmx4NDRJb0VhdXA1WWMzTlFaUzUybnBINGl3RjEzODlFRmdLd0F5MFhac25JU1RZN2RNZGpyQURJTTVkOGFSdzktbUd5LXRGUEtxQnVpUHVvMm01dmdLQ0p3ZndrQkEtbVJJMzlQbWRB?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1776555900,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG전자, 차세대 식기세척기 솔루션으로 스마트 청소 발전 - ACCESS Newswire",
+      "media": "ACCESS Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX2k4MU55X3F0WThVUl9xTUN2ZmtmV2hVazZEU2VFekJEM0ZmTG13MzA2bDFZdTMtVmZCLXdDanVlaDBtRlE2dEJQdHVNbzZCWE9MemJxdHgwclFNV25Vc1F1enpYc3hzWUlxOG5oSHVmSGxLOFdQT1JTeDhwelgzbnF6WHBfX2VMRHpyTmFmZFBkbWlsQkZLMVJvT0M3dWlYdktRNW9YcS13QWpZRlk5c2dYZ2lTek9wUzB2YTNuZE0yWWNoX2dXTGZZd0pEb19JTy0tenRSQ0x5R2MtZEhPMWxkaG8?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1776554335,
+      "summary_kr": "LG전자, 차세대 식기세척기 솔루션으로 스마트 청소 발전  ACCESS Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성전자, 신혼가전에 걸었다…향후 2년이 중요 - 디지털투데이",
+      "media": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmFWRktwS2xzZUc3eHNnV0Y3U3Q0N2x5cTN6OHR0RElwUUo4ZmNYT2Y0RjBBUDF1Q1RQSVNHUWR4Z3R4SDRXeHpMemdsNm9HSmdaUDFGS1QxRXVDOWE3b3Q2a0FubVlZT1ZOdlppRVlYQmxLNlE3bHVaaUZMaGVHT19NTkhVRnctVUdsdGotNE1BNmJPX2UzZ3h1Rk9VYVdkdDNUY083OEo0MkNKSmxMQkFfMmlOQQ?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1776553200,
+      "summary_kr": "삼성전자, 신혼 가전에 베팅, 향후 2년이 중요하다고 말함  디지털투데이",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "학생들이 수업을 받고 지역사회에서 오래된 가전제품을 폐기하도록 돕습니다. - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNTlYWkZ4bVhsei01THNodkJvYmtMN18wbmI2d1hTLTZCa0t4UUZpamNRSERVNUF2YU9mZTVKOEg5bmxhNl8zVjJlRGZ5S3YyQXRXRkI4OU8tWHA0UzFxMUhIQURHR2RYQnBiOVA5bGpYdVJwa2FKTlpJRlYzRVlTMlhFVnMydw?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1776550849,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "당신이 알지 못할 수도 있는 고급 가전 브랜드 5개",
+      "media": "Bing News",
+      "url": "https://www.slashgear.com/2147898/luxury-appliance-brands-you-might-not-know-existed/",
+      "time": "8h ago",
+      "pub_ts": 1776548700,
+      "summary_kr": "일부 고급 가전 브랜드에는 Miele, Signature Kitchen Suite(SKS), Viking, JennAir 및 Sub-Zero Corp. 브랜드인 Wolf, Cove, Sub 등이 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "당신의 공간을 아름답고 기능적으로 만드는 2026년 주방을 지배하는 디자인 - 야후 라이프 코리아",
+      "media": "Yahoo Life UK",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSV9MVEYweU9YYm9nWnFfX2hBNU5lOTJvSDllZ0Nib0FTbkRkNXduaWVCVl9PMFpTcVktck1rTmp6RXMzWEVBT1M2aVVQX3hPQlJua2VVSFJhaE5JSzczaUNncWNrTW5tUG16SUM0TVlBOWhEOGl0aWVKQVR1YmQ3ZUltVWNFdw?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1776535200,
+      "summary_kr": "공간을 아름답고 기능적으로 만드는 2026년 주방을 지배하는 디자인  Yahoo Life UK",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sharp R-2523FB-MB와 같은 평판형 전자레인지가 현대 주방에서 더욱 실용화되는 이유 - WalasTech",
+      "media": "WalasTech",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSGdoUjZFbXZ4WkR3OXFiRlVCQlhXVGtfdWktZFJSOVhibUt1SVlyX1c3SGNLQkhwRVF5ZEUzeEx3TUJzb0R5RV80VXBmaFpjVkFrUC1KWUl4TGFRQVNqT2wweXFmOG1RcHNnYnlLM2VNVTZVbUNXbmdmdXowRy1FdWFvZkhkSjZtY213?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1776523424,
+      "summary_kr": "Sharp R-2523FB-MB와 같은 평판형 전자레인지가 현대 주방에서 더욱 실용화되는 이유 WalasTech",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Bissell의 인기 진공청소기는 110달러 할인됩니다. Amazon에서 찾은 숨겨진 진공청소기 거래 5개 중 하나일 뿐입니다 - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOejJRZENiZDc0dEFiOGlxeXdEcEFPeEZsemJ6S0tHOS1pRHdFeExvWDkxdW1nZnB5dXMza0xVeVJBNG1PXzFpdGVNaWdQQW43NTVTSnZNY2I0SXZLRjI4S01wd2RaMk9oWkJYYWhfbEtkLUx5VWttcTF3Q1lkT3FLWkF6Q0EtWHVf?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1776510041,
+      "summary_kr": "Bissell의 인기 진공청소기는 110달러 할인됩니다. 이는 Amazon NBC 뉴스에서 찾은 숨겨진 진공청소기 거래 5개 중 하나일 뿐입니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Breville의 혼합 금속 주방 가전 제품 출시는 놀랍습니다 - 가정 및 정원",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3FHSHdtRFM0YWNjMk5Yd2xxbjBMY0ZObFVvYjVveTNXaTk4N0NIa2hjNVBlZGVNN29EbjRqakVFWk82bzJfbFBSUnpvN2xrQWRWNVRZZkVCUV9zMXhvdGFLWFJfOFVHd1dVQUZ6ckFOMmhRLWJQTUl0QzFGdU5Gc3lja2c3QQ?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1776506400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Skyworth Group Ltd 주식(HK0751000688): 이제 글로벌 투자자에게 스마트 홈 푸시가 더 중요한 이유 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPblI3YTIwMEI5M0FMQzJkLVBvby00Y0dyWnJDazFYLUJUMXZjTFFzSDgtem9LVm1nblo0WU5sOF9Ma1lHNmttbEthWmNrQjJxQWZqbWtmUTIxM0dvMUdsNVdDOFh6dHhCbjZ2ckRMRk5YeWdzTjRkSk82M0Z3TjJkMEtnNEE0OGEwdEh6SDIwT1VZdmtrVE84U1NmRnVORlV0VGNQbUVqdkNMdkIwNnhJaTN4MFNxYzAtMXRoM0ZXaw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1776500809,
+      "summary_kr": "Skyworth Group Ltd 주식(HK0751000688): 이제 글로벌 투자자에게 스마트 홈 푸시가 더 중요한 이유  애드혹 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "러셀 홉스(Russell Hobbs)의 새로운 저렴한 아이스크림 메이커가 이번 여름에 구매하는 최고의 제품이 될 것입니다 - t3.com",
+      "media": "t3.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWW1SUWgzZGRMWWxsU24tX3plY2ljN0g5S0s1V3hydHlIcTloYjZieUtnejJIZEhYT040MHJzQ0h2b3VwS0xNTWlRd3VObDJ6WExSaGJIMWp4dEY4WjdhWkJ6eTRDYmxKRU80aUwwdHBwOWZnVUM4LUZRanZ6Q2tCMUFTLVc4Vk5Zak5VemtSV0FKZVZ6LTljTkFmc2RaU3hQS0hnSXV2ZzJNTE0xakQwYmEzR0dPZzMxN2lMcklsSkxhUlBzb1E?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1776495600,
+      "summary_kr": "러셀 홉스(Russell Hobbs)의 새로운 저렴한 아이스크림 메이커는 이번 여름에 구매하는 최고의 제품일 수 있습니다.  t3.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
