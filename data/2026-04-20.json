@@ -1,0 +1,256 @@
+{
+  "date": "2026-04-20",
+  "date_display": "2026년 04월 20일",
+  "generated_at": "2026-04-20T16:12:33.947942+09:00",
+  "generated_at_display": "2026.04.20 16:12 KST",
+  "category_counts": {
+    "Market Dynamics": 11,
+    "Technology Trend": 2,
+    "Samsung DA": 2,
+    "Competitor Analysis": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 2건 감지",
+      "desc": "오늘 수집된 16건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: Cuisinart 5.5쿼트 스탠드 믹서, 아마존에서 159달러로 인하 - Technobezz. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 6건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: LG전자, 2026년 밀라노 디자인 위크에서 프리미엄 빌트인 시장 입지 강화 - PR Newswire. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG전자 주식(KR7066570003) : 신제품 출시할 만큼 가전 지배력 강할까 - AD HOC NEWS. 시장 전반 기사 11건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "LG전자, 2026년 밀라노 디자인 위크에서 프리미엄 빌트인 시장 입지 강화 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTHRDR1gtcjdBTlRYX1UtMlEtOVAtUEdEU1pfcEdyYkRJbXpSYUhSclYwMU9BSDZVUDZZRWY3TTRsdDFpLVhkRlFtR1lNM0V2RllBMGpCTkJ2UE9rUVNMbTFTd0NBYlN5QXY5MVBoRVNoSlB5bExESHc4cHByZEI4TURjQi02bF92MkFVSTJiVEZHSVpMQzBENzlqamFrRmFtTEdJWXZaajA4VU1yb3lMSGxPMENVWE1sN0hjWDdiV0VoUGRlU0ZCY3ZRa1pTYXdoZ1dGSHAxUnk3RlU?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1776661260,
+      "summary_kr": "LG전자, 2026년 밀라노 디자인 위크에서 프리미엄 빌트인 시장 입지 강화 PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Shark Staubsauger: 프리미엄 흡입력이 이제 경쟁사보다 앞서는 이유 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjJBNGhjOW5xRFNiWGlHME1rTXR6N0ZRV2J1NDdKRU05a19DWFBlcTdVdHltcDBTVlYtTU1hSzZsT2gxNXd0d29nR2FUU29JRnd0TGZycWdoZ19Wbjh0WWZhMWgzMG13TDZpZDFOd1kxR3RxNFdIR3ZjaVg5VnlpYVJhbVMwLTg2cVFBVks1UmUxeDY0SXRfYXNnSVpQd2JUSEdQTkVyazFhRU14YzZUTnpDRDhYZ1BRQmlhVjFQUW8?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1776659046,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Acerpure, OTC 거래 시작, 스마트 홈 확장을 위해 신흥 시장 목표 - digittimes",
+      "media": "digitimes",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVRfYm5nTUJJNHVwZ1I3REdYNXVvMnJzWUZvUVhVNlFISW1kczhmOUN1T2pwOUoyOHVxV0VQb2l1bFVLeGg3Ykoxc3lhaTV1OUF4Nmw2bXdpRVhCNDQ2ZUlCUWNsQmYxdmZ4dHd0MXF5cDRKM1RUVWxyR0FMWjY5dUNiUEtmaEZaWWNTWUxBNXhlTlE?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1776656895,
+      "summary_kr": "Acerpure는 OTC 거래를 시작하고 스마트 홈 확장을 위해 신흥 시장을 목표로 합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sharp Mikrowelle: 비용 상승 속에서 에너지 효율성 엣지가 견인력 확보 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNblYzRjhaSFZpak1QN0F4aHdhTHpkelB2UERPc3dqWmJ6NUNzbVpaMk9CUkpvLWpfQnM4b3hGOVhYSEt4NlBGN0cxZUdxYmdLd2NBcGh6OUVZTFRoSGF4OHlCNWtrNXoyRVAySmdtUTIzbzBRTTNTRnl2ZmZTbmQwOUszSmM1dFlHVjVzSzZnNW5QUTVXOGJqRkJrc1UydFk0SlZBaTAyUlUwbVVIN29ZamFWbjBqRHRFbjFQNVpTdVN6OG11VlZEVXpxbw?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1776653901,
+      "summary_kr": "Sharp Mikrowelle: 비용 상승 속에서 에너지 효율성 엣지가 견인력 확보  AD HOC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Siemens Kaffeevollautomat EQ.9: 스마트 홈 통합으로 프리미엄 커피 수요 촉진 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSnVOaHQyOUdpZTlMVDd1bFlCZWZveEtJRVNxNUpld1pkZW9sNDdybjU3anBaRnlJeFNoWEZKZlFLTDhiUTJxMXc0aGFOZ0EyUEFacDlnM1dqSFhyck5jRjZQZVl5YWVhN3h0V3dpYWpoU0p5NG1yQW5kT3NiMk5hTnZjRVc3TDlSMy1Zdm9MaGp3UEFKRUxEbi1UbDZ5c0x2SjhRejY5VzhGWUtjdHlkeGdVMFdxcDZ6M2RSSEVONGttOGpvUnc?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1776649103,
+      "summary_kr": "Siemens Kaffeevollautomat EQ.9: 스마트 홈 통합으로 프리미엄 커피 수요 촉진 AD HOC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "내 작은 마당을 위한 새로운 소형 Gozney Arc Lite 야외 피자 오븐을 방금 손에 넣었습니다 – 이번 여름에 많은 사람들을 기쁘게 하는 제품을 빨리 시험해 보고 싶습니다 - Homes and Gardens",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjVVNXlBdkIwYS1ORmtZYS1wOEtXRlJuYmJUbzBNeVZlNzhaUTVZYzdCZ0h2U2QxTno5cVhHcWo4SFdqUnV6Yy03YWhxanBkMFRsa2M5aUJyNW1aSXk5V1VPUW1RLVdxZ1ZhMndQTTlyUWlacFF1TW82Tm1hVmdJQ3I5WjJjaVFHcDRMbmVSTGVDLWQ4cTlv?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1776639600,
+      "summary_kr": "내 작은 마당을 위한 새로운 소형 Gozney Arc Lite 야외 피자 오븐을 방금 손에 넣었습니다. 이번 여름 많은 사람들이 좋아하는 가정 및",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "모든 주방을 맞춤식으로 만들어주는 미묘한 가전제품 선택 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVXJsMUZVNXRvSE1XZnJIcVl3dkFmdjlaX0NPcTYzdmhIc0kyX1RjR05uNEtCdG1KRjVPZEFDTkdPaHBlRUw1cDc3U1d6bUhJdHFFVzZkQkJYaVkxSXRHeXBVMjFZZEREVDNwZERlNXFsN0lGUFdvcjVETGV3YXFEWXFhSmI3Y015dXBNQQ?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1776634200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "내 아이들이 요리에 흥미를 갖게 만든 간편한 가전제품(쿡탑이 필요하지 않습니다!) - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmlLRG5HYnpwaGg4bGpVZ3E5QlRiSjV5dTMyUXUxdmQtaDNhTldZR0hSbkVoZzJLTmc4aDktOHdLbS10RXBTMlRRSGxsSzBnZTZXdi1ZTGd5d3VHN1lXSEhpOHZ6WVBJVUtoZkRKX2JfTmFlU2JlWXFybXRPRmlPNTdVRldxRzNiU0dSS1BBYUk?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1776618000,
+      "summary_kr": "아이들이 요리에 흥미를 갖게 해주는 간편한 가전제품(쿡탑이 필요하지 않습니다!)  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Alexa와 함께 사용할 수 있는 12가지 주방 도구 - 테이크아웃",
+      "media": "The Takeout",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YUlVDSmY5QVowNl9UZUJMSmZHLU5YV3Jmc0Z5MUFDSzRtM3l0MzVISVp3MnJOSnVKTGxPLTF2VjE4ZnVkVUo5VXJVUUlYYU9RMHBMejVwUFlpZWs1VHkxMW5oQjV0VlgyNXk3bGJjVERnU1VU?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1776613200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "줄무늬 없는 광택을 위해 스테인레스 스틸 가전제품을 청소하는 방법 - Southern Living",
+      "media": "Southern Living",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcjBlOTFBQWtaZmNGUWJuVHphYUF3QllCbVBzODAyalVDdWVOM2FGODRxM0FjYnpHeXU0WUczbTJSSlBlWl80UF8tSmtvd1lqYU94empialkwWkxzbTlhS0RSUnpSM0QwUXVmejEwbjk0TUVZS0hPTDNtLTNLSFJYVFNWcTRNQQ?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1776612742,
+      "summary_kr": "줄무늬 없는 광택을 위해 스테인리스 스틸 가전제품을 청소하는 방법  남부 생활",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sweetcrispy 16-in-1 전기 압력 밥솥이 59.99달러로 하락 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWFljVmZFelJlTHpieVFzS1BqX1hfRnl6dE5EQzVvNURTYnE1RHgzMElxYkdhLW5ETDlYeFl1OXVYNFZJelZXQTR1VDlhczltWEgxaVc4WFY5SXZwaGV3S08zVXFIYTRYWGVXX1F2RlVnaTRLa3ZqUTJZcFlRYWJWcFVqVUVLRnZoMUJ0Z2p5aVZmSVFV?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1776607294,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Cuisinart 5.5쿼트 스탠드 믹서, 아마존에서 159달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1FxS05PdkxZNVhMLTJOem54V2lXTExVOU1QWXh6S3h3RUptcHdyMmY4NGh4Wm9qTGMxX01XYkVLX3pxZHpsMVlkZHZMRmJ6N3RUX25XMEdoeFd6REI1Z3U2YTJwTVVfYmM5ZXVRMTZIbzlPcXg2UGs5QnNMeVZYZ0R3WTZBckxvd1RMMFh3?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1776607294,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "LG도 아니고 삼성도 아니다: 컨슈머리포트는 이 가전제품 브랜드가 더 신뢰할 수 있다고 말한다 - 하우스 다이제스트",
+      "media": "House Digest",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEtWR2hZclUwdXh3a0FIbDdFdUpWTTU2UnVLRVBCTko0SkdXQk5NWWM3ZzFVZzB1aDNORXBrbUZIcktMOVZzekx6VEZjZzlDcE8wX2RsOWpEM1RweHE0Y19ibjJoUTRvRGVVZklLV2czNXl1OVZ4U1h5dmxMSW9YcUNvb0t4cThzbEp5M1VpNHE1ZnJyMmlJNGJUdERFXzBfNnQw?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1776607200,
+      "summary_kr": "LG도 아니고 삼성도 아니다: 컨슈머리포트는 이 가전제품 브랜드가 더 신뢰할 수 있다고 말한다 하우스 다이제스트",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "GE Profile 스마트 스탠드 믹서가 $648.97에서 $499로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjRyM0E0QjVOM2JnQWFfRzVJQkJ3b21Ka1MxY2taYVVUMDJ5WjhnMTRkYXFWTHFkaUZMeV9OZW5zem81aTFuLVJZMk1qeXh4STVzOG9wemRoZFBFYVgzSXN5ZG8yM0ZmZmM5NkdHOEZVY3dLUDVLaEZ6Y0NtWmsyMWlIRWpQbkRMY3BHdQ?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1776606994,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자 주식(KR7066570003) : 신제품 출시할 만큼 가전 지배력 강할까 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFlTaWpSTk1TUHFzOFBrcDU4T05OWWMwdXNza0Z0LUhISThCR1l5T2cySGRpQVVQbVNkZTJ6OVdjZmxIYnBNa0tTWjdWckxPcEswUmgzWGprai1NbVlMV2hKUl9FTWd4eHNhUHJBSG53ZC1IejIyeGdnMEVoZTlLcWNEWnZISzIzYzRQaW5RaHdiN0g2N2kzZnBHWjlaVVkxY3lzc1M1eXZQQXVLZ2NtTndoRzJfc0lnSy02eDlHalg?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1776606403,
+      "summary_kr": "LG전자 주식(KR7066570003): 새로운 AD HOC NEWS를 열 수 있을 만큼 가전 지배력이 강합니까?",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "IFA 도슨트 시리즈 2부 – AI와 IoT로 가전제품을 다시 생각하다 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnR25RRVVyYUVINVJHWmlCQmUzMVE5Qi0xU2VrMHIyNHpqbk9QSy1BdkVZa0NZVXZOZjFjeEx0SC1RcTFpaWh1a1BZZXBxM1BWOTBNdVh6TWpxaTY0TkFtUV8wVVVoT3Vxa1hvZmNGRnpUYzN5?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1776601156,
+      "summary_kr": "IFA 도슨트 시리즈, 2부 – AI와 IoT로 가전제품을 다시 생각하다  samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
