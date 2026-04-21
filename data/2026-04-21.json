@@ -1,0 +1,426 @@
+{
+  "date": "2026-04-21",
+  "date_display": "2026년 04월 21일",
+  "generated_at": "2026-04-21T15:54:32.550448+09:00",
+  "generated_at_display": "2026.04.21 15:54 KST",
+  "category_counts": {
+    "Samsung DA": 3,
+    "Market Dynamics": 17,
+    "Technology Trend": 5,
+    "Competitor Analysis": 2,
+    "Samsung Bespoke": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 4건 감지",
+      "desc": "오늘 수집된 28건 중 4건이 리스크 신호를 포함합니다. 주요 이슈: 삼성, 독점 계약으로 2,599달러 주방용품을 989달러로 인하 - Geekspin. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 13건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 13건이 감지됩니다. 주목 기사: LG전자, EUROCUCINA 2026에서 SKS 및 LG 내장 라인업으로 확장된 내장 포트폴리오 선보여 - PR Newswire. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: LG, 밀라노 메가 쇼케이스 통해 프리미엄 빌트인 유럽 진출 확대 - CHOSUNBIZ - 조선비즈. 시장 전반 기사 17건, 기술 트렌드 5건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Samsung DA",
+      "title": "삼성과 LG, 밀라노에서 유럽 바이어들에게 디자인 비전 선보여 - Koreabizwire",
+      "media": "Koreabizwire",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTBQNjJRdVVYREM4UjRlekR3N1owak1WZjJhbVRPWkM2blBXS0ZRalJVR2t1a1BKT0psbjltOHVMVzNpajdfcHJDYTdLeFFVaTB1Znh0b1l5V2dTYmVvaHZxZXJZeTg0S1VYWkpvSFNGdjQwZzlUQTBFcXMyRjNrYlRKQVVJUnpXUzdfUWtiYmVLUlh5RlBNRkZzb1Fqclp1WnJqbWFR?oc=5",
+      "time": "Just now",
+      "pub_ts": 1776751609,
+      "summary_kr": "삼성과 LG, 밀라노에서 디자인 비전 선보여 유럽 바이어들 사로잡아",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG전자, EUROCUCINA 2026에서 SKS 및 LG 내장 라인업으로 확장된 내장 포트폴리오 선보여 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVUEwN3lSQnh6eFZaUERmN1FraWpyTDF5YVgtczJhRk9xb1loMXRkZV95SWp1VVo4bGtxR2d5NDQwTktOZDJteTRMdDk2RFVkRmpsMUpVaTRES0tHNE9LbEdKa0ktUExTTTBWbmhrb1UxWjk3eENkVDk1bWp4MzE0dVdyeWwtQW9zbXpJNXlPZ3dKVnY0MXVGb0hFYUhidkt5WUUxLUE5WW0yQVQ0R3UwZHJDYUN1Yjljdm5vTjdrM04zdU9lUFlETDFhTGt4VGtORHhJSENrc2xhZ1gyQm1Db3I4MnlPM19KNWxSNWNGM0dVMWdFQkE?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1776747960,
+      "summary_kr": "LG 전자, EUROCUCINA 2026에서 SKS 및 LG 내장 라인업으로 확장된 내장 포트폴리오 선보여 PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "중국 장쑤성, 헤이룽장성, 지방 가전제품 연료 소비 보조금 개시 - Yicai Global",
+      "media": "Yicai Global",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdnhkc2tKamFJVWZlZ0lST3EwLU1rNjU5QVV4RUNlMnJyUHdsQlZaOF8xbG5KdGNtUVpXMmdzcktOdmVHVzV5QUlTeWFteTN0ZE84U05sODJmazVTWnhkR1BkZk1ZZENaVFRrTjVmRFZKeDJzTW40NnFqYzVSQmhlc0JWeHA0aG9yNDVmNWRsa3huMkMxeFk1eW9DSXRLSEF6NFlGa2xEVUE5Z3ZUNTk5RHZaODRXUEp1Q2RZUlNlVFk?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1776742304,
+      "summary_kr": "중국 장쑤성, 헤이룽장성, 연료 소비에 대한 지방 가전 보조금 출시 Yicai Global",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "2026년 일상을 더 편리하게 만드는 저렴한 스마트 가전 및 기기 - Tech Times",
+      "media": "Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRmxtOW41SWF0RnhLa0hOaWMzUWVuU2QzZ2RuLVEyUGNERUxIbzRJYXNUQVZJNW5HMmVVU3hUZUZpSEVfeUN4SzZIZkM0RS04R2NxV1ptUzgxVVNWaWlRNUcxTFRNME82ZzBKb0IyUWhVcDQtWE9YZHJlTXhDNGJ3WlRNblRwYkdldWFldG9lQTJvRmhQdUFfNms3M0pFb3AwRTRDR01uZ29SRTVEWEJZdi1CUU1pRlJZZWVJTWlENVlQSDc2N2FJ?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1776734474,
+      "summary_kr": "2026년 일상을 더 편리하게 만드는 저렴한 스마트 가전과 기기들  Tech Times",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성과 LG는 1위가 아닙니다. 이 냉장고 브랜드는 고객 만족도에서 더 높은 순위를 차지했습니다. - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJOVZsdkVyd0Q1dmZabkEtbXJmajdZLU5TZ1MtWG1LLWthUW9LS0ZYRThoX3VyZkozaW5Pa0N4a085M1RRNmRfSG5aWGVfMG5zSXVGVXNUTVNHOTkyOERJTXNBVzZvSWJfeFhFR0h6RWhhRC1NSTJFYw?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1776734353,
+      "summary_kr": "삼성과 LG는 1위가 아닙니다. 이 냉장고 브랜드는 고객 만족도에서 더 높은 순위를 차지했습니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG전자, 밀라노에서 사상 최대 규모 빌트인 가전 라인업 공개 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUFJbzItbnNCXzhUbmRxdWRySE91TlB6QUpoRVIwMU5rZWVkbFJiOVpsNEJ1Wk0xV3gyS2ZHUnVuMzV1TGZjLUU3ZEMwY3h0MUxtcXgtWUw3aDJPNkdTei00VmQ1TVU0Q0tiR21YSy1EUUJndXF4ajZKSXRVamZDazJQMGxNRGYyd2w4aGJVV3B1MTIzWDdUZUZXMjE?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1776732718,
+      "summary_kr": "LG전자, 밀라노에서 역대 최대 규모 빌트인 가전 라인업 공개 서울경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Smeg는 EuroCucina 2026에서 방향을 바꿉니다 - Channelnews.com.au",
+      "media": "channelnews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbUFLVDhtLWUwU3JKdU9QV2c4SHpfT05zdmxqLWxnWkdfMklpX1ItR1dWUUVBbnVic1pjelYxRms2WGNZeXU1bHQ5a05IZ2hHY3dLWWZJS09ZTVdoU2ZXZjBEek4tRFE2ei00WjdJQjh6cTBBaXBIaS03RkVYdw?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1776732210,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Electrolux는 귀하의 주방이 자연처럼 느껴지길 바랍니다: 2026년 밀라노 디자인 위크 첫 공개 - Yanko Design",
+      "media": "Yanko Design",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHYxWUg0amZReWxtdTkxT21VOGpLV3pQOTc5QTU5Y0pfUXhzOHdLSVBiZ1Z4ZHhpd0c4Q21waVNCcXlJQWNxVmZDck1KV3pJMkRMUXduRGx3aUNnU2NqaUVMeWNkay1EMG4tZno4dVBzSk01Zl9MbUN2MEJUbTI1cUhOLThQNXlFdk5HUHE2ZVlJSE5adi1oRWtabXMxS3gzSXpvVjNUWmhKUG1Ub3JwSDh6VE5HaWhVNk5QMDl6QnlFVzdq0gHKAUFVX3lxTFBRbExuOWE4ZHdTZk1KTEx1NkZXQW5wSGQ3VkNfUWdqV0o3M2Z3cEpjSmdjbkJ2VXgwa3cxY3l6bG0xOTlMQVVJT1BCYmExNXJRVWJ2VHE0S0pZSkZHOGprb2RHNHktLXlpMFpxMG1iRGo5TGpSVi1LNTQ4WVk2RVRWVHVSOUZ1dnlxcWQxcjlqVmdaLUFLYklfRzA3REtJcWVLYXNlSkRfUlZnU1lKTFY3WjJmNGtqbTlGWDVwSGZlWV9mWGFWOEtHU1E?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1776731456,
+      "summary_kr": "Electrolux는 귀하의 주방이 자연처럼 느껴지길 바랍니다: 2026년 밀라노 디자인 위크 첫 공개 Yanko Design",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이번 어버이날에는 새 앞치마를 사주지 마세요. 엄마가 실제로 원하는 주방 업그레이드입니다 - TechRadar",
+      "media": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbU9iLWwxNE5GZHF4QlpKTUZraVY0bWw0T2hEZjJZcmlodFpULXJWX19nMWNJNGRhNlc0aXM1UXl2a3dsTnE0bkhlOUh1eFE2cG9fZUFId2VaZ2hkREhDNzFmbjZYT095eDhKNUxoUUlCZjJGekhTV1hEc2VSd0JhaWNZdXBicGpob0tOUVlGRURudldDT200bEMtT1UwTy1MUmdvT0QyNEFpYjV3enJ3SzQtMi1OVjllaTJRV0VlWFFmZnVzM1FyQ21DeWFFZmlrYlZldEhR?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1776731024,
+      "summary_kr": "이번 어버이날에는 새 앞치마를 사주지 마세요. 엄마가 실제로 원하는 주방 업그레이드는 바로 TechRadar입니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG, 밀라노 메가 쇼케이스 통해 프리미엄 빌트인 유럽 진출 확대 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VMlJ2NWg0Si1adEdnY1FEUHBnc2hQVWlzZHRzMFl6blhWdldBN2RxLTFsU3F3OWlGNDR5UFU0aEpEWmw5ZDlqdVBRR0ZZNHo2QU9kcDVDSzE4N245U2NiYnFVbXlfdkdTVC01Z1BmM2twbnpnNVVDZXFR0gGOAUFVX3lxTFBCR0FMMmNaUWwtX3U1R0RUQVhJbXgxUGZibDdCUllrV3NIV29zaFRtWjE3ZnBfMVlVZVM0WmJzSUkySVpnVGgxNk9lc2hGUF9CejJTZHg1bS1IYS15SlNIN2tMRkN2ZjZoel9rZ2hBUTY0NW1EVllkZllTSnBTak1iV1RsYzhXMzFlVy1zakE?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1776729240,
+      "summary_kr": "LG, 밀라노 메가 쇼케이스 통해 프리미엄 빌트인 유럽 진출 확대 - CHOSUNBIZ 조선비즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "사람들은 '모두가 추천하는' 브랜드 때문에 키친에이드 스탠드 믹서를 버리고 있습니다 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUEtVSE9WQlFFbkZwRkFZVTFMakpuSmpQVmNtdlo0R1hCeGk4Q2Y0WVc0REpXUzk4OVJUWDcyNmxKUG5yVlBlNHBLM0dLWHZEZnROUVBQcnZpUFdrbHRseGtlV0t6R09JV3ZIcjVLenFBWklBX2VPVEQtb3lnLWh0RU05eVBNLXZzQ1A4S0w2SFFMUVNsb2V2eGNaQnEta1Zfenc?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1776727800,
+      "summary_kr": "사람들은 '모두가 추천하는' 브랜드를 위해 KitchenAid 스탠드 믹서를 버리고 있습니다.  테이스팅 테이블",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "집에서 건강한 식습관을 위한 최고의 조리기구 및 가전제품 - Athletech 뉴스",
+      "media": "Athletech News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1l1OGpWVEo2aFRWTEFzX1FIbjgybVEycVNhdjY3d3JBcjdadHg5V2J1MUlmYl9lRGhldFFnUkhkT0V5VzllNzdkRkdmQ3hlNGtEVU0tRUxZMFdmWjNKODFySlRzVmMtOUNOR3JDZmRzTDZmMVdISS1MQjZ0SXI5UHFYQQ?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1776726690,
+      "summary_kr": "집에서 건강한 식습관을 위한 최고의 조리기구 및 가전제품  Athletech News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "EuroCucina 2026: 눈에 보이지 않는 지능형 주방의 부상 - Channelnews.com.au",
+      "media": "channelnews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDlBZUJmV2JmcXhwTFJEQXZqYmdLc05lbDVVS0dheElzSEMyX3JUUUs1ZnB4ckJDVUU1VHhiWEg2WExDUWoybURhRG9valJuc09XN3VUdXc2VVQwRi1Xb3ZKbHFUX2hGWGQyTDZSbXVzeHRIT29mRWU0QW5Nb01IS1A2YjEzN25qdHgzS19WanBJS21o?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1776725872,
+      "summary_kr": "EuroCucina 2026: 눈에 보이지 않는 지능형 주방의 부상  channelnews.com.au",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "부모님이 신뢰했지만 더 이상 존재하지 않는 가전 브랜드 16개 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRSVJQT3NNSGFPeEp5OFQwdkZHV2hDaUpOQ0YzaTN1VjE0azUzWUV3MDZoRFBablBhUHBGMTA0TU9JQ2VuQmVlU2ZoUVFPWWoxeG1ET1hUX00wRUhDdHM5elo0MlU0dWZOV1BBMXpxV19YakRRbERicUln?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1776718864,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "컨슈머 리포트: 그릴 준비를 하세요 - WISN",
+      "media": "WISN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVY2elAzLXZRYmhXU3ZaY2VRdlpJWnpFZkoyU2M2aExfUVhPUWU2VEpvVnlvOHE0aTkySnZTRVMxc2RUSXZFdmxvMDVNSTRxM1hjR044NlBCdFZWQTdaQmE4aTBsRkc1bmx6Yjg4WXF4cmFFX01XTlRHWWcwN29ER0hyZw?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1776718680,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 최신 홈오디오 라인업 출시",
+      "media": "Bing News",
+      "url": "https://www.applianceretailer.com.au/samsung-launches-its-latest-home-audio-line-up/",
+      "time": "10h ago",
+      "pub_ts": 1776716100,
+      "summary_kr": "Samsung Australia는 2026년 홈 오디오 제품군의 일부로 디자인 중심 Wi-Fi 스피커 및 사운드바의 확장된 포트폴리오를 선보입니다. 라인업은",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 독점 계약으로 2,599달러 주방용품을 989달러로 인하 - Geekspin",
+      "media": "geekspin",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnFGeGxyRzRTQngwMWp3UXgwaUFsLTluVkhKTU1pT0FFQ0djNnltV1pJYVA2LUNaSThCS2RRSFlDcnFDVlZNTkh0bmtIc1ZUekpVdVpPdnJycFE0QzZ4OTB5SGVXUjlhTmo2cVR2UVdYUEIzS0NLUkhCekd5ekwtZXdyaC1FRnFl?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1776702629,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방을 즉시 고급스러워 보이게 만드는 디자이너가 승인한 11가지 디테일",
+      "media": "Bing News",
+      "url": "https://www.aol.com/articles/11-designer-approved-details-instantly-163000194.html",
+      "time": "14h ago",
+      "pub_ts": 1776702600,
+      "summary_kr": "디자이너들이 몇 년 동안 스타일리시하게 보일 소재, 색상, 레이아웃을 현명하게 선택하여 고급스러워 보이는 주방을 만드는 방법을 공유합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "All State Appliance Repair는 샌프란시스코 전역의 Whirlpool Appliance 수리 용량을 추가합니다 - The National Law Review",
+      "media": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUzFUemxVV2ZIQkZtR2N1YWhRNS05RmU5VTdJYW1aRHBxdlowVS1sMWs2dW9MY3hyYTVBalBBVVRHeUNfM0UyNVlHZm15d3o2OXRqSjFGbTVMQlNYbWdSNWdDdHBMUW8tYVl4Uk8xMU1vcy1IN2xydHZaSjV5M0tjcDB3VURTNzM5TkV0bloxYmFxbDQzM0Zob3JOTlJ3Yzg2cE1POWphSFBBcWhIamtrUkpDVnl3QQ?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1776702396,
+      "summary_kr": "All State Appliance Repair는 샌프란시스코 전역의 Whirlpool Appliance 수리 용량을 추가합니다.  The National Law Review",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "에이서(Acer) 가전 부문 주가, 데뷔 후 상승 - 타이페이 타임스",
+      "media": "Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Zd1BjaEcxZk9BcmJTRGVIMFFqcmhKcGZueHdEWEN1YW9KZHM0SHIzVDRsMEZVMnJmSnpUN1lwellmZ1ZTX0dYNkxMOTFCMnJaOEwyazhiaHJZRHY2eFo5cHhxLUp0dDlocmM3dEJmY1V4U2dkZGc?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1776700800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "GreenPan 탄수화물 절감 전기 밥솥이 $123.20으로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZF90MWRGa190YVdpNGZmSkEyVEk0cGJuSU5VRngtMnZKa3MtdWJoQ2ZaSFd3S2Z1RlM1M25PRTJUTmYtbko0VUcwVU1ab0VfblN6em8xZzUtdEoyQWtvWWVXSkFDWWxvZ2VlLXgybURHX3dJSHFQUFJIR2tIekdUaGxXZF9Uci1JWFZxM3lxLVFoNlE3?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1776695364,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "nutribullet Ultra Plus+ 3-in-1 주방 시스템이 $118.90으로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXVrQXBvYncyWmg5RW5NSDlocWJEWTg0LV9GX2JBb0NsbmJCYjR3aFFKbzhhZTdxMDFVcHBPRjg4blFNWVdQVVhKRmhwdHhDb1dLNnpIVWppVmhpQXlDNExhM21lSWJiai1ZRGZYYnBJYkJKcXhJZDFWeU91QnB6RWdBelQwVUJGZVNibU1UOUllN01sYkE?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1776694763,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "SMEG USA, 차세대 포르테 및 클라시코 스탠드 믹서 출시로 요리의 우수성을 재정의 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSERrSWhrdGNlS0hNQ0g2bzlFeFp3Zm1Uc2lxcjdYOV9UMi1PM0VvdkdyOTROTmg5cERodV91eU1pVFc0RV91QlFjQ3hJb2V3WEtfUVdDaWl3STdjYlRwTG5CbUp2cG9xRUlmdDR0TFBKSm40N0NINy1TZm1vQnBwb0ZLSUs0cllpWl9wV3ZOVWkycEFlSmllNjAwSFJrLVFiVmh5Q2NjaHIwOThRbzFDbGFKTEJ2U0g1SGZwLUZsQzR1V29aTHNyYlJXeDZLU2JzQ3cyYlU1NVIwbEhZamtIS3RMTFUyd0ZBR2NYRzVZY1NMUDEtR3R1Tw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1776688560,
+      "summary_kr": "SMEG USA, 차세대 포르테 및 클라시코 스탠드 믹서 출시로 요리의 우수성을 재정의 PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "DLA Piper는 Haier 인도의 전략적 매각 및 지분 발행에 관해 Haier Smart Home에 조언합니다 - Legal Desire Media and Insights",
+      "media": "Legal Desire Media and Insights",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWlKMi1qdTRYeUFTQ0tVaEhQMlBXSGNuRDZBbUdKWGtpU1c4VFo1Mk5ZaVhWVTlIemxON3BFbDM3eVlTajl5SEhDUjZFOWJ6LTJVT082VENRS3dqY3BBcFBfVUY0aVhOQWVHb0NVa0dlZ09nNHVmNi1sckFZNXdiU2tlV0xaSUdNY2RINGJvVGY5R2dwT3hJVWIwclprOUxYVDF3TDBSSmlkb05wdnI5cXVYRnYwYi1TY3c?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1776686252,
+      "summary_kr": "DLA Piper는 Haier 인도의 전략적 매각 및 지분 발행에 대해 Haier Smart Home에 조언합니다. 법적 Desire Media and Insights",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Liu Yifei, 글로벌 브랜드 홍보대사(스마트 대형 가전제품)로 공개, 동남아시아 전역에서 인상적인 매출 - ANTARA News",
+      "media": "ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaXBZZjlpOV82WWtjb2VqOUJjdEE2WUY5VzdsVTRQVG1hQ1pUSlZrbkE5YURiMHkwUTIyR2V2RkV3bzJjMncyQzh5RDM3aElfYTBuS0xrSkdVUkZ4R055Mm4zR0lua0dESHFmRzZhVW5VM1NMTUxFcXA2RnBCLW02VjRBRldOT2JIVi00VVZVQS01OVZvMzdiV1ZVNlpsenhxa1lqZG42ajc3VjJRN2JwamRIOGV5dDhrU1N5YTdvd1RqYWxHLVU1cExkcmoxMndvazU3SnpuX3RFcVJCZ3NucU5QTHXSAeoBQVVfeXFMTlJLRzVUMlJqczM1SlFsV0NrLXdzV0UxdWp2VEY4WlV2M2hyN2pWTjhPX0pzRFZNRFczNEJ5R2RCeUJPaTlrUnVQRG0waS13NE9FNHhJQllDbWhMY3NVNzREdUQ3SHlIQnpyNFRib1pkcGVNdjRMRklBZFViSGdwUlltVGZTY2xuakp5d05jZVVjMUF1TFJfZEo4cHkyaEtteWJOU0x1RVBDb1d6Rm51TXQzSWhqWVZ6QnMwd1NkaTRpM0pHcGxVaHdzUmQzbTBEd1VYV2VuSmlvUWpxVHlGTm1MTXBCWHVSRG1n?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1776682373,
+      "summary_kr": "유이페이(Liu Yifei), 글로벌 브랜드 홍보대사(스마트 대형 가전제품)로 공개, 동남아시아 전역에서 인상적인 판매 ANTARA News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sharp Mikrowelle: 에너지 효율 추진으로 주방 가전 시장이 재편될 수 있음 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmJSdVl0RXo0dnJrUHRrcWlSTXVTYzVDLVZ5MEx4aEN2M0ZoMFVKSmRLSG8ybDlULVdLMVVuUml3cVBhUmUwcGc3NXJrOXZUTlZybGd2dnBLUVpDd2tub0thcjA0S0xGNWxyQkNIaTN1Y1M0ay1HamJQWkVGX25pRk1oU0NHX2RkNmRvU3ZBaWZfS1I4dHhPQl9TMHZKTXdJdm5INzlKVlBtR0JGc3NES3dpcDRrYk5ETlhYa3hBOUtUT3dhR2VXR2R3?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1776678366,
+      "summary_kr": "Sharp Mikrowelle: 에너지 효율 추진으로 주방 가전 시장이 재편될 수 있음  AD HOC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "일렉트로룩스, 밀라노 디자인 위크 2026에서 웰니스 중심 디자인 '스웨덴 홈' 선보여 - TipRanks",
+      "media": "TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTzcyU3NpUFo4aU5RY2JYRTczSTJvY0wyVzlONzV5akxXakdNbmoxcEkycFVoWVVocU9INmdORVRXQThETGFOWXNscm5IZHhJcjlqVllhWDltTmtKdjRWU1FwSVdZUEY0UmZjTFVubFljRUl5VllQOUdFY3dNeWE0bGgxaUhFVHI2THlRVDVFeEpaeTByd0h2WTlMTnNfcnBOSTBnUmNucmJmUWk3UWkycVpZN3pWbkdXM3JadHluRWVNWW43WDFSYm4xNlllNUFTU2hmTG9R?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1776677951,
+      "summary_kr": "일렉트로룩스, 2026년 밀라노 디자인 위크에서 웰니스 중심 디자인 '스웨덴 홈' 선보여",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Acer의 스마트 가전 부문 주가가 OTC 데뷔로 급등 - Focus Taiwan",
+      "media": "Focus Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WT3JieGtiZ0R2OEpDVmkxb2t2UW0zd3dLMzNabFZLMUtRQTJKSXJhc1JiUmNhSU1vS3QxbV85bnB3OU5BbWs4ZEh6N1ZTV1Vabkg5bjU0RQ?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1776670500,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
