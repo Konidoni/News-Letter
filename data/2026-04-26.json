@@ -1,0 +1,226 @@
+{
+  "date": "2026-04-26",
+  "date_display": "2026년 04월 26일",
+  "generated_at": "2026-04-26T15:56:25.693758+09:00",
+  "generated_at_display": "2026.04.26 15:56 KST",
+  "category_counts": {
+    "Market Dynamics": 12,
+    "Samsung DA": 1,
+    "Technology Trend": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 14건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 3건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 3건이 감지됩니다. 주목 기사: DREAME NEXT 글로벌 쇼케이스를 앞두고 Dreame, 현대 가정 주방을 위한 차세대 프리미엄 가전제품 공개 - The Manila Times. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 12건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "연장 코드에 연결하면 안되는 10가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UZ2ZWZGRhaXFpNFhoT3JLRktiOHgyR3cxZWV5RkI4XzZ0UlAyeTBDT0d1S2dkUU9VeUVaOUxHQzNodTRFNVpUM21PTVRJdUV6RnQwSG5Ma2tOYzEySnQwQ19CbHA1UDhhVTZNSnZTVQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1777180252,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "디자이너들이 이 조리대에 화강암과 대리석을 버리고 2026년 더 많은 주방 트렌드를 소개합니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3lxcm1XcDM0U09QRnFFYTExUkxKdFN1UDhVRG9ROHpDMXVNTzVOU1Q1ekhUQVJrTFNJczFQd3FBTGdkc2ZhRUw2RUxOTVJydG1GOGZuU2VQMU9nVVRkSklySGJuc2k2clptSUlvckZ1UDBWYzRLRkdrclM1N0hkOXVHQXlRZw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1777179724,
+      "summary_kr": "디자이너들은 이 조리대를 위해 화강암과 대리석을 버리고 2026년 더 많은 주방 트렌드를 선보입니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성의 SmartThings 생태계가 현대 가정을 어떻게 재편하고 있는지 - t2ONLINE",
+      "media": "t2ONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXVtTmU5QVgtTmxnQll6eW1EU01LbS1HZE5yNG5YRzRXcEcySEVHYldEaFRIaFc2ZGJxZ0xVdzhiYXZiSnJGSmN5R1dUMWRSbGFaTVpCTWQ3eno5Rm9VWV9pbDJHd0lNS1dkZlBLU3VQQUlmRzEyUEV6LWxDQTlVdEFnc1FwQ2VOZzk3cHZCczJjNkVObmQxZlRwOFRsZ2ZHN1NMeHg5U2lIQXM?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1777167300,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "연기 없는 요리를 위한 5개의 고흡입 BLDC 모터 굴뚝",
+      "media": "Bing News",
+      "url": "https://www.herzindagi.com/your-picks/home-solutions-electronics/high-suction-bldc-motor-chimneys-for-smoke-free-cooking-13999",
+      "time": "7h ago",
+      "pub_ts": 1777160040,
+      "summary_kr": "내구성과 에너지 효율성을 동시에 갖춘 Amazon의 고흡입 BLDC 모터 굴뚝으로 요리 필수품 중 하나를 업그레이드하세요.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "1년에 4번 사서 매일 사용하는 12달러짜리 코스트코 필수품 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTUJLVUZTZlp6amNvU2FlV2w1M2tDQkdTQTB1Qmh5UEdubGNIeGlSYUNITFQwY3ZFTmVOQ0tYVFhHX0NLczlBT1V3WXdCeFl6WDZ3WThzSl9PQUNGYTVUZlpWLVltbDdIZzlid08xaHNPNWZqUlctVXdJWU00MVBkcWp2cEY0eF9NZDIxd0RzSWxHSFlGX2hDWkxpbWRYRTEzVzZJaExxVmZ6Rm11STVpLXBDUzlMSnM1VTdYX1otbVQtbEZz?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1777158898,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Wayfair Way Day 세일의 베스트 딜 15개 - $400 미만의 Sealy 매트리스 2개 포함 - MarketWatch",
+      "media": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVndvYVN6OU02bFhFMk1TU0JMMW9RckNMQW44dHBiUkxYZFhNcFM1TmUyamgtb2JuMFdXVkc4ejhLYkdJTWxsbHNLZnI2OXZtR0Z2YVZYcnI4Y2FvbndTN1RPSW5ZSGY0Q08yYTJJNV9qVkRwdzc3R2R0ZU9xVVVybWlIWWw1X1UzWlVqd1ZkbjJjQUZKTXowUlBLWVdTSmZNY1RHSFE3YUdVM3lFV2NDdWNtUG5xZE1NNWtMZlUtV1dvMUc1Q1lZOA?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1777141260,
+      "summary_kr": "Wayfair Way Day 세일의 베스트 상품 15개 — $400 미만의 Sealy 매트리스 2개 포함  MarketWatch",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소비자 보고서에 따르면 지난 10년간 가장 신뢰할 수 있는 쿡탑 브랜드 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TYmtITTBsZEtuQ0FBMVNKVXhHMk1UX2V5bl83R182dWlfVVNydFBIdDVDcmMtVnRKT3dZeTl4RTRMQ0d1ekI3bGFGQjdwS1dMQ2hwMjY0LXk4T3RERkFaSHJTcFE5VWlfR1NxV3R3?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1777136400,
+      "summary_kr": "소비자 보고서 테이스팅 테이블에 따르면 지난 10년간 가장 신뢰할 수 있는 쿡탑 브랜드",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "DREAME NEXT 글로벌 쇼케이스를 앞두고 Dreame, 현대 가정 주방을 위한 차세대 프리미엄 가전제품 공개 - The Manila Times",
+      "media": "The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWnFPS0ZjNU5FVU5qdGk1bm52X0RBRU92N1FTdGlTcUlValM1R1o2OGFjeVlRNC10UGZUZ1ZxRktoeDIzdGxUSTJlSTR1Y2FaSUxCSmU4d0ZfQVdKMzBYblotVDVMRnlKQWl3ZVZqRm9BVF90bVJpUU9MRUowWHVEZDlKWTJCM2xGbU5lMlV1Ni01Tmk3SEpLUENoNkZXcWwtWklmQTNUdExaNzU0X1J1M1dNUUw1NzNEMXBrOGJTVlFFWWc0TEdjcktpdFFJTkNLWEpINk1FN0NvbEg4Y2hRYWotWUVsT0VEWWNxMno0SktMcTRvdWppdnc4M3NkcFk0eC1YeDRvV1ZoUXhVVnNCVUFjRdIBmAJBVV95cUxNQ0cyZ0p6WG9hTDZVTXFJdDAySzduY3I3VzhiMDlCeTVqdHNMaDMyaUh2MXBCejVPY09fNjlmRk01S3NqY0loYTRjOGt2UlJLT1dhTGgyV1VFV2czMTBOSG0yQUpLUVZKS3V1RDlrX0VIQWRFUDFUYUNaWE4xb1NZSF9QRUZhbUJKczBWaXBlZGxRcDZNSWVxYnVwcllJWmhZUXJYMHBaeVhyYk1VR1pQQ01zMzVSLXZWQjFBMktxWHFBcU5XbWsyaHpIOHIxeE04d2hiNE1tRjJLeGhLZ0oyS0xYRUM1TzNuaTk1RXpRLTB3WWdvNDJaaFQ1WmNlMFVpYmpWdm5Ea1NFRW5JT0pqRUVtQ3BFRmY3?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1777131809,
+      "summary_kr": "DREAME NEXT의 글로벌 쇼케이스를 앞두고 Dreame, 현대 가정 주방을 위한 차세대 프리미엄 가전 공개 - The Manila Times",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "공간 지능 디자인 트렌드: Appliance & Electronics World Expo에서 중국 최고의 디자이너가 전하는 통찰력",
+      "media": "Bing News",
+      "url": "https://www.tennessean.com/press-release/story/173257/spatial-intelligence-design-trends-insights-from-chinas-top-designer-at-appliance-electronics-world-expo/",
+      "time": "15h ago",
+      "pub_ts": 1777130100,
+      "summary_kr": "Appliance & Electronics World Expo(AWE) Appliance & Electronics World Expo(AWE)는 세계 3대 가정용 전시회 중 하나입니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "잔디에 불이 났나요? 이사하는 것은 큰 일이 될 수 있으므로 마을에서 일을 하세요 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DRFF4ZDF4NV96V1VPMEtqVjBoSGllc192NVc5ZnJQaGcyWG5ud01JRlhtandWZW9idHRSVmxzUFFxTTROcTcyRzN6Rl9wSjZWRUc3QkxaeFpqS0pDMWRJT01ZSzZFUTFNcG4yS2hJNkNzR2VUOGkw?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1777125630,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG도 월풀도 아니다: JD Power의 가장 신뢰할 수 있는 프렌치 도어 냉장고 브랜드 - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVdfb0pQbHh0WkVZelhzNkx3aHZhempBcHRSOWEzbkw0UTZRRGxaZkRvNDU0Y0ZDNzVDWGRZVzdCOENJX2pURW05MjM4Nm1YMlBXN2dIZjNPUFhzX3Vjc2EzbFdsNWc3dTA2UVh1LUpCVEFPOGhoV3pDMVBsTHVfb2ZKTUVMQXpnbFJaVm4xa1J1TTVyT01lYk1hUQ?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1777121100,
+      "summary_kr": "LG도 월풀도 아니다: JD Power의 가장 믿을 수 있는 프렌치 도어 냉장고 브랜드 SlashGear",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "60달러짜리 IKEA 더치 제품과 Heritage Le Creuset 제품을 비교했는데 그 결과에 정말 놀랐습니다.",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5haHFsRDRubzQ2QUhiczVzSkNQanRZUUZGeU9obkc3eEFmbmh3OTJSRzV1WmtKbkZoY3FWU2k3c20yUXFwc0tCWERWekxnZmQ1TG1OZVV1Q3VQUzl4OE53RDRPWEVMYzdZV1FCU1k0THhrV0pyQ0xyckJJMU4?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1777111200,
+      "summary_kr": "60달러짜리 IKEA 더치 제품과 Heritage Le Creuset 제품을 비교했는데 그 결과 주택과 정원에 정말 놀랐습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "서부 주방 가전 시장의 인기 증가 및 신흥 트렌드 | 보쉬, 밀레, 냉장고 - openPR.com",
+      "media": "openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjhvMDd4NmZQa3BtWHBqVmRXRGM2LTZnd3JzT1phUFFHSjBtcjRiYVp3Q01mTHhJallXX3NRNnI2UDNWMS1ZRnRoM0ppckNtZDlmbGpSV1ZWTEFBUmdUQjE3ZGxRd25nd3d3UWlvd0tTTGdGSnZPel8zaWpMRDd2WXVIZjFUVFNaRDJ6UTJFTThyZXRDX3RVVXFFT2w?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1777102167,
+      "summary_kr": "서부 주방 가전 시장의 인기 증가 및 신흥 트렌드 | 보쉬, 밀레, Frigidaire  openPR.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "컨슈머 리포트: 2026년에 주목해야 할 주방 가전 10가지 - 무엇이 목록에 올랐는지 확인하세요",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/foodanddrink/foodnews/consumer-reports-10-kitchen-appliances-to-watch-in-2026-see-what-made-the-list/ar-AA21HP9n",
+      "time": "23h ago",
+      "pub_ts": 1777100610,
+      "summary_kr": "주요 주방 가전제품을 교체하는 것은 대부분의 가정에서 구매하는 가장 큰 구매 중 하나이지만 시장은 그 어느 때보다 혼잡하거나 혼란스럽습니다. 밀기울",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
