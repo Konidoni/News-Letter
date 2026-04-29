@@ -1,12 +1,12 @@
 {
   "date": "2026-04-29",
   "date_display": "2026년 04월 29일",
-  "generated_at": "2026-04-29T16:09:40.523131+09:00",
-  "generated_at_display": "2026.04.29 16:09 KST",
+  "generated_at": "2026-04-29T16:17:39.352444+09:00",
+  "generated_at_display": "2026.04.29 16:17 KST",
   "category_counts": {
+    "Market Dynamics": 13,
     "Samsung DA": 19,
-    "Market Dynamics": 11,
-    "Competitor Analysis": 6,
+    "Competitor Analysis": 5,
     "Samsung Bespoke": 8,
     "Technology Trend": 8
   },
@@ -14,20 +14,34 @@
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 6건 감지",
-      "desc": "오늘 수집된 52건 중 6건이 리스크 신호를 포함합니다. 주요 이슈: 삼성, 지능형 성능과 세련된 디자인으로 주방 포트폴리오 확장 - samsung.com. 경쟁사 동향 6건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 53건 중 6건이 리스크 신호를 포함합니다. 주요 이슈: 삼성, 지능형 성능과 세련된 디자인으로 주방 포트폴리오 확장 - samsung.com. 경쟁사 동향 5건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 20건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 20건이 감지됩니다. 주목 기사: 밀레, 밀라노 디자인 위크 2026에서 제한된 생활 공간 컨셉 공개 - KBBFocus. 삼성 Bespoke 8건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "title": "시장 기회 19건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 19건이 감지됩니다. 주목 기사: 밀레, 밀라노 디자인 위크 2026에서 제한된 생활 공간 컨셉 공개 - KBBFocus. 삼성 Bespoke 8건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
-      "title": "경쟁사 기사 6건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 6건 수집. 주요 동향: LG전자, 상반기 사상 최대 매출 달성…생활가전·차량솔루션 매출 사상 최초 10조원 돌파 - 아시아경제. 시장 전반 기사 11건, 기술 트렌드 8건 함께 검토 권장."
+      "title": "경쟁사 기사 5건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 5건 수집. 주요 동향: LG전자, 상반기 사상 최대 매출 달성…생활가전·차량솔루션 매출 사상 최초 10조원 돌파 - 아시아경제. 시장 전반 기사 13건, 기술 트렌드 8건 함께 검토 권장."
     }
   ],
   "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "최고의 TANGS 가구 브랜드(2026): 스테이트먼트 제품 및 일상 필수품을 구매할 수 있는 14개 라벨 - Uchify",
+      "media": "Uchify",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CMTM3QmhhcnVORjdIQXlkVnhWT1p2WVpzQUYxdXVWaHlmaE1nZGJEQ284dTcxdGF1UVAzcGRJYjljazFrQnBOWTJxM2Y2cnJIYXZtd1dFTzhPZ0lMeXNj?oc=5",
+      "time": "Just now",
+      "pub_ts": 1777446646,
+      "summary_kr": "최고의 TANGS 가구 브랜드(2026): 스테이트먼트 제품 및 일상 필수품을 구매할 수 있는 14개 라벨  Uchify",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
     {
       "category": "Samsung DA",
       "title": "삼성전자, 가전사업부 개편…마진 강화 - 코리아헤럴드",
@@ -87,21 +101,6 @@
     },
     {
       "category": "Competitor Analysis",
-      "title": "LG전자, 가전·전기차 부품 1분기 사상 최고 매출 - 코리아헤럴드",
-      "media": "The Korea Herald",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90Q1NhV2pCTjlmN3Z2LWNJZDcyV2RVc1ZzR3pjSzlzaC1GTEw0eG1sbURWYUM4dUtsWlFLVjBIay0tLVJsUEFEbk1UZmowQWZNbTAyWGFlOA?oc=5",
-      "time": "1h ago",
-      "pub_ts": 1777441524,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 5,
-      "tags": [
-        "opp",
-        "watch"
-      ]
-    },
-    {
-      "category": "Competitor Analysis",
       "title": "(리드) LG전자 1분기 가전판매 호조로 당기순이익 14.8% 증가 - 연합뉴스",
       "media": "Yonhap News Agency",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JTXg4VXJnNzBzTFU1LWlXV1dIakNQN29KNWt3V1pHVGRCT3J3SUcwU3JXR1RiVGNHVlp5ZkJpWkY3bkhMRkswMWxWdGRMOWJoUm5BSzhTbktoUQ?oc=5",
@@ -152,7 +151,7 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwOHJxMjUxUEtpRFpvb2J4Qmo2b1k4OWgzLW5OQWpodGJKV2JRRFRTTEd6OHd6X0JuMlVrMF9CSlRIZC0wZzlGMHFOd1FMQ21SRExDeDUwRQ?oc=5",
       "time": "5h ago",
       "pub_ts": 1777428127,
-      "summary_kr": "삼성, 가전사업 전면 개편…경쟁력 높은 제품 집중",
+      "summary_kr": "삼성전자, 가전사업 전면 개편…경쟁력 높은 제품 집중",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -351,7 +350,7 @@
       "url": "https://www.theedgesingapore.com/news/special-feature/kche-smarter-precision-modern-home",
       "time": "10h ago",
       "pub_ts": 1777410360,
-      "summary_kr": "Küche는 주거 개발을 향상하고 증가하는 수요를 충족할 수 있는 럭셔리한 스마트 리빙 생태계의 일부로 스마트 가스 호브를 선보입니다.",
+      "summary_kr": "Küche는 주거 개발을 향상시키고 증가하는 수요를 충족할 수 있는 럭셔리한 스마트 리빙 생태계의 일부로 스마트 가스 호브를 선보입니다.",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -360,7 +359,7 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "KitchenAid 4.5쿼트 스탠드 믹서, 어버이날 앞두고 최저가로 조기 가격 인하 - Gizmodo",
+      "title": "KitchenAid 4.5쿼트 스탠드 믹서, 어머니날을 앞두고 조기 가격 인하-Gizmodo",
       "media": "Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzVqeEFFX29qWjhmaEtEcU1lRFBzd185M2dpS19BRTVZQUxjdG5wb2I3YTV0dnBnLWtGeDd3cTZhNDRuOURtSTZQVmdiTkI3VDBsMGQtZ3F3S3owbzlwd2I3MTFtNmdTd29DUnZvUFYwa04yc0Ntd0NSU2ZmLXYxVHVJSG5IOUFzLVdPN1I0T3pxcmhWMFQ2bzZhOVZCZFFNNG9VU2VPN29wSC0yYS1CSWVkejhhaW5ZUWg3T3l5b29Iakti?oc=5",
       "time": "10h ago",
@@ -462,7 +461,7 @@
       "title": "스마트한 생활을 형성하는 혁신",
       "media": "Bing News",
       "url": "https://www.thedailystar.net/supplements/smart-home-playbook/news/innovations-shaping-smart-living-4163376",
-      "time": "16h ago",
+      "time": "17h ago",
       "pub_ts": 1777385820,
       "summary_kr": "LG전자 방글라데시는 ThinQ AI와 에너지 절약형 인버터 기술을 현대 스마트 홈에 접목한 것으로 유명하며 스마트 홈 시장의 선구자로 남아 있습니다.",
       "strategic_implications": "",
@@ -476,9 +475,9 @@
       "title": "말도 안 되는 현명한 쇼핑객을 위한 체크리스트",
       "media": "Bing News",
       "url": "https://www.thedailystar.net/supplements/smart-home-playbook/news/no-nonsense-smart-shoppers-checklist-4163371",
-      "time": "16h ago",
+      "time": "17h ago",
       "pub_ts": 1777385640,
-      "summary_kr": "우리는 모두 거기에 있었습니다. 매끄러운 터치스크린 냉장고나 사무실에서 켤 수 있는 에어컨에 끌려 앱이 계속해서 충돌하거나 충돌이 발생하는 것을 발견했습니다.",
+      "summary_kr": "우리는 모두 거기에 있었습니다. 세련된 터치스크린 냉장고나 사무실에서 켤 수 있는 에어컨에 끌려 앱이 계속 충돌하거나",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -544,7 +543,7 @@
     },
     {
       "category": "Technology Trend",
-      "title": "하이얼 스마트 홈의 1분기 이익은 북미 악천후와 관세로 인해 15% 감소 - Yicai Global",
+      "title": "하이얼 스마트 홈, 북미 악천후와 관세로 1분기 이익 15% 감소 - Yicai Global",
       "media": "Yicai Global",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPemdiQ1QwaFVYcFJwSVJWV3VZNDlWWTJ3eDRhTTJBRE85eV9EUm4wLXZpX0h3VW5SeC1TUldXRjhKR1I1Zk51Z042TlVRSUhubHlETkJaWGUyUmpDdENuQTFFMkU5RFZxTEZGT0p0OG90Qlh0b1J6VjNkVGJ4M2RUSUxTMXZJNGtYeG5IUjZlRVJKVGFHcloteW5nS1drVkJJNXNzZUVHUW9MRkdLOW5jbnJPODYyM2wzeFE?oc=5",
       "time": "18h ago",
@@ -566,6 +565,20 @@
       "summary_kr": "삼성, 하루 Rs 33부터 시작하는 맞춤형 AC에 대한 Finance+ 제안 발표  Moneycontrol.com",
       "strategic_implications": "",
       "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Mike Holmes가 이 멋진 주방 기능을 적극 추천하는 이유 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wTms1amJIMUpjSnZReXZ0eXRtYlg4ZmZUMmpGVmVEYkVHS0g4Ulo1NHVlWkY3ZTd6ZllmX0RFVzFKVVBQYXRWb09ZcDZNam9NNm9OMGV2dXI3M1QtemcyNGltRGhPZ3BjSnRZVEw3cVNLUjB3WGNR?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1777379334,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
       "tags": [
         "watch"
       ]
@@ -645,7 +658,7 @@
       "title": "삼성, 어머니날 봄 블랙 프라이데이 세일 개시: 갤럭시 번들 $325 할인, 맞춤형 가전제품 $1,700 이상 할인 등 - 9to5Toys",
       "media": "9to5Toys",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaWZfSTE2SldSQjRYS1kxSzV2OTBpZ1BZc3JVcG5reHFlWm5QaElKOUNKZHpfazBNOFZ5RlFZdTNYM0lIU196UUNCZXhvNEg4dzhRN2ZWblBIZ2RfOEZrcldteGViWGxCeFloMTVlb1g1dHFBNU4zUzNvMWV0NzVSNnRRNA?oc=5",
-      "time": "20h ago",
+      "time": "21h ago",
       "pub_ts": 1777371420,
       "summary_kr": "삼성, 어머니날 봄 블랙 프라이데이 세일 개시: 갤럭시 번들 $325 할인, 맞춤형 가전제품 $1,700 이상 할인, 기타 9to5Toys",
       "strategic_implications": "",
@@ -689,7 +702,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1VDWnZYZHI4d211SmpYLWphcWhPSGpCLWhfZHlrMDdwVU9sUG9uMHN2OGkxS1hRQVpsREo0UE4wZnMxTEdtdlpSSXZmdGR0RFFlT3F6ZXFiTFRsM1dXR3Y5QzVuSklqTXBrdHgzcU8yUlJxcjB1eWR1aHRwY2hfUEhMN1hjSWZ2MmRJZWdkU1dfY1dXRFBOc2R4aVVNSUk?oc=5",
       "time": "21h ago",
       "pub_ts": 1777368872,
-      "summary_kr": "삼성전자, 중국 도전 속에 TV·가전 사업 재편 서울경제",
+      "summary_kr": "삼성, 중국 도전 속에 TV·가전 사업 재편 서울경제",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
