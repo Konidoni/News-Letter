@@ -1,0 +1,227 @@
+{
+  "date": "2026-05-01",
+  "date_display": "2026년 05월 01일",
+  "generated_at": "2026-05-01T16:22:36.275722+09:00",
+  "generated_at_display": "2026.05.01 16:22 KST",
+  "category_counts": {
+    "Market Dynamics": 8,
+    "Samsung Bespoke": 1,
+    "Samsung DA": 4,
+    "Technology Trend": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 3건 감지",
+      "desc": "오늘 수집된 14건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: COMFEE' 12-in-1 전기 압력 밥솥, 아마존에서 66.32달러로 인하 - Technobezz. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 6건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: 삼성의 새로운 프렌치 도어 냉장고가 현대 주방에 완벽한 이유 - LAmag. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 8건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "서두르다! 이번 주말 Amazon의 숨겨진 아웃렛에서 주방 필수품 최대 70% 할인을 받으세요 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNzR3WTF4WnhWTDRsTVE0T3BfbWUxZWc5bEg5ejhXQVBDWWgyVXFza2M1LXQ2OVdtajV5LWJHb09nR0lIMklNV2l2YTV2OVk5SUZ3LWM4RnJJNFppVmo0el8wRHVPOTZaV19UWXp3VHZKQkZ3OHI1a0FIUGVhUHBvMXRnbkkyM0R4SWc?oc=5",
+      "time": "Just now",
+      "pub_ts": 1777617000,
+      "summary_kr": "서두르다! 이번 주말 Amazon의 숨겨진 아웃렛에서 주방 필수품을 최대 70% 할인받을 수 있습니다. Allrecipes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성의 새로운 프렌치 도어 냉장고가 현대 주방에 완벽한 이유 - LAmag",
+      "media": "LAmag",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbUhBalBya3VBeVBkc0VxTFRRanhNX2xsWVpUSDBBLUtyNExldlRaMVYyT0JqS1Joa2pBWDEtLTY3TnlLQnBHZnJmUEdlQzVVUnVlR192V2xscXpkSHZzSjRRXzBUeVpjY1RGek1qd0JFeDJiVERGUk5kQW5zcExNTGVVMEpTeEFFZXFKbzhwXzByblYxOEZzMTBrSzVOcTRxczFLTUMyVUttR1ZkYzI1VzJhZHlsa2VDVG1Ub1ln?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1777607429,
+      "summary_kr": "삼성의 새로운 프렌치 도어 냉장고가 현대식 주방에 딱 맞는 이유 LAmag",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "COMFEE' 12-in-1 전기 압력 밥솥, 아마존에서 66.32달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2JJQ2hPUUY0LXRRQjhZX2VENW1GTGNmOURlUWdiTnFzSWk5akZfY3gxczhtbTdFQjV1Q0pQUFJVX0dkSFFZQWtMZFV4ZWZSejk1amxKbE91bzRPZUMtMU5GekRzNWlUTkx0b1J6eXh2bm94cDJHZXNLdmNud0EtdHBtSXE1T3lrRUZEazhFZkZGek03Mmlha2pEMA?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1777598956,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "캐러웨이의 8인치 에나멜 프라이팬 리뷰: 별 4개 - 주택 및 정원",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODA1dFUyQnFENTkyc1NGamt5Q1VSZ095U1B5X1E4dDkwVTdINkFuRDBYOHN3Z0RMQV9fcmcwQXNBOTV2VDFNMmlkcFpvclg0T1hVNm50X1QxMjNpQkNWRFoxVUdTYVBTaXFwQmdjdS1yNUp0TkJZWUxkQ3BtSFQ4OGhRU2piOUcyM3ZUZ0tuWk4?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1777586400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb1FvbGRBaS1jWElwZEhSZW50N284TU9xNEs4MUZTTG01b3RhdGNVeDNvOElvV3ZVbXQtTDZQMTVmaUJpaE1tVk9JN1VueEtYYURGdi1RVHhnSDJoTG9KZHh4YWMwcE45X3lhWUR4YW4zZTRVWkQ2YVUwUXRPYWJEbg?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1777580198,
+      "summary_kr": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "쿠쿠 CAFG-A0601S 카운터탑 에어 그릴, 아마존에서 147.59달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZllfSktMRDIzR29uOTlVWW1MTDZmZmJGTVV6UVNBazFVVjFELTRrUlE3bmZ4WEhjb21ETUc0N2NKdGJCV1REbG9aQnI5ZGpHOGJ6dUxkNjExRVhSOGdiRGRqNWJyT0hjUmN1RXVLeklheE5uVEtMNTJkZzVqODVfQ0RtZDh6UzNzQ19TYXdyZV9kNTRWT3YzM0tmbDM?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1777574236,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sunvivi 18 Quart Electric Roaster가 아마존에서 62.99달러로 인하 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSUQtem5CRXF6TF9DUk1YcnFiajdSMGNxLUdaeUt2ejc5MFdVTnVKZUM5eW9IMmt3MGZtNy1peFRMdG9MNWhpUEJJM3ZCaS1UWUl3b19pcHZ5RnRNVTFNeGViQ2FkanlxaFExS1F5SHYtRlgyZXJmTVpTUmFiSGFKRFhSLTRLVHhsd21iSElHUDNxdlE?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1777574236,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "골프 캐나다의 공식 주방 가전 파트너로 시그니처 키친 스위트 선정 - Golf Canada",
+      "media": "Golf Canada",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkI1UzJkSHBGYm9OUXRqZmxidzZXS1ozQlB6Q2lEalFXMTVhWDFSOTVjd0p0bzJCQS1jeHpSX2JDcHdtWnJKM1lnUUtVZnFWV2RYeUhxeldoUGNNbExXelFYOHFhWWNKeWU2OWM2SWJwZWZMdFBGLTR6c0V3Q3c2NFd0cFVxOU1lOGJTVmVzS1A1Z3F1Y0theE1RVGZZXzJHSnNRUTNUS0lWY0lCYXZwd25uRkExUlE?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1777562370,
+      "summary_kr": "Golf Canada의 공식 주방 가전 파트너로 선정된 시그니처 키친 스위트",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, KBIS 2020에서 차세대 주택 소유자를 위한 브랜드 입증 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2NOR2NWZVpYT29mM2J0ZkxLeW10cTJERlBxMzY2S3Y1MTlaTlhSUkNxZEpjMDJBck1DTHV3aFlzNHQyLXhlMUdTdVJKVTRWbnRqSUE2X3hob09VMG9xd1k3d3Z1ejVoTi1KTUxRbE5EbndPVEJ3TWFFcENKMEJ2S0xmRUY1UEFJ?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1777559081,
+      "summary_kr": "삼성, KBIS 2020에서 차세대 주택 소유자를 위한 브랜드 입증",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 중국 3대 가전제품 제조업체: 글로벌 가전제품 혁신의 새로운 표준 주도 - The National Law Review",
+      "media": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX0t4SUFtamphblNSWjl2T1lyaVhaUGZDSGJxaWVjX0xRekF1dlVZVDQ3VWNRU1ItdUZ6amJncG8zeVA5STVORl9EX2Z5ZEtOSDkzTzltWjdmWGxvelA1YUdOWVBTaEdtZWhHaWp4aHBlbUVJS0l2clBQcjhPSl94NE5ESDZfNWRvazZ0Zy1UMWpLREJMVGFNZ19KM2JHVkhYbzhMT3VKVkhTVXRxd19pWlU2OEZDY0E?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1777549613,
+      "summary_kr": "2026년 중국 3대 가전제품 제조업체: 글로벌 가전제품 혁신의 새로운 표준 추진  국가법 검토",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "EQS-CMS: Haier Smart Home Co.,Ltd.: WpHG [독일 증권] 제50조에 따라 출시 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTlzMnIwUWpVTEdnME8wbG4tRGhFaDVfb3BIY25ETWczWTV3N2hXLWpVOS1ic3p0enpwOVVoakMtRVVYUTB6RjVYZXZqMmpEcmhmMVNseHdKMVpfYkJMM0dKS0dVZ05RRkhKSWhUN3Q2bmhEbmpzRURvT29XTnFQcHo1bDBJS09tcTNZUXFhQjliRVZCcDRXZTJpNmhKTE9uZnRvWUpaZS1KZWdV?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1777547163,
+      "summary_kr": "EQS-CMS: Haier Smart Home Co.,Ltd.: WpHG 제50조에 따라 출시[독일 Securiti  AD HOC NEWS",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "안전 인증을 받지 않은 전기 난로는 여기에서 판매할 수 없습니다: 소비자 안전 사무국 - 야후 뉴스 코리아",
+      "media": "Yahoo News Singapore",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaEJ2d3pldFYtMENia0JBWmMzQnlzVWVsYVF4dC1aaS1HcmJPSy0yMFJ6a3NxdU9YNG9sLWFxTjhSVmw0OG9jODZ6WHU3QU41dl9xakdSS1BpNlFPM0FYMTg3MHltNUpYWWhoLURac3h3QmptMG9CdXM2dlpKSlZ1LQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1777543200,
+      "summary_kr": "안전 인증을 받지 않은 전기 난로는 여기에서 판매할 수 없습니다: 소비자 안전 사무소  Yahoo News Singapore",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, TV·생활가전 사업 전면 개편…AI 안경·로봇에 투자하기 위해 중국서 철수 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYjNyWUV1RVc5Y29fSEh4d0tfX3RYMXNJdlJFSWVPLU5HVXZCaE5UV2dPM1pkLVFPbWNDaFIyVTBuQWFnUWl6Ui1xVHJuT1lNUFB1b24zYUJMbmMwUTExNHd1WG5NOHpKN25rc1Z4aF9xcVVNVVVMdDMxZjFQUFdEZlZzX1NvaXRvTm51c2pBRzFWV3MtbWh5Skg2dFNUNS00NjhB?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1777539314,
+      "summary_kr": "삼성전자, TV·가전사업 전면 개편…중국서 AI 안경·로봇에 투자 서울경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 칩에서 54조, 가전에서 0.2조 벌었다 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUVVUOHN4YVZNWUt0ekR3WVdNdk9YMEVYTy1TczhfV0xCeFl4MFBITDVqWVBVV1JCcGl1OWMzZFVBOGpfelFMdlFSdEhNNGxUdHBZSC11MXdYeTRyaUFNVTFlRzZNOGRLLUQ0STJWQ1ZrT19YOVdSUF83TllWQkd2Y3c5SUxaamwwUW02ZTRHcGtrMEhJelNVN0JaMjg2VDB2?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1777537955,
+      "summary_kr": "삼성, 칩에서 54조원, 가전에서 0.2조원 벌었다 서울경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
