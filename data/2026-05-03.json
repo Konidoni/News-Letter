@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-03",
+  "date_display": "2026년 05월 03일",
+  "generated_at": "2026-05-03T16:13:49.369522+09:00",
+  "generated_at_display": "2026.05.03 16:13 KST",
+  "category_counts": {
+    "Market Dynamics": 6,
+    "Samsung DA": 1,
+    "Samsung Bespoke": 3,
+    "Technology Trend": 1,
+    "Competitor Analysis": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 13건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 3건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 3건이 감지됩니다. 주목 기사: 올 여름에는 가장 작은 주방에도 아이스크림 메이커를 설치할 수 있습니다. 새로운 컴팩트 뉴트리불렛 Chill 덕분입니다.. 삼성 Bespoke 3건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: 컨슈머리포트, 2026년 최고의 로봇청소기 룸바 맥스 705로 선정. 시장 전반 기사 6건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "올 여름에는 가장 작은 주방에도 아이스크림 메이커를 설치할 수 있습니다. 새로운 컴팩트 뉴트리불렛 Chill 덕분입니다.",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcUFYRFFjUlpPQlRHS21WcjZ4SDU0X0dJNEJha2VNeUJZQUp2OVRfT2lLWTJrdlpHUWNKSEE2M2pMeEVMT3JfU09sYkUteEl0V3IxTExocDZHUXgyb1BuRDRkUEl2UXJmRXVnYzNDRGFWQ1RJb0FwTGpjU05hTlFQbkI3N0FmZ0UtcEdmSlZ5UnNfeU5QUlBn?oc=5",
+      "time": "Just now",
+      "pub_ts": 1777790037,
+      "summary_kr": "올여름에는 가장 작은 주방에도 아이스크림 메이커를 설치할 수 있습니다. 새로운 컴팩트 뉴트리불렛 Chill  Homes and Gardens 덕분입니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "'문지르지 않아도 됨': 상쾌하고 간단한 전자레인지 청소 꿀팁 공개 - 맛",
+      "media": "Taste",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDNUQXFpdG45N1hsbElXWDI0cUREU2ZBeW56T1gtSjlIZmhIUXh4NmQ2UFFQdmR5eG91VWlVc2xOV1VlWUtDRVItOXVvMHR4a1E4NW9jTjEta0l1d3dURDVtRWJVbFdlS3kwMHZlS2YyVUpycnV1by1Fc2x0Q0NHelFkWUdPai1jU083OVJB0gGOAUFVX3lxTE1uN2RTcl8tclZvYVpwN2FsRjFwQ0ZrT0dYWlpVSzdvZEg4Nk9mUjM5VHJXY2laV1Bpdks4SEdpZnBPNHJEcFVGLU9ONEZXbkoyaEFUTFFpSU5yS2hrUXNlVTVrcXNtSkpuWnp1VDNZcmZOcXBXYkUtejVpWDhEUnV3WDIzcDI4Vmk3X2YyYlE?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1777775760,
+      "summary_kr": "'문지르지 않아도 됨': 상큼하고 간단한 전자레인지 청소 꿀팁 공개 맛",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 이익 90% 감소 후 가전사업 구조조정 - 디지타임스",
+      "media": "digitimes",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHRRR3ZSeFE1QVRmcWIwUVM2NUNJTmJUVWFiMnRoYnlKTnNSNGk5S3NiTFhRS3I5VjNOUG9PVjdfcEo4SW9VV3lnaFB3M3BhUkszNjdEdldLcGNkUEdJRTdVOHFJejQ0dENxdXZNekw4Y0ZNamQ0QjBNM1B0R2lqLWt1eHo5enhNTXpVUTA3ZXYyMWZiODlCMG1KZ180ckMt?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1777775585,
+      "summary_kr": "삼성, 90% 이익 잠식 후 가전사업 구조조정",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성 비스포크, '악마는 프라다2'와 손잡고 런던-서울 광고 캠페인 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnBHWmdLNjNIbVlTZk9mai00ZGJVMzFQX2lqRXlrdmtwLThLa0hqX2dMUFU3ZU4tU2hxVXM3amdGUHhxVHZjMFdEYm1XLVNTN1lxeWNLTjRPOVA3Ri1Xc1R1QWZ1Uk9MenJmQ01Qel9sVERET0t0STc2YVQxak0tZy1abjF5empfNUhXclFOeWREeTlESjdKRFpxQQ?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1777771983,
+      "summary_kr": "삼성 비스포크, '악마는 프라다를 입는다2'와 손잡고 런던-서울 광고 캠페인 진행 서울경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성전자, 맞춤형 AI 콤보 '악마는 프라다2를 입는다2' 한국·영국 캠페인 연계 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RV2h3My1iOTFKbDlnSy1nN3JKNnRGbDdpeWEwbU05ajFsRUhfVFM0Nk9mTXN6LWE2NVhMREZYa1djZkhuazA3elZNbHJGZE1DME9TNjJzYmxKZVNGdERyd1ZhM29HZ0MyQWYxM1BQYnp0dUd1OTB5cTBR0gGOAUFVX3lxTE1FTkpncVJPTXZST3ZzYzk0R0dOdDdqN2tFMlBQSzAxeURsNHJIRlZWbzZTbXZ5VE5DZk5iYkNMR2xVNExoT2NSV0RXQ29qVmZUUHl1N3BkRzRocHJLaGJjOWs4b3ZFT3JsRy1NekotVF82SEdYVFJ4MGh5VXZFcHNlb1BYdjhpcEpsMmVYRXc?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1777770060,
+      "summary_kr": "삼성, 맞춤형 AI 콤보와 '악마는 프라다를 입는다 2' 한국, 영국 캠페인 연계 - CHOSUNBIZ  조선비즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성전자, 맞춤형 AI 콤보 글로벌 필름 캠페인 개시 - 디지털투데이",
+      "media": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQngwYk5haGl4QWE2UUJPVEs0M0hHeTNZMUFBdTVGZDhkQ3J2cHAxa0wyZDJ5clJ2VWlrY3QzOTZnMHFTcm91YnpXWmdoU1ZqQkdDaDM2RWV5ZUxyUjN4N1l4MmFZRVRPSHlYT01DajgwR24wTms2amNLUkhmV3VmNVl2cldYeXpDalVoNzhVWWt1bFhDMGZxWkQ4RXhzUHA2c3dNRjJMTDJ0bXY3SkxpTkUtRHEzUQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1777770000,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "일본 가전제품용 Pm25 센서 - 시장 분석, 예측, 규모, 동향 및 통찰력 - IndexBox",
+      "media": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFdValZRNjd3R0E0cUFVVE5jRHoyX3YzdGsxQzRjS01CeXpMQ2ZKQXplR0pNazh4QUlzUFdPdk5kN3RQMWZrYzhMM09wSTZreW1VR1NHNklqM2owNWtPN1RGejIyaEFScFdfd2tvakJOT19ZUE1SbXkzcGJfWG91NFZEZk54blBmcFdnbXZTSVlDY2d6bzM1MUpUWkpBTEU3Qi12cVlPbktVNTJpSEhubVZJMlZ0QW5odVB3?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1777767974,
+      "summary_kr": "일본 가전제품용 Pm25 센서 - 시장 분석, 예측, 규모, 추세 및 통찰력  IndexBox",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "ESPHome은 오래된 전자제품을 스마트 홈 장치로 바꿔줍니다.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/other/esphome-turns-old-electronics-into-smart-home-devices/gm-GM1F5EB202",
+      "time": "8h ago",
+      "pub_ts": 1777761960,
+      "summary_kr": "ESPHome을 사용하면 애호가가 고급 코딩 없이 오래된 전자 제품과 예비 부품을 기능적인 스마트 홈 장치로 변환할 수 있습니다. SIM 사용",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "스카우트됨: 마사 스튜어트의 새로운 주방 라인에는 어머니날 선물이 가득합니다 - 야후 뉴스 뉴질랜드",
+      "media": "Yahoo News New Zealand",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb05aZWh5TEgzaHczZldUck1IVFpKdGdFbGdBN1dSRDlJSmx4V2pIRnR0bjV2M3d2WFo0VUxJQzZWQ1Z3SUZrYjJ1R2R0VER0VFZPbkpwUXFxRklESkNVd1VQUk9hMGFORDg2NExXZnYydHFyRXB5a1UwVjA3MG04ZWJR?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1777744730,
+      "summary_kr": "스카우트됨: 마사 스튜어트의 새로운 주방 라인에는 어머니날 선물이 가득합니다.  야후 뉴스 뉴질랜드",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "영국 주방 회사, 2005년부터 사업 중 '즉시' 거래 중단 - Daily Express",
+      "media": "Daily Express",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZy1TOWxyMGVCZVViVmtPWVo3UmszWF9pZkpzVTRkYVZJNG5UeU5OUmpDSGtUamVCT3Q0YUZ4NnM4TWlwR3RjalRuT3doc1JlVmY3N2cxVFhlUG1mQ24zN0Y2MUE4aDVPM2ZESHNMVGJLYjBIVXZJM1U1M1gyMzVia3dVaGQtRjFuSExHc2Q5NUZVTXJteVlPdUVZWVh5WHh5ZU9GWUFwS0RKVzdPMkQ2QlhzTDhXbFVhSlpBadIBwgFBVV95cUxPZUVLdWprRThYRkFVZ2ZhMzVqaGMySS00WW9SbWlXRkcwdl9qd01LX05HNV9xRGdrUFVVU2JhMk51T1ZKNElybFNjWU5nanpSaVVuQmdzTTlxUUJTNTRGWHhLSDMtWWI0a2hVU3dvSDdlUHl1cUtfLUctS1NzSkFHX2lsSHVZTjgtdnBRQ3dvSGMtTHNMWEo2Y1hPeDF0NWdUTWV4RlU0VGdRb0FDdGVjYUcyS2NHXzE4djRvRWg1VmdZZw?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1777732200,
+      "summary_kr": "영국 주방 회사, '즉시' 거래 중단 - 2005년부터 사업 운영  Daily Express",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "컨슈머리포트, 2026년 최고의 로봇청소기 룸바 맥스 705로 선정",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/other/consumer-reports-crowns-roomba-max-705-top-robot-vacuum-for-2026/gm-GMD4425B3F",
+      "time": "17h ago",
+      "pub_ts": 1777728900,
+      "summary_kr": "컨슈머 리포트(Consumer Reports)는 iRobot Roomba Max 705를 2026년 최고의 로봇 청소기로 선정하여 여러 성능 부문에서 높은 점수를 받았습니다. 득점한다",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "컨슈머리포트는 2026년 최고의 로봇청소기를 선정했습니다.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/technology/robotics/consumer-reports-names-the-best-robot-vacuum-for-2026/ar-AA22f41k",
+      "time": "21h ago",
+      "pub_ts": 1777716000,
+      "summary_kr": "어떤 로봇청소기를 구매해야 할지 고민되시나요? 컨슈머 리포트(Consumer Reports)는 최근 여러 가지를 테스트한 결과 상위 4개 제품을 선정했으며, 이 제품이 1위에 올랐습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Beko가 2026년 현대식 주방에 조용히 혁명을 일으키고 있는 3가지 방법 - t3.com",
+      "media": "t3.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDI1MnI4UWUzYWZlV3g1eEJwaDJrVE83VTUtTHhTbWdhejExYnY0eHFWUmd3LXQ5VEJPbHpKZTN2cDVwU1h1V1NtOUtuNWJDZ2d6X2p3RWw3emh2MnRKR2hHOUJMWWlLTEd5R3MzSHVvR0Y0X3NDaHREQnRidjE1RXpRcU5qeXZaYUwwRFdQdDlOY0xZMlFvUG1Fc3d3NVFyajVRdnhSdw?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1777708800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
