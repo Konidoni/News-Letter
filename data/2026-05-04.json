@@ -1,0 +1,283 @@
+{
+  "date": "2026-05-04",
+  "date_display": "2026년 05월 04일",
+  "generated_at": "2026-05-04T16:44:02.445452+09:00",
+  "generated_at_display": "2026.05.04 16:44 KST",
+  "category_counts": {
+    "Market Dynamics": 9,
+    "Samsung DA": 5,
+    "Technology Trend": 2,
+    "Samsung Bespoke": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 18건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 3건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 3건이 감지됩니다. 주목 기사: ASKO는 EuroCucina에서 혁신적인 5-in-1 섭씨 오븐 제품군을 공개하여 현대식 주방의 다양성을 재정의했습니다. - Yahoo Finance Singapore. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 9건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "스마트 주방 유도 에너지 범위 시장은 USD 4.1에 달할 것입니다 - openPR.com",
+      "media": "openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdU5tQUVkalEzZkJMX2NBekdjMXNfWVdzc3A4UkYwdlYxNmt5SENOcFFNRHh1am55QlZnbHdDcTk2aHVab1ZWWlFFaHkwd203NnI4TzZuWk5UQWZSLU9IQzYzbU8yUGR1RlZiSG03QkxWaEZIX05pYUE1M0VFU3NjT2tvQkk1V2JkV2Y0eDdUTWMtNXNWNUZCX1FxRHFDQQ?oc=5",
+      "time": "Just now",
+      "pub_ts": 1777878506,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성·LG 차트 엇갈려, 가전업계 '구조적 위기' - 코리아비즈와이어",
+      "media": "Koreabizwire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3Z5R3RZRXhBaVYzdXRrVU5JWTBzbHQ4NGdMMG1JYlBDSXlKelZvZGlHUE84NDNEelEtbDYySDZRZFczSkwycGVCckMyWlAxckNHeUd6WmFUMlZ6SU5ROXJHWEpjeDREQmxhWkRaMWRlSmtrOXlyQjFuVEVMUFZvbm44NGlUbTdIUWYxVFhsd3c1QnprT3I5NXUxNHp1WEdWWk9neUFzdThkcU1HblNqeUxOcw?oc=5",
+      "time": "Just now",
+      "pub_ts": 1777878036,
+      "summary_kr": "삼성·LG 차트 엇갈리는 한국 가전 대기업, 구조적 위기 직면 한국비즈와이어",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, TV 헤드 교체, 소프트웨어 전략으로 전환 - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT213dldGUFJNa3lIdnRfUW1tTHIzVkZGbU9Sd1o4dlZfejFPTzNuZHV4aEFhS05OX3FscmVwbUhUWHlFSjZBNllUdVdteUszVld3c1Y5ZnMyZ0xPZDFLbVUxQUtUYWxOckhrdzNrOGFkQ1gwWHBIWkhFTW04S2dLdFRlYUliTFh1?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1777876425,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "ASKO는 EuroCucina에서 혁신적인 5-in-1 섭씨 오븐 제품군을 공개하여 현대식 주방의 다양성을 재정의했습니다. - Yahoo Finance Singapore",
+      "media": "Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnk5aFBqZTdrb0pTSFg2eDJXSkVHd0tpSXF4eUxaSWtUX1EyZ183UjR5Q29nY19iTFlJQkRiZldxQjA0Ni1yMGdoak1LUTdSdkVUdEl0RVAzTnFUbC1rTVdaZVpxTDk1UV9sNV9GWGFzbm12RnFsOEtTNzRZSnl0dE9kZw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1777875780,
+      "summary_kr": "ASKO는 EuroCucina에서 혁신적인 5-in-1 섭씨 오븐 제품군을 공개하여 현대식 주방의 다양성을 재정의했습니다. Yahoo Finance Singapore",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "플라스틱 주전자가 미세 플라스틱을 음료수로 침출할 수 있습니다 - 가정과 정원",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ19XZEtET1o3bjJvY2o2X0VtYW1NTXhhai1CS3ZLZXNiVndEM3hEdzc5RkZOaUlGU2tsdXlYNXMxa1duNko2S2RJWTl5aU5OV2xUOGQzUzJqY2Q1TkZMbmFGSU9xWGJuWTQ4VFVGMTN6TUNtWEhXSWkwV3FnSDVoVnc4WGl4T0thMmNzRDFMWDF6c0Z5c1Q4Z2ttUQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1777874400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 경쟁 속에 신임 TV 총괄 선임 - CEO Insights Asia",
+      "media": "CEO Insights Asia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGJNU0ZRS3ppTUhaNlV5bnlqbndIOGw0YmUwTDJEQXRkX3RLcVMwQTdKenIxZ2JhNXgwOTkySXNnV2FvOEpocUFZeUtZZE1kYk53eVZoZ0hvNHJQRUROY0RNUHBtRFdTNm5nVzJpQ3JrNXBqNVRnWGIxZmZwNFBpbjRUZm1ON2RFZ0ROem9GZ0RpcVN5OG9SR3J0TnBFeWJmQUdIc3I4Z0lTZG5xUzZwMVVzQUVCZlVr?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1777870715,
+      "summary_kr": "삼성전자, 경쟁 속에서 새 TV 총괄 선임 CEO 인사이트 아시아",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성·LG, 침체된 가전사업 살리기 위해 고군분투 - 코리아타임스",
+      "media": "The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOFE4MjkxVnRVRGpVbWZEenlMTlE3elZnemxJVUdMM1ZQcjF0bU82WnBXa3ZrcHB4LWdvYnBCeWtseFc2WkszMy1IMzQ1TzJrZzZjWWducjZqZXNfallVMHNQcHNEc1hWVDJHQUU3d1R1MEdBeFFNZWhaSURRQk1aVzR3UExBM1BpVmZzc2R6S1FRTFA2SllsZmIzTGNtMFRuaGY3Y1NUTlFOR21XSko5LWhUR3ZCQV9lMGVUTzFR0gHDAUFVX3lxTE1YeExHbU1GeDV4dHFWRXZRN3pUMHN4cFVJYVB5OTBqaXhUT2VodzBMMnhzSGNONUxxUFFiN3dycU55WUtfeEJkUFNULXBweGxZcjBpcmN1cmdRdHBoSEg5V0tkaGFwUzRrQkI1aFR1aEJjSkxqc3ppYU1TbVNSMElFNlltN2R1Tnhic3dGSWhRQWFycE9LUDY3OWVoOF84NVpzZHRiUTBrZ2NnR1RCb0FxQzVzTkt6d1ctOGE0eFJ2bE9nQQ?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1777863124,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "\"요즘엔 건조기도 없는 집도 있나요?\" 삼성·LG, 세탁기 시장서 격돌 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fUGxPamxkaFlWWTZxeDBfREdkVkJkUkZhQWd2eXFMSXVOZGZlWVdTVWdGZWdDbnhzTGh4UTU2QS1iamV6ZnFSZ19DdVZscy1YeGxj?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1777861807,
+      "summary_kr": "\"요즘엔 건조기도 없는 집도 있나요?\" 삼성·LG, 세탁가전 시장 격돌  매일경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "기업, 지능형 가전제품에 AI 도입 - China Daily",
+      "media": "China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XdHlTcnFTcDI2UVUyTEJRaWx6MDkxWG5UbGZ2emR3aTJpWGZnQTBzTUpzcmpOMXp4R29oajBZZG1sa1g4QXZRUG9TNWVMMFllbUpwNURoMHA2TkxYcHRmaEl0SHRGWnMtcDE1OWtWLTVUNDRlakVveEd6THBOdw?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1777861500,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "1980년대 주방에 있었던 공간 절약형 가전제품 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnEzV083XzBScGlpSGJ4cnNjMUpjS3RYNl9PSURrRUloU1RWVnI3aElvSTdjZ25ZQkR5OGY3TVBvTnNfUzBPUDBWdXdtbTktaG5aalBmZVNvS05BVlJiVmktMGFlS1lSazhqcVJtZTl3ejRHQ0xDT2RNbjRBQ2RSV1VsNTc4bkFYR0llU2lsOWNxbnMx?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1777831200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Salter의 저가형 슬러시 기계를 살짝 엿봤습니다. - Ideal Home",
+      "media": "Ideal Home",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlRoQU1UU2F2VlU4SkViYkk3eDZNdkp1TjZ0NGFJVU5ZN2gyenBNZ1g5dmx2U3JzWnY0S1VQeGdmUGE2aklEdWRyMW1CS3N2Z1hLWlk4TGFFWGRVc2VvdE4xSGlrSUR1dTJ1UFlSbEVtQmV5Yzg5ZmlLTnFvQ2NyZFlIY2ZFYXB2Vjk3RVk4aUFqdw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1777813200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2005년부터 요크셔에 본사를 둔 주방 회사가 '즉시' 문을 닫습니다 - Yorkshire Live",
+      "media": "Yorkshire Live",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzRxM1l1T2d1U3ZPMmZMTEp5SFNKQVVROWVoOHNNaUtNQmxsYzBxZlFRY0EyRGl3RmdScExwOHJWQ0FfZzg0eFAxMDFlSnd1SkxnN0RIQmM3M3RmazZnR19KV2ROT25aelZmRGlzTExPMTdRcFo4UTJOS2JSZTNNZXE1ME43Tm9tQ3dhcXl3blZuQdIBlwFBVV95cUxNaHROaVJ2SzFIQjV4YTBIQUxYdXNkbzVYc0NLUTBLTXAtcFFEZEdkRGVyQWpvbVZ1OU5pMjdlcVlvUFdRcDZJWDBBQXlKSWNKTUV4b0pMS3F4b1NfS0xsMGxncXFGZ0xaZTV4bk9odUt5TTAtaG9rbERfMXFGclNieTM3dng0WU9WQnVfZ0tZSjlVRFFNbmpF?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1777811395,
+      "summary_kr": "2005년부터 요크셔에 본사를 둔 주방 회사가 '즉시' 폐쇄됨  Yorkshire Live",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전원을 연결해 두면 조용히 불이 붙을 수 있는 조리대 위의 일상적인 주방 가전제품",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-gb/lifestyle/shopping/the-everyday-kitchen-appliance-on-your-worktop-that-could-quietly-start-a-fire-if-you-leave-it-plugged-in/ar-AA22jcZ7",
+      "time": "20h ago",
+      "pub_ts": 1777805300,
+      "summary_kr": "영국 화재 캠페인에 따르면 대부분의 우발적인 집 화재는 주방에서 시작되지만 작은 작업대 가전제품 중 하나는 대기 상태에서 윙윙거리는 경우가 많습니다. 어느 플러그",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방 가전제품 1개를 전원에 꽂아두면 절대 안 됩니다 - Daily Express",
+      "media": "Daily Express",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcm5YUUFBajcyLWxIUjFZRURKeThpNHhDV1VzbzF6b2Q5TGg2MWtmampDOElVUUV4VEs3S29ydTdqNnVyX0Z2UXljVjVwLXhzRGN2LUVDQ2c5TDZrTGtBRFRmMjEwX0o1UFdDdUpNcFB6bURzcF91ZGd2cGFhc2RZQWl5RDh3ejB2eFHSAY8BQVVfeXFMT3FlNW43YzB1cWRiejlpSmloaDVSYmVMMHhobGoxbkliV2IyNnYwWnBPcVBEZUtCa2xTd0M3SDRlbkw0WXQyTGRNdlJlQnVXaWhQcmJRek9NQVhRdTM2MDVVcE5qdDkyVm91UkFSYWhzTVdHOWpDQ0ljNS1oQjdfLWZEY05wVFhRNXlydWl2NjQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1777801020,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "KitchenAid의 충실한 장인 모델이 마침내 빛을 발했습니다 - WIRED",
+      "media": "WIRED",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HMTFqRUd6bzhuU3JEc2EyVUtXTHlIdnlldlZPZnNmSnFLdjUzOFVYZkxWYk1EeXd3b1lHZXRFMUpUNnZaaTVRaS1fdjNCT09QeF9kQzRRMkszTmZ0WnFkMWNhWlFtVjRfelFmZ2ZmeDF5a1E?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1777800780,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, Google Gemini를 맞춤형 가전제품에 통합 - Let's Data Science",
+      "media": "Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGd6YWp0VHZrYnJQcGdpS0tzTjVUcUplSDNWY0htU04xSHRwR19kMWRTb2dsQThPX191NUVadUFycUNPWWpra3VBVmppSUo1ak9USXVmLXFPeV9DOXZxRWEyTzRDTUFEem1pbVRNQkt2NWRqY01wMko4R3Ayb1FNcWxYeHZPNUZPQVZhX2Y2bEgzcjdLeEx0RjVKWmNSbE0?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1777800465,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 조용히 가전제품에 AI 탑재 - Business Insider",
+      "media": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTkxSLWhvNHRZenpNejdvZGVEMExMekxOMS03RlZUVkw0UXByMUx0b0UyQklpUVBXTEFiNFRJbDBRdm5oOFNyT1puc3k4b0lNQ01kcHQ5U3lDMV81bTBYRHVXRHN0SFdWMmc1a2FGR0F1N3NEWmFWbGZJTE5mRElNWlBHR0w1TmhrODZOS0c2R1RkWWM?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1777799820,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "설정이 매우 쉬운 5가지 최고 등급의 스마트 플러그",
+      "media": "Bing News",
+      "url": "https://www.slashgear.com/2161943/top-rated-smart-plugs-easy-set-up/",
+      "time": "22h ago",
+      "pub_ts": 1777799700,
+      "summary_kr": "Kasa, Govee, Amazon, Ikea 및 TP-Link의 최고 등급 스마트 플러그를 사용하면 램프, 가전제품 및 실외 조명을 쉽게 자동화할 수 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
