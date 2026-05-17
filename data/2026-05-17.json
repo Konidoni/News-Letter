@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-17",
+  "date_display": "2026년 05월 17일",
+  "generated_at": "2026-05-17T16:31:09.741689+09:00",
+  "generated_at_display": "2026.05.17 16:31 KST",
+  "category_counts": {
+    "Market Dynamics": 8,
+    "Samsung DA": 1,
+    "Competitor Analysis": 1,
+    "Technology Trend": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 11건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 5건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 5건이 감지됩니다. 주목 기사: Amazon의 숨겨진 아웃렛에는 Le Creuset, Vitamix 등의 할인 상품이 가득합니다. 가격은 단 $3부터 시작됩니다 - 음식 및 와인. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG전자 인도, 2026년 가전 포트폴리오 확대 - 기계 제조사. 시장 전반 기사 8건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon의 숨겨진 아웃렛에는 Le Creuset, Vitamix 등의 할인 상품이 가득합니다. 가격은 단 $3부터 시작됩니다 - 음식 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUhwazBCMi1jNHVZc01ES3dtcmw0VWhpV1NQal91aHhmdEtla3U4ZGpuVzZZOGQ4bFg0OUswNHZyRzVrZklqUE50QV91UFB4bndKSXVzdk9yeUpwVnloNXFmUndUNG5jNUVIUkd2WHc4ZERiQlY5M09tQzBvalFGVl9uRTZjbkdjcVhOS2Z0eDdlQQ?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1778994000,
+      "summary_kr": "Amazon의 숨겨진 아웃렛에는 Le Creuset, Vitamix 등의 할인 상품이 가득합니다. 가격은 단 $3부터 시작됩니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "LG전자, 초프리미엄 빌트인 가전까지 구독 서비스 확대 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVlk1eng4bEhYMmhuS2l6N3pkTWV5OTM4YXZPbDFEVXVTSnBxTlRnOG1DZUtwRnEyeFIwanAySlE4UGxEeGMzLVNEWlNkR1dwTldFRVdhOUIwcU5DUHFGLS1sMzBzckVnVEF6SjkwZmEyUlFSVl9NcFJ6TzlQdURNUTd2eFlHQ210NkZVOGpCQXk4LVJDUlZXREVR?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1778985303,
+      "summary_kr": "LG전자, 초프리미엄 빌트인 가전까지 구독 서비스 확대 서울경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "독일 전기 철판 - 시장 분석, 예측, 규모, 동향 및 통찰력 - IndexBox",
+      "media": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQURYZlhzMTF1anhuUFBuYVJRajZQTXdJbVhKeGQyYTF1Z1NYVkxzSXZSUHpyT2pxYU5CaGdZaElvb3lmSGZGaVNiVE9ONVZfTjN0Z0N0dGpLQUZueWxvUldYNG5iaEFXQnp2d0l1WjZsYlN0Q1JpbTh3cWFPRmxWdGpWZ3JXbG9DNFpqNkdvUXRyY2JxSHZLcjZmWmUyemhqSWYtWTRpOXZueWR4bk9LOUVn?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1778983420,
+      "summary_kr": "독일 전기 철판 - 시장 분석, 예측, 규모, 추세 및 통찰력  IndexBox",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Stovekraft, 강력한 성장세 - The Hans Korea",
+      "media": "The Hans India",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb3FxT0g0XzBYTVJUb3hvREdiSXdvZ0NTVEgzVlhpZHM3UnRUQjA2WGYzblBWY2VWVDJlekNZbEVVQ2JFald4YnZjQy1Kc191VDlCNW1PVUV4aWFjMEF3NzJjNGE4MUZiNU5DU0FJbTlfWFBJWVRHZW8xV0l3QXpHUTZn0gGHAUFVX3lxTFA4dHF5UTNJLTNfU0VRYVgyaWx2Vk9qU0xVV0gzNHNuUmI2cHItYjk3cVVRZjZycXhwWnh5NHhEZHptblUybmpOZ2VJR0R5VmdRUkRZcm51QjdQejltM2dtZ0RGMGxMWHJUcENvRlljcnBFNUZfTUxxT2dMRWxwTkl6dS1uTW5IQQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1778979616,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "캐나다 구즈넥 주전자 - 시장 분석, 예측, 규모, 동향 및 통찰력 - IndexBox",
+      "media": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDBGU0JtdHh5QlR3V21hbkVXVExGaEFUUjRiVVZTaG1aTDFhMlVHUWFOUncxNXZJX1Nkc3Nsb3duZFJ4NXVPMHREVGVta1lYZXM5NkhYSXM5VGY4ZVFmSU9wWk5QUm4zNVZBSnFwN25VVHdqU0F1aFpiOVBQT3JYdmk3OHEzSWtEMXFaYVFJLW9sSTdjNEFmVmp4UElSTzRKQWpodElGc2NBN2Y2bnRDSg?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1778976415,
+      "summary_kr": "캐나다 구즈넥 주전자 - 시장 분석, 예측, 규모, 추세 및 통찰력  IndexBox",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Martha Stewart, Le Creuset, Cuisinart 등의 네덜란드 오븐으로 여름 요리를 단순화하세요($38부터) - People.com",
+      "media": "People.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkc4OUZxS0hKSElGQzRlSENjNHNIVFhJdEFsT0c4YmYtcU1Vc3ZCU0x4LUxOS1otcTg2d3lSZ016QjF5eVN3bUduNy04Tk1IRnYtQlYzLVRGZlNxdnp4c1NqN1d6X2piTndnTTdDcnp2OEcyQ1lxUTRjbDBrLXM1UVhxYW14VGlveU1xRW5KOFh6Zw?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1778972400,
+      "summary_kr": "Martha Stewart, Le Creuset, Cuisinart 등의 네덜란드 오븐으로 여름 요리를 단순화하세요($38부터) People.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "집에서 스마트 스위치를 사용하는 11가지 창의적인 방법 - bgr.com",
+      "media": "bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjhIYXlyYmwyUy0wVmZkVlYtVGN3ajNsd1lNTlpsSl9mSGVfVzdQVWJQc2cwMTlOeXMzc3diTXZuYWdtUFdiTUJmMk5nbVhSMW1VS1QtZ2hoYUUxMGZ0MTRJSElmZU9pakMyd1Q5QWpLVkozaUZWYUJMcE1aM1ZocmowdE8?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1778954520,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 전자레인지 비용을 초과 지불하지 마세요 — 이것이 평균 비용입니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOXzFvMGcwVEw1b0lNUC1PT0lqdnVtTGpNSEw2SEdVSWt5OHBWdmYzei1ycGtOU2RrWGJOS1pzRjZLQUhxUXA5LUJHYUIzRWQ3N05GMGdOdHhnSnhvOGt1bTktZHY0NUFlOHB2MDRPMFpMMHM2UldtRHVGUmRXY2dLcGpUTVRwSHdXZWFScVpNa0VVdC1nMklJenVLZmxkMzc1SS1tRy1sclQwQQ?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1778943600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Walmart 주말 가전제품 할인을 놓치지 마세요 - Analytics Insight",
+      "media": "Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSU1GcV9WdXhuX0dSTkt4dkhFWXZldUZHNTJNd3V5SnFCak96dGptM0p6aDVmLXV6V1RTbkpUelJCTk02RnZSVENwYmswVVl0ajdTRWhNd01tYzBlS1VPSlZpS3J0SlFVbmpOdmE1Z0xwZ1M5QzNWZ3dkblZfUFJ3SzJTM2EzbFVuNDNVQTZaS3FheXdtemww0gGkAUFVX3lxTE9qQjB1ZWkzckM2REtDQm1lbEpRZDFtYjFrYzVESVcwamNySU5EMzJRY3R2WnBSNGJ2TW80LXZnQlhIVEJ4Snd0Z0l4VDVLSmlqdk5NcjBzaFM1anZKX19Bd3VpeGdqamU2UUdodzVSeVdPVzhWaVpBWGpTQ3d2dHBXYkprU0N2ZmVYM1ZSLWtFWUFyVWtpUmtyR0xDS3pQbVhsSENK?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1778941800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자 인도, 2026년 가전 포트폴리오 확대 - 기계 제조사",
+      "media": "Machine Maker",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2VOR3MyZ1dXc3FjdlBCSXlaTVBjRHdtaFFyaDlQZEkzVElUbVRmS29PZ3AwR1RJdGpOdWQxU3Vyam03WjlVR3Vzc056VTBMN0FYSjhOTy1hUlVKcld6TjZlaHF4dm1qRk9qbUcyX3Z1NkZZeUNKRTRESzVDLTZ3UDNVY0lCcVJ0aGZjWEJvVnZNaVBIQlFBTQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1778933828,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Haier Smart Home Co Ltd 주식(CNE1000048K8): 최신 자본 이동 및 사업 개요 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzB0d3RoNGZNLUVrTUQzOUoyQkNXdXhSQ2NXWmMyMkxsdVJJcElQcWJfelVJTEtZUzBzeHBJbjNCWkVuNzRrQmV2WXRScVBZemx5MWphOVI1QkgxQlg1bnJubWxmMTNqbkl5RlhZMjVLUzVwWlNEZWlWMUgzdXhCRWtaWFludmdHRy14ODgwQUxhSURJOU9vOVpCcF85YTA4WGJWZnk4cTBTaDgxeGR6a3JYNGhBSEYzSUpaQl9KbEtuOERjbEE?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1778928719,
+      "summary_kr": "Haier Smart Home Co Ltd 주식(CNE1000048K8): 최신 주식 자본 이동 및 사업 개요  AD HOC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
