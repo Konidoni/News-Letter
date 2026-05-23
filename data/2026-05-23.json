@@ -1,0 +1,324 @@
+{
+  "date": "2026-05-23",
+  "date_display": "2026년 05월 23일",
+  "generated_at": "2026-05-23T16:26:05.060927+09:00",
+  "generated_at_display": "2026.05.23 16:26 KST",
+  "category_counts": {
+    "Market Dynamics": 17,
+    "Samsung Bespoke": 3,
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 21건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: 스마트 홈과 에너지 효율적인 생활이 소비자 수요를 재정의함에 따라 미국 가전제품 시장은 2034년까지 1,470억 달러에 달할 것입니다 - vocal.media. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 9건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 9건이 감지됩니다. 주목 기사: Breville Group Ltd 주식(AU000000BRG2): 주방 가전 제조업체는 r 이후 투자자의 레이더에 머물고 있습니다. - AD HOC NEWS. 삼성 Bespoke 3건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 17건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "쉿! 아마존 현충일 최고의 주방 상품 40개가 오버스톡 아웃렛에 숨어 있습니다 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVgxeFFDcDF2aDV2NV9DS1dZMVdxN25iZURZX2I1S3JBaklnWFdEQmxZYzFSakNobTMzYWxtYjliNmdYXzF5cVdZMXdUeUhWdUdESllXblJiYzA0d1FESzZmNlBYTzVrelJlYW1ObmJPUVJjZ0ZNTWNjeUZJZFk1QVkydFplMHRGYXRv?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1779510600,
+      "summary_kr": "쉿! 오버스톡 아웃렛 Allrecipes에 아마존 현충일 최고의 주방 할인 40가지가 숨어 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "이 삼성 비스포크 냉장고는 홈디포 현충일 세일 기간 동안 1,300달러 할인됩니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3JXX2lKeWhER2xDbk5lTFlxNW5zWGZYakhSMTRYbkZ4eHR3T05PTTFpRWdDQjRsNDBldjl3b1JPNVVxSjh3VjdwRk5JMjlUbWhoY3haa1M5dXJVRUNjdnQ4SjN6X01nRGFXUi1iYXdYbm1RNGx1a0h5eU5FUUdUZXJyaC1VUEwzOVE?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1779493262,
+      "summary_kr": "이 삼성 비스포크 냉장고는 홈디포 현충일 세일 기간 동안 1,300달러 할인됩니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "현충일 가전제품 판매: LG, Dyson 등 최대 45% 할인 - Forbes",
+      "media": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0IydFpSVXp4TmVOZVBXaVZaZkRwVGRua0FGTzVRZEV1QkZqWGJmZm40SXYyVEFHdHRXdUw3N0ZmTjhmT2RBRU9mZlhnOUktRVAybm1TZE1yY0dyU3ZDQmE1OXpTcDlJZVhSa09TTE0yUU8ydGtyc0RqTlNONzFmc2I4Rk9xQWk4cG1lQnFjelZYbTNKd09VaQ?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1779482710,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Breville Group Ltd 주식(AU000000BRG2): 주방 가전 제조업체는 r 이후 투자자의 레이더에 머물고 있습니다. - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlpSaFB6aEdnUGo5cGtwa0dqc3dxN0t3M2oxeE5Za3V6aE1qY0FDYXptLTk0NTVhcV9vM01wT25CdHI3RDlUUXJIcUpLMVlXNmRVQlV1blUzaXBFZ3VvNWNIVjBEX3FuczREaWFDZTNpVjd3dXZiQmlOSUhkRXdZX0JTeloyVXBaVDlnbXJDVF8zWGdQZFpFRlZIU1luVmFBbGgyWWtrUnFIdzFPVlF4eU1JUnIzX05CeHI0NmhlUVJMcTJ3MDhNcQ?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1779476783,
+      "summary_kr": "Breville Group Ltd 주식(AU000000BRG2): 주방 가전 제조업체는 r  AD HOC NEWS 이후에도 투자자들의 관심을 받고 있습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "공과금을 낮추고 싶다면 과소평가된 식기세척기 설정이 도움이 될 수 있습니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU0RxbVpVdEdwWGJCUkpRYXdRckd1UkU0THAyUEhqVDctaUFGbHJCVFpvSHoxNVBLbTlkNGpmZS1tMG5HRXlTcVV4ZWZIYlhKVEZKRW5hS2dhbkxyTnZBVFBPcUh3RUdpS19JLTVjSlg3Xzc1WF9DUzlCUmRWb05fdg?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1779472404,
+      "summary_kr": "공공요금을 낮추고 싶다면 과소평가된 식기세척기 설정이 도움이 될 수 있습니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "가전제품 전문가들은 모두 이 하나의 식기세척기 설정을 사용하여 공과금을 낮게 유지합니다 - The Spruce",
+      "media": "The Spruce",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM3VsU0FFTEZKdmV2WThubGRQTTVYcm1ya2lKS1lhR2RRWmNVbEh5VF9DQUFsUEs3X19KVWM4VGdFdzFOS2UzbzdSX05TYmlIdFlHejNnYXpob3FSY3ZKc2hBYWRUTXVhbXV5TzlvdHRVTzdsN1NIVkdXOHkyV3gyVUx3?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1779469500,
+      "summary_kr": "가전제품 전문가들은 모두 이 하나의 식기세척기 설정을 사용하여 공공요금을 낮게 유지합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "/C O R R E C T I O N -- LG Electronics USA/ - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORHFoTEttX2JaZ1QxdFlSbVJCQUFILXhEaHd1RGMtLUVDSXpVdFJOUm5JQ2lwc1Y1UUs3MUVWX3hzNHdDSnU5MlU3QzJBZGVzazI3YnlJWDNSeGRRQU5PTExQUTNfWmtVTmcwZEV3Uk5ZUnpUSFdMbm1kRFlFdWdzRklUbTZJMFljUGs0TEtqbjJmYk1QZ3NpTFBUNzl6UmFMSnpXTTFYVnFKWUhxSEZTdVBLcHdzZzNTbUp2Z2F5SnJhUWhEcDlnbkVtZV83R0ZfRVppaDlWVVQzX1l6NzJieg?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1779464820,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "41개 이상의 Home Depot 현충일 특가 — $2부터 시작 - NBC 뉴스",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeHl5OXctalRkUVg2bnEwOGt1d3ljajk4VklLWnJkS0R3LU90UDdOcUZUd2dEUGRmQTdjc05aa1RGUktBS1MybFd2X245VVZCUDlCRmhRSF9KaGs3anFNNmxpaVZOSXlyaGtvTGY3ekdHVE1icjhEZ2pFR1k1SXlYQk1rcEZ0MzhWckU5YkxBY3d2V25u?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1779464582,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성 모바일 직원은 4,000달러 이상의 보너스를 반란하고 메모리 직원은 각각 400,000달러를 챙기며 거래를 차단하라는 법원 명령을 내렸습니다 - Wccftech",
+      "media": "Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeUNxV1o2ejNNZ1JZZkRVM3NnU3U5N0lVRU40OWRZbWxQYUJYaFZuY0c2UVkyREVUU18tY3o5bnR1VlJRNm16R2lLNDFzVTd5djlkU3QwTjM2S2wxa1UzV1RVZWdJR2J4dWQybWlqQXgzMFlrZUZGRVBGRVFITkktcWN0ZjUtNVYxV18ydkxrZ2J6WVNiU1ZFWTBJcDl6RWFoaHZOT1JxUFpNWjVhaWlyaFVHWWw0QUp6cWhYdXAxNmRORHUza3BRWUNmWVZFU2pzbkpuanc3WGVyNUN3MXA1UldEdWdhd9IB6wFBVV95cUxOQ25ZR2RzNm9Yc3VLYnpjcWJZMXlUZlhVSE9US3JyeVJpV1I5aldBdDdPNDBFejh2RFhTdXU2YVNMM2FZS3VyS1V2NnlzTzhuNUNNdm9LVHpzWm5nbmtWTGhkZWM4RmtRNEVhSEU4cFUydGRRdHZKS09yTTBVLTROQi12aTE1MzAzamgyb2k2bU9kcUNuSjZic1RfNUpaeVlMSFQyOE8xUHh0VEp3cVBJY2lNcGRjams1czQ0TzM2MmlGOWVTSHZUejVGaFdaU3VvNnpvU3VPSFUtbHpYbS1DSGNXLU9kb3ZzQUZZ?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1779462960,
+      "summary_kr": "삼성 모바일 직원은 4,000달러 이상의 보너스를 반란을 일으키고 메모리 직원은 각각 400,000달러를 챙기며 거래를 차단하라는 법원 명령을 받았습니다. Wccftech",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "모든 주택 업그레이드를 위한 최고의 현충일 가전제품 거래 27개 - CNN",
+      "media": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFRwNmhudVZvQ1ZIWVVYdFhFak1xanBMZmZjd3c3TkdvZ3N0MjdfWm5DZXZzX19mNjdOYjVlT25vd0pCYVdXX3hDUUtEWDlnWmlCWlVyRjNOZnJseWNlelpKU0swOU54UHQzSUNqV0djX2h5ZnBMT19EZURuaFlvVGFGemE1a3Bv?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1779458520,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "현충일 가전제품 판매: LG, Dyson 등 최대 45% 할인",
+      "media": "Bing News",
+      "url": "https://www.forbes.com/sites/forbes-personal-shopper/2026/05/22/memorial-day-appliance-sales/",
+      "time": "17h ago",
+      "pub_ts": 1779457500,
+      "summary_kr": "이러한 현충일 가전제품 판매를 통해 휴대용 에어컨부터 세탁기-건조기 세트에 이르기까지 크고 작은 필수품을 절약할 수 있습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "미국 최고의 삼성 스틱형 진공청소기 최대 300달러 할인 - SamMobile",
+      "media": "SamMobile",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdzRZdDVWQWxDNDNmY3FSY183M1pwMG55TG12SlhjaXFyemhrNVNJcWRqWDl4M2gtSmtQTlJSMERYRTNRVFpjbXEyQW8xQmpocHVmSy11WnNQSHBsb0l0bzJXS25qZ1Bnbmg5NUVqb1ZHZkhWXzVrS1RXZ3JZR19WQk9HSmRRM2FUb1pJ?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1779457140,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "쉬운 DIY 꿀팁과 주요 가전제품 교체로 5,000달러 미만의 비용으로 지저분한 주방을 탈바꿈했습니다 - Realtor.com",
+      "media": "Realtor.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcWZBbk1Dd2xGUFZ0bXNSRmUtS0tyd2dPRUc0cXJnZ0lWY3FLZjVaWmRuX3ZiallTV211SWsyMkUzYkMtRU1TS0FSblVDNk9IVGNrbUZ6Y2dWUG8tV0ZoV3phXzZXNnJtaW13NjhQTXZYRGJzcDhGeXJCYzlfekl5dkFSaFdQQkVJZXRHR1lqM2ZESkxyd0pv?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1779454518,
+      "summary_kr": "쉬운 DIY 꿀팁과 주요 가전제품 교체를 통해 5,000달러 미만의 비용으로 지저분한 주방을 변화시켰습니다.  Realtor.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "사람들이 조리대를 정리할 때 저지르는 13가지 실수",
+      "media": "Bing News",
+      "url": "https://www.aol.com/lifestyle/13-mistakes-people-organizing-countertops-122000782.html",
+      "time": "19h ago",
+      "pub_ts": 1779452460,
+      "summary_kr": "이러한 조리대 정리 실수는 준비 공간과 기능을 조용히 훔칩니다. 일부는 과일의 수명을 단축하거나 심지어 위험을 초래할 수도 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "키친에이드(KitchenAid) 스탠드 믹서, 현충일 주말 최대 250달러 할인 - USA Today",
+      "media": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVp5TDROdUtDdXF6cWVFOGFUci1NNjlhWlFJMkVrc0F5R01tYng1ZERSbG9TRkdYTWhiU2pHV1h4VGd4TDFyVW1QZXZzZ2hHaUVTUXIwZ09kTjRUdXB5UzI1TWx3bXQ4UHJhNGZsRHRfYWNGUnlWY0pKY0hKaFBVN01rNmRGelhHeFhIQWJXWmc5STR5V3dZUHFrTzh4eHVMVURFVzF4MGhQSDJ4?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1779450960,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amica S.A. 주식(PLAMICA00010): 폴란드 가전업체, 시장 속에서 2026~2030년 전략 개요 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMVR6czIxalNzbUpTTFFqWWNoTGU4a3F3UFlaaGhkR1hqLURzZkZ4OWNOZFRXS3hhdTVTY285SlVXZ2tmbG1JRWJ1aERQR21mWThiM1gxcjZ1OC0ySmNkYnZ3MWZiLTgwdWdXRnpFLXFEZzhGdFhCUjI3M3Bya2xfMGpuV2tqR09PVzN1QnpjR19hVzBSeC0tWTFBOTBVaHZTNHZCbUZPOUM0S3FOaTdBWFdsVlh3NV9tVkEw?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1779447416,
+      "summary_kr": "Amica S.A. 주식(PLAMICA00010): 폴란드 가전제품 제조업체, 시장 속에서 2026~2030년 전략 개요 임시 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "TTK Prestige, 조리용 가스 부족으로 가전제품 수요 증가로 4분기 이익 29% 증가 - News18",
+      "media": "News18",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdndzTkRJS2JGc0tjdU9MSUxJQnpLUnp3d1N5VTVVLWFPM3R5aVVwazJ4Q0UzbUJnSkJnWUp3VW1sTmN1eFZtZUNESUpIdEVHRS1TN3VaSU5ReHp5dzVLNDd2U2ZyODJYMjBSdm53RkhqSDJqTGNlcmVfajU1QVZrdHg2dkZMSEQtMWFOejRVajV4aXFmaHU2aV85UWU1YTJnVDZTbTFLVHl3WlNlelRqT2JjOF80Y09UUVZGWDQyVjlUVlpFdFo5YXhPbFpwNjFGanVLcThXcWd2djBELWJxNlJtTFJIbElV?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1779445538,
+      "summary_kr": "TTK Prestige, 조리용 가스 부족으로 가전제품 수요 증가로 4분기 이익 29% 증가",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "현충일 특가 상품을 모두 살펴보았으므로 굳이 그럴 필요가 없습니다. 여기 93개 이상의 쇼핑 가치가 있습니다 - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2lKOXdqb1FqRGN6NnlfMmt0d0MwYkVUZm9EMEUtQzBXNGdHQ1ZrZThFZEJ0QXZBWDdmWnN4cjYwTkZ2dGE0bEd6MHc2azlUelN4UWhsX1VjRnkzRU5MQzQ1TkYwMlZVSG5lMGxtczlUWUJPdEJIajhjR3ZoaTVKOHpMRWFGUQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1779444040,
+      "summary_kr": "현충일 특가 상품을 모두 살펴보았으므로 굳이 그럴 필요가 없습니다. 여기에 쇼핑할 가치가 있는 93개 이상의 상품이 있습니다.  NBC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "TTK 프레스티지, 조리용 가스 부족으로 가전제품 수요 강세로 4분기 이익 29% 증가 - 뉴스와이어",
+      "media": "BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM0lSVEZ0UWh2Q013RlFmRmZLaElBYWVLa1F6alc4NUJUMDlESTdBZTB2SFZ6cTU1SG54TzQ2UnU5dGE1SHhUNXdiUzFqYnpObkhJQ0pXeS0yZjFOT05LYktUMTJyakVJdzZCODAyTlpBY2NYRmJpODVTNGNYRnBNMkNqOGlqbFhud2tXd0ZDcldIUS1qa0tMNHZBSEQyT0tuS0NwT3dXTlVfOE8wTXFPS1FtMkpuSjFIalhfOWpCNkltM3BPZDMxLXZRTWEyLTZqRVpfWk1rUlFnbGJTS1U4Q0llbjlyQk3SAe4BQVVfeXFMTXJRQm5Ub0ZnOVlZbC1IYnNYdzNRRXhqQTJUTGFPclo3SDlkcEZfMnJnd2Q5azkwSDJaLXo5TXVLQ2h0ak0ybGhSdUhqS3BGbzhYbDV2RmhuQ0RHalJ6WjJMbVRxQWFpVFVPQVFzQ3pyYTZFUGZMeHRIMW90RS1EZ1AwV1VSVzRpQ0I4RXBacEwwSC1hbS1NaWhMY2o5dm1jTUJReDlzM3dDNTBUUHQzUFdtZzl3U2h3MDBwMWlSQld3UC0yQUVCSXd1V1hRUEZCWHh2eGVOa0txSWlmTFlvUWhGTVVDeEZNM184empMQQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1779441664,
+      "summary_kr": "TTK Prestige 4분기 이익은 조리용 가스 부족으로 가전제품 수요 강세로 29% 증가",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "요리용 가스 부족으로 가전제품 수요 강세로 인도 TTK Prestige 이익 증가 - Reuters",
+      "media": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEtiRGc3dlBkemZEVEU4VFZLbjh2Rk40N0R3c01FVmdOc1FpVFBaX0xVZjdJVVlYV0t6T01VZHB2R1Jsam5FaWU5VFIyLWp4WXdseHF2TGlJTGNSaXdHdFVRM3kwc2M1RzZPZHlOT24xMjl5OUlBdE9zQkR6RHNjWTVjLW53N1ZWTjFiU2l0bExkaGZFbDFhUW5YS0h6TUJsVlVVWWktdnA4eEZwWEwtQW5GWXdQR2pHX1Nwa1hzRGpHdw?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1779440623,
+      "summary_kr": "요리용 가스 부족으로 가전제품 수요 급증으로 인도의 TTK Prestige 이익 증가 Reuters",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "스마트 홈과 에너지 효율적인 생활이 소비자 수요를 재정의함에 따라 미국 가전제품 시장은 2034년까지 1,470억 달러에 달할 것입니다 - vocal.media",
+      "media": "vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNjFkbnc3Y0l3VTlMQ3pVTkxKT3NkQkpkUHlXSUg3S19tM0lKcVdWQTNSX3F2Y1ZEMjNiczlyclBDSHNDSjlPanB5M1c5cFl2eHo0bGVPcjEtRkFHc3dRUWxaTkMtbV9vMVVvSFhoZnFUeGNBbzk1RE8za2tsSFJTSnYxZGNyeWxQX29wMXRUdkNBbFNlaHdnekU0S0FmaEV2ZUFyQXdpaDA3WEFGTmkzSFNLQzR1RkJQQ25HUV9Tam81OGU2UnJaS1hWZjlUNHhDRDZta2R6dHg3RURMNS1KQmRuUmNDelZxS1d3STJnZG5CWVlaVXpJ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1779438766,
+      "summary_kr": "스마트 홈과 에너지 효율적인 생활이 소비자 수요를 재정의함에 따라 미국 가전제품 시장은 2034년까지 1,470억 달러에 이를 것입니다.",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk"
+      ]
+    }
+  ]
+}
