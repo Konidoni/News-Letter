@@ -1,0 +1,257 @@
+{
+  "date": "2026-05-29",
+  "date_display": "2026년 05월 29일",
+  "generated_at": "2026-05-29T17:37:55.939247+09:00",
+  "generated_at_display": "2026.05.29 17:37 KST",
+  "category_counts": {
+    "Market Dynamics": 8,
+    "Technology Trend": 3,
+    "Samsung Bespoke": 2,
+    "Competitor Analysis": 1,
+    "Samsung DA": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 16건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 7건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: 이번 주말에 쇼핑할 수 있는 50달러 미만의 Amazon 주방 딜 50개를 찾았으며 최저 $4부터 시작합니다. - 음식 및 와인. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: 판사, 하이얼 가전제품 근로자의 성차별 주장을 기각 - Bloomberg Law News. 시장 전반 기사 8건, 기술 트렌드 3건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "이번 주말에 쇼핑할 수 있는 50달러 미만의 Amazon 주방 딜 50개를 찾았으며 최저 $4부터 시작합니다. - 음식 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSWYwUWt0QlJKamVVSHdtWVpzZkFLT2w4Q2lueEVDNjlVcE5OaHNHRTVzc2FKSllzQlB1NkgyTlFoUzhVX1FWOHFSNENzX0ZkWERQVVhOTW5JVFRDTEZHRFpycEdMMlFEd2Y1OGd3ZlRiRi1IV2UwN281UHhzTVkweg?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1780034400,
+      "summary_kr": "이번 주말에 쇼핑할 수 있는 50달러 미만의 Amazon 주방 딜 50개를 찾았으며 최저 $4부터 시작합니다.  음식 및 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Xiaomi Malaysia, 새로운 스마트 가전 제품 출시: RM999의 전면 투입 세탁기, RM2,799의 715L 냉장고 - SoyaCincau",
+      "media": "SoyaCincau",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN1kxZUZrSnoyNmItV1Y1YkNrYXB1VUZqZnJOcnRuRGZSZl9rdUhWNFdLWmJfZjIweDAtY1dzNGFmWVVZVVRsby1YbmRqQ1B2WWdFNDJmWnJhb05qRjE4Tmd5OWdNWWYxSUprQ2JPWjJXbTZYTFhPQnpwZDlyWm5lblVFLVo1TFVkTGRUNmt1ZnAzcVpFWjc1X3JOdGtBTEQyM2RkT0VFSGlaR3lSSlRnOXdrM05WdGlDV243U0l6Q0lZUQ?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1780029585,
+      "summary_kr": "Xiaomi Malaysia, 새로운 스마트 가전제품 출시: RM999의 전면 투입 세탁기, RM2,799의 715L 냉장고  SoyaCincau",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Xiaomi Smart Tech 기기 2026: 커넥티드 홈을 위한 새로운 TV, 가전제품 및 로봇 청소기 - 기본 튜토리얼",
+      "media": "Basic Tutorials",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdVNEOXl2cHVwcVNQM0JWbzdEXzBCLXVnSVZzaWhRODFlUmxfdnA5YkNHNGdOLTN1WGJzM0J2S1p2SUFBTHRnYzg3eWs2bkh0U0h3eWU0d2xtTEhySHB6RGdmNUR1TExxRzJyeDVqMEY0NHU2NWNaUXVNVGUxNzRobm9qamdOdExPaWRvWjQ1b0t0bFMydFdjejVCRWlmZ0NMNFUyUFloLWtlekphSHZERllPeUhWODc4QWlyZDRoVDBrODZQX284?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1780022327,
+      "summary_kr": "Xiaomi Smart Tech 기기 2026: 커넥티드 홈을 위한 새로운 TV, 가전제품 및 로봇 청소기 기본 튜토리얼",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Xiaomi, 스마트 홈 기능을 갖춘 Mijia 전면 투입 세탁기 건조기 유럽 출시 - Gizmochina",
+      "media": "Gizmochina",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNGk3Ml9jR0dlTkpSZkRGTkdEbHZyX0VqSm1lYmU2cXdaRGxXclE4eFV1U000VUJiR21mRGk0NGEtTzFRVmV4RXBfMUJCMkdjd01jRTB4aVVfSVRVNkpFZ05Ja3VReURXVWZta2xDTjIybWpUcGtxMkFNVG04bVdQTktNZFB1RFpmZ0dkR0lyeFllNU1KYnNRYUJwaVlKSDlTVzU4d2lBYkVVVS1XY0lZRUlLRHNZX0hhd2NF?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1780021912,
+      "summary_kr": "Xiaomi, 스마트 홈 기능을 갖춘 Mijia 전면 투입 세탁기 건조기 유럽 출시  Gizmochina",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "11세 소녀, 전자레인지에 돌린 물렁한 장난감이 얼굴에서 '폭발'해 거의 시력을 잃고 심각한 화상을 입었습니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd3dVUUh2c0pINUFYQmkxUGdENnVfcjR2ZTFJQ0xnbjZuUERCY1FfZTR4RnJpVjd1M0tBNnNsNTZ1Y044eTV1QWFraDdzc1Y4M2ZtOTVQWmFvN0Z1TnFZWm8zSXYyMmVkdWMtSGJ4SXNRZkh6WDN3N0d3dmJXVm0yMA?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1780005375,
+      "summary_kr": "11세 소녀, 전자레인지에 돌린 물렁한 장난감이 얼굴에서 '폭발'해 거의 실명 및 심각한 화상을 입음 AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "월마트, GE Opal 2.0 너겟 아이스 메이커에 대한 희귀한 거래 제공 - AL.com",
+      "media": "AL.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWhTSndTNnVqS2dnbzMxMmdmWi1PWDI0MkpLZU5VYTJuVGY3bmZCaTRNUTEtbzVmWk9uRUpfYjFPNjhsdmM5WmxtanJUcTBNMGFLRmpaeWhWb1dtV1BkTWNmM3lmYXpzQ3ZMWk5zT08zbGo1TFZNS1VsMzdYTHowUjBrRm10bDBOVEpFbm9TRWNpSktoUmJXQW01aGRIZ2k2MG9JT3huanJRWDTSAb8BQVVfeXFMTjd3alUwWk1uUkpOWTdzNkd2X0Rzb2JXSzVrTk5sS3ZtM0dmaVVETnM3Q2M1SnIxREs5YXMzQnhjSG1oUVdrRHRKMlhEd0F0bzZwU3RsQnF1aHlxcG5mTW5kR0ZMSUpBR1VQWXh0MUc0Z0RrX3NmZXpKb3hBMUtjYzdTbHQ1Y2VOaW5hWkQ2b2Vib3gybTVKM3A5LVZlR3Qxak5Wazk5YlJweUIzeko2Q21maEFmdDFSR0lKNDRnSVk?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1779994020,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성 AI 위크 2026, 가전 독점 특가로 시작 - My Everyday Tech",
+      "media": "My Everyday Tech",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVWMzMDdTeS0xMFU0dnVnejZUbWMtaVJoUFpiTjNtSjBhUUd1Uk44VW14aFRiVndseDlhQjdxc0lvallCYy1DaGlkZU5TYnJBeXpSNnlsNzMzUjlPdnA3SjVHNTAzbWZaMXdQR1U1eEJLXzRwV096YVc1Wm1IZEJKT3lNM21pMUlfWGtSU3RxdGh4OVk?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1779984686,
+      "summary_kr": "Samsung AI Week 2026, 독점 가전제품 딜로 시작 My Everyday Tech",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "판사, 하이얼 가전제품 근로자의 성차별 주장을 기각 - Bloomberg Law News",
+      "media": "Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUjhFdnhzZi1OeHU1cEEyVlNBNGZGa1J1QkNEclRsT3JSaWF5Z3lDYU9kbHBJZ2lncEFyR3JJVm53N1U3SG9sMUV5YWQzVVFPVmxJY05ZTHQzYjJqb3A1cGctM0doUW1aNEJiS3FONW9maEFmX1N5SHpzalpfY3NQYnR0aHBBN1RLblppRmlZbzZHZnp6YjRZdEctTDFjdWpmWFQ4dzkteGZlSnhzYzhEb3l3?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1779982440,
+      "summary_kr": "판사, 하이얼 가전제품 근로자의 성차별 주장을 던지다 블룸버그 법률 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성 비스포크 냉장고의 5가지 멋진 기능 - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2xmX0JDOXBfQndxUXhfbWR1V0dxMmxCelVXeXRJM2p0VkVRZ05lRXhQZzY3MGQwWUYxUS1RSnJjS2tUcEQ0d1ZQOEpmZ1BUMTVZMlpDMF9lcll2Zm5jbnBiRUhlQnZlWkRVMEhLNWpBVDA1N2JSVy1YRWVnZmRNYVZsMzVaLUt1WjJWZ1hYQXJzT095NjhBRTc3ZnI?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1779979500,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "멀티탭에 연결하면 안 되는 주방 가전제품 6가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY2Zja2h3Xy1EaHJqT2E5YTNBVWMtbzgzaVdsTWVYampMTFZfN1dNNTlPSl9pejk1aWFCT092MERTNHdMOFhiMUhVZjZuOHoxQnNkQVBsZi1PWS1udVNaNTJQYXJoU080WjBUS2pqMEJCRU5jTnB2NFQzQWFWSE1XZQ?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1779977025,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 인도 맞춤형 AI 어플라이언스 라인업에 SmartThings 플랫폼 통합 - FoneArena.com",
+      "media": "FoneArena.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjZjWTIwWmJTNVNsVXNMakJZQi1yWXhrXzRsVWR5UnFLTlU1TWp3U3RHYTdEbmpPRUpkS2tMczlxaThIWUZnQ2VXM01fWExJVW52Mzc2MzB1dmctalNUd0ZJU3k2MzJCMm5EUDhLUWM1R0FYdUVUbG1WTExqazh3eGlhckdZeUdKU3owOGNsdGxMeFdDeEZGUC1kN0ZRYVXSAaQBQVVfeXFMTmIwMkZpcXRZa1BkZnVhTndVaGhlekZyTEdGd2VlWDFrRlY5WEhnaG0xR0JuVVJGbXB2OWFVQWtaeklwdjBnVUgtYU1EdHg4SnlhaXRGaEpvWDlkbzFFUDBWeUdQUXlPb3RwTlotTDR0VUlYWE5GU19OSWRpc0tpWmQ1dU5iN3FRcDQ3cTl2NnR1RkxoNUF6d0ZKWVFpU1YxR3MxcEk?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1779971496,
+      "summary_kr": "삼성, 인도의 맞춤형 AI 어플라이언스 라인업에 SmartThings 플랫폼 통합 FoneArena.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "카운터 인텔리전스: 최신 럭셔리 주방 트렌드 - 상징적인 삶",
+      "media": "iconic life",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUU1Ebm9XNGNIeWhHODI0NVR1WTYwazBWNWM3X05ZTkZKRmNRTE8zVTMtUERqbkE1M2pobkJZZlhULXlDTzR1M203T2thbjNUSTdNMmgtV09uNk9IdG5GRU9LSVB6Y2k0MEVodnZyUzUwX1ZRanZkdXlqaVZuTXk5TE8zQQ?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1779970165,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "ASKO, iF 디자인 어워드 2026에서 우승 - GlobeNewswire",
+      "media": "GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb1hJZ21VLTFrQjRtTnBlRU10aERCbEQzS1BJUE5RdjdWOFNUZnc2b1dFOFR2cmYwRHIzQWZNbmRGLURGMnZzdlZPdDl2ZTcwSGQ4aWpZZlJLOWdnUUt2ZDlfNkdsek9majFGamprai0wbUFJbjFDQjlzaG5mMmRIQXpNOHRBcUFYTkI2YzY3b2JDN1AwdW40M2IxdzRodXREcWMwNjA3ZjR4N204NHp0MW5DSQ?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1779968293,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung SmartThings, 인도에서 연결된 가전제품을 위한 사전 홈 케어 기능 확장 - Moneycontrol.com",
+      "media": "Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM2tkUUo1U3pDUE1zVTNyaTlveElZUE5Ed01jbmJFSlE5SGtJTGd4U081eTJkQ2hDWVRjUXh4MUdDaWduTzJpNnpHZXRNbEFSYXBqZGlpRkY2QVM0LVQzb2xTaE0weW5wU0hWTmR2ckRTd2xyRUVxM0JMN19DdTJQRW5SeDVrRHdjcmd1Z05EMFpabHdZSzExbGE1NF95QUYybTdNTk94Zno0b3NCRFIzTGx1Si1aZ0pSSkxBOVA0bmgzay1Rd1N2MzMzRi1DdTJoaDh0YXkxUENxQk02R3lfc3AtY2VzLUHSAewBQVVfeXFMTXNxdE5WSmRJaVEtbVZvbkZMeTI0bFRoWUwwSFRoTWpKbHJiTUV5M2p4QUp2UjZrOWJEQ3pHR3BuOXAtcXJjRzF2ckRFNElnenVFaUJTYi1XalRhYTFjZEZvSzVqZUYtQnF2V3Q2SzBtcmFYalhIbU1GNE1BRV9aRG1KZnNSS3g3SG5KcDlSRWE1SlJnQmdZUi11SGNmUVNsb21YQktDX21DWE1wekw2Vk9aTkZCNnBPZWNfbG4zRG5WeWN1WFFNcDlTQzJ6X3lLTC1XQWZRaVFKMWxVMndwR21zVUstLVhPZ2RPQmc?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1779966889,
+      "summary_kr": "Samsung SmartThings, 인도에서 연결된 가전제품을 위한 사전 홈 케어 기능 확장  Moneycontrol.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "니트로 음료를 좋아한다면 이것이 당신을 위한 주방 가전제품입니다 - The Ambient",
+      "media": "The Ambient",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vWFNvUWxPLUQ4YUV3SzVQMVpLYjJ4aVg3Nzh6bE8wQVlLdW1zY0Jxc0ZvT2liZzA2U01qWWVla2g3Nzg5cmtiWGNzZkJvUm9lajZBYThsRkw2eTViSkYwWXNQVW5rOVlJ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1779964562,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "도기 냄비나 요리가 아닌: 소비자 보고서에 따르면 이것은 시장에서 가장 높은 평가를 받는 슬로우 쿠커입니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNUpJeXJuN3F0VmpabjludW5uX0l2c0JtNDBXc0taTnZkZjJqVG9DU3hkVjNZTi1ybVN4X1JGYWlUZ1p5UUhNYmFidXkwMmZla3NRa01lUHZFNlNBS2dwTjFOT21yZHVJTkpxMFlyenA3S2pWWTdnZE5GTmZPb0dQVW5oWFpWRzZfRzVKWkJMMmQ5QWdfOEpRWkVfMWE1Mmc?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1779962700,
+      "summary_kr": "Crock-Pot이나 Cuisinart가 아님: 소비자 보고서에 따르면 이것은 시장에서 가장 높은 평가를 받는 슬로우 쿠커입니다.  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
