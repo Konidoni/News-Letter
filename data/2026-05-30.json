@@ -1,0 +1,172 @@
+{
+  "date": "2026-05-30",
+  "date_display": "2026년 05월 30일",
+  "generated_at": "2026-05-30T16:35:47.464452+09:00",
+  "generated_at_display": "2026.05.30 16:35 KST",
+  "category_counts": {
+    "Market Dynamics": 4,
+    "Samsung DA": 3,
+    "Samsung Bespoke": 1,
+    "Technology Trend": 1,
+    "Competitor Analysis": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 10건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: Samsung SmartThings, 사전 예방적 스마트 홈 케어로 가전제품 신뢰성 재정의 - IT Voice Media Pvt. 주식회사. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 2건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 2건이 감지됩니다. 주목 기사: 이 무선 진공청소기는 다이슨과 경쟁할 수 있지만 가격이 수백 달러 더 저렴하고 74% 할인된 가격으로 판매됩니다 - NBC News. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: 오늘의 곰: 월풀(WHR) - The Globe and Mail. 시장 전반 기사 4건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "헛된 것을 사지 마세요 - 이 베스트셀러 Amazon 주방 도구는 수천 개의 별점 평점을 받았습니다 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZC1Lb3JGTE5RQ3BJMzVUUUJmbmRpNUNTblpmWnZKdFBkSjUxVUJ1a25jbmx4alE4elV4a3Fab1dCeGJwZlRENGdZVlRBN0YxVnY0WEtLSGltMXIzMjJxcnFBSzlQTGw5UEZKVm4wQ3VCb1VEbnZ0QW9SejBkb0p5d056SQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1780122600,
+      "summary_kr": "헛된 것을 사지 마세요. 이 베스트셀러 Amazon 주방 도구는 수천 개의 별점 5점 평가를 받았습니다.  Allrecipes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성반도체 매출, 하이닉스보다 10배? 팩트체크 결과 그렇지 않은 것으로 밝혀져 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxVnhXMTlQaGFOamRZcE80N2Y0VjdESW1mc1JQQ2VvNnJJMmlBVExya0JhZF8zaEs5Ul9UWF9sVmhWR0c3cmJxS29VZTZMTmhkS0ZJ?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1780088501,
+      "summary_kr": "삼성반도체 매출, 하이닉스보다 10배? 사실확인 결과 그렇지 않은 것으로 밝혀짐  매일경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "매력적이고 현대적인 느낌을 주는 빈티지 스타일의 주방 가전 - 좋은 관리",
+      "media": "Good Housekeeping",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbTFhc1pSeGdzWlJSNE1GU1Vwd3UxeEIzdlBBR3kxMGc1V2h1bUF5UzBXY2RENm5jR204OUx4N1lNa2l2dDRnSUVUX21LMEpmLTEtQTI3UEdMZmExLTk4RW9LWUVjeXhOMDRNeDdDN2VNcXkxa1pzUk9Kc1JaQ1EyQzVZOHoxLV9mWlVTM3BhMkRBV2JuaVFqU1NtSnZzbVFIM0E?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1780081971,
+      "summary_kr": "매력적이고 현대적인 느낌을 주는 빈티지 스타일 주방 가전",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방 가전제품을 사용할 때마다 플러그를 뽑는 것이 지겨웠는데, 이 10달러짜리 스마트 플러그로 문제가 해결되었습니다. - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa1VMN0NaUHpnaU5OZVdjdENUSFhnNzhJZHNrZkc1MkMwdFZCdlhxUXpFWkVWUWFzMTduSTRZY0VRNjhfMlUxVXRmMHFiNHVUb25DV3hFdVg3Z29MYjVNQzE5LTZKeHVKa1dvSmFtMkJVVDFDSFFTZVJWNjlVZnhQTmU0dW1OUGprbG5mQmt3?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1780081320,
+      "summary_kr": "주방 가전제품을 사용할 때마다 플러그를 뽑는 일이 지겨워졌습니다. 이 10달러짜리 스마트 플러그로 문제가 해결되었습니다.  AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 무선 진공청소기는 다이슨과 경쟁할 수 있지만 가격이 수백 달러 더 저렴하고 74% 할인된 가격으로 판매됩니다 - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWXpDSV96SGhCZklHVXpYT1pYUl91V0dsMjRjNUMzR2o3bVZoZURBcExGLUs4UkVjWkRvRy0xMXNERi1FMlRfN20xU0JnNTloTTcySW9Ld2FhUmIwdUVvdE4tbnpCckw4Z0RjSGZrVVBPUmR5c3pkY0VTT2RuWEpIVmJlQTJhdjRuYzdicU5DRQ?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1780064706,
+      "summary_kr": "이 무선 진공청소기는 다이슨과 경쟁할 만하지만 가격이 수백 달러 저렴하고 74% 할인된 가격으로 판매 중입니다.  NBC News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성의 갤럭시 링은 이제 잠자는 동안 AC를 조정할 수 있지만 문제가 있습니다 - Gizmodo",
+      "media": "Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTlhcUJ1Q3Q1RjI5TEktZUtSaTZFbjRSZTZVUm1uSG80NWpUQ1BSZURQRFdZenIyWmIxRVZSRFFKT2lHNGRLQ2JrMWpmVGJmcVFWYXAtV09JQUdlejI0eTFENFNaRWtDdE5kUmE2R0tmOWgtMzJXMkJ6MHFCa0F1a215U09fMTRJX01IY09nNE4wd3N5bHVNeV9pTU53RGVHVWd6T1p2ZFlnQUNN?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1780056025,
+      "summary_kr": "이제 삼성 갤럭시 링으로 잠자는 동안 AC를 조정할 수 있지만 문제가 있습니다. Gizmodo",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung SmartThings, 사전 예방적 스마트 홈 케어로 가전제품 신뢰성 재정의 - IT Voice Media Pvt. 주식회사",
+      "media": "IT Voice Media Pvt. Ltd.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUk9Zb0VsVXhFQzRoOXZmSWZSSUgxZXpzZ1hmRzNvX1FFMkYtSk1LREhtVzZOYlhoaHhEcF9wdGdfdGx0SXZjRzNzOGdiVUUzemt4SVJLY0tLWi1IcVhiVW83M2tqNjBJVHRNY3E1VnktMl9FMzRTRm5VLTIxYXJ5ODhHQ3VTcjU4LUJXejVLUVo5UDRtb3g3bXdUbnZBaWdwTDJURGNaNjA?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1780049587,
+      "summary_kr": "Samsung SmartThings, 사전 예방적 스마트 홈 케어로 가전제품 신뢰성 재정의 IT Voice Media Pvt. 주식회사",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 인도에서 SmartThings 플랫폼으로 사전 예방적 가전제품 관리 추진 - t2ONLINE",
+      "media": "t2ONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHNLSEViMVU0TUJzV0VKZHB6UE9NbXkyMWd0aWJFMUM1VGFLUTllRTR3SzZ3TjllY2xySmJMYkNNTTlZcUMtMWFZaHpwLXJoZm5SNzRjQjhqbDNzTnBCR1VpajB0MmdmcFJMNDRpVFNQSmt5UTNsVzhlZ1lxc1RESVlCbVpRSVdDUUhLaUhLdDAtbFRwSm83cmwwamExMXpNVW14X1hvb2w4NmU0LUpCODVhRHdPUmpF?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1780048980,
+      "summary_kr": "삼성, 인도에서 SmartThings 플랫폼으로 사전 예방적 가전제품 관리 추진  t2ONLINE",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Xiaomi, 말레이시아에서 스마트 가전제품 확장 - 에어컨부터 로봇 진공까지, 프로모션 가격 RM999부터 시작 - TechNave",
+      "media": "TechNave",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU3A4dVR5Wjk4MHI5S3p0ZW9YaVU0dUJ0QUE4dUZFbEVDcTZFVURvc3hGd0ZfbUpFdlRCM1FfazZldFBSWDJVOFRhM0FGRmVBNGxTMFBsaXlNRWVtcnNuUThzbDdVV2J1Nkl6SGM0d3lyeV9NamFKbjUxVjJHSENaTU5tWEc2U2FoMnpkM1FVNDlPdDQwT3Fzd2hkb29rQ1VHQWJQNzQteFFRdUhQOVdIaWxIX3BKczZiYmlwdFdnMUZJdmg4bG1zbVVxdFh5ZURXamN0ZnZFeXZ5X3M?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1780046739,
+      "summary_kr": "Xiaomi, 말레이시아에서 스마트 가전제품 확장 - 에어컨부터 로봇 진공청소기까지, 프로모션 가격 RM999부터 시작 TechNave",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "오늘의 곰: 월풀(WHR) - The Globe and Mail",
+      "media": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZzVRTVNLQ21BYkJsOGJYU01NWWI3TVgwV0dKN0hfd3prQTQ5YU9ERDBJTjlNZUk0X2o5SHhNbV9OZVJtaDVSdGZhOGQ2Wk1TSWd2RnlranFnbWFRSGNkNnRUdG5adnN4YUtPQ1hpUVhmUmt5ZjVjMWswMFRxYkliRVdoZzZ6cGVfQmJMVVVOeXlpR05ieXFGaUx6WHlXT1BWVFhwY1lyaDB1anl1VXoxWWh3dw?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1780045920,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
