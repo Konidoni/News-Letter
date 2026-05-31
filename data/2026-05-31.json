@@ -1,0 +1,257 @@
+{
+  "date": "2026-05-31",
+  "date_display": "2026년 05월 31일",
+  "generated_at": "2026-05-31T17:09:31.645983+09:00",
+  "generated_at_display": "2026.05.31 17:09 KST",
+  "category_counts": {
+    "Market Dynamics": 12,
+    "Competitor Analysis": 2,
+    "Samsung DA": 1,
+    "Samsung Bespoke": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 16건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 5건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 5건이 감지됩니다. 주목 기사: QUGRL 가을 식기 세척기 자석 커버 정문 하이랜드 소 추수 감사절 장식용 냉장고 커버 자석 시트 스티커 선샤인 세탁기 냉장고 패널 데칼 주방 기기 23x26 ​​In - aviglianonews.it. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: LG전자, 고객 가전 불편 해소…'볼드 무브' 시즌2 출시 - 아시아경제. 시장 전반 기사 12건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Kitchen Designers - Livingetc에 따르면 공식적으로 2026년 주방의 가장 큰 수납 트렌드는 다음과 같습니다.",
+      "media": "Livingetc",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vNVhHaVhtSmtkRHVPeC1wVnJNam5ZeXoySHd6dnRxZU5sc051NEV4RWVrZk02Zi1xX0x5UVh3VzJPajluTm43dldYMWxDSENWQ21XZ19IY05uUjkteEZqRWpFWEh1c2FIeWVVY3FwR24?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1780210800,
+      "summary_kr": "Kitchen Designers  Livingetc에 따르면 공식적으로 2026년 주방의 가장 큰 수납 트렌드는 다음과 같습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "QUGRL 가을 식기 세척기 자석 커버 정문 하이랜드 소 추수 감사절 장식용 냉장고 커버 자석 시트 스티커 선샤인 세탁기 냉장고 패널 데칼 주방 기기 23x26 ​​In - aviglianonews.it",
+      "media": "aviglianonews.it",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZlV4T2ZDZzdTRk9sOWp5UTMwaUxzMUw2Z0hkVDBLbDZramRuLWdMQ3o1TDZDXzFrVkdFa0ZqcmxCYlBLREFnMXY3dmVLNm8wYm5CNWdUMW03Sk9CazRpMTY4UDJoWXBEeW9Gc3FVTHlWVnJtYmFhSjhFRjVrTzg2ZTdaLW5heUJZOEpVTG1JMkN4ZzRiRkNWLWh5S3pJZw?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1780206810,
+      "summary_kr": "QUGRL 가을 식기 세척기 자석 커버 앞문 하이랜드 소 추수 감사절 장식용 냉장고 커버 마그네틱 시트 스티커 선샤인 세탁기 Fr",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "오븐을 건너뛰세요 — 편집자가 승인한 소형 주방 ​​가전제품은 더 좋고, 더 빠르고, 더 바삭합니다 - Food & Wine",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTnRCekE1RDQwV29CSEk3MTRGNlY4SWVwZzdUb2RiSGhySTlUa0g3QS1MdG51c0NTY1c1Qk53Y21jSDU1czBMakdNX2hLdG1ZVkY5R3RSMzJoY1lTRFdBWFNSMnJKMzZrTXdTRkczQ3hKYXRiaDFDbGtsaVZ3VmtxQS1faHFYd3FXVThB?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1780205400,
+      "summary_kr": "오븐을 건너뛰세요 — 편집자가 승인한 소형 주방 ​​가전으로 더 좋고, 더 빠르고, 더 바삭한 음식과 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "미래의 주방이 다가오고 있는데, 이는 우리가 생각했던 것과 다릅니다: 전문가들이 주방이 변화할 6가지 방법을 공유합니다 - The Spruce",
+      "media": "The Spruce",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVItdTlkTGFfVWVXejNzUk9kczVSajQwTER1WWcxa2JZVVhSS3JCWUI2c3l3cGNTNVJsczl2bVlqZWJndmlnWVNqaHhJUTFCbDBzdjY2dy1CVS1Nal9xVi1nM3VjTklQNDc4Vk9pZ204c0dVX1g0aFJ3QmtWSGM4cEJFNmdLdFU?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1780194000,
+      "summary_kr": "미래의 주방이 다가오고 있지만 이는 우리가 생각했던 것과 다릅니다: 전문가들이 공유하는 주방이 가문비나무를 변화시키는 6가지 방법",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 고객 가전 불편 해소…'볼드 무브' 시즌2 출시 - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JZTJiMDdNLUxtV3lKaGdUZURUb1VrcklZcDNzdmdlOXFtNGp2a2lZVVk0aXdhZzFQOTU0SExMYTVsYl9wY2NYZzhCSkJ5VTN1bzdMRGtSOUNLWVRlN1RWdWNabUhweVFJQXJCZ1ZxNkUwemN4eUM5Qg?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1780192942,
+      "summary_kr": "LG전자, 고객 가전 불편 해소…'대담한 무브' 시즌2 출시  아시아경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 가전 접근성 강화 위한 '볼드 무브' 확대 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fejNXa1FGb0ZTUlljRUVhenRPd2hIYnVyeXRjRFMyQWE3amJyWmp0bGdNVzBlMXBYZWd4UTFPZnI3Wmk2Ul84V3hKb290UDhLRllOQk9xcXVUOGZXZ0h2VWFOdlhyS19lN1NYVDRVMWJqMGxSU1A1Uk1R0gGOAUFVX3lxTE1pOFFfVV9BLVB3dURRWnVhMGhzcXFKUjlfMXVRQXFIcWUxZ1dlSUE2RTdmQjZGeWFjRl9Fd0ZWT3djMUlQT2ZlSzY0WGhYOTRIN2J0MzRsbHVPZ1JLUWRTUmd3Q2UxYnlkcVZ5ZEUtYjNZTmVJbVNmdVFwQkN3V1Y5RXNnQlY2T0NiNmlIM2c?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1780189560,
+      "summary_kr": "LG전자, 가전 접근성 강화 위해 '볼드무브' 확대 - CHOSUNBIZ  조선비즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성 세탁기의 4가지 일반적인 문제",
+      "media": "Bing News",
+      "url": "https://www.slashgear.com/2182976/common-problems-with-samsung-washing-machines/",
+      "time": "12h ago",
+      "pub_ts": 1780170300,
+      "summary_kr": "삼성 세탁기에서 흔히 발생하는 문제로는 제어가 무응답, 물을 채우지 않거나 배수가 제대로 이루어지지 않는 것 등이 있습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "피해야 할 8가지 주방 가전 트렌드와 대신 선택해야 할 것 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjNpMlZvMWk1VEtiNkdyV3V1X2JzTDZWN3hUMDROSmVXRV9oMjZkcDNOdlcwWVZybDJHcFk3RmM4bzJGR1c5R0llc1pVNFF3SHdKQ2Y0LXNLa21zTzlfeGFCeUNpYWtlaDNvUm9OVEtPWnFkNTJmclpLa0l2M3E2d2xlUQ?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1780169422,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "요리사가 말하는 7가지 주방 가전은 돈 낭비이자 조리대 공간이다 - 정말 단순하다",
+      "media": "Real Simple",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd3prcGc5bG5TQnZtOG11dGpSVmdHZHNLU0ZRbWE3YVZoQjQtRVd1Q0xtV01XVEdrOW5SZTJPaU5VclNGZF9COVQ5cmlOdTJ3V1RVZUZaTVVBME9ueG5fYWkyMG9qbWw4SjNrbmR5UEo5NDZBVnNoQmdKMVV6dm1BV1Z5Vy1DTVJ6UGF0YlVn?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1780165800,
+      "summary_kr": "요리사가 말하는 7가지 주방 가전은 돈 낭비이자 카운터 공간입니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방 가전제품을 원활하게 작동시키는 가장 좋은 방법은 누구도 하지 않는 일입니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdDBYVWRYZjh5bDItdjd5TGxxT3hGNTh0VHZ2SG1vZXVmQkFmb2VWOTJZMXVQVlltX3U5UkJYUUNvcUUySVRSNG9neE9fdk5hUkNLanB5dHNvcF9xa2gxSXd4TXE0TEtqTnBXTzR0Z0ZNU1VCV0FfS1Y3cEhSd1FMaDBB?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1780164487,
+      "summary_kr": "주방 가전제품을 원활하게 작동시키는 가장 좋은 방법은 우리 중 누구도 거의 하지 않는 일입니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "수십 년이 지난 지금도 사람들이 여전히 믿고 있는 빈티지 주방 용품 13가지 - 시식 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iTG02ckptcGo3NXV0a0tTSGxLMi1UVjg2VVowWllEQllpZzh6QlpFM1RGd1p0elhFTk9LZDhibEc0cnpDTm9wankzZThLakpRNmhoZk85S1RNVl9YbGdHclB2MU01TzQ0SnlGMmNzc0Rmd2lkX1VUUzlR?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1780164000,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "멀티탭에 연결하면 안 되는 주방 가전제품 6가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY2Zja2h3Xy1EaHJqT2E5YTNBVWMtbzgzaVdsTWVYampMTFZfN1dNNTlPSl9pejk1aWFCT092MERTNHdMOFhiMUhVZjZuOHoxQnNkQVBsZi1PWS1udVNaNTJQYXJoU080WjBUS2pqMEJCRU5jTnB2NFQzQWFWSE1XZQ?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1780159924,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성전자, 맞춤형 세탁 라인 확장 및 올인원 세탁·건조기 추가",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/lifestyle/shopping/samsung-expands-bespoke-laundry-line-and-adds-all-in-one-wash-and-dryer/ar-BB1lhOtR",
+      "time": "18h ago",
+      "pub_ts": 1780150140,
+      "summary_kr": "Samsung Electronics America, Inc.는 AI 기반 Bespoke Laundry 제품의 새로운 라인 출시를 발표했습니다. 이 라인에는 Bespoke AI Lau가 포함되어 있습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "남은 음식을 최대 8배 더 오래 보관할 수 있는 80달러짜리 아마존 주방 도구 - USA Today",
+      "media": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakpWQ3FVQVBseFlYQ2cweXN2WUthbWs1MkZOREZIQk14LWRRV2FQR3BzbG8yXzVPODdld0ktV2RnMllxVkZ3Y1dDSTF0WFJtOF9yaGJhVGtRdmpzckN5OUt1Y1lzZ0NjaGh3T1NabkIzZVo1RGdSWUE5azZ4LWs4aDJrQnFtNGk3ZVNLcVhqVXhnbmt0eWJMVkxQYWhTWWRZQU1lN3Blb09tdHA0?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1780146720,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "샘스클럽에서는 미판매 및 반품된 주방가전을 어떻게 처리하나요? - 야후",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRUZlRkp5bDVwU3hheHN1QXB1ZXZYc0NjZ0l0VWxMNFFFaEpMbXJGVXprT2d3Z3FHY245aDJhMEFNbUdZMTFTSzdGaVBRTE85NnUzVFNJck1XdG1QY3ZjeHRHNkM1MU51RmFvV1pQXzRpa2s1VjJiSm91SW50VVppUkZGcDcwM0pWQkNrNWl0ZzdQLXR1MTFFTzktX0hrOXZfYlZr?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1780142700,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "코스트코는 잊어라: 소비자 보고서에 따르면 대형 주방 가전제품을 구입하기에 가장 좋은 곳 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hYmlkU0ZmSHlERFhOcEI5eEZZTmE4NHNxUjBBdUFWT0hZMHRUeGJuLUs1VUU0VTVUNWRMV0dpX195T0RWek4wRlFyMEVWSXdGcWtqT2hobmpnRDJXRGpKY1JDem5tdW43RGlWbUthalFkc0xVWUN4LVpURG8?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1780130556,
+      "summary_kr": "코스트코는 잊어라: 소비자 보고서에 따르면 대형 주방 가전제품을 구입하기에 가장 좋은 곳 AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
