@@ -1,36 +1,79 @@
 {
   "date": "2026-06-01",
   "date_display": "2026년 06월 01일",
-  "generated_at": "2026-06-01T13:57:06.442981+09:00",
-  "generated_at_display": "2026.06.01 13:57 KST",
+  "generated_at": "2026-06-01T19:12:54.327934+09:00",
+  "generated_at_display": "2026.06.01 19:12 KST",
   "category_counts": {
-    "Competitor Analysis": 1,
-    "Market Dynamics": 11
+    "Competitor Analysis": 2,
+    "Market Dynamics": 9
   },
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 0건 감지",
-      "desc": "오늘 수집된 12건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 11건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
       "title": "시장 기회 1건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 1건이 감지됩니다. 주목 기사: 오븐을 건너뛰세요 — 편집자가 승인한 소형 주방 ​​가전제품은 더 좋고, 더 빠르고, 더 바삭합니다 - Food & Wine. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 1건이 감지됩니다. 주목 기사: 하이얼, 베트남에서 호라이즌 냉장고 출시로 신선도와 가전제품 디자인에 대한 새로운 표준 제시 - PR Newswire. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
-      "title": "경쟁사 기사 1건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG전자, 물리적 AI 추진으로 2026년 주가 300% 이상 뛰어올라 - Bloomberg.com. 시장 전반 기사 11건, 기술 트렌드 0건 함께 검토 권장."
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: 하이얼, 베트남에서 호라이즌 냉장고 출시로 신선도와 가전제품 디자인에 대한 새로운 표준 제시 - PR Newswire. 시장 전반 기사 9건, 기술 트렌드 0건 함께 검토 권장."
     }
   ],
   "articles": [
     {
       "category": "Competitor Analysis",
+      "title": "하이얼, 베트남에서 호라이즌 냉장고 출시로 신선도와 가전제품 디자인에 대한 새로운 표준 제시 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMHhOSHJvRk5PRXcxMEZwQXBxTng4WHpOWll5akpmdmY0bGVLZXdlNy1tSWF3NnBHZ1hCS2hzbWQ0Tlg2ZTBKWTQ3TTZmbGpLMjBIT2tuXzVJajN4bGdGaWVtd0drelVXSXpqWFcyOExudjlXakhhM1BwM293ZTJTY3BTMWFkYWIwWklJRTAycmhKZnRKTmlpNThQTzNlVDFlMzIyNU16bGpzNWtrMnpTU0dQcjlsX2FQaHczendwcl9ubExYNkVTcVE5cHBFRTFLUWJxa0pBS0gzWXZfejIzR0xYUERSQlJRTkhxOXBqTElqZkhyV2N3?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1780300020,
+      "summary_kr": "하이얼, 베트남에서 Horizon 냉장고 출시로 신선도와 가전제품 디자인에 대한 새로운 표준 제시 PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "동향 보고서: EuroCucina 2026 - kbbreview",
+      "media": "kbbreview",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDVGpqQ2dzMlJPRnRodVN4ZFJ4MjBZWEEtY2F4d3B4RmtfZUN5Rko1VWpadWQ2Nk5hU1VJWmpwRXhZRmxnbXpqMzM2VHFtZ3ZUQlhoTEVkNk9JTEJPYTFycTBBd3dsVXZtNWc4LWp6VTVibGU2d1k3dA?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1780297200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "영양사가 말하는 여름 일상을 바꿔줄 스마트 주방 업그레이드 16가지 - EatingWell",
+      "media": "EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDI5dW41ajZNMFR6YmF2RzdIbGladzM5U3kxaWxzSHQwOVY1Qm5VVzZGa2FJNVFaR0M0eFdtak96d25QbWVqdGxfd2llZmRQRVNSZDlLcHZaaDUtTVIwQThmNjBMNTZtM1RreU94bVdWRXZkckZUTGVDRU41SGM1Q3Btb1FpcmR4elZmWklDc1pjQQ?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1780291800,
+      "summary_kr": "영양사가 말하는 여름 일상을 바꿔줄 스마트 주방 업그레이드 16가지 EatingWell",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
       "title": "LG전자, 물리적 AI 추진으로 2026년 주가 300% 이상 뛰어올라 - Bloomberg.com",
       "media": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMl83c0pIbUdIdmQwaDJ6UHRRbm9LUXpiQWhCZmkyRU1PUG0ydVBuSXlVV2FUTHBTa1BHQzRKbi1MMmN6WThzOTg1cWNyMGJERVFRbWh0SnU5TUdpbEp1WkllRm1DZk1sZVF5NG85d0thcHpDd0otQVBEOF81UnQwOEZrQUZoeUxkLTA2VnhLU3NYOTlxdWtrZlpOdVNoMFZEZnR4SGg0NFBTUmVwRllScURB?oc=5",
-      "time": "1h ago",
+      "time": "6h ago",
       "pub_ts": 1780284480,
       "summary_kr": "",
       "strategic_implications": "",
@@ -44,7 +87,7 @@
       "title": "스테인레스 스틸 가전제품이 유행에 뒤떨어지고 있나요? 디자이너들은 주택 소유자가 이사하기 시작했다고 말합니다 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnV0Wlg0ajZtNjdpem5DOGpyN0lTb29GNWI1VUY2MWlGTV9aajM0OGFEbmdWbTNsdVZIRkY4TFZEOGdNdmczSnN5dDF2Sng4ZE1meFpnRUhLWkI4WV9sYXNlOWdxcDI1M3NzaTNhUngtblFUOEhJWGVFQlFMbkdSMEo1WGI0UTl1cFE?oc=5",
-      "time": "9h ago",
+      "time": "14h ago",
       "pub_ts": 1780256580,
       "summary_kr": "스테인레스 스틸 가전제품이 유행에 뒤떨어지고 있나요? 디자이너들은 주택 소유자가 이사하기 시작했다고 말합니다. AOL.com",
       "strategic_implications": "",
@@ -58,23 +101,9 @@
       "title": "코스트코에서 판매되지 않거나 반품된 주방 가전은 어떻게 되나요? - 야후",
       "media": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRjFfT1oxbm9uUjRqNlgtUFU1RFE4QnMtQlp2V3NEajROOTh4aXJrelh1cFFVMXlFdFEwR1BndFZ2OF9XYkNSWkNQWGZ2WlVEX05zV0JldU5MRWR1cXVDLTVmY1VSS1phMXlucUN5Nl9QQzlqM1BHY1BseFBZb3VSTlM5ZHNqcnNUVGFkNGpzWDlSX1hhY2JvaTJ6ZTBWdVdTalVlNmpNbGVBWFJQWHNxcElLZw?oc=5",
-      "time": "9h ago",
+      "time": "14h ago",
       "pub_ts": 1780256100,
       "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "코스트코는 잊어라: 소비자 보고서에 따르면 대형 주방 가전제품을 구입하기에 가장 좋은 곳 - AOL.com",
-      "media": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hYmlkU0ZmSHlERFhOcEI5eEZZTmE4NHNxUjBBdUFWT0hZMHRUeGJuLUs1VUU0VTVUNWRMV0dpX195T0RWek4wRlFyMEVWSXdGcWtqT2hobmpnRDJXRGpKY1JDem5tdW43RGlWbUthalFkc0xVWUN4LVpURG8?oc=5",
-      "time": "9h ago",
-      "pub_ts": 1780254646,
-      "summary_kr": "코스트코는 잊어라: 소비자 보고서에 따르면 대형 주방 가전제품을 구입하기에 가장 좋은 곳 AOL.com",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -86,7 +115,7 @@
       "title": "20년 전 인기를 끌었지만 지금은 먼지만 쌓이고 있는 6가지 주방 가전 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdF9mTldmcUZnWlZTRWhvbm5meDY4RTNZWlNpeVQzbFdLbFY4MjgwVDRfaW1FdE1LT2FWTkszRnhLWHJUZzZWZ2pab1MwLU95YWFaV1ZhVlhWYzktbXJMSzl1cjlPOGhia2JpOUdhQ1UzdHR0azdaRjFVZzdnQ01tRw?oc=5",
-      "time": "11h ago",
+      "time": "17h ago",
       "pub_ts": 1780247257,
       "summary_kr": "20년 전, 이제는 먼지만 쌓이고 있는 인기 주방 가전 6가지 AOL.com",
       "strategic_implications": "",
@@ -100,7 +129,7 @@
       "title": "50달러짜리 복고풍 벽지로 주방을 바꿔보세요: 간단한 DIY 화장 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZFRPbzBWbDZuenhyb2ZJcm9FZ255MmZ2dy0yS1htNkJZQ0hRVm5nWUdaN2RQOElzVjJ0eTNnUTJXb2RpbVhzYkxtT01qUF9QNzQyZ1hiZWJsdjhUVDIyZ2I0Rnk3N1llekctZ3lVWS0zZFVQb2h1MW15VkxpREFDcVhMeFY5Qms?oc=5",
-      "time": "13h ago",
+      "time": "19h ago",
       "pub_ts": 1780240257,
       "summary_kr": "",
       "strategic_implications": "",
@@ -114,7 +143,7 @@
       "title": "매력적이고 현대적인 느낌을 주는 빈티지 스타일 주방 가전 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVNPaTRTMjBic1M5X3hCT1JkWXgxa256cjdYMlJrejVLYzBJOXZaM21WbF9JOUhJRDhWcU9VRkhXS0R6M1ZMT24ydEJJaFV1UDRPSG10dnoxUHp6czU5WDlWN3VnLW40bHVBR0xxZ2JUNzdhTW1uSDViUkduNHA5N2VDUnpOc3Fz?oc=5",
-      "time": "14h ago",
+      "time": "19h ago",
       "pub_ts": 1780239053,
       "summary_kr": "",
       "strategic_implications": "",
@@ -128,7 +157,7 @@
       "title": "저는 이 쿠진아트 아이스크림 메이커를 2년째 사용하고 있습니다. - 이상적인 집",
       "media": "Ideal Home",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZkRfMGM5RGJwaUJSRDJLOXo4T2FSc3UtYXR0MGxkbWVjR0lPYWtsMGtmYVV6cDZkUVhyVkdpcW53STRvRW5rcXlUTUZpOWhpVGlrY0EzTk5SUEh5bk5uSjhvRXF2Z3BsNTFSRXdLc04wdXk0aHpjLXZPckh4RzZxZjN6NUszOEsxZjB1eDdCRXREN0xkeUdXMTBjNXVneDFSS0Izakl5UG52WXdXT3VUZHNuWnZHTHdHbi12RGdB?oc=5",
-      "time": "15h ago",
+      "time": "21h ago",
       "pub_ts": 1780232400,
       "summary_kr": "",
       "strategic_implications": "",
@@ -142,55 +171,13 @@
       "title": "휴가를 떠나기 전에 가전제품의 플러그를 뽑아야 할까요? 전문가가 권장하는 사항은 다음과 같습니다. - 정말 단순함",
       "media": "Real Simple",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVpxSDVOODRFZXFFOUxCQU8tam1zNE9yRTR0WU9hWVFxMHUzcWllNlVxSHg2TVRrdXZRQUo2Sl9rc1AtbGp4SE9zdnd4V2gzTG9CbUdBaWtoQ19UYlp6M0lvQTE0UXpldnRNWFFhUmVvaVpuVmRrTFA3MVJQRUFSOFpiT2RXaXdiMGJFcnBWTWwyZ1RVdmVz?oc=5",
-      "time": "16h ago",
+      "time": "21h ago",
       "pub_ts": 1780229700,
       "summary_kr": "휴가를 떠나기 전에 가전제품의 플러그를 뽑아야 할까요? 전문가가 추천하는 내용은 다음과 같습니다.  정말 간단합니다.",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
         "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "3개월 동안 '심슨 가족'의 주방을 복제한 여성, 주방이 '압도적'이었지만 '그리움'이었다고 인정(독점) - AOL.com",
-      "media": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRM1Vkb0o4SWJHVjdaQ3dxVDBhY1pERmlyNHBWY19iaGhEd2FFQXRRSVpNYmwxN0FMREp4UFdFMFN2VGJQazBaRkozb2xOUmVTeWJXVVIyZERjY0k0aDJ1Mk9Bc2tGUnpCWS1wXzFCVS1WM05xb3JWQ2FyYnZZZw?oc=5",
-      "time": "20h ago",
-      "pub_ts": 1780216080,
-      "summary_kr": "3개월 동안 '심슨 가족' 주방 복제품을 만든 여성, 주방이 '압도적'이었지만 '그리움'이었다고 인정(독점) AOL.com",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "잊혀진 60년대 주방 가전이 현대적으로 업그레이드되었습니다.",
-      "media": "Bing News",
-      "url": "https://www.msn.com/en-us/lifestyle/shopping/the-forgotten-60s-kitchen-appliance-that-has-gotten-a-more-modern-upgrade/ar-AA24ul8k",
-      "time": "22h ago",
-      "pub_ts": 1780207200,
-      "summary_kr": "이것은 1960년대 주방에서 찾을 수 있는 가장 멋진 가전제품 중 하나였으며, 대부분의 사람들은 심지어 이보다 더 현대적인 버전을 구입할 수 있다는 사실을 깨닫지 못합니다.",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "오븐을 건너뛰세요 — 편집자가 승인한 소형 주방 ​​가전제품은 더 좋고, 더 빠르고, 더 바삭합니다 - Food & Wine",
-      "media": "Food & Wine",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTnRCekE1RDQwV29CSEk3MTRGNlY4SWVwZzdUb2RiSGhySTlUa0g3QS1MdG51c0NTY1c1Qk53Y21jSDU1czBMakdNX2hLdG1ZVkY5R3RSMzJoY1lTRFdBWFNSMnJKMzZrTXdTRkczQ3hKYXRiaDFDbGtsaVZ3VmtxQS1faHFYd3FXVThB?oc=5",
-      "time": "23h ago",
-      "pub_ts": 1780205400,
-      "summary_kr": "오븐을 건너뛰세요 — 편집자가 승인한 소형 주방 ​​가전으로 더 좋고, 더 빠르고, 더 바삭한 음식과 와인",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "opp"
       ]
     }
   ]
