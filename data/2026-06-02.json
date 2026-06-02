@@ -1,39 +1,111 @@
 {
   "date": "2026-06-02",
   "date_display": "2026년 06월 02일",
-  "generated_at": "2026-06-02T14:42:34.649335+09:00",
-  "generated_at_display": "2026.06.02 14:42 KST",
+  "generated_at": "2026-06-02T18:01:54.507435+09:00",
+  "generated_at_display": "2026.06.02 18:01 KST",
   "category_counts": {
     "Market Dynamics": 14,
+    "Competitor Analysis": 3,
+    "Samsung Jet Bot": 1,
     "Samsung DA": 3,
-    "Samsung Bespoke": 1,
-    "Competitor Analysis": 2,
+    "Samsung Bespoke": 3,
     "Technology Trend": 1
   },
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 2건 감지",
-      "desc": "오늘 수집된 21건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: 50년대 주택을 정의한 5가지 복고풍 주방 스타일 - 하우스 다이제스트. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 25건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: 50년대 주택을 정의한 5가지 복고풍 주방 스타일 - 하우스 다이제스트. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 7건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: 위닉스 소형가전 무스, 매출 성장세 - 매일경제. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "title": "시장 기회 9건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 9건이 감지됩니다. 주목 기사: KAFF Appliances, Matt Finish Hobtops로 주방 포트폴리오 확장 - 인도 소매업체. 삼성 Bespoke 3건, Jet Bot 1건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
-      "title": "경쟁사 기사 2건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: LG전자 주식(KR7066570003): KRX 급등 이후 서울 주가 급등 - AD HOC NEWS. 시장 전반 기사 14건, 기술 트렌드 1건 함께 검토 권장."
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: LG전자-넷플릭스, 정기권 묶음상품 'LG넷플릭팩' 출시 - 매일경제. 시장 전반 기사 14건, 기술 트렌드 1건 함께 검토 권장."
     }
   ],
   "articles": [
     {
       "category": "Market Dynamics",
+      "title": "KAFF Appliances, Matt Finish Hobtops로 주방 포트폴리오 확장 - 인도 소매업체",
+      "media": "Indian Retailer",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNamVJd0pJMkRyVkNnYnJaMUVJTlhkN2dvVXlxMGtPQzlNMm4xdEhPdEVqcmJwTEtRa0E2dE5kalZjLUhrdk92SmppRlBROXlkMG1TZXhsUEw5elA0NGx4and0dDlKbTJBWDdSTmc0eXk1VDV5ZW9IWnVRcEZTUDlpeVJLZ0wya2QzSXA0M21ZRVNaaGwxckFLc0JWdDJXZw?oc=5",
+      "time": "Just now",
+      "pub_ts": 1780388885,
+      "summary_kr": "KAFF Appliances, Matt Finish Hobtops  인도 소매업체와 함께 주방 포트폴리오 확장",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자-넷플릭스, 정기권 묶음상품 'LG넷플릭팩' 출시 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IRmwxN3pCMk9vMmljUkJ5LWJjZHBoT2NtaGlwelBoLWJtSFlYTjdIYzRMaGd2Y1dDeDVGTjVhaG9wYXBsYW5uMjhCamlmZEJWNFFV?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1780386901,
+      "summary_kr": "LG전자, 넷플릭스와 손잡고 구독 묶음 상품 'LG넷플릭팩' 출시",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "보너스 가전, 2025년 11월부터 매출 7% 증가 - Il Sole 24 ORE",
+      "media": "Il Sole 24 ORE",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNUxxcDFJZ0E5VjFfVl9tX1JvMHJLLTN0VUs2R284MFVkWEhKc2lZVmFLbkpxQXBLalBHUmJ3OHhZRnJQNTN1aFUxNnd2Z2dJVUhIOVpmNl9OdC1fLWRPUXNneVpFdWotZ0Y3M1Z0YmlaQnJ3VllWT3U4MGN0OV9NZGZYSVl0V0dVaUVRVWF4eU9xVHNMcC1oai1ib2Fndw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1780384559,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Jet Bot",
+      "title": "\"삼성전자라서 보안 강하다\"…AI 스팀로봇청소기 월 매출 2만대 돌파 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16Q1BPanNrQ200d0NqQ1hqOEFTd0RjUC1pdWhFbUhyV3d4NFM5RFE0WTBXemhQazJyRy1xVnJQa0Jsb28ybjlWOWs1RFlRaXpzMFlr?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1780382976,
+      "summary_kr": "\"삼성전자라서 보안 강하다\"…AI 스팀로봇청소기 월 매출 2만대 돌파  매일경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40NkZocHNpZWZCQzFobldRdWx4akRCdldZYVI0NXA0OWJvTWU4QVVzcHlhSzhXbG5jRlhnWUZ5SWFzQUZXRGJWeEk2OC11c0xWNG1MVVo1SWdzVGZFT2hFeDlXZUVRSDdNb0IzNHBiaHJKN3df?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1780370119,
+      "summary_kr": "삼성, 프리미엄 가전 9000 시리즈로 세계 1위 노린다",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
       "title": "위닉스 소형가전 무스, 매출 성장세 - 매일경제",
       "media": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94SXp6TjR4TjVad19kSTk2LUl0cEpDMnFRQTVINDBtOHpKaXpfbXB1OUxaV3VtVFNRZEVRbExYZXVBR2RaMUljd2dHWEctOFI2QUE?oc=5",
-      "time": "4h ago",
+      "time": "7h ago",
       "pub_ts": 1780363578,
       "summary_kr": "",
       "strategic_implications": "",
@@ -43,11 +115,11 @@
       ]
     },
     {
-      "category": "Samsung DA",
+      "category": "Samsung Bespoke",
       "title": "삼성 AI 로봇청소기 월 2만대 이상 팔려 신혼부부 사로잡아 - 서울경제",
       "media": "Seoul Economic Daily",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmNuanFseVBvZU1veUxmdG85VTFxdE5DZS1yTjVrM3RTLXJzSmdJbDI5QnVoenNYeHRBR1VPaEpyY3BxM0tENGotMnloWlA1YWQyVEtYV3JseDhBck91M1dvSVg1MHRUa1pXZjBqbEFVZEJIeVBZZXNMVlJEeFEyeXZVc3N0OFZ0MTFNYWhqRU9QVlVQTlBabmFobUlrUQ?oc=5",
-      "time": "5h ago",
+      "time": "8h ago",
       "pub_ts": 1780358724,
       "summary_kr": "삼성 AI 로봇청소기 월 2만대 이상 판매, 신혼부부 사로잡다 서울경제",
       "strategic_implications": "",
@@ -60,8 +132,8 @@
       "category": "Samsung Bespoke",
       "title": "삼성 '맞춤형 AI 스팀' 로봇청소기, 월 매출 2만대 돌파, 전년 동기 대비 60% 성장 - 아시아경제",
       "media": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54ODZOMU9JZnZfc1JJbVptdmlrWHBpbXhJUHA3TGxkQ3VvbzQxOHBXaXJ1WlVBc3NIS2dVRnhJRDN3Ujkyak0yWjAtZmRWdkJPam9jVXFzaWs4N1ZjY3hkOVM5NGw?oc=5",
-      "time": "5h ago",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80QXdwV0xTMHVza2ViU2tQcXRYQ25ObVBMT0J6WVg1Uk50N3JkZmh3VGFET0I1MkZlYzhsT2dmcDdXWGp2cGZSMlZRWHpBckpQMTJIamFkR3dORmJYSl9Tc2ZtRzBEV3JubnFNbnNBaGczWTNMTUdUSA?oc=5",
+      "time": "9h ago",
       "pub_ts": 1780357624,
       "summary_kr": "삼성 '맞춤형 AI 스팀' 로봇청소기, 월 판매량 2만대 돌파, 전년 동기 대비 60% 증가  아시아경제",
       "strategic_implications": "",
@@ -75,7 +147,7 @@
       "title": "독점: Aqipa, Wilfa 유통 계약으로 프리미엄 가전 시장 목표 - Channelnews.com.au",
       "media": "channelnews.com.au",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVFZmbFl6TVlPZFFFRHBUZHNrVzFIMkttOFJ3OXhkX1VCbmo0WWtWOWhQaW1NakVHbWcxcmVwU1piX28zNlczdlg3WTdLa21HQU9IM2I4b05wUDBHVG5UMUtFQUN4cGZoWXh6bjFMTU9aQllzSDNEOHUweDlfbHdaemQydlliNzVOZW9XcHFuR3V4aGExTEpRWDZMUHlmRF9rMXNNM0E1YmRWVG80eUE?oc=5",
-      "time": "6h ago",
+      "time": "9h ago",
       "pub_ts": 1780356163,
       "summary_kr": "독점: Aqipa, Wilfa 유통 계약으로 프리미엄 가전 시장 공략 채널news.com.au",
       "strategic_implications": "",
@@ -86,24 +158,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Frigidaire 전자레인지에는 비밀 음소거 기능이 있습니다 - Yahoo",
-      "media": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTnkzSjNDbWUxdktLUnhReVZZakJoTHRSOVl5V2NjQVFiRHpQU0hSY0lkUWxPVUFfM3NOclUzd3FYYTBMVVRSU1hPVTJzSGhCeEtJVHFTeTdFbHZOMEJ5eWZpS1dxenltWXJfV1JEaVU2LWVxUVl3LVc4WUxQcjBkSjdkOVhwRUZ2TzM1YUpoNWtrOWk0TVFIQXlJYzZMZjh2b1BLcFBMTGZBQWN3OEVJbHRB?oc=5",
-      "time": "7h ago",
-      "pub_ts": 1780353000,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
       "title": "I.R.A. 가전제품 교환에 대한 리베이트가 단계적으로 폐지될 수 있음 - The New York Times",
       "media": "The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmtmQnppOEtfbDZTeF93T20tY0ktUlJHd0d0ODdIQlhUTS1PcUJvdU5wdTNmY05RclNzMDMzaHJWcHVCMHF5STgza3ViVGlDaVowQU5PWTJVb1VxemFBNzgxODZzb1FYdXgtdFBZRzhzcjNPdXJJZXFBZmwyaDJMc01MNmg?oc=5",
-      "time": "8h ago",
+      "time": "11h ago",
       "pub_ts": 1780349610,
       "summary_kr": "",
       "strategic_implications": "",
@@ -117,7 +175,7 @@
       "title": "삼성·LG·경동나비엔, 국내 히트펌프 시장 주도 경쟁 - CHOSUNBIZ - 조선비즈",
       "media": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN2ZDaFNyVVZQNHhuVzRaM2Y0N2VWV2d5RUtaTnl1bTA4ZU9Fa3VnVm5qOVM2bW1oWjdzQk55SWdDcVV4QlBUdi1JNm1SZG5ubGxwS2VXTUMtYVJWdkNMcG85MHBUOHdrNW5VeFc1US1lT0VIRTZMTEdnd3NzX1RfYkFR0gGWAUFVX3lxTFBfcUttOEFVSGQ2UThpVm1hbVJ3LWhHM2pXQlZGbXJkTzI2SFV5cGRtNUV5cHM2d2hFbngwY3Rfejl1bDg1blhrRnM1Q252Vm5hdmRXX3dSTFJEb05ZMEp6bWNfM1pGS0xwWXloeVhyN2lBRFlkTHBuYi03d21INjZOSTNfZll3QjU0OFE2eUEtZmdXSEVJQQ?oc=5",
-      "time": "8h ago",
+      "time": "11h ago",
       "pub_ts": 1780348200,
       "summary_kr": "삼성·LG·경동나비엔, 국내 히트펌프 시장 주도 경쟁 - CHOSUNBIZ 조선비즈",
       "strategic_implications": "",
@@ -131,7 +189,7 @@
       "title": "LG전자 주식(KR7066570003): KRX 급등 이후 서울 주가 급등 - AD HOC NEWS",
       "media": "AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFFMMjNtR3pBQXpwZXd1WDZoZmc4bWlWV1Y2bkd6dERUbGxVYkRNeWViclBhN2VJY0dlcFd5a1ZSQ0lLUTROcjhQaTlOZS1YQXNRSUE4N2FqSTdLN2k3alhIa0VQU2w1Y1JwcTVMc1BwbngxdkZaU0JISjZoRjlZSWtLMk0xSGRmbzJzb3ZhdWczR05FUUxOUFdpdnBFd2NBaDQ2X3ZwM1JKZnMyclNsc3BjcURIVGtTbnA5YllWc20yMjIt?oc=5",
-      "time": "8h ago",
+      "time": "12h ago",
       "pub_ts": 1780347710,
       "summary_kr": "LG전자 주식(KR7066570003): KRX 급등 이후 서울 주가 급등 AD HOC NEWS",
       "strategic_implications": "",
@@ -146,7 +204,7 @@
       "title": "이것은 오븐이 아닙니다. 이 장치는 비밀리에 에너지 비용을 증가시킵니다. - Futura, le media qui explore le monde",
       "media": "Futura, le média qui explore le monde",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNkZLZVpPd2E2ajktWEtDN0FYRExIazRtaThkOWVraThxWnExcXZic2FqcHlhNTRXd29fQ2NCNVNscUxuc285QjV0VWx1a0dCWWNZZVdfRjdsWjItU29NODBCWGZWZUtYNEloa0tCRXhaUjI1NURFdWY5MUVpbWtyWmh1S3F2SUFfTVRoZW9iUWdHZzE1bHcwWlU2Qi0zMGhwRWV3UVNaZzhJNWhEaFlBYQ?oc=5",
-      "time": "10h ago",
+      "time": "13h ago",
       "pub_ts": 1780340857,
       "summary_kr": "그것은 오븐이 아닙니다. 이 장치는 비밀리에 에너지 비용을 높이고 있습니다. Futura, le media qui explore le monde",
       "strategic_implications": "",
@@ -160,7 +218,7 @@
       "title": "50년대 주택을 정의한 5가지 복고풍 주방 스타일 - 하우스 다이제스트",
       "media": "House Digest",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2M2RGhTU2MwSjF1YW5yRlM3U01lRUNGcFc5VUF1VTFlY2R5YXdDZkNqTEsyWFdtS1ZyTEQ5T2NoWUxUb0ZoRkRqU3RyQ3VwRVNPckhkQ0NyV2g3SjlzREpWUGdUUksyMzBOQmpYVzlDc3k0aGJzMnRWVWNNbTBkYQ?oc=5",
-      "time": "12h ago",
+      "time": "16h ago",
       "pub_ts": 1780332600,
       "summary_kr": "",
       "strategic_implications": "",
@@ -174,7 +232,7 @@
       "title": "이 스마트 오븐은 내 주방의 모든 소형 가전제품을 대체했으며 이보다 더 추천할 수 없습니다 - House Beautiful",
       "media": "House Beautiful",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVZKLTVJb25yX1NnSUdUMmNrd19XazctSHI5Q0tVNFNVMTN1RHFBaUw2ZkVQeElMdXlSU3lDZVBkZVJBYVcwT2pudFdmc2dXQmVCbnZxQ041Q1RNcGVhQS15ZGdaQjJYcjIwSTlLZ0JJWDF4Z2pzS09jV05HWWpKZWRMaEUtV0VYc0xVTmhxLVlqMFA1Q2Nn?oc=5",
-      "time": "13h ago",
+      "time": "16h ago",
       "pub_ts": 1780331636,
       "summary_kr": "이 스마트 오븐은 내 주방의 모든 소형 가전제품을 대체했으며 이보다 더 추천할 수는 없습니다.",
       "strategic_implications": "",
@@ -184,11 +242,25 @@
       ]
     },
     {
+      "category": "Samsung Bespoke",
+      "title": "OpenAI의 맞춤형 AI 칩을 구축하려는 삼성의 계획이 큰 장애물에 부딪혔습니다 - Android 헤드라인",
+      "media": "Android Headlines",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekxuNFRWZ1ZURGhTRlpnSjduM3JCQk1oMDFXamNneHFOYzhGVGJHcDJIMWV1bXQ1N2ZsYnRjWDNpNkM2YXRaM051WndKeG9fNDNPbU9NeDRKVjlEOHVHTkZVX2ZyNVk3Tk9aVElvcDJ0TFlGcDlheVVJbmNndjZ3UmNIYzQyX1oxWklEbTd6Q1pVb3ZzMlpLUVJ6SQ?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1780331371,
+      "summary_kr": "OpenAI의 맞춤형 AI 칩을 구축하려는 삼성의 계획이 Android 헤드라인에 큰 걸림돌이 됨",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
       "category": "Market Dynamics",
       "title": "모든 주정부 기기 수리로 샌프란시스코에 Dacor 기기 수리 예약 추가 - The National Law Review",
       "media": "The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0x2Nk50dVQybjZSVFJzN256bUc3LVFGN1lWUnQzVlh3UFpQbzZ0aEpXZE5LYmctcU1GWlFLT1NMV2s0eVBQYlBXd2JDN3FQcDVSSHUtZWp1cFg2QUd4OXF1cW0tc05HYkdqUy0wS21fbGlBSmZzdXRQZFRyM2FmbTlTXzV5bzRBNUpsVzNZVUJ3Tlpua3lDMW1wenExQXAwY2RRVmpXbS1kTTltNl9nWQ?oc=5",
-      "time": "13h ago",
+      "time": "16h ago",
       "pub_ts": 1780331203,
       "summary_kr": "All State Appliance Repair, 샌프란시스코에 Dacor Appliance 수리 약속 추가  The National Law Review",
       "strategic_implications": "",
@@ -202,7 +274,7 @@
       "title": "Sub-Zero, 궁극의 럭셔리 제빙기로 믹솔로지 붐을 만나다 - Forbes",
       "media": "Forbes",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPazVVZ0lCeldiaHdWdHc1dW9xU0gxb0JRVmRNYkdiNWkzOXdVMEswNWowY1BvSGNuMXIzc3BRSnExWGF0NXp0bkpfWklKRDFxN2RLU3RhaTZxREVyQ2k3N1BXd3J6enEyckltd1dTSmtQUjhwWjVwaElDajJCZDlBMGJfd3hUR1h2bDlhbGFGQlpWV2UxOS1YX3M5cEtXWWFMWlUzNUNvc2tuS2NGRk1vazhrUkhrY0E1dHFjcQ?oc=5",
-      "time": "13h ago",
+      "time": "16h ago",
       "pub_ts": 1780330433,
       "summary_kr": "",
       "strategic_implications": "",
@@ -216,7 +288,7 @@
       "title": "2034년 미국 소형 가전 시장 규모 및 점유율 보고서 - 시장 데이터 예측",
       "media": "Market Data Forecast",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0RhdWZpSmZnWWlEVzZ6RnRSNjJJblI2WWtBQnRPdVNUMXFid2ttUjhuY0hvOVF1OEc1ZEdmMWhsVEFJLW5NSjBOaWdicnhHYW1xbE1TeTd1WFJjVUZtZF9PZmlqd0I1Z2VOS19VTS1Yd0JrTlRBcnlWMDdiSTdvWXJnbHlwRUIxOWNRMnFFUQ?oc=5",
-      "time": "13h ago",
+      "time": "17h ago",
       "pub_ts": 1780329617,
       "summary_kr": "",
       "strategic_implications": "",
@@ -230,7 +302,7 @@
       "title": "시대의 끝: 삼성은 지역 경쟁업체에게 입지를 빼앗긴 후 TV와 가전제품을 포기합니다. 한국 거대 기업은 세계 최대 산업 시장인 중국에서 후퇴하고, TCL, 하이센스 등 중국 제조업체는 저렴한 가격으로 진출 - CPG Click Petroleo e Gás",
       "media": "CPG Click Petróleo e Gás",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMDJMNHBaMWJJV1dBN3VkeHJlSWhEUW1tVG5fX0Fpa1JSLWR2alFwSU9yM2lMRFNfbjY1ZXk4UHN1SzNpamQ5SUU5LU5kemM1QlNRVVVpU3I0RW9rM0dXdk54Vm5sRW5LMWFmVmx1RllJc1hOMWlJUjMzXzNBRmJfeXN6eDJFV296REVfRjZEVWdTbE5NNEJhLVh1UGVBVFV3OWV4SEpiZ1hXVU9NeS0zN3FfSWIyT0ZOY0tnVVRhQUZLaGY0WWxMZHk2d2JNd1lIN3VScTdnbkQ0bjQ1anVzUVltN3hoMzFhdjZ2M2hxQ1oycjhkaVNwdDhEUkg5akZoRXhDWTRhbndCQW1fdlA5Qg?oc=5",
-      "time": "16h ago",
+      "time": "19h ago",
       "pub_ts": 1780321320,
       "summary_kr": "시대의 끝: 삼성은 지역 경쟁업체에게 입지를 빼앗긴 후 TV와 가전제품을 포기합니다. 한국의 거대 기업이 세계 최대 규모로 후퇴한다.",
       "strategic_implications": "",
@@ -244,9 +316,9 @@
       "title": "80년대에는 누구나 하나 갖고 있었습니다. 우리 주방을 영원히 바꿔놓은 가전제품",
       "media": "Bing News",
       "url": "https://www.aol.com/articles/everyone-had-one-80s-appliance-133000000.html",
-      "time": "16h ago",
+      "time": "19h ago",
       "pub_ts": 1780320600,
-      "summary_kr": "주방 가전제품은 요리 방법을 변화시키는 기술 업그레이드를 계속하고 있지만 가장 중요한 냉장고 업그레이드 중 하나는",
+      "summary_kr": "주방 가전제품은 우리가 요리하는 방식을 변화시키는 기술 업그레이드를 계속하고 있지만 가장 중요한 냉장고 업그레이드 중 하나는",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -258,7 +330,7 @@
       "title": "하이얼 스마트 홈 주식회사: 유럽 전역 유통을 목표로 WpHG [독일 증권 거래법] 50조에 따라 릴리즈 - TradingView",
       "media": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQMzY4ajRpaHg2MmRhbnBJelh5Y1FJd2pXcEwyLWota1pxTDRENXhNenpvZ1ZZS2NBNVNnU1BTUVJqdmRfallQdjZJUi1PRnhjc18yWGJ3RDZaRVZXQWN4Q1VUcEJQSWhLRE9PZWNuM2FjV01PZHJCTU1JQnFvYzFFYW5QNGFybExWZzRqMmI1enN4Sl9ZVWVJWlc2NGVvVDZ2ZV91VTFoeUc5TTJZM21LcTVGNEVzenJCQWxJcjFyNXRlR2sxbGZZck52bHhJSVAwSXZ1VnpCMFlVQjBubHFmNUxwYjhWTHRnYUcyZW9vVVo3eENTUmQ0c1V5MGg2UlR4cVI5TldlYlhBWTZzeHNxZ3VuaGhMM2w5dkl4ZkVEcGdGTWlkYnU4bmt3?oc=5",
-      "time": "17h ago",
+      "time": "20h ago",
       "pub_ts": 1780316793,
       "summary_kr": "Haier Smart Home Co.,Ltd.: 유럽 전역 배포를 목적으로 WpHG[독일 증권 거래법] 제50조에 따라 출시",
       "strategic_implications": "",
@@ -272,7 +344,7 @@
       "title": "LG전자, Nvidia AI 회의로 로봇공학 랠리 가속화로 4배 증가",
       "media": "Bing News",
       "url": "https://finance.yahoo.com/markets/stocks/articles/lg-electronics-quadruples-nvidia-ai-175952007.html",
-      "time": "18h ago",
+      "time": "21h ago",
       "pub_ts": 1780312200,
       "summary_kr": "LG전자는 갑자기 한국에서 가장 주목받는 AI 관련 업계 중 하나가 됐다. 오래된 가전제품 거인은 더 이상 단순한 냉장고 취급을 받지 않습니다.",
       "strategic_implications": "",
@@ -286,7 +358,7 @@
       "title": "어플라이언스 컨슈머 리포트(Appliance Consumer Reports)는 주방에서 시간을 절약해 줄 것이라고 말합니다 - Yahoo",
       "media": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkM4X21TSGlGMG1ZdXpBMDVzWGpBN1E0TXU2WV95SzAtN2dBMTV6c0VuMXJtazFRQ1FHSWNCUURtNWJWYjFxRnc0NE5ZV0N1NVphSDVvWkY4Y25vb3JqMWhBQ3pBZGVuSVZqeGx1eURtM2tic05Wcmx5QkNDS3BxWHV4dXJoNHEtekdNNnBRSVVOMGVPdHNjSXNwUmJfRjdHYnd5UkZ0M2M1TE0?oc=5",
-      "time": "19h ago",
+      "time": "22h ago",
       "pub_ts": 1780310400,
       "summary_kr": "",
       "strategic_implications": "",
@@ -300,27 +372,13 @@
       "title": "올 6월에 출시될 코스트코의 새로운 11가지 상품 - FinanceBuzz",
       "media": "FinanceBuzz",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PQW93MzA4SXVJcVhRQzZEb3pVVVlUX1ZTajNuY2M3MGxjWTdLUEo2a0hLc2tVQmdMd05hbEFURHNFZURscVhIeWJ4NFhqdWFaR2pRbFhhV193TmtCSjZ3SjhfMVhEUQ?oc=5",
-      "time": "19h ago",
+      "time": "22h ago",
       "pub_ts": 1780309260,
       "summary_kr": "",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
         "opp"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "Leaker Direct Distribution은 Bertazzoni에게 'Si'라고 말합니다 - ertonline.co.uk",
-      "media": "ertonline.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81bW5lQjFWOGpDS2NmMVh4aFY3TWZ3U21ab3gxWm80TTZyeVVFYUhRc2hmSVhwUS11M2VQZVdyVHlzbTBqZ3YwamZpRWVtSW12QURmTVNEbW9FRDFxVXZBWjhSM1NGZ1A5VlpQdnN5MkEtTEE?oc=5",
-      "time": "20h ago",
-      "pub_ts": 1780303671,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
       ]
     }
   ]
