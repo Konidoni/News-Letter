@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-03",
+  "date_display": "2026년 06월 03일",
+  "generated_at": "2026-06-03T18:21:13.333159+09:00",
+  "generated_at_display": "2026.06.03 18:21 KST",
+  "category_counts": {
+    "Technology Trend": 1,
+    "Market Dynamics": 8,
+    "Samsung DA": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 11건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 7건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: 하이얼 스마트 홈 주식회사: 유럽 전역 유통을 목표로 WpHG [독일 증권 거래법] 50조에 따라 릴리즈 - TradingView. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 8건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Technology Trend",
+      "title": "하이얼 스마트 홈 주식회사: 유럽 전역 유통을 목표로 WpHG [독일 증권 거래법] 50조에 따라 릴리즈 - TradingView",
+      "media": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRnRtNHkyeGgzNDFsMFowclFXUG9PS2pwLUI0QnRzTzVJUlJqMk1hQ09GNlFMcHc5WmdPRkdtRXV4Tk1weWpwZmt0WmIxM3l0S05sRE00ZDRVYTJjWklBOTBNcVN6VWhyY29kWmszSERHLTZJWmwwZkhaLUExWW5jX0thNXN2V2c3cXQyeWU3ZUoxbFQtSURlWHI4X2VwaWprTUoxbXhFekFRQzBrcFRsTUFXSVpQS1p5QWFqaHJkb1l1R3FNc2Y4WlhIQkpORkRBTEtoWXNVUGs1dUV4NHE4eWdCb0pMQi1pazVSZmxNMDJrR2dfTGJQSE82XzNsX3FSU3BZeVRjMFZyVklGai1rU3drQjY3ZFlVLWNZajNlb0xyeXA2LVBobUxn?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1780472303,
+      "summary_kr": "Haier Smart Home Co.,Ltd.: 유럽 전역 배포를 목적으로 WpHG[독일 증권 거래법] 제50조에 따라 출시",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "20년 전 인기를 끌었지만 지금은 먼지만 쌓이고 있는 6가지 주방 가전 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzZsczRJTFFfdU1VLWhXQlJQNWNDTFNZcTJ6SHdSMXpDbXJOOGhYYlYxREVlY0paVTR0N3JjR0w5bllaSV81UGc1SXY2Z0pRVDFkU1MyNEs4M01PWE5HR1pseGVGODlmTDN3aExGQ3o1S2tack5PQm51NENhYVdwMg?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1780457066,
+      "summary_kr": "20년 전 인기를 끌었지만 지금은 먼지만 쌓이고 있는 6가지 주방 가전 AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Electrolux, Matt Stone과 파트너십을 맺고 스팀 요리의 이점 강조 - Channelnews.com.au",
+      "media": "channelnews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTXc4XzI3UUdyVWkwQ0VMOTZaa21DV0RGUmdtUmpidkZIVzFEQ3dfOTdfc0lTd3VQOVhKaHVIUGVwTlUyYWN1dUFiSWMySEhjQzBVTnplOWRpQUliTWVvc1JpNzZhRUt5c0lqdF91dlNOeXpHZ1d2MHVSWGpmSnFMSXotQ2NKMnhFTktOMHZidXIzNF9mOFJfZkh0UURrLUx2b1l5MXlR?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1780454093,
+      "summary_kr": "Electrolux, Matt Stone과 파트너십을 맺고 스팀 요리의 이점 강조 채널news.com.au",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 국내 에어컨·청정기에 재활용 스티로폼 사용 확대 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IRjJWdnlJNjk4RmlBMGZYSlI2dVJLMjQwMmp5dG1lajlKMnEtWDJ0Skw1UHQ3dXA1Y21mU25XVTkzOFdJUExDbHRKbW16TVZOZGE1THdfZ1VHdTdhcXI0SGMwcGpDdkkwd2lSV25JZmZkTU5tQ2dVLUlB0gGOAUFVX3lxTE9wODQtMl8yT2Vtc1N2bUFDeEVmX2FXX1RTR3BXRmpHN2tkaXpxLS1PU3ZjaFBuNEdYbjVhZ2UyWWF2ZlVmZ1ktODdIUEtMM2pWbXV6WVlRMVdGU2pkcktFT2lFb3NGdmZXandVZnBZOFZwU2I2OUE3aVJIUFdXSGxJRUJZRS16NVJWMkRiRVE?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1780452780,
+      "summary_kr": "삼성전자, 국내 에어컨·청정기에 재활용 스티로폼 사용 확대 - CHOSUNBIZ 조선비즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 새로운 전자레인지가 #SingleGirlDinner를 더욱 멋지게 만들어 드립니다 - Women Love Tech",
+      "media": "Women Love Tech",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV05lVFRLNVVia2tMVk03YUNiWXVhYm41RWNiUlZqbnlPdXgydzJMR19aMFhKdDJWMTJhMHFOU2xmYnlGamJJSVpDaTBXZjE1QUxoVV9Jc1A4S0EyQzBUdHQ5eHdVOTdkbDlITzFtckFMZDdJbkMwNnZWQVR6cjB5QmlaOVk4eEdOelB5d1JnNA?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1780441380,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG 전자레인지의 5가지 일반적인 문제 - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MZlRjY25STlRSRHVuLXMyUG5RQmtlSS0yTXIyeThZWDQ3UXJEalRTQjFKTWcwaE9jbDM2TzdsYldkdldpT0ZBZWJRMnVCa3pTU1RWdUlGVmlwUzNUNHE2MWticmpYSlFtLVZZY29EQ1A?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1780440300,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "정밀 냉각이 이탈리아 DNA를 만나다: SMEG USA, 차세대 언더카운터 와인 쿨러 출시 - market.businessinsider.com",
+      "media": "markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObGFtNWRzU1FKcmhUYmJhTDd4WEx2bVBBOHp5TEh6ZU11X1pSM1pOQ2lMTVhEV21sNnFnbHVrelFqRFljWXE4M3gtam9DeEZRdE4yOVFwVFhZNTc1eUN0VlQ1QVlxYmlNYlpYUTBVd2lDdUF0SzRyV0ZzekdULUttUGpjMExjWURudFBpd2NLNGFEV003UUVWTFZQR2hIYmF4TE5YZldtQTgzbGpkV2w0YVFNWkRpbkJ5YjIzb2xhSnZ1NlhVdU4zMU93VVpYWno4aGV2XzZJV3M4WDkzUWh2cGpR?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1780408003,
+      "summary_kr": "정밀 냉각이 이탈리아 DNA를 만나다: SMEG USA, 차세대 언더카운터 와인 쿨러 출시 시장.businessinsider.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "GE 냉장고의 평균 수명은 얼마나 됩니까? - 야후",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWG1JczUwTDI5VlQ2S2pHaFVDWjI3Y1NZVmR6YnNPbUlTRlFUNVdTLUhRczdsLXZWbVFyQ09vVnVWS2wwVTZndGRkMERXaFRHZTBZaktfUHlhUXExZjdieHlvWWd1cHREaTdZUzNuaXZkWl9nTEFFbkZ1LWo0TkVIVVdFUHRkYm5QYTFheThFSzM4bEctQnY5RUlWOVdPRWJmQllaSTFWUkZjaUJZcXc?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1780400400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "하이얼, 식품을 더 오랫동안 신선하게 유지하는 Horizon 스마트 냉장고 냉동고로 삼성과 경쟁 - t3.com",
+      "media": "t3.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM1ZjMUtfb3pMNnEySlJsUTZId29KWlNHLXQyUV95MzVIVHd2Y0JLNHhxN1NOVDJESnE5RnR6X1ZXNEtqblhJRFJaVWJJb011MVZ4Q2ZHX1lfZnpWU1ljRWgyZ2NCdm9DbEtqRGpGZUdSMW1wYmk2Vi1oUEtXYk91ako5TFVQMGxaZXVrOTh4V2JVaDhzTzBBUFVNb3ZScDJBMDdpTWtEUF9sUkV2NUF6bzFsLUg3WC1MNU5tNk1mOU9IVGNhVEJTa1k5UXpDeGJkbHQ1VTVrUGpSLVRjMzR2dEpYUQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1780398000,
+      "summary_kr": "Haier, 식품을 더 오랫동안 신선하게 유지해 주는 Horizon 스마트 냉장고 냉동고로 삼성과 경쟁 t3.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "대부분의 주방 기기는 돈 낭비입니다. 이 5개는 가치가 있습니다. - 머니 토크 뉴스",
+      "media": "Money Talks News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnpOczNqanFUbEF5WjVpRFBydUtwNGZUcGlQamJGNURLRmZGYVVsWUFJWHhUMzRFdkVlSlhyVE10M1p0eEUxTk1FTWlTcHNvdnJIRTVlYmVIOURRX0JTOVUxdm53eGRJUFV3b3lmTG1wNTlpMW8yVXlSYjBDZ0tqWEhSSG1YTmpNNTVXZERaeHp0SWN0UHhB?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1780394735,
+      "summary_kr": "대부분의 주방 기기는 돈 낭비입니다. 이 5개는 가치가 있습니다.  머니 토크 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 새로운 인덕션 스토브는 표준 콘센트에 연결되며 재배선이 필요하지 않습니다. - 식품 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rNWJqNXFuRUUxN05CYXd0aUJCYTlyWnA3N3JXS0RLRl9IT0xxN1o4OFo5RTI5YUlJeGc1U05qcE9LTWk5cXh0T3gyNlBGNDJ2ZUttTi02VDZSRHBYbkRnYWxtOUJMN1h3dzFnbEVISzZLalE?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1780392540,
+      "summary_kr": "이 새로운 인덕션 스토브는 표준 콘센트에 연결되며 배선을 변경할 필요가 없습니다. 음식 및 와인",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
