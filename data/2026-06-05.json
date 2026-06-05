@@ -1,0 +1,354 @@
+{
+  "date": "2026-06-05",
+  "date_display": "2026년 06월 05일",
+  "generated_at": "2026-06-05T17:38:56.679264+09:00",
+  "generated_at_display": "2026.06.05 17:38 KST",
+  "category_counts": {
+    "Competitor Analysis": 3,
+    "Market Dynamics": 14,
+    "Samsung DA": 3,
+    "Samsung Bespoke": 3
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 23건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 5건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 5건이 감지됩니다. 주목 기사: \"최대 420만원 포인트 증정\"…LG전자, '국가대표 가전대응원 페스티벌' 개최 - 매일경제. 삼성 Bespoke 3건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: 최대 420만 포인트 혜택…LG전자, '대한민국 응원 전국 가전축제' 개최 - 아시아경제. 시장 전반 기사 14건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Competitor Analysis",
+      "title": "최대 420만 포인트 혜택…LG전자, '대한민국 응원 전국 가전축제' 개최 - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEZ2UyUGVMS0NCTEtfSFNSaFJ1Y241WUs0NTgyR0dSU3JUb0taalBvdWZwMWhlWHYzUmNjbHppNjRzWkRVWmt5cWQtbEI1QzQ1ZjlIa1BNcG1TSU9NMzhGQ2tmbjZKOWVjWW1uRkhIX0J3TmV1YlRaZA?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1780644623,
+      "summary_kr": "최대 420만 포인트 혜택…LG전자, '한국팀 응원 전국가전페스티벌' 개최  아시아경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "\"최대 420만원 포인트 증정\"…LG전자, '국가대표 가전대응원 페스티벌' 개최 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0U2l3VHB5dEh1VncyQTVHbWdlX2lJS3oyU2p5cnYtRWRLUHFoWnViUXVQSmhDUDVtSGFjZnQxTV8wSWlhUTZFNksyUnVzYjBFYTRF?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1780639366,
+      "summary_kr": "\"최대 420만원 포인트 증정한다\"…LG전자, '국가대표 가전대응원 페스티벌' 개최",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon 최고의 상품이 아울렛 섹션에 숨어 있습니다. Brooks, Lodge, KitchenAid 등이 5달러부터 시작됩니다 - EatingWell",
+      "media": "EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAydGE1cXQ2S3pmbGp6eXo2X21FZ0U4WGRwbXJWdDhmOXhFcnN6d2k4dDdlUnVJRmJaTVUyRnZ2RldnUEVVT09kYmN6R2UzR1Awb3lnT1FuMjNGWjZJaFpMd3QxUHJ4SlNUUEFYSmFROUxqZFE?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1780639200,
+      "summary_kr": "Amazon 최고의 상품이 아울렛 섹션에 숨어 있습니다. Brooks, Lodge, KitchenAid 등이 5달러부터 시작됩니다.  EatingWell",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "AI 주택을 미래 지향적이 아닌 인간적 느낌으로 만들기 위한 삼성의 캠페인 내부 - The Drum",
+      "media": "The Drum",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2NwZndNTFdWRTc5MzdwMzFXY3pFY2MyNTBTZ2xLLTZ5Wm1NTHMxRjlSb3RIa0FlQS05em55Uk0zdHlvOFR2ZHdZRmR5dG5qd01TZ3lUVThjcEJXblBnOWozMUVmeENJYUxVcnc2d1BxRkFWbElQT3RuY1JpZXU2WXloTUxHT2pSSVFWSUY1anlnX3o3cHRQUmtJazhvRGh6bkVNU2daaVNQWWY1UExZ?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1780638182,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon의 숨겨진 주방 아웃렛에는 Cuisinart, Martha Stewart 및 Hamilton Beach에 대한 할인이 가득합니다. 최저 3달러 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQmFLX1ZHN3RvcDZKRU9sX3gycHVWQ2RuZnZJUHJPMjNoSENVaVIxM3ktNFhJU1JSTklCZWVlenN3ZDJQZnE4Nk5rUkdPbEEybGxyNTMxel9Lbk05bEc1TlRVeEpKUGdPbHAzWWZYZE5EY3JzYTlnTm5JNUl2Z1dJTA?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1780633800,
+      "summary_kr": "Amazon의 숨겨진 주방 아웃렛에는 Cuisinart, Martha Stewart 및 Hamilton Beach에 대한 할인이 가득합니다. 최저 3달러부터 Allrecipes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "홈 전문가들은 이러한 가전제품을 무인 상태로 방치해서는 안 된다고 말합니다. - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQldMeEp3VTA5ajNCQ2M1a3U0WU1tQm5iUHJ2YU5wYWttcnY3OFQ5RGxlaTFmRkt3WjlYdTUyaVA1Y0V0WjRkUGZaTDZNWHQxOFk2MEZETGVRaTQ1dG9uZGtTRVlRN0ZyMGEwTS1nNEo0QWQtX2xpVjY0WjV4czRaN2pGSDVGUQ?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1780630468,
+      "summary_kr": "가정 전문가들은 이러한 가전제품을 무인 상태로 방치해서는 안 된다고 말합니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소방관: 멀티탭으로 인한 전기 화재 증가 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3pXNmdmdEIzcHAzaWFmYzdDT2RUOVBtTThDQUR5WDJ0LUhSSXdvN0djb3FHUkU5SWdxSW5GNjd3VFpXR0JsT0d2TmZEVXo5NnY5TXg0TXc4cmsxMnpYam9NeFdxWTJyN1lVcmxWdXhvb3liNjUzNTA5YVhOV3VKMmw4d0c2QjR1RVE?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1780627560,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "멀티탭에 연결하면 안 되는 주방 가전제품 6가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdFZNOFF4V2kzOERmU1R2ZjA5S2dlMjg3bEhCZzJpaGJoTUplWlBsWGxqb1JpUzYzc0VrQ21nXzR3c1d1Y1VCS2czRm5QY0JCUlRhUktOemczNTYwWUZwcmZURmxMUXJuVF9KVW11X1lVOVNZMFZOR09BZnBhZHVRcA?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1780624106,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이제 막 첫 아파트를 구입하셨습니다. 주방에 실제로 필요한 것은 다음과 같습니다. - Bon Appétit: 요리법, 요리, 엔터테인먼트, 레스토랑 | 맛있게 드세요",
+      "media": "Bon Appétit: Recipes, Cooking, Entertaining, Restaurants | Bon Appétit",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ta1I1cS01WHgzVU1WT1NNUjFsZW1MbmJncVFMdzhta3VqVFhPVzVmcjF0a0tYOXN6dmRqVmN5a1V6MlV2SVJrdm5Pckl1bi1Pdmg2M05PbjNaMHpNOUctOE81NVBha1RZcXZRcA?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1780623435,
+      "summary_kr": "이제 막 첫 아파트를 구입하셨습니다. 주방에 실제로 필요한 것은 다음과 같습니다. 잘 드세요: 레시피, 요리, 엔터테인먼트, 레스토랑 | 맛있게 드세요",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "샘스클럽에서는 미판매 및 반품된 주방가전을 어떻게 처리하나요? - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rcjVrTExMeXJHM0JNQWx2VmNHWHJ5Nm9VbmR1dFQ2MnlNa2FtRy1MOHBmZGo2VDA4bGc5Nzd6amtpQUg0d3h3TlctQlVuVVliQi1ScDVrTklHQ0NKVFVUZ3R4NE5NdjJVNEFEVGhoam4yNXNHQlNEOFBzMTY5SUE?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1780606845,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 새로운 갤럭시 워치 기능 추가, 인도 가정에서 증가하는 AI 트렌드 강조",
+      "media": "Bing News",
+      "url": "https://tech.hindustantimes.com/tech/samsung-adds-new-galaxy-watch-features-highlights-growing-ai-trends-in-indian-homes-71780584692306.html",
+      "time": "13h ago",
+      "pub_ts": 1780601460,
+      "summary_kr": "삼성전자는 곧 출시될 갤럭시 왓(Galaxy Wat)에 AI 기반 웰니스 기능 제품군을 도입하는 삼성 헬스(Samsung Health) 앱의 주요 업데이트를 공개했습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Meta, 삼성과의 맞춤형 AI 칩 거래 중단, 주장 보고 - Android 헤드라인",
+      "media": "Android Headlines",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHd6R1V4ZVY4dXVXTlYwUENSeUNRTk94b2F2SkZWYTBEQXc4UEktNmkzdjV2NzZVWldfWHg4XzZvM29KbVJOSzVPYlgtNnRvU2M2blp1Q0g5TXg3MTk5M0dJSy1WdzIxMDNzSXhrX1p1eVhCNHJtS0xleUZ5UHZTSDNyU2c2UUQ2UThmcHI4eXVQcUJRSEE?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1780597480,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 6월에 찾아야 할 주방 가전제품에 대한 Costco 최고의 할인 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWnhzVTNwRTZaS2YySUY5QkdQekZVMHFhc0IzNllrbTRRRG56YmczaVhSaWtWcWNIVjA0MG9XbE51aUJDRGotbjgzWVlleDQ3b0VrTWtVMXBjTVlSbmlOaEl2RlE5ZXEwUzczRGZUOHlzaFo0d2FCZVVMT0U1VWtTUjJuNjNrZXM?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1780597224,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "소비자가 원해서 삼성이 만들었다: 맞춤형 AI WindFree Pro를 만나보세요 - Samsung",
+      "media": "Samsung",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2RuR0VWV2hvdFllUmpaWTRCNm1veEEtaHVTblFxX2VUMnhmQU1yaGktdjRVa3U5TnphQmlFVGhudzJSdDRQbE1odXp3bFNmS1FONUlYR19KNEhOdUFBYjRzSEFkRVAzVjBRTnBpSExIaDRDUTNMTy1mVDVQeDFNYnh1S0RsRXpQWXpaRWNRM0Y3RVJrQ1JqdzZEazVOUDRaV243Zy1B?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1780583417,
+      "summary_kr": "소비자의 요구에 삼성이 만들어냈습니다: 맞춤형 AI WindFree Pro를 만나보세요 삼성",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "인도 소비자가 AI 기반 에너지 절약 부문에서 세계 2위를 차지했다고 Samsung이 밝혔습니다 - FoneArena.com",
+      "media": "FoneArena.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQlhwcjdoa1E4UGNVcmlhcm1GM3pzMTVSQXFRZ3JfV2gzZkZGaHNJTXZpNmdfb0xBWlUzbG52c2FFLUhMN09OeldZRGFZaW1aanlMdVpOYUpLV1ZMQUxrRmM0Wk9valZfNUptRllKRzhkalg2WXpjU1AyT3YydFJqMmI1aUF3bVJ3SEtyb19fbGVuUE5rbVNOM0NOOVllVFl5Y3V2dVo2cUo3dUZn0gGyAUFVX3lxTE5Tbl9henNuQmtIVURVWmxUWTFkOWNuSnFDeG1kdGhGdkVXM3lSc1BWb0Z3ZzhMUmFZdGxER0JRQ2hBZXh4VHlpcUttUlFqaXFzZUlIU0dPemg2bWR1UWJ0cVNaOHRMaHBTY1E0S2QxY2c0bm1qZ0hfNElLUzZ5V1VxNXVtY0dubThtTHdnX2JnVTRTLWJyOFpRN1pwVFQzU0xORjFKazJBOVloOXZHbHpkMGc?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1780582959,
+      "summary_kr": "Samsung FoneArena.com에 따르면 인도 소비자는 AI 기반 에너지 절약 부문에서 전 세계 2위를 차지했습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "피해야 할 8가지 주방 가전 트렌드와 대신 선택해야 할 것 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjNpMlZvMWk1VEtiNkdyV3V1X2JzTDZWN3hUMDROSmVXRV9oMjZkcDNOdlcwWVZybDJHcFk3RmM4bzJGR1c5R0llc1pVNFF3SHdKQ2Y0LXNLa21zTzlfeGFCeUNpYWtlaDNvUm9OVEtPWnFkNTJmclpLa0l2M3E2d2xlUQ?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1780582484,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "618 가전제품 개편: 가격 전쟁은 가라앉고 \"속도 전쟁\" 가열 - 36Kr",
+      "media": "36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoNzRQR00wUkNDdFRVQjEtTWRfYWpCbk9WMFRzRlJBRHBHOWN0RXFsY0I3aFBjNm8tS2hEbjBvOGRXV1VzSGt5ZlhKR2hkajVlc093?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1780580045,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "어플라이언스 컨슈머리포트(Appliance Consumer Reports)는 주방에서 시간을 절약해 줄 것이라고 말합니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMF95dEtoT3UzbmhaSVRjdDB5RXdkRU1xVTZZS29nYnJiYlpBTGJlUDhQcDdZekFjLW5BVWVTeFF3b1Fib0hIRktURDlXdWJDQXZzY3lRV2JlaTJwN09ZOE5pMXkzZEcxN29aUndMNUZnd25tWXFZcHV2M0FXY2Exc0Q0anZDbVE?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1780573359,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "세계에서 가장 에너지에 민감한 인도 소비자: 삼성 연구 - IT Voice Media Pvt. 주식회사",
+      "media": "IT Voice Media Pvt. Ltd.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3F6NFBLTmZjVEwzNVVyZFpfWXNEWTdXT2NSbVlHdWxoRGJHZHB1TXl6YllHRnNUY3dTalc2MHZkUTV4b29CNHhrV092NlItNFlYTS1wVGxoRnNfb0FHYVRGaFFSaEVaeHZYZGtwVkxlLUlCSWNhNmJmR1o2TTZSSmtFV09XTVRMaVVMdGJER01IUQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1780572980,
+      "summary_kr": "세계에서 가장 에너지에 민감한 인도 소비자: 삼성 연구 IT Voice Media Pvt. 주식회사",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "하이얼, 클레이 코트 오픈 및 팬 클럽 이벤트를 통해 롤랑가로스 2026에 청소년 테니스 및 팬 참여 제공 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcWJpdzZyUUR6X0g4d1pNeWRaeHFqZ19MNzA5enp2M1BFMFlJZlBzOUpnc09MS293cWxsbFdfdDhzQXJrX3RDNVo0YnNvc3kxazFyUGZvclBLZVZjVVNoWElwNWxQdlFiSUNqM0FIMGNSNEtva1kwMGxOa3FIeTlmdWhpWXZIYlRWaDlxSzFFVF9ISDcyMmtLRi03M3NialQwM0hEVnpMMWd5Zlg2eHVVSHo1R252QUNvQzVaQ2RJMEZWQTZvcU9aSU1xUHg4MVB0WkZYaEVGaElYZjVWVTJwbU90a3RRbzFIOVN2VGhKNXFza1hNSmowbG9n?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1780570560,
+      "summary_kr": "하이얼, 클레이 코트 오픈 및 팬 클럽 이벤트를 통해 Roland-Garros 2026에 청소년 테니스 및 팬 참여 제공 PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "20년 전 인기를 끌었지만 지금은 먼지만 쌓이고 있는 6가지 주방 가전 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzZsczRJTFFfdU1VLWhXQlJQNWNDTFNZcTJ6SHdSMXpDbXJOOGhYYlYxREVlY0paVTR0N3JjR0w5bllaSV81UGc1SXY2Z0pRVDFkU1MyNEs4M01PWE5HR1pseGVGODlmTDN3aExGQ3o1S2tack5PQm51NENhYVdwMg?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1780566034,
+      "summary_kr": "20년 전, 이제는 먼지만 쌓이고 있는 인기 주방 가전 6가지 AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier Lumiere가 1주년을 맞이하여 인도 주택 50,000채 이후 프리미엄 냉장고 게임이 영원히 바뀌었습니다 - TechnoSports Media Group",
+      "media": "TechnoSports Media Group",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HWHo5aGp5YnN0WTU3UF91cEs1NndNRXhhMVgzSEJScUFjMGlkM2h1ZGlnRjBGd1pBZUsycmNhbHMxTFNLMXlzMUdaVFRUQ0dYLWtFQ3hud05tSzhPbzQ2OFJBdDRvY1JC?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1780565564,
+      "summary_kr": "Haier Lumiere가 1주년을 맞이했습니다. 이후 인도 주택 50,000채로 프리미엄 냉장고 게임이 영원히 바뀌었습니다. TechnoSports Media Group",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "ALDI의 새로운 24달러 철판은 올 여름 복잡한 야외 주방을 대체합니다. 무독성 요리에 적합합니다. - 가정 및 정원",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUXNLdGZhRFNNaE9TbVVfWVNJX2loTGNFUGpORHoxbHpBMktQd2lxckV3Y0JLdDl3SnpkT3FJcVNDUW1MYlg1SHdhcUNEQ3NjUXgzOEdBdk1TM1hwRzJYQUxaLXh1YkprcXhWUE9BYnZLWXd0ck9Jd0dBMHgwbTJIMlRpTDc?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1780565400,
+      "summary_kr": "ALDI의 새로운 24달러 철판은 올 여름 복잡한 야외 주방을 대체합니다. 무독성 요리용 집과 정원에 적합합니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
