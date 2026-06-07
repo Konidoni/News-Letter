@@ -1,0 +1,186 @@
+{
+  "date": "2026-06-07",
+  "date_display": "2026년 06월 07일",
+  "generated_at": "2026-06-07T17:18:43.855204+09:00",
+  "generated_at_display": "2026.06.07 17:18 KST",
+  "category_counts": {
+    "Market Dynamics": 8,
+    "Technology Trend": 1,
+    "Competitor Analysis": 1,
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 11건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 2건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 2건이 감지됩니다. 주목 기사: 새로운 KitchenAid Artisan Plus 믹서에 대한 첫인상 - 주택 및 정원. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: Haier, 인도에서 새로운 Lumiere Anniversary Edition 냉장고 출시 - Gizbot. 시장 전반 기사 8건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "새로운 KitchenAid Artisan Plus 믹서에 대한 첫인상 - 주택 및 정원",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjR0bGpIN3ZSM2I0T0hIUWlwbnR6WWVaRkQwV0hyZHQ4d0dULWVld2laRHNPTFBaOUpuQVBGbnJJdnE1c1F5NllDRDZJRE5KSi00U3k5UGQ0SklTX0RrZWd0VEhKTzRjNzVNVHN3dTVZdGJvM2MxWjNmT3JFQmNHMzU4NmZNNFdXNW9xeTNGNA?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1780804800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "피해야 할 8가지 주방 가전 트렌드와 대신 선택해야 할 것 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjNpMlZvMWk1VEtiNkdyV3V1X2JzTDZWN3hUMDROSmVXRV9oMjZkcDNOdlcwWVZybDJHcFk3RmM4bzJGR1c5R0llc1pVNFF3SHdKQ2Y0LXNLa21zTzlfeGFCeUNpYWtlaDNvUm9OVEtPWnFkNTJmclpLa0l2M3E2d2xlUQ?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1780791952,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "절대로 무시해서는 안 되는 주방용품 규칙(화재 위험) - Mashed",
+      "media": "Mashed",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlTHFkYm5YV2pqdWl5RWZSSFhpY2xGcG9BU2p6amFiRGJrVkhDN0w2UGVNb0JPUnVac2NBM2k0VWJib3pRWXNqMlQwSjh1Z2ZxbnhjVGZSVXZqa2R4aGwzbDZQd2o3Z25EY3pBbDMwMmhQbkVG?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1780776180,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "핫 러그, 히트 펌프 및 인덕션 쿡탑: 임차인이 전기를 사용하는 방법 - KQED",
+      "media": "KQED",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXJGMXlzTGR6UFU5VEFPUl9vR2VZanFsbFpaTkY1TFhUQUlKWWtHaG9zS05PNjVIekNKZVFLdnVyVFpnSnBudldfRmF5Sm1TeTJlMEQ5UUJQV0d4WW9DelZnTkVHTENnSjJwVk1DRHJncUpOVmZkRW9UNERuMzlKSmZ1bU1fLXN3NWJJTEt6dHNZeVBfQkZuMlM2XzZGWVFDV3ctc1RtNi1VQQ?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1780771591,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "방금 SMEG의 상징적인 Forte 스탠드 믹서를 손에 넣었습니다. 복고풍 디자인과 시간을 절약해 주는 성능이 결합된 제품입니다.",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWpWWkxGMDVZeHZMMTY0Zi1PU054YlktTl9zSS0wd09aOWdWaldRbGl6SjRQc1hLTTRiWVpSdnBrSU0zdG01NVd4OUdVNVI4VG1rRmlWUlJINkZZN2h6eE96NjRscUR0ZTFHUXRIMW80M3VVTjdOVWVZZ2FLektucEhUaU82bkhBeHZDTXhvUWZqY1E?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1780761600,
+      "summary_kr": "방금 SMEG의 상징적인 Forte 스탠드 믹서를 손에 넣었습니다. 복고풍 디자인과 시간을 절약해 주는 성능을 결합한 집과 정원",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "스마트 홈, 더 스마트한 장치 - Financialexpress.com",
+      "media": "financialexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3JKaXd5QXo5SFQ5U3g3ZDZIVEZSVWZRejRZbDB4akMxXzY5U0ZUNWZmRmM0a0g5dlRZdGF5RWlZYjI3Tnp0b1hXa3lCUUtBbG1BS2dhUVNJS0hCMm12cW9nS2tPRFBMenFwalpaMXo2ci0weDRNdTY0WUQ2TUtTS3FqNnNNbGQ5bU9xT9IBkwFBVV95cUxNRWRmUXlQV1g5WTlWc1lHLWhJcFEzTFl6SjJQTWpNMlZQeUkzNmNNai1QRXpPaEVLbWY4cnlWQXQ3M0NPd21iTXR3NlhIcDlJcVl6aGhSVXRmWlgyMVc0cFpmY2JCMHV5cGhNSm1oQk5kTWJ5cUdmNnlyRlpTallETEJyU1RMZUZncjVrR3A0ZkxrOWc?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1780756682,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "베이비붐 세대는 이 현대적인 주방 트렌드에 감동받지 않습니다. - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeVNhTWNXWEVSNEZZLVgzcWs2dlM5b29iTjBhSXk0dVRLN25BaEw3NmphNUx2NUh5dlg3QlBHRDBVRE53SHh5b2l5dkRhSnVmUEJGdDJ6Y3ZFc29qLVhYdl9hWEwwSGhCZWs1ZFRsamw5TmQ1ZFM0Wk9teEcyY1VEakkxSWZnZWtFblE?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1780753208,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "모두가 90년대에 갖고 있던 것 - 여전히 즉각적인 향수를 불러일으키는 상징적인 주방 도구 - 테이크아웃",
+      "media": "The Takeout",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGRnWGRyb1F4VlMydmFNT01FdEVNWlMtcGpLcDdmcmRXOXg3d2tRbk1JbW8yNkpialhtNWRxVF8zYWk3am5tY1hXZmV6U0JuMmt4cFJ4YlZjWDk3YmVaNVlIM1VuQVpWMURkdnlYUGJJdVR6TGQtMzh0b3k2aDltWDV6aThHc25EZ1VpdWNJd3FNTHoySEFReA?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1780750800,
+      "summary_kr": "모두가 90년대에 갖고 있던 것 — 여전히 즉각적인 향수를 불러일으키는 상징적인 주방 도구  테이크아웃",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 대형 주방가전 중고로 사도 괜찮은 이유",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/lifestyle/other/why-it-s-okay-to-buy-this-large-kitchen-appliance-used/ar-AA2504JK",
+      "time": "21h ago",
+      "pub_ts": 1780744620,
+      "summary_kr": "힘들게 벌어 들인 현금을 넘기기 전에 실사를 한다면 중고로 구입한 경우 더 큰 주방 가전 제품을 구매하는 것이 좋습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier, 인도에서 새로운 Lumiere Anniversary Edition 냉장고 출시 - Gizbot",
+      "media": "Gizbot",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTh1cW9TR1lydGZRWkd0NXY4d21yYkFTcl9GelowYTlIYTJLMmlxazhOcmJveU43c0Y0ZlhwUU9SMVBMS1p1aFRVZ29TbW5nZUY0MnJNdVdDcXB3TS0yT0NkQjVhckh4cHpZeklNRXZWQzhCaUljLVV2UUh1UG1kajNkdERZekE5YjdyYjZUemdPQkVoX25fM1NkcW9pUHBXeXdDcHJnLW40NXg2NU41OUZoaFlLUXFoTDhCUzl5Zw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1780742712,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 중국 본토에서 TV 및 가전제품 판매 중단 부터 Investing.com - Investing.com 대한민국",
+      "media": "Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ0swMHpQTFpWWUhycnYxc1ZhQThsTlpLbllZaGg1YXF6WWd3dWM3V3V1WlEzLWxBNzFpSmZSLXN3aXVXWDVmSzZvdFkxclVEbzlSNi1BcHEtZXRwbXZ2OVhwQVRKVTg1d2RqZ2MtcTdJX01WamczSmZ0RklXa3I0Q0pPaWZMa2lwd00yTThwWkF1WWlidjBuak5iV0tQX0d3UTF1d0hhNW5jWTZWOXFjSU9aY2NQQjRrZHMzNg?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1780734650,
+      "summary_kr": "삼성, 중국 본토에서 TV 및 가전제품 판매 중단 By Investing.com  Investing.com 나이지리아",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
