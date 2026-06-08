@@ -1,10 +1,11 @@
 {
   "date": "2026-06-08",
   "date_display": "2026년 06월 08일",
-  "generated_at": "2026-06-08T15:22:35.610848+09:00",
-  "generated_at_display": "2026.06.08 15:22 KST",
+  "generated_at": "2026-06-08T18:18:51.827119+09:00",
+  "generated_at_display": "2026.06.08 18:18 KST",
   "category_counts": {
     "Market Dynamics": 8,
+    "Technology Trend": 1,
     "Samsung DA": 1,
     "Competitor Analysis": 1
   },
@@ -12,26 +13,40 @@
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 0건 감지",
-      "desc": "오늘 수집된 10건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 11건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 1건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 1건이 감지됩니다. 주목 기사: 삼성전자, 가전·휴대폰 20% 온누리 상품권 출시 - 서울경제. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "title": "시장 기회 2건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 2건이 감지됩니다. 주목 기사: GoveeLife, 아이스 커피 및 여름 호스팅을 위한 스마트 카운터탑 제빙기 2 Pro 출시. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
       "title": "경쟁사 기사 1건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: 2026년 월풀 정리해고: 냉장고 수요가 2008년 위기 수준으로 급락하자 회사는 노조에 의해 비난을 받았다.. 시장 전반 기사 8건, 기술 트렌드 0건 함께 검토 권장."
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: 2026년 월풀 정리해고: 냉장고 수요가 2008년 위기 수준으로 급락하자 회사는 노조에 의해 비난을 받았다.. 시장 전반 기사 8건, 기술 트렌드 1건 함께 검토 권장."
     }
   ],
   "articles": [
     {
       "category": "Market Dynamics",
+      "title": "이 스마트 오븐은 내 주방의 모든 소형 가전제품을 대체했으며 이보다 더 추천할 수 없습니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWUcyOG9hTjg5MEJkd3JwSTlodjliM1FnbGU5eThZOGxUNTZaYzNtWE5SYlA4ZmJwRml2X2dzMmp6Z2U4VVhQODdNSlMxRmVlaFRZTFA4UzJoRXNWODg4bGJrclFfUkRKaHQtYmdNY1EwemxuNW03Ti1VemV2aHFLV0Jn?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1780896006,
+      "summary_kr": "이 스마트 오븐은 내 주방의 모든 소형 가전제품을 대체했으며 이보다 더 추천할 수는 없습니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
       "title": "Fiamma, 말레이시아의 진화하는 가전제품 시장을 포착하기 위해 제품 개발 전략을 강화하다 - Bernama",
       "media": "Bernama",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxQjZNT3lmelFUUkN0c3pIWVR1S2l6QzdOUkhOUTFRbVUwN2NyZFpwZWpydUdVR1RBUXpfUTNqZ3NybHJfOEk1aDFyenAxSEk0N1NYN2dhTXZRUDlq?oc=5",
-      "time": "2h ago",
+      "time": "5h ago",
       "pub_ts": 1780892204,
       "summary_kr": "Fiamma, 말레이시아의 진화하는 가전제품 시장을 포착하기 위해 제품 개발 전략 강화",
       "strategic_implications": "",
@@ -41,17 +56,17 @@
       ]
     },
     {
-      "category": "Market Dynamics",
-      "title": "주방 문제를 해결하는 효과적이고 실용적인 월마트 제품 30가지 - buzzfeed.com",
-      "media": "buzzfeed.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3hxdk9rX3lNZUJhVjZwRmJHTWR4Nl9Ha2RvSGhUdjFZZENKb21Eb3lWcXR4RzE5Zk9yaUllY3dQSGdoR3lvRGlnUFo1dTlfdVNCQXFILWtJeTFFSXNFVVdseGh3TEpKOF9WeHVKYUFDNEV2N0hlZ0hHRU8yM2xNSWtTNjcwYzZwc3JTeHpEdlRzNng1MTZmMkdoVQ?oc=5",
-      "time": "3h ago",
-      "pub_ts": 1780888502,
-      "summary_kr": "주방 문제를 해결하는 효과적이고 실용적인 월마트 제품 30가지 buzzfeed.com",
+      "category": "Technology Trend",
+      "title": "GoveeLife, 아이스 커피 및 여름 호스팅을 위한 스마트 카운터탑 제빙기 2 Pro 출시",
+      "media": "Bing News",
+      "url": "https://tirto.id/goveelife-launches-smart-countertop-ice-maker-2-pro-for-iced-coffee-and-summer-hosting-hxvf",
+      "time": "8h ago",
+      "pub_ts": 1780879860,
+      "summary_kr": "Bullet 제빙기는 3분 만에 첫 번째 얼음을 제공하고, 일일 최대 47lb의 얼음을 생산하며, 최대 6시간 동안 연속 제빙이 가능합니다.",
       "strategic_implications": "",
-      "impact": 3,
+      "impact": 4,
       "tags": [
-        "watch"
+        "opp"
       ]
     },
     {
@@ -59,7 +74,7 @@
       "title": "삼성전자, 가전·휴대폰 20% 온누리 상품권 출시 - 서울경제",
       "media": "Seoul Economic Daily",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWh4MTdYWm9WQ3FCdlBVSjlfaDNCS0huUUtncHFKbTNVa3pnd2lwWmNBclZaRGhlNjhEbVFDbDRUUG1xTFVnbURoZWQ1VjlRazZkV0VzOEdtenVsOU1lOUpJdGUxa2k5T0h5VnZQeUp0YWlUdlFkWF83LXl1cURtbi1DSmVvX0RZV3FFOXZ0ZmlqVWxGNFNHdzF2SQ?oc=5",
-      "time": "5h ago",
+      "time": "8h ago",
       "pub_ts": 1780878944,
       "summary_kr": "삼성전자, 가전·휴대폰 20% 온누리 상품권 출시 서울경제",
       "strategic_implications": "",
@@ -73,7 +88,7 @@
       "title": "절대 무시해서는 안 되는 주방용품 규칙(화재 위험) - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVm5nTTVlUUZZcHhKejBMOVFDbkxKaThXRjZvbnVMVzgteTV3X2RhMWNubTF2ZGVqOU1HdF9oTEFrTUpRUnFRQkdXMEVMa2FTQUxsWWdnMExrMDRBalVoYkJUVzNnWTNQb3NMNVdiV3hhOUp3RTVQNGpJU1QxR2JlbVdYenFQdw?oc=5",
-      "time": "8h ago",
+      "time": "11h ago",
       "pub_ts": 1780868700,
       "summary_kr": "절대로 무시해서는 안 되는 주방용품 규칙(화재 위험)  AOL.com",
       "strategic_implications": "",
@@ -87,7 +102,7 @@
       "title": "캠핑 스토브의 평균 수명은 얼마입니까? - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBodE5aRFgybUFPZEhQcU9MYXlmYmN5ZDRwU3dCYW9Kd3ljaUFxektHZWlCN1JBbHE0M0pHRE5rSjJwY1ZMWUkzWXVMQTlIcnZHY0l1TjU3RXNHdlVpRnItQnJfeTEzdXF6Wm0yNlB4M1ZDeU5VWVIyNE9UeGxqVFk?oc=5",
-      "time": "11h ago",
+      "time": "14h ago",
       "pub_ts": 1780858039,
       "summary_kr": "",
       "strategic_implications": "",
@@ -101,7 +116,7 @@
       "title": "19세기에는 모든 사람이 소유하고 있었으며, 다시 돌아올 가치가 있는 주방 가전제품이었습니다.",
       "media": "Bing News",
       "url": "https://www.msn.com/en-us/technology/hardware-and-devices/everyone-owned-it-in-the-19th-century-the-kitchen-appliance-that-s-worth-making-a-comeback/ar-AA2531vL",
-      "time": "14h ago",
+      "time": "17h ago",
       "pub_ts": 1780846800,
       "summary_kr": "100여 년 전에는 필수였던 주방 기기가 오늘날에도 작동할 수 있을까요? 독립형 생활 및 가전제품 복원에 관심이 있다면 이 아이디어는 가치가 있습니다.",
       "strategic_implications": "",
@@ -115,7 +130,7 @@
       "title": "2026년 월풀 정리해고: 냉장고 수요가 2008년 위기 수준으로 급락하자 회사는 노조에 의해 비난을 받았다.",
       "media": "Bing News",
       "url": "https://www.msn.com/en-gb/money/general/whirlpool-layoffs-2026-company-slammed-by-union-as-refrigerator-demand-plunges-to-2008-crisis-levels/ar-AA253brP",
-      "time": "16h ago",
+      "time": "19h ago",
       "pub_ts": 1780841025,
       "summary_kr": "가전제품 제조업체가 Middle Amana 냉장고에서 추가로 288명의 일자리를 없앨 것이라고 확인한 후 이번 주 아이오와의 월풀 해고가 심화되었습니다.",
       "strategic_implications": "",
@@ -129,7 +144,7 @@
       "title": "코스트코는 잊어라: 소비자 보고서에 따르면 소형 주방 ​​가전제품을 구입하기에 가장 좋은 곳 - 테이스팅 테이블",
       "media": "Tasting Table",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3FULWlGSWVVdkZrcmt2dUJvd01XU2ZpTzBqeWNlM3JsNlpuTjFvSGpuQndFamhpRUxtdkdkRFVwRWhJVUk5NGxWeVRaLUstakdFNkJsemZ0TVdZekZaZ1o4b2lzTmgtUkhzT19ibkgyX0pqYkluNUpKdEowRTI2QmxoUEVVNEV2SlZraFBoTHl1YWZaRWRlN3RKUTNKVG1CR1o1dld5emRyNlk?oc=5",
-      "time": "16h ago",
+      "time": "19h ago",
       "pub_ts": 1780839000,
       "summary_kr": "코스트코는 잊어라: 소비자 보고서에 따르면 소형 주방 ​​가전제품을 구매하기에 가장 좋은 곳  테이스팅 테이블",
       "strategic_implications": "",
@@ -143,7 +158,7 @@
       "title": "이 천재적인 주방 액세서리를 온라인에서 발견한 후 주문했습니다. 조리대 필수품으로 꼽고 싶습니다 - Woman & Home",
       "media": "Woman & Home",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUZHakhFc3FZSGdmRklPdm1LUlNiNm9rODY2b1RpLUZJcHAxM250RVhMUnVma1J4Qk5OcUdyU1NubVVONE1zODBuQkw0Y1RQR0pZM3hlX0IxQjdwLU1Yb05zWmxTNDRuODRtejBTa2NmclA1RlBYVGY4QjJxcTNqZ2xiUk5pMkdnUmxOTjNn?oc=5",
-      "time": "17h ago",
+      "time": "20h ago",
       "pub_ts": 1780837200,
       "summary_kr": "이 천재적인 주방 액세서리를 온라인에서 발견한 후 주문했습니다. 조리대 필수품으로 꼽고 싶습니다  여성 및 가정용품",
       "strategic_implications": "",
@@ -157,7 +172,7 @@
       "title": "20달러 미만의 Walmart 주방 베스트 11 - bestlifeonline.com",
       "media": "bestlifeonline.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92MkFuVDBoZTJFWFRwbEs4NXRXY0RaQVN0bXBRXzZDMXBybzFLRHhnOFJPNkNRR0J1STIzSktkaGRlWmltd0VBM0dablhnT3Uya3c0M1c1OFRkd3pwaldPVGtDdmtsVU9fVlE?oc=5",
-      "time": "19h ago",
+      "time": "22h ago",
       "pub_ts": 1780828814,
       "summary_kr": "",
       "strategic_implications": "",
