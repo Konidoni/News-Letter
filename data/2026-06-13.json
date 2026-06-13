@@ -1,0 +1,242 @@
+{
+  "date": "2026-06-13",
+  "date_display": "2026년 06월 13일",
+  "generated_at": "2026-06-13T17:17:12.061325+09:00",
+  "generated_at_display": "2026.06.13 17:17 KST",
+  "category_counts": {
+    "Market Dynamics": 10,
+    "Competitor Analysis": 3,
+    "Technology Trend": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 15건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: 커피 메이커가 수십 개를 태워 대규모 리콜을 촉발: 알아야 할 사항 - AOL.com. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 2건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 2건이 감지됩니다. 주목 기사: 하이얼 33 16.4 Cu. 포트. 하단 냉동고 냉장고 QHE16HYPFS: 소형 키트를 위한 역심도 냉각 - AD HOC NEWS. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: 하이얼 냉장고 구매 가이드: 2026년 가족을 위한 완벽한 냉장고 찾기 - Analytics Insight. 시장 전반 기사 10건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "코스트코는 잊어라: 소비자 보고서에 따르면 소형 주방 ​​가전제품을 구입하기에 가장 좋은 곳 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yckQ3NU5lY2JsRUtTdldPdWxpUWFPZXBETWlQUU1xM2xxVmsxaXlFdFZwNUxxZXI2V0VuaFRteVBQRTB6Y0EwbE9adlpJeTllckZkb2N5eHhBZWVBUm9za3g0RC1ObEF1RndFVlItSFlrRnJ4U3lZM0xuOVZ4dw?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1781307453,
+      "summary_kr": "코스트코는 잊어라: 소비자 보고서에 따르면 소형 주방 ​​가전제품을 구입하기에 가장 좋은 곳 AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sam's Club에서 구매자가 미판매 주방 가전제품에 입찰할 수 있는 방법 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FSmFpV1Z2dUZVM29SblRXdWkwSU4yOHp2dkdyZU1maTQ2UE5icVZFNEh6cVJQc2xzRXlTakp6TjBucmFsaUZWci1oOVd2SjZJdk9saXNraFM5RHVaQ1VoR01WUTJRc2NTTFRzaDJDcWFOaHY3cmlMQ3ln?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1781297720,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "취미 로비에서 소형 가전제품을 구입하기 전에 두 번 생각해보고 싶은 이유 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VSE5mNjl0V0N0eENjd0V0UjR0eUh2cEVUOGZvcG1NWU4tMWtMZC1JR0YwSkdjbExodEZReXRSLXV5b0Nza3RiVTRhOU5ZRTZ5TmZNNHR1N283WEpDeS02VnQzSGhVRWlVTXBuYzQtT2lwdDJWSEU3ZkR3?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1781297569,
+      "summary_kr": "Hobby Lobby AOL.com에서 소형 가전제품을 구입하기 전에 두 번 생각해봐야 할 이유",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼 냉장고 구매 가이드: 2026년 가족을 위한 완벽한 냉장고 찾기 - Analytics Insight",
+      "media": "Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOakh6MW5sWFBHT0kzNzF1b2NxMlJYbnVFaUhfYTh1blpXeE82XzhMOFpaNjBvTkk2NnZqcWhETENJR1lfVzZFVm1FUm40MEdLRkNKQ3FNMUcySDRpeUhvdHFFOWI4cmRiOTR2UUh5bS1mRnBYMlZGYk0wQktTd3d5dWFDRjRPMm1pNDJ1WmhHdVNrZ0dyV1RZNTlxY1lHTVViQ0dKS0F2eU1KT0lRQ0gwX1lTa0RmeTBqbExKTXloamp3NVl30gHSAUFVX3lxTE81OXJTdHVZaUhIQVd1YUFaMlZOcFF2dElESVVhUXVvWlBhZDF3LWk1Wi1QMXpreUVuV3dDLVN4ekJGUF9fZUNxQk1sbjBlOVFTMVh2Wk1PT0pvOE9oZzEyb1ROcWlJNHo2Q1JRTWZDRDVmWVltVmRPQ1ZDd3U3QTd6R0RpcUJrRWNRQnMyNHBJU1BNOEV3ZkM0QkxIWlBZTUZtQnlwS2xPZzAyZW5wZTBEZ0MyTG9uLV8yekJwRExoTXBDdFdfMXJOdnJBQkVJZUMwdw?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1781293500,
+      "summary_kr": "하이얼 냉장고 구매 가이드: 2026년 가족을 위한 완벽한 냉장고 찾기  Analytics Insight",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방 트렌드 디자이너들은 이미 2026년에 낡은 듯한 느낌을 주고 있으며 이를 대체하는 시대를 초월한 룩이 있다고 말합니다.",
+      "media": "Bing News",
+      "url": "https://www.yahoo.com/lifestyle/articles/kitchen-trends-designers-already-feel-000000728.html",
+      "time": "13h ago",
+      "pub_ts": 1781291760,
+      "summary_kr": "과대평가된 색상 팔레트부터 과장된 기능까지, 디자이너들이 2026년에 이미 끝났다고 말하는 주방 트렌드와 주방에서 시도해야 할 사항은 다음과 같습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전문가들이 말하는 7가지 주방 트렌드로 집을 판매하기가 더 어려워질 수 있습니다 - 정말 단순합니다",
+      "media": "Real Simple",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWHZTTnMxRjJKOEoyMTBBOGZXRDRZdGFZRzRLRkktREtmZHFaN2F4QVFGNURFdFI4c0xEU1JiaHlmd3dJVDdnZlBsdWp4Vm9iLUJIYVFvYjlicUlEa3BlOHEtQXBoNTlFOVpMeFA2T2p2elBRZW1FeEhEekFvdUtIRVRB?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1781290200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "커피 메이커가 수십 개를 태워 대규모 리콜을 촉발: 알아야 할 사항 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXpiNHg2Y2VJMVU2dkNuMHd4Rk9mb1k1ajVSaEkwcF96Qm9raE45ZkVXRnozQmVmR0VrcDBFWmpkUUg2MmNwcS1GM3l2QmhRUlZObGxhZGd6ZlJic3ZwUTF2cHduWUFzUjJXU21IQ19XVzRocVdDcnljdUtoZHNaMnhIMmo?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1781285683,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "나는 이 50파인트 제습기를 6개월 동안 테스트했는데, 기대했던 것과는 달랐습니다. - 톰의 가이드",
+      "media": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzNvd09EUzVvSTNObVJaNDR2MjlScVlDdFVVUk5FUDRoZlhiTHF3RkhuUkQ4QVE3S2NHTzZ1SW82WWlnRkJGdTluMGZ6b0o1WXRHamplRTg2LWJYOW1XYnljSFBsYVZoQUxRWTVMNHFOUzk5ODFsT1dPN2NkNFJkOGx3enFDZTFpbFZpR2dB?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1781279084,
+      "summary_kr": "나는 이 50파인트 제습기를 6개월 동안 테스트했는데, 기대했던 것과는 달랐습니다.  톰의 가이드",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "필터가 더러운 식기세척기 내부에서 일어나는 일에 대한 총체적인 진실 - bobvila.com",
+      "media": "bobvila.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CV0ZHa2Q4dkZzMUhpZVJobVduN1dRSVVJZW9TN1lEdjYwM2hPakRoNTJDSFRzMjBzUUpTTFcwNHQxTnFBTVBSZk1NUzlONDVBNHBtUm1MQVhabjNfR2g3SXBmdzVURjNWXzRiU1ozdmI?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1781278809,
+      "summary_kr": "필터가 더러운 식기세척기 내부에서 일어나는 일에 대한 총체적인 진실 bobvila.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼 33 16.4 Cu. 포트. 하단 냉동고 냉장고 QHE16HYPFS: 소형 키트를 위한 역심도 냉각 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUXhvelBaQU9Qcmd4TUdPbndWUFpoVkRycFFzRFJuN3hhTm9UV1BXOE9MZVR3cThoRDJjUzJlSm00eWY3SXdrd2NQQUtqQWE4VlIzd1Y3LTFiT05GZndheHpzTGdDSDQ4UWtFYS1WMENLRlczaFMyV1g0QzdBNjEzaERnVjl3d3p1eUtKdEV0MHFaQXRlU25sMmJkNnJBUHM5emlmWjc0ODZabmVDWU5kUERwSDRKS1BD?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1781276923,
+      "summary_kr": "하이얼 33 16.4 Cu. 포트. 하단 냉동고 냉장고 QHE16HYPFS: 컴팩트 키트를 위한 역심도 냉각  AD HOC NEWS",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "글로벌 No.1 가전 브랜드 하이얼 - Business Recorder",
+      "media": "Business Recorder",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZdHY3Q1Vob2JtRDRjMmx6U3Vockd4T3RPNEx0a0Q5UUFuREFXeko4TmVoWmlGZFFoR3pic1F6ZGx0cVpVeDQ5Q3hyTUlWZk8z0gFWQVVfeXFMTTJtdVd1MWFpdlowcVU1M2dMMlpwejJXbDlhX2h0dGdLNWdhU3NxOVlWMEx6NjN2d09uel9HOW9nc0duYVRHWFh5MF9CaG1sTE9rbU1IRVE?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1781274457,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "미래의 집은 방별로 어떤 모습일지 - WSJ",
+      "media": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ2F1RnppMTYtX095OEZibEUwWDQ0WWhMUlhCWEcyR1FyM2tCOElvSkRudVlXcG5LTkRQUFZzc3JsLXpkT0tYZ05qY29yby1MdVY4UGl1bnZwQ3FLNHIyY1VLLU8tSThCakRtejcwNmpVSFc4TEttM2J6aGtqYzdIMA?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1781272829,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "다이슨의 2-in-1 공기청정기 선풍기는 한 가지 큰 결점을 제외하고는 여름 더위를 이겨내는 완벽한 방법입니다 - 톰의 가이드",
+      "media": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2FPZjA3czRwdG1yYVpNYi1raHRwQlFuVXZDa1p4VENKX182R3VCTkhrN29yNGFac1A2QmJVcXZpWW9VRXdKeWR0S09EUm5tNFVTbnRTeURfYzFfNnJiVkoxSktKZXYyNDhxeEVpWHN5alg4QjcxMWtTODZRcm5OZ0hsRkxMMnJkVlpzTm5ZbHRUa00?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1781264636,
+      "summary_kr": "다이슨의 2-in-1 공기청정기 선풍기는 여름 더위를 이겨내는 완벽한 방법입니다. 한 가지 큰 결점을 제외하면 톰의 가이드",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Xiaomi가 지원하는 Dreame, 2027년 홍콩 IPO를 고려 중 - 아시아 비즈니스 전망",
+      "media": "Asia Business Outlook",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGZUX1EyWTlSZHg2aU5RTGV5ME1wNHVRQkVDbFFBSnBUVHhVZ2hkelJEeHUyWHZNb01EUHI5WG5KRkxPUUhXYUtObC1jd2o3NnJiSXlsUVRZU0tlNldjVFNwbUNUUExiVTVsTUNleDFzTm1acFVxUF9vNUdYVGdRX1g5UlFjMXNRLVRzMkVpdHpDRWI4MUhyUkdyMl9fYUJhVGloQWstaF82Zk1xOGcyRlZ0R2tQQQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1781260213,
+      "summary_kr": "Xiaomi가 지원하는 Dreame, 2027년 확장에서 홍콩 IPO 고려 아시아 비즈니스 전망",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "AI 기반 주택이 전 세계적으로 주류가 될 것 - Awaz The Voice",
+      "media": "Awaz The Voice",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1UyYWRBcmxNdEVNTUhPUEVBU2lySVU1bW5kbjdRUjBaZ2FwWDFwLWJxM09UU2dTUGRGcVZ1UlFTMFFLM1VoeERhS19ycHNsbzlJNVhvblZkQkFTRC1pWFNITzlwU1hrNGxoSjlCMFdBSHJ3YlFhMmRZZUJzVVdkdUN5d1J6WEktWDdqR0M3RjNCX0ZnMmJNSzZRWXNYcXlRYWhlZDlGUU5hUQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1781259276,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
