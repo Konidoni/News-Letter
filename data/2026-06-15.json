@@ -1,38 +1,95 @@
 {
   "date": "2026-06-15",
   "date_display": "2026년 06월 15일",
-  "generated_at": "2026-06-15T15:46:28.349353+09:00",
-  "generated_at_display": "2026.06.15 15:46 KST",
+  "generated_at": "2026-06-15T19:50:28.841253+09:00",
+  "generated_at_display": "2026.06.15 19:50 KST",
   "category_counts": {
-    "Samsung Bespoke": 2,
-    "Competitor Analysis": 1,
-    "Market Dynamics": 8,
-    "Technology Trend": 1
+    "Market Dynamics": 11,
+    "Technology Trend": 2,
+    "Competitor Analysis": 3,
+    "Samsung Bespoke": 3
   },
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 0건 감지",
-      "desc": "오늘 수집된 12건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 19건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 5건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 5건이 감지됩니다. 주목 기사: ChannelNews 및 SmartHouse 출판사, 개발자, 디자이너 및 소비자를 대상으로 하는 새로운 타이틀로 가전제품 시장 진출 – Channelnews - Channelnews.com.au. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "title": "시장 기회 10건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 10건이 감지됩니다. 주목 기사: 새로운 고급 주방에는 모든 것이 숨겨져 있습니다. 심지어 싱크대까지 - The New York Times. 삼성 Bespoke 3건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
-      "title": "경쟁사 기사 1건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: Haier India, 첫 달 동안 Spartan Tower AI AC에 대한 강력한 수요 보고 - FoneArena.com. 시장 전반 기사 8건, 기술 트렌드 1건 함께 검토 권장."
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: 하이얼의 프리미엄 AI 스파르탄 타워 AC, 스마트 럭셔리 냉각에 대한 강력한 소비자 수요 목격 - businessnewsthisweek.com. 시장 전반 기사 11건, 기술 트렌드 2건 함께 검토 권장."
     }
   ],
   "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "새로운 고급 주방에는 모든 것이 숨겨져 있습니다. 심지어 싱크대까지 - The New York Times",
+      "media": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGlLb3JhMDBwc09XaFctVTVnU1pOdmVJV0l1cEN4Q01McDFuZ1dLbWpGMUt1LTNoZmdrbGZSMUtZX0NpMlFvSjMxeHJpWjRkcy1GOU1kMjNVeE8xbEMwQksyY2J4azNQUkhRSm5lN3lKTGs5TkRDWldMUE44U0RxQzE4M0h5TVN4aTRFZlZucHA?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1781514238,
+      "summary_kr": "새로운 럭셔리 주방에는 모든 것이 숨겨져 있습니다. 심지어 싱크대까지 The New York Times",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "하이얼 스마트 홈 MD, 일렉트로룩스 그룹에 합류 - kbnweekly.co.uk",
+      "media": "kbnweekly.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00NExnWjN3Yl9XTF9HTVhIYThlWHFYaW1CZTRERlRzT1p0TDRWeWdvd01VdU55d2l5VTRFM2UtdVJDX1doZkdqVVQ4VTlmVDMycTJlLVZEM0twelVBdGdsOU94UkJNR01zaFhsdkxrVTh5YkdBVEE?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1781512575,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "스탠드 믹서를 최대한 활용하고 있지 않습니다. 몇 년 전에 만들고 싶었던 천재적인 업그레이드입니다. - Food & Wine",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5MG0zbzgweTl6czNwVllRTk96cmxPMG90cEFvU0w4UGZDZksyQmdLQ1JOMk5YSkhTd3Y4ckxldFFsWHAwR1hJbjhUYU9zTDB6eWp4SzgzZnFPaURCZ2JRTlU5c0p4Q1BvLXMzM2ROVmZNanRiNUE?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1781510400,
+      "summary_kr": "스탠드 믹서를 최대한 활용하고 있지 않습니다. 몇 년 전에 만들고 싶었던 천재적인 업그레이드입니다. 음식 및 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼의 프리미엄 AI 스파르탄 타워 AC, 스마트 럭셔리 냉각에 대한 강력한 소비자 수요 목격 - businessnewsthisweek.com",
+      "media": "businessnewsthisweek.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRVltMGwwbVhpbUhJZFVOYmY3aUxxdlFtN0tub09OaDFWTzR5LThoZTAxbTZpb2JqME4teUlqVUN4ZXF6Yzh4YTk1WTJwNnE1NC1DOFNPa1ZOdFNVYkJWWjhyLTgzcWxEYlFuTDJaQlhyMjduVExhNmdSbXRqd0hfaXZabkQtaG1sV2VoYTZTMFNCYUoyQXhHZnlVMnB1LUxNZ2VTY2c3VThYdmJnVWxBNTRzSkdQTDVLeDhncVFralhyR3d4TGp2UHgtMy1BRXRZ?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1781508360,
+      "summary_kr": "하이얼의 프리미엄 AI 스파르탄 타워 AC, 스마트 럭셔리 냉각에 대한 강력한 소비자 수요 목격 businessnewsthisweek.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
     {
       "category": "Samsung Bespoke",
       "title": "삼성, 인도에서 맞춤형 AI 가전제품 제안 발표 - SamMobile",
       "media": "SamMobile",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3d5RWZQVXB6aFU0Y3V5dzRlNVRzY3JfMXp1MkN3ZXZXRTJEb3N0R1kyVWxvWmVCb19ENVVaM0dOVTlSeVltb19UUWNLcVhEY2FicEZyLXctbjZBVG50T2FNZ0hTSWFqeE5zOUU2Wl9DY2ladGM1Y000Z2g3LUZRcW9HUG5HZnR3VjRLZWQ2MmpDeTQ?oc=5",
-      "time": "Just now",
+      "time": "4h ago",
       "pub_ts": 1781505780,
       "summary_kr": "",
       "strategic_implications": "",
@@ -46,7 +103,7 @@
       "title": "Haier India, 첫 달 동안 Spartan Tower AI AC에 대한 강력한 수요 보고 - FoneArena.com",
       "media": "FoneArena.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUGlSSFBOcHJobzVfcm02SWNob1paRFBueG81d2h5MUk5SDlxLUd5NTA1YTJOSEw1dm1KUEhoX1h4ckZveVdBbzl0SlZwNXd3SlpvdUh6TDRfSmpyLTd4bDQ5eEZweUZsUzJzQ1Z4OW9JRmE2TG5HOExIMmpGUDlFMEFkemhyZlJkVlRDbzlyeTZVTEHSAZgBQVVfeXFMUHU4UmVUX3FTU2c0VVpJa2t6cUhmdERiZjZ6OU5QazFUOVRGWTFlWmFBNFBXak5DSDg3UHZKNElzUk9ZbS1CdjByYy00S19YZklGdmd6LVN3OTJZS3BJOURfeVFGdlBPTGtsOXlVM0lkV1owb3VhNWJNdWRCejZ2aDF4R2ZycmhaUjRva1I4TE1NOFlVNjBYeS0?oc=5",
-      "time": "Just now",
+      "time": "4h ago",
       "pub_ts": 1781504815,
       "summary_kr": "Haier India, 첫 달에 Spartan Tower AI AC에 대한 높은 수요 보고  FoneArena.com",
       "strategic_implications": "",
@@ -56,13 +113,55 @@
       ]
     },
     {
+      "category": "Competitor Analysis",
+      "title": "시도하고 테스트한 2026년 최고의 로봇 진공청소기",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-gb/lifestyle/shopping/best-robot-vacuums-for-2026-tried-and-tested/ar-AA1x6gLL",
+      "time": "7h ago",
+      "pub_ts": 1781492756,
+      "summary_kr": "먼지와 바닥 청소를 위한 8가지 최고의 로봇 진공청소기 - 저는 Roomba, Eufy, Roborock 및 Dyson의 최고 등급 로보백을 리뷰했습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
       "category": "Market Dynamics",
-      "title": "ChannelNews 및 SmartHouse 출판사, 개발자, 디자이너 및 소비자를 대상으로 하는 새로운 타이틀로 가전제품 시장 진출 – Channelnews - Channelnews.com.au",
+      "title": "ChannelNews 및 SmartHouse 출판사, 개발자, 디자이너 및 소비자를 대상으로 하는 새로운 타이틀로 가전제품 시장 진출 개시 – Channelnews - Channelnews.com.au",
       "media": "channelnews.com.au",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdng0TEtWRUVVa0JFYU44Qk5RWU9peXdENm9vV2ltN3o0OTJoNG9tcDRjQmtyeU42dXo3S0pmbGE4a0VQTXFJS3pZZmQzWlVSNlRJYWpXWjA5VUtEVFF5YWxXeFhHcW95X3FBREZRdkNhYWhNZ0tPcU8xaGdfYzhycV9YNURueXE5c1kzXzc4cHJVRVJCa3N1TnUtd2xoeEhnX2xKcXhlV1J0OWpxMGtVX0EyNEsyUHJEUHBNM1NEVXpTdmhBbF9mN2gxeThrenExcEVlU0hoZU9RRU9LcmZUSGRoRDIyZE5SX2c?oc=5",
-      "time": "3h ago",
+      "time": "7h ago",
       "pub_ts": 1781491904,
-      "summary_kr": "ChannelNews 및 SmartHouse 게시자, 개발자, 디자이너 및 소비자를 대상으로 하는 새로운 타이틀로 가전제품 시장 진출 – ChannelNews  channelne",
+      "summary_kr": "ChannelNews 및 SmartHouse 출판사, 개발자, 디자이너 및 소비자를 대상으로 하는 새로운 타이틀로 가전제품 시장 진출 개시 – ChannelNews  channel",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "OpenAI 및 Anthropic IPO가 가까워짐에 따라 Microsoft의 Satya Nadella는 모든 회사에 첨단 AI 모델이 미래가 아닌 이유를 알려줍니다.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-in/money/general/as-openai-and-anthropic-ipos-near-microsoft-s-satya-nadella-tells-every-company-why-frontier-ai-models-aren-t-the-future/ar-AA25Gha8",
+      "time": "8h ago",
+      "pub_ts": 1781491500,
+      "summary_kr": "Anthropic과 OpenAI가 기록적인 IPO를 향해 경쟁하는 동안 Microsoft CEO Satya Nadella는 바이럴 X 포스트에서 최첨단 AI 모델이 어디에 있지 않다고 주장했습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "새로운 럭셔리 주방에는 모든 것이 숨겨져 있습니다. 심지어 싱크대까지",
+      "media": "Bing News",
+      "url": "https://www.nytimes.com/2026/06/15/realestate/luxury-kitchens-hidden-sinks-fridges.html",
+      "time": "8h ago",
+      "pub_ts": 1781488980,
+      "summary_kr": "Nero Cucine의 공동 창립자이자 사장인 바르톨로메오 벨라티(Bartolomeo Bellati)는 “단순히 주방을 숨기고 가구처럼 보이도록 만드는 것이 아닙니다.”라고 말했습니다. “우리는 타",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -74,7 +173,7 @@
       "title": "겨울 집 편집: 이번 시즌 모든 방을 더 힘들게 만드는 10가지 가전제품 - Homes To Love",
       "media": "Homes To Love",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScjdoNnlteGhuT1h3VlBTOTJGcmkxRjJHdmFGbXFwLXNOSUtQMVZtNnQtUW1jdTRaSlpOUzNhdjhFbnFfRDctSHVfWm1JU05IZXcxR1kzQm8wV1ctTFEwSWUtNWhXMExGN0V5ZlA2MGpDcW5ibk0xd243LVRXcWc?oc=5",
-      "time": "5h ago",
+      "time": "9h ago",
       "pub_ts": 1781484686,
       "summary_kr": "겨울 집 편집: 이번 시즌 모든 방을 더욱 효율적으로 만들어주는 10가지 가전제품  Homes To Love",
       "strategic_implications": "",
@@ -88,7 +187,7 @@
       "title": "다운사이저 붐이 호주의 고급 가전제품 시장을 주도하고 있습니다. 우리는 프리미엄 브랜드를 식별합니다 - Channelnews.com.au",
       "media": "channelnews.com.au",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUJqYXc5alNlc3hYZGM4VHRvblZmajVLYWlEanplU0ZhdFhISXdGeVQ0ekxleE9sNmU1eWZuTEJKbW1UbXB5dEl4cExNamFSYkZ2aFVRMXI4cDhBZ0tKLUxRRXFvVU54SVhNRUZjeVdnbUduMXdiajdtX1VlMHhaUjFVeHJjUC1zdzh5Q0RqT3owZWJFODVPUlpNNXh4UWVCQ1Z2aU5Kb0tXRW9VWThGMGo4VDF3bTFqMWhQLUxR?oc=5",
-      "time": "7h ago",
+      "time": "11h ago",
       "pub_ts": 1781480680,
       "summary_kr": "다운사이저 붐이 호주의 고급 가전제품 시장을 주도하고 있습니다. 프리미엄 브랜드를 살펴보겠습니다.",
       "strategic_implications": "",
@@ -102,7 +201,7 @@
       "title": "ALDI의 새로운 10달러짜리 모카 포트는 모든 현대식 주방 카운터에 어울리는 디자이너 스타일의 커피 업그레이드입니다.",
       "media": "Homes and Gardens",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzVrd2l4UU9oX1p0SnZwZHRZaFctU2RfU3lIdFFGLVJKWEdGakk1U3RpOEVENWFaTkJHblc1MmVJWVRMRnZUUlFtbWZMclVDeDlIenRDX29odVN4ak1uWHhsV2RXM1JxcE5Ta05KMkc1Z0Zibm5jeHpMMFRqVjc1ZVdROFMwQQ?oc=5",
-      "time": "8h ago",
+      "time": "12h ago",
       "pub_ts": 1781474400,
       "summary_kr": "ALDI의 새로운 10달러짜리 모카 포트는 모든 현대식 주방 카운터 집과 정원에 어울리는 디자이너 스타일의 커피 업그레이드입니다.",
       "strategic_implications": "",
@@ -113,10 +212,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "코스트코는 잊어라: 소비자 보고서에 따르면 소형 주방 ​​가전제품을 구입하기에 가장 좋은 곳 - AOL.com",
+      "title": "코스트코는 잊어라: 소비자 보고서에 따르면 소형 주방 ​​가전제품을 구입하기 가장 좋은 곳 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yckQ3NU5lY2JsRUtTdldPdWxpUWFPZXBETWlQUU1xM2xxVmsxaXlFdFZwNUxxZXI2V0VuaFRteVBQRTB6Y0EwbE9adlpJeTllckZkb2N5eHhBZWVBUm9za3g0RC1ObEF1RndFVlItSFlrRnJ4U3lZM0xuOVZ4dw?oc=5",
-      "time": "11h ago",
+      "time": "15h ago",
       "pub_ts": 1781465805,
       "summary_kr": "코스트코는 잊어라: 소비자 보고서에 따르면 소형 주방 ​​가전제품을 구입하기에 가장 좋은 곳 AOL.com",
       "strategic_implications": "",
@@ -130,7 +229,7 @@
       "title": "삼성, 캐시백 제공 및 보증 연장 혜택을 제공하는 Big Bespoke AI Fest 발표 - Moneycontrol.com",
       "media": "Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRVhSZy1jbUlDcmlrTEI5eUlKTVpXb3BQOEFtbGNORnVYVEFmMnNSS0tuOFZfVlB0X3Z4V0dZRjdjN3VMM1BDZDhUemp3TUZyekVxUUE1RXYxVURkNzBaeERoZ0EyUFVicnd0Ml9ZMFc3VEs2bFRsUjhrdmI5a18xNUtfX094eVBqenZUOUYyRmwxU1RWVzkwS2Z5VFlNVDVhWXZacVJObmZXS2dTcC1uMDJBbWNiXzdBSndKWnAzb0o2VW1US0ZZZGEzaXlMUHVhdFRxNjhSdjBZZ09hYkxJTThhb3ZqNjRDb0RYR0JsZHXSAfABQVVfeXFMT0VYUmctY21JQ3Jpa0xCOXlJSk1aV29wUDhBbWxjTkZ1WFRBZjJzUktLbjhWX1ZQdF92eFdHWUY3Yzd1TDNQQ2Q4VHpqd01GcnpFcVFBNUV2MVVEZDcwWnhEaGdBMlBVYnJ3dDJfWTBXN1RLNmxUbFI4a3ZiOWtfMTVLX19PeHlQanp2VDlGMkZsMVNUVlc5MEtmeVRZTVQ1YVl2WnFSTm5mV0tnU3AtbjAyQW1jYl83QUp3SlpwM29KNlVtVEtGWWRhM2l5TFB1YXRUcTY4UnYwWWdPYWJMSU04YW92ajY0Q29EWEdCbGR1?oc=5",
-      "time": "11h ago",
+      "time": "15h ago",
       "pub_ts": 1781463162,
       "summary_kr": "삼성, 캐시백 혜택과 보증 연장 혜택을 제공하는 Big Bespoke AI Fest 발표  Moneycontrol.com",
       "strategic_implications": "",
@@ -144,7 +243,7 @@
       "title": "모두가 따라야 할 12가지 스마트 홈 장치 규칙 - bgr.com",
       "media": "bgr.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QWnY3amd0QmQ3Q2NPQUZKU3JfTm15VEhTM3p3RE9CQmxTZjdhSm94bkJXbllMNXFCRHkzNmNMVk1yWHB6UWhETEhQQ2NJX0F0R0tDbE45UERwN0dzNTRvQm8zQWRQNm1WSzhsdWY2WUF4SDh3TFNn?oc=5",
-      "time": "14h ago",
+      "time": "18h ago",
       "pub_ts": 1781452920,
       "summary_kr": "",
       "strategic_implications": "",
@@ -158,7 +257,7 @@
       "title": "소비자 보고서에 따르면 삼성 냉장고의 가장 일반적인 문제 - 테이스팅 테이블",
       "media": "Tasting Table",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa2J4YUVFaV9raEtNTngtcm96VDZvWGZ1RVNsU3lob1NIMlpRYUUtMUx0bVBNZS1CNk5YV0pGcmZacUVuMFl2SVp2bUVjS3MtakFfeFV3cWM1NVg0TUc1b1d3eHhhNHl0UG10c0dGVGFKLWMzUGZVRUZvTDVsd0xlX01vMEl2T0poMjVPVVJFYVczcUhzQl9EeXRrZw?oc=5",
-      "time": "18h ago",
+      "time": "22h ago",
       "pub_ts": 1781440200,
       "summary_kr": "소비자 보고서에 따르면 삼성 냉장고의 가장 일반적인 문제는 테이스팅 테이블입니다.",
       "strategic_implications": "",
@@ -172,7 +271,7 @@
       "title": "항상 얼음처럼 차가운 음료를 제공하세요. 이 너겟 아이스 메이커는 단 몇 분 만에 얼음을 만들어냅니다. - 음식 및 와인",
       "media": "Food & Wine",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUHpMS3pzaGYxY0lpUm92NnVKN3EyN1pCQVVPazUydFIzcVdXTnIwSXhpVkFnZ21RUWJSX0dzR0NjdEZzUVRaR3I0X0R1LVJuZDM5TER6R1JZTTFIUlNPVk0xOFBMSEh3WjhwWUp4OVFRT2dkV3QyMktpTmNIS0JfN2JDazFVZWE0eWc?oc=5",
-      "time": "19h ago",
+      "time": "23h ago",
       "pub_ts": 1781436180,
       "summary_kr": "항상 얼음처럼 차가운 음료를 제공하세요. 이 너겟 제빙기는 단 몇 분 만에 얼음을 만들어냅니다.  음식 및 와인",
       "strategic_implications": "",
@@ -183,16 +282,16 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Lavazza는 플라스틱이 없는 포드로 1인용 커피를 재창조했습니다. 커피 애호가들은 이 커피에 푹 빠졌습니다.",
-      "media": "Homes and Gardens",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaEs2dU5Xd3JxTmdBQUU4TmtFU0NKOFJ1Z3pHaDlMZjJQNkdLalJyY2dkRnpHNHpJRFJ3RXIxOEJBbVdQLU5OdFg4T2lyUEFVRW9wNi1zMzBIalR2a3NNQmotMFQwYUpnYWVRX1V2YmI3aHVUREhwQkx5NEVwVWdmeDk1VGQxZw?oc=5",
-      "time": "21h ago",
-      "pub_ts": 1781427600,
-      "summary_kr": "Lavazza는 플라스틱이 없는 포드로 1인용 커피를 재창조했습니다. 그리고 커피 애호가들은 집과 정원에 푹 빠져 있습니다.",
+      "title": "가족이 '위험에 빠지게'되면서 일괄 요리 추세에 대한 경고 - Yahoo News UK",
+      "media": "Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SMFVlcnl2eC0xNEVZYmlkRUdxSTRsXzVoQi1sUlNmVlVrRlhEcUVlcmVyXzQ2S3R2YkhpNDNvN1FhWFVKenpSOTJPdmVfZWZaMTZmX2hCNG5STWNiU2IwZVhEZWFuWUZydGNWWjB3ZXNkQ2U1XzhWdW9mb3JRZw?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1781434800,
+      "summary_kr": "",
       "strategic_implications": "",
-      "impact": 3,
+      "impact": 4,
       "tags": [
-        "watch"
+        "opp"
       ]
     }
   ]
