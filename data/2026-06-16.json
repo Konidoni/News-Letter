@@ -1,39 +1,66 @@
 {
   "date": "2026-06-16",
   "date_display": "2026년 06월 16일",
-  "generated_at": "2026-06-16T16:21:05.813660+09:00",
-  "generated_at_display": "2026.06.16 16:21 KST",
+  "generated_at": "2026-06-16T19:02:06.145140+09:00",
+  "generated_at_display": "2026.06.16 19:02 KST",
   "category_counts": {
     "Competitor Analysis": 6,
-    "Market Dynamics": 14,
-    "Technology Trend": 2,
-    "Samsung DA": 2,
-    "Samsung Bespoke": 3
+    "Market Dynamics": 12,
+    "Technology Trend": 1,
+    "Samsung Bespoke": 1
   },
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 2건 감지",
-      "desc": "오늘 수집된 27건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: Executive Corner: '잘 구축'에서 '잘 운영'으로: 건축 시장의 가치 재정의. 경쟁사 동향 6건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 20건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: Executive Corner: '잘 구축'에서 '잘 운영'으로: 빌더 시장의 가치 재정의. 경쟁사 동향 6건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 8건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: 바쁜 주방을 위한 신제품 출시, Electrolux 600 시리즈 전면 제어 식기세척기에 타겟 스프레이 추가 - AD HOC NEWS. 삼성 Bespoke 3건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: 분주한 주방을 위한 신제품 출시, Electrolux 600 시리즈 전면 제어 식기세척기에 타겟 스프레이 추가 - AD HOC NEWS. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
       "title": "경쟁사 기사 6건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 6건 수집. 주요 동향: 하이얼의 프리미엄 스파르탄 타워 AI AC, 첫 달 판매량 700대 돌파 - Haier India - MobiGyaan. 시장 전반 기사 14건, 기술 트렌드 2건 함께 검토 권장."
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 6건 수집. 주요 동향: LG전자 피벗: 가전을 넘어 AI와 서비스로 - Whalesbook. 시장 전반 기사 12건, 기술 트렌드 1건 함께 검토 권장."
     }
   ],
   "articles": [
     {
       "category": "Competitor Analysis",
-      "title": "하이얼의 프리미엄 스파르탄 타워 AI AC, 첫 달 판매량 700대 돌파 - Haier India - MobiGyaan",
+      "title": "LG전자 피벗: 가전을 넘어 AI와 서비스로 - Whalesbook",
+      "media": "Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbVQ3RkZNc0J6dWJ2MlFMNmdtWXhENHJDTGRmVFpYbzJ2czN2cmdzNWM3LVVWRlVxSnhwTE43VEtjQWpGay16RVFpNGE1dm1WdV9qcE5OQV95Q3gzakp2TjNob1l3NlA0MnZwMEg3Q1BIanFZbHVaS1JLT3hBQ2p5TnlwbWpUUW5NM0plWDJHMkI4Y0FDeDJWdGhzMEQ4U0JBVVE2UzlzOER0ZWV4UVZLWU9MSzdVVXpybDVBbFVGX3c0MzdjN0VjX0pGUkM4NDdwSU9zMDdSVQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1781599052,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "차세대 개척자: LG의 미래는 단지 집에 있는 TV와 냉장고가 아닙니다 - The Economic Times",
+      "media": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNZHY4WFF6R0JDeXBoMzIwZjluTWZtMWRWRXlOQXRkeWlsME1pM040RmhkREQ4LWFJamhiVDM1dmtmWTZYbVNRMmI0cC1PLV9leXJRbElqdlZhSkJFZ0laRW15am5nRzhpNTE0T0FZVHgxR0tYNkkyMjB6dDRacUw0NWU3UjhCWG5FVmlmV2R6cXRwWE5yTEZtN0FEdUw3VHVIbVhGSTJHenVYTmlSd0FxRk0xRkZ0djFfN3g2LW9pR1BJYm5xcTNVSS1tejFMbF9UYmVxYUgzeGV6S2VnbEFFektwVlNCZ3AyMDBkTGl5T1kxY2hrVi00S2lEY1c0azNvMnA1LWpUVmNlMUUxenlXb0JFaDBadXFNY1FfbUFfYUtONGpfcmgwYUNmU0VYb0NFQmF5bnZRNkpMejRvNzlFRmo5NWVIeU80MkxjcUZJZTRvUDRON2dSZ3Rn0gHaAkFVX3lxTE1kdjhYUXpHQkN5cGgzMjBmOW5NZm0xZFZFeU5BdGR5aWwwTWkzTjRGaGRERDgtYUlqaGJUMzV2a2ZZNlhtU1EyYjRwLU8tX2V5clFsSWp2VmFKQkVnSVpFbXlqbmdHOGk1MTRPQVlUeDFHS1g2STIyMHp0NFpxTDQ1ZTdSOEJYbkVWaWZXZHpxdHBYTnJMRm03QUR1TDdUdUhtWEZJMkd6dVhOaVJ3QXFGTTFGRnR2MV83eDYtb2lHUElibnFxM1VJLW16MUxsX1RiZXFhSDN4ZXpLZWdsQUV6S3BWU0JncDIwMGRMaXlPWTFjaGtWLTRLaURjVzRrM28ycDUtalRWY2UxRTF6eVdvQkVoMFp1cU1jUV9tQV9hS040al9yaDBhQ2ZTRVhvQ0VCYXludlE2Skx6NG83OUVGajk1ZUh5TzQyTGNxRkllNG9QNE43Z1JndGc?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1781598420,
+      "summary_kr": "차세대 개척자: LG의 미래는 단지 집에 있는 TV와 냉장고가 아닙니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼의 프리미엄 스파르탄 타워 AI AC, 첫 달 판매량 700대 돌파 - Haier Korea - MobiGyaan",
       "media": "MobiGyaan",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3M5Vi1RZkRYQzRWcFpaUlJSQUh6MkxRdmFsYWJUOUhSU2JDV1RNQTRuS3lRNTlSOHZrVTg0OC1ucFFyQkpNbU5qLUNENjFfdzVoZndCTFByRy1iWE9ZVmx4aUszeFJKMTY0TEhXcjB1UklVWVpOTC1rYzdUYzVoZA?oc=5",
-      "time": "Just now",
+      "time": "3h ago",
       "pub_ts": 1781592887,
       "summary_kr": "Haier의 프리미엄 Spartan Tower AI AC, 첫 달 판매량 700대 돌파, Haier India에 따르면 MobiGyaan",
       "strategic_implications": "",
@@ -47,7 +74,7 @@
       "title": "아마존의 숨겨진 아웃렛을 몇 시간 동안 스크롤했습니다. 프라임 데이 전에 구매할 가치가 있는 50개 이상의 주방 특가 상품입니다 - Allrecipes",
       "media": "Allrecipes",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOGlLYThVbW1hS1J2Z05heVdvVUdxTTVGTUNxSEtEMVRXMmpXMVhGWDBya052M05BaUtLa0I1MC1NWUdyVEZPekFvaU53VEY2dU5oNjl1VjRsclNiUW5PRURMTWVGOVZ4WFN3ZllES2JvRzEyN3B4TWNfbTRXdHNDakJBLWUxSEo4alVzRmtxVQ?oc=5",
-      "time": "Just now",
+      "time": "3h ago",
       "pub_ts": 1781591400,
       "summary_kr": "Amazon의 숨겨진 아웃렛을 몇 시간 동안 스크롤했습니다. 프라임 데이 전에 구매할 가치가 있는 50개 이상의 주방 특가입니다. Allrecipes",
       "strategic_implications": "",
@@ -58,10 +85,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "바쁜 주방을 위한 신제품 출시, Electrolux 600 시리즈 전면 제어 식기세척기에 타겟 스프레이 추가 - AD HOC NEWS",
+      "title": "분주한 주방을 위한 신제품 출시, Electrolux 600 시리즈 전면 제어 식기세척기에 타겟 스프레이 추가 - AD HOC NEWS",
       "media": "AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVC1fOUJRNEVLY0hJSENUZ0dWajVpeGVuS3JRa2VlTGxNOGlRdFUxZm5mME1EeEhkd3B6ZS1ROXo0UHZ3UjNBeW9EVm5FeC12MGt1bmxhckx1dVNhNXZxSmNNa0JaX3dnM0NWR2RXTE1wbk9RSm0zYkpKVGI1RXV5OTlMZmpycjFzbTZQX2xjbGM4dHlwRlNOekxOeXJlN0RTem1ZVWk1U3E3alZaWmlvZFBRSDBENVpSVmt1UmEtSF9CUQ?oc=5",
-      "time": "Just now",
+      "time": "3h ago",
       "pub_ts": 1781590986,
       "summary_kr": "분주한 주방을 위한 신제품 출시, Electrolux 600 시리즈 전면 제어 식기세척기에 타겟 스프레이 추가 AD HOC NEWS",
       "strategic_implications": "",
@@ -72,11 +99,25 @@
     },
     {
       "category": "Market Dynamics",
+      "title": "Brooks, Le Creuset, Breville 등 유명 브랜드가 Amazon Prime Day를 앞두고 최대 76% 할인됩니다 - EatingWell",
+      "media": "EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xd3hBZHMyb2xhaGZPeVhUQVVZQUlWOFJjNlg3NjBkbU9EdmNwZC1sUG5sMzJIZGFkMGh2QWtwNDd3ZjV6YWFDZ0hVaXA3V1dxNzZuT21TSkVYcmtjS3VUR0dBUW5ONlBzTDZ5eVBCUElGQ0Yxc3dMbg?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1781589600,
+      "summary_kr": "Brooks, Le Creuset, Breville 등 유명 브랜드가 Amazon Prime Day를 앞두고 최대 76% 할인  EatingWell",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
       "title": "나는 SMEG의 새로운 Forte 스탠드 믹서를 사용해 보았습니다. 거의 완벽한 레트로 베이킹 강국입니다 - 가정과 정원",
       "media": "Homes and Gardens",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1pCOXRYV2xnSWV5eGkwa1NMdTNyc09oZUtaYk1jTkxfMDNhVUtnZVdiOF93NjJsVEpYR1hhT1U4Qkt0UE1rcWZzLXJoajZSekdCNnNfcV8yUDg3Y0w0RGZZZXpiVjRQeXpqX2dfSDVOcll2dTlqNDJxeGh1UlFtaQ?oc=5",
-      "time": "3h ago",
-      "pub_ts": 1781582400,
+      "time": "5h ago",
+      "pub_ts": 1781582785,
       "summary_kr": "SMEG의 새로운 Forte 스탠드 믹서를 사용해 보았습니다. 집과 정원에 거의 완벽한 복고풍 베이킹 강국입니다.",
       "strategic_implications": "",
       "impact": 4,
@@ -89,7 +130,7 @@
       "title": "이번 EOFY에서 KitchenAid 가전제품 45% 할인 - Nine.com.au",
       "media": "Nine.com.au",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVlwVXZOYTFiUTY4LV8xQVNaRmNVZFZGeDlOSnZoS0Y2aDdtWUlLWTRPNlgxaVBrdHZXSU9yeXlpUmpwSVgxRjdjQ3ltYzZwSHhsUHl3LVN6RjhpaGE0cDYwcEdkYjkzZkxRbVpoUTUxMUFDNXRsQ3lQR0Z1WDFEVFpFS1V1ZTJLOUE3dWJrTG1WQ0UzYTBXNWZ2NW96Z3dPUDA1MEpQMA?oc=5",
-      "time": "3h ago",
+      "time": "6h ago",
       "pub_ts": 1781580989,
       "summary_kr": "",
       "strategic_implications": "",
@@ -103,7 +144,7 @@
       "title": "Brokerage Radar: Reliance, LG Electronics India 및 항공주에 대한 새로운 전망 - Whalesbook",
       "media": "Whalesbook",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQc1NpVlFJXzQ4OW9DaWhzcHRVQzhLZHRvUHQwb085WHN4VEpYbk5iRnBnN1VPUXpEaEt3TlMwcGNNaEJjblJ5QUh1eWNqazBHbUpLbWRKZW9vVkxCS3dQMllMUEdSRzV1SXdpSDdyNlo1SmE4cktBR1RQTnlVLVVxTjcyU2xzTDJzZ0xvOTdDMGEzcjEwbDd0ZElRUWU3aC1nNm1leDFfNWhlek14aFh3eG9aMUFDb3NGVVE1S002YlJ6N2JXX2pzcE04MXpPWUh1YXlNVng2elhGaGl2QWY2WlVmZ3JQb0xTakd0TVJkSUtvdWk4azk1bTVB?oc=5",
-      "time": "5h ago",
+      "time": "7h ago",
       "pub_ts": 1781575530,
       "summary_kr": "Brokerage Radar: Reliance, LG Electronics India 및 항공 주식에 대한 새로운 전망  Whalesbook",
       "strategic_implications": "",
@@ -114,10 +155,10 @@
     },
     {
       "category": "Technology Trend",
-      "title": "Executive Corner: '잘 구축'에서 '잘 운영'으로: 건축 시장의 가치 재정의",
+      "title": "Executive Corner: '잘 구축'에서 '잘 운영'으로: 빌더 시장의 가치 재정의",
       "media": "Bing News",
       "url": "https://www.times-herald.com/online_features/home_improvement/executive-corner-from-build-well-to-operate-well-redefining-value-in-the-builder-market/article_dd1619f5-c3d6-50af-85ce-1d59a41d927b.html",
-      "time": "7h ago",
+      "time": "9h ago",
       "pub_ts": 1781568240,
       "summary_kr": "LG전자 홈어플라이언스 솔루션 AI 홈솔루션 사업개발부장 겸 부사장 로널드 로(Ronald Ro)는 이렇게 말했다.",
       "strategic_implications": "",
@@ -131,7 +172,7 @@
       "title": "놀라울 정도로 유연한 설정을 제공하는 CPK Mini Desktop Chopper는 작은 주방을 겨냥합니다 - AD HOC NEWS",
       "media": "AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGpHeXBMM1FOLVlJN3JXV3hQdWdXemMzM3A5ZXFEQzNXRUg5N0pqSWh4Q3VJczhSNnk0RkN5Y1RYOEttb2pMaGJwajkxZGxJYi1UQlpwa3ltNUVjUWJmbVgxZTlvX1RQTVh0bVV3M1ZfbTJla2VkMzBmMTB0ajhWX09BV184NFJBcWFDRHpvZGpUMENrMDY4eEVRclhlRXBKcjlnelVJTWZKYVFMcEJMbUNGazdLbC1Sd0MtMFljam9RRGc?oc=5",
-      "time": "7h ago",
+      "time": "10h ago",
       "pub_ts": 1781566810,
       "summary_kr": "놀랍도록 유연한 설치가 가능한 CPK Mini Desktop Chopper는 작은 주방을 대상으로 합니다.  AD HOC NEWS",
       "strategic_implications": "",
@@ -145,7 +186,7 @@
       "title": "모든 주방에 필요한 5가지 가전제품으로 수백 달러를 절약하세요 - Nine.com.au",
       "media": "Nine.com.au",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHdPZG5RdFpHbTFEU1lvMmtocTJHcmhYWngtcV9sU2pxWHQ5MUtCZk9ma25wZ3FKLTZNbVRLOGVBaGVWUUR6NEt6T0Fnb005d0V3Y1QwSHp1ZUV5b0ZRWVJZMVdLOFdEVmpGb2lwYnN6clRRN0QyZXlKMlRPc3dGdnNkanpaSWFaaE9jQzhXUWplR29LVERxalduRkFOTGJrXzJMb2V4X3Y?oc=5",
-      "time": "7h ago",
+      "time": "10h ago",
       "pub_ts": 1781566102,
       "summary_kr": "",
       "strategic_implications": "",
@@ -155,39 +196,11 @@
       ]
     },
     {
-      "category": "Samsung DA",
-      "title": "삼성에 타임머신이 있었나..15일간의 가전제품 테스트를 이틀뒤에 끝낸다 - 매일경제",
-      "media": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mTFlzVmpINnNkTWJKV0d3WjN3UklGcGU0Z0lMeU9VQjZnYWM4VlVCejczZ2xRM1BTMzZndG11T1pCTGp3enlWbkdiSHR6SkhqM2t3?oc=5",
-      "time": "9h ago",
-      "pub_ts": 1781560759,
-      "summary_kr": "삼성에 타임머신이 있었나..15일간의 가전테스트 이틀만에 끝낸다  매일경제",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Samsung DA",
-      "title": "롯데하이마트, 여름 가전세일 개최: 삼성은 20% 리베이트, LG는 최대 100만원 할인 - 아시아경제",
-      "media": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mSFdBTUVGaXZXUlpvR0FHWjhfRjdBVi16MncwX3Z6X3B2ZE5ER3dOVG5ZWWJZd3hYQ1dnNUo5WmVSTzJ6aVFUWHRfcnk4cU8tTC1vVVp4TmRjU0dZYmFyQ0IyNmc?oc=5",
-      "time": "10h ago",
-      "pub_ts": 1781557200,
-      "summary_kr": "롯데하이마트, 여름 가전세일 개최: 삼성 20% 리베이트, LG 최대 100만원 할인  아시아경제",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
       "category": "Market Dynamics",
       "title": "60년대와 70년대 모두가 소유했던 가전제품 색상: 과거에도 남아 있어서 다행이다 - Yahoo",
       "media": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUm92MFlDdjFPR1dORnlGbFdIUUZua2JDMVBwZEpQc1AxbFBzUlNhV25kWnFLLUJXZ2ozYldUQmtncGhZTFpoRG5PSnBOYUUtajBUM3k3bmRoal9YVGJEX256WVY4dzhOUDNrT2M5U1dDQmFES0VCUTRHU0w0WE9rNkhIZmx0RE1yQURrTDhNekp3SDFYSXlNcnJlNzhnQW5XRGNzQWF3QkdRZw?oc=5",
-      "time": "10h ago",
+      "time": "13h ago",
       "pub_ts": 1781555400,
       "summary_kr": "60년대와 70년대 모두가 소유했던 가전제품 색상, 과거에도 남아 있어 다행입니다. Yahoo",
       "strategic_implications": "",
@@ -201,7 +214,7 @@
       "title": "인덕션 하드웨어, 40개 이상의 새로운 전기 기기 출시 - AndroidGuys",
       "media": "AndroidGuys",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWURQRmxGRmEtbC1ZdS1iRVRJaG44NHA0YUVOUGFlQnEyd0l2dWlnWW40empQeXAyWEcwdC0yNHJnaTdBY3oxS3FqX0dTT0lmLWNlLThfb2o3dl83R3JiUFdfLUdhZTd5R1JOU1NvQUctYU53X3E5SEVtZjI0a1VLMjhEVEl6UWJUWFhVcDREblhSeGNDWDJOaXRpVnVBNkhiZlRfenRyQWpGQVlrdlFXV2tzdDk5dHNDUWVFYzRVTHBaYV9YMWdqVllOa1ZrcFBvX0Z3a1dUdDFLZE10aGc?oc=5",
-      "time": "12h ago",
+      "time": "14h ago",
       "pub_ts": 1781551013,
       "summary_kr": "",
       "strategic_implications": "",
@@ -215,22 +228,8 @@
       "title": "2026년에 건너뛰면 후회할 봄철 주택 업그레이드 13가지 - bobvila.com",
       "media": "bobvila.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DbW5QU05WcnJSY2ZrZ0V6QlJWbUpaaDAwX1hpNFdWOFFOUTdKSms1TVdWcXBZNXpVU0lMczdBcEQ3eXJMSm1ES0RuQ0plQ1dFZFZZc2Foc3BNaHF4UWdUTF91NA?oc=5",
-      "time": "13h ago",
+      "time": "16h ago",
       "pub_ts": 1781545813,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "Sam's Club에서 구매자가 미판매 주방 가전제품에 입찰할 수 있는 방법 - AOL.com",
-      "media": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FSmFpV1Z2dUZVM29SblRXdWkwSU4yOHp2dkdyZU1maTQ2UE5icVZFNEh6cVJQc2xzRXlTakp6TjBucmFsaUZWci1oOVd2SjZJdk9saXNraFM5RHVaQ1VoR01WUTJRc2NTTFRzaDJDcWFOaHY3cmlMQ3ln?oc=5",
-      "time": "14h ago",
-      "pub_ts": 1781542961,
       "summary_kr": "",
       "strategic_implications": "",
       "impact": 3,
@@ -243,7 +242,7 @@
       "title": "이 인기 있는 가전제품 기능으로 냉장고의 수명을 단축할 수 있습니다 - Yahoo",
       "media": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUVRTmFiQXdiZlpRd3dmNXFzOUg2R3NJYTgxa3F0WU1BNE9aMnB1YVlWa0VQQnRQOHl4Rk50Sms4bXJVeHRNMUdnbURjTllERDZVajJ5TWlkdU82OXg3bjIycjZuZmxkbjU5c2REZTB3RmNtektHNEM1OWdiS2JoVEdRR1BzRzBtOUtZa2hqQWlEYWU0Q3ZjLTlySUhJMTBvbFp4Tl9OQkpQNDRsM2paS1ZR?oc=5",
-      "time": "15h ago",
+      "time": "17h ago",
       "pub_ts": 1781539500,
       "summary_kr": "이 인기 있는 가전제품 기능으로 냉장고의 수명을 단축할 수 있습니다. Yahoo",
       "strategic_implications": "",
@@ -254,10 +253,10 @@
     },
     {
       "category": "Samsung Bespoke",
-      "title": "삼성 맞춤형 AI 냉장고: 모든 가정을 위한 하나의 스마트 솔루션 - NDTV",
-      "media": "NDTV",
+      "title": "삼성 맞춤형 AI 냉장고: 모든 가정을 위한 하나의 스마트 솔루션 - ndtv.com",
+      "media": "ndtv.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnFXdWdfQU5LbGNlT0hGN2U3LUFYTEhhNVFiRG83aldhVGFhTVBOYkNFZ2lXX3FyS0JwM1NpcjIwbUs5Sm90cXFFWFloNHVmcjEwbW41aGUzeXNrVzh1dmNCel9TYjk4aFhBOEJDemMzZU15YlZXY25fdUJSM3ZOZng5STlCOHVJcDRVdFNheGZnb2Jvc1lrTER6TElOdjRCV2p6SENjLWdOWk3SAasBQVVfeXFMT3JxV3VnX0FOS2xjZU9IRjdlNy1BWExIYTVRYkRvN2pXYVRhYU1QTmJDRWdpV19xcktCcDNTaXIyMG1LOUpvdHFxRVhZaDR1ZnIxMG1uNWhlM3lza1c4dXZjQnpfU2I5OGhYQThCQ3pjM2VNeWJWV2NuX3VCUjN2TmZ4OUk5Qjh1SXA0VXRTYXhmZ29ib3NZa0xEekxJTnY0QldqekhDYy1nTlpN?oc=5",
-      "time": "17h ago",
+      "time": "20h ago",
       "pub_ts": 1781532086,
       "summary_kr": "",
       "strategic_implications": "",
@@ -271,7 +270,7 @@
       "title": "LG의 다음 내기: 가전제품 임대 - Financialexpress.com",
       "media": "financialexpress.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1p6eE8tNlc2TFhoSVBTLVVKU2ZWdVh0QXZvOEV4VkdQYUo5UmZhQWZhTjlzU2pubGhGU0lkcXdfTE9OZWhPYnE2b0pqcVZ3djlGelI3ZEhiVEVIZzlpdEZMYVBjZldMakJvUDdEdnRUVzlzd1pLY2RjT1VzdFpXcUdHUTc2WWprX1BLSDI3Vlc0R1NGeHfSAZwBQVVfeXFMTVZpMkwwUTJZM2ZoQ01Kb05MZFFIR2JOZGR3cWZNWGlZM1Jqd2s1Mjh1S3ZuOHdOeXRhYWFPUE0tNE1QWWNTazZTQmhOY2lPWlotOUdVVWhYOVRwOTlzbF9qR2dqanNkdUlFOFUxbXNodDBpMW9ON1VCeDZFNno3NENIdk1wY2JxNi0zRjVxZF9FTHRQN0JMdUE4UVFr?oc=5",
-      "time": "17h ago",
+      "time": "20h ago",
       "pub_ts": 1781530603,
       "summary_kr": "",
       "strategic_implications": "",
@@ -285,7 +284,7 @@
       "title": "소송에서는 Walmart의 Farberware 7-in-1 압력솥이 폭발하여 부분적인 화상을 입었다고 주장합니다 - AboutLawsuits.com",
       "media": "AboutLawsuits.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUdXR29Gc2JLNmVDakxoTWdZZVE2d0VsN0hWNHVsRW1qUmZHNnpZNHUzUTltY1l1dGZtVGdxMWM2dTlSeDVOQlBMRm16Yy1ybzdzOHcwVVRfdFJwSW1tSlpSR3Awa29rREdpaXl3VDVyN20xTElHRG8wQmJuejlWSklCeG5HZHJCa2tfOXdobG1JUHI1bTQ3aXA2aU5jb3g4aGxlRG1ZMFN6a3VkTUxDQ29KNA?oc=5",
-      "time": "19h ago",
+      "time": "22h ago",
       "pub_ts": 1781524800,
       "summary_kr": "소송에서는 Walmart의 Farberware 7-in-1 압력솥이 폭발하여 부분적인 두께의 화상을 입었다고 주장합니다.",
       "strategic_implications": "",
@@ -299,111 +298,12 @@
       "title": "하이얼의 AI 스파르탄 타워 AC, 인도 수요 강세 확인 - TechnoSports Media Group",
       "media": "TechnoSports Media Group",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YZG1vR1JCcWlYSTlOUDN5Ulo0Szh1UkR3VmRSNFBsaUJwLXhpWll2VFkxejBMMGg5QWNoMnRmSWtmcldQc3BGQXlsN29HZDNJOC0wQ01QUnU0ampGRjNiSzFRMlVuRVh6WjlwOGVvSQ?oc=5",
-      "time": "20h ago",
+      "time": "23h ago",
       "pub_ts": 1781520940,
       "summary_kr": "",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Samsung Bespoke",
-      "title": "삼성 홈 화면을 맞춤형 런처로 교체했는데 다시는 돌아가지 않을 거예요 - Android Police",
-      "media": "Android Police",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWmFvVkpiUWJ3bnBQLWZQMUkwVGFUUUQ5TW9oM0xxcWlNME5LWHd1SWs1UkpiaHZhX0pkQUZFcDViR1hFZEN1OHVWNE5nZ3B5aGVUQnY4dDMxRXB6cXo5RndjWEhLTnJ0MzcyY1ExU0VPVW93Yk5ISTI1MDZuTFZxZUl6dGN4bHpKc185NWFiX09MSmNWOGUtbVRGTmp4dw?oc=5",
-      "time": "21h ago",
-      "pub_ts": 1781517619,
-      "summary_kr": "삼성 홈 화면을 맞춤 런처로 교체했는데 다시는 돌아가지 않습니다. Android Police",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "opp"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "새로운 고급 주방에는 모든 것이 숨겨져 있습니다. 심지어 싱크대까지 - The New York Times",
-      "media": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGlLb3JhMDBwc09XaFctVTVnU1pOdmVJV0l1cEN4Q01McDFuZ1dLbWpGMUt1LTNoZmdrbGZSMUtZX0NpMlFvSjMxeHJpWjRkcy1GOU1kMjNVeE8xbEMwQksyY2J4azNQUkhRSm5lN3lKTGs5TkRDWldMUE44U0RxQzE4M0h5TVN4aTRFZlZucHA?oc=5",
-      "time": "22h ago",
-      "pub_ts": 1781514238,
-      "summary_kr": "새로운 럭셔리 주방에는 모든 것이 숨겨져 있습니다. 심지어 싱크대까지 The New York Times",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "opp"
-      ]
-    },
-    {
-      "category": "Technology Trend",
-      "title": "Haier Smart Home MD가 Electrolux Group에 합류했습니다. -kbnweekly.co.uk",
-      "media": "kbnweekly.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00NExnWjN3Yl9XTF9HTVhIYThlWHFYaW1CZTRERlRzT1p0TDRWeWdvd01VdU55d2l5VTRFM2UtdVJDX1doZkdqVVQ4VTlmVDMycTJlLVZEM0twelVBdGdsOU94UkJNR01zaFhsdkxrVTh5YkdBVEE?oc=5",
-      "time": "22h ago",
-      "pub_ts": 1781512575,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Competitor Analysis",
-      "title": "LG전자의 고급스러움과 가성비를 '투트랙'으로 알려졌습니다. - 매일경제",
-      "media": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFTHNBYUJZWWNQLW5rQmhoekRMQmJMSmYxbmFadEpvSzNnVTZjc05lcmtoUG9WR1lOV19VUWFBejVGYk92bVVDcEdDV0N6UVV4dF9F?oc=5",
-      "time": "22h ago",
-      "pub_ts": 1781511925,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "스탠드 믹서를 최대한 활용하고 있지 않습니다. 몇 년 전에 만들고 싶었던 천재적인 업그레이드입니다. - Food & Wine",
-      "media": "Food & Wine",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5MG0zbzgweTl6czNwVllRTk96cmxPMG90cEFvU0w4UGZDZksyQmdLQ1JOMk5YSkhTd3Y4ckxldFFsWHAwR1hJbjhUYU9zTDB6eWp4SzgzZnFPaURCZ2JRTlU5c0p4Q1BvLXMzM2ROVmZNanRiNUE?oc=5",
-      "time": "23h ago",
-      "pub_ts": 1781510400,
-      "summary_kr": "스탠드 믹서를 최대한 활용하고 있지 않습니다. 몇 년 전에 만들고 싶었던 천재적인 업그레이드입니다. 음식 및 와인",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "opp"
-      ]
-    },
-    {
-      "category": "Samsung Bespoke",
-      "title": "케빈 오리어리의 오늘의 명언: '시간표가 없는 목표는 단순한 꿈일 뿐입니다'",
-      "media": "Bing News",
-      "url": "https://www.msn.com/en-in/news/world/quote-of-the-day-by-kevin-o-leary-a-goal-without-a-timeline-is-simply-a-dream/ar-AA25GT81",
-      "time": "23h ago",
-      "pub_ts": 1781508840,
-      "summary_kr": "캐나다 투자자 케빈 올리어리(Kevin O'Leary)는 “기한이 없는 목표는 꿈에 불과하다”며 야망만으로는 성공하기 어렵다고 강조합니다. 그",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Competitor Analysis",
-      "title": "하이얼의 프리미엄 AI 스파르탄 타워 AC, 스마트 럭셔리 냉각에 대한 강력한 소비자 수요 목격 - businessnewsthisweek.com",
-      "media": "businessnewsthisweek.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRVltMGwwbVhpbUhJZFVOYmY3aUxxdlFtN0tub09OaDFWTzR5LThoZTAxbTZpb2JqME4teUlqVUN4ZXF6Yzh4YTk1WTJwNnE1NC1DOFNPa1ZOdFNVYkJWWjhyLTgzcWxEYlFuTDJaQlhyMjduVExhNmdSbXRqd0hfaXZabkQtaG1sV2VoYTZTMFNCYUoyQXhHZnlVMnB1LUxNZ2VTY2c3VThYdmJnVWxBNTRzSkdQTDVLeDhncVFralhyR3d4TGp2UHgtMy1BRXRZ?oc=5",
-      "time": "23h ago",
-      "pub_ts": 1781508360,
-      "summary_kr": "하이얼의 프리미엄 AI 스파르탄 타워 AC, 스마트 럭셔리 냉각에 대한 강력한 소비자 수요 목격 businessnewsthisweek.com",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "opp",
         "watch"
       ]
     }
