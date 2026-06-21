@@ -1,0 +1,143 @@
+{
+  "date": "2026-06-21",
+  "date_display": "2026년 06월 21일",
+  "generated_at": "2026-06-21T17:54:01.251123+09:00",
+  "generated_at_display": "2026.06.21 17:54 KST",
+  "category_counts": {
+    "Market Dynamics": 5,
+    "Technology Trend": 1,
+    "Samsung DA": 1,
+    "Samsung Bespoke": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 8건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: Aldi는 하나의 주방 가전 제품을 사용하여 바나나가 갈변하는 것을 막고 더 오래 보관할 수 있는 편리한 방법을 공유합니다 - Irish Mirror. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 1건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 1건이 감지됩니다. 주목 기사: Hisense Malaysia, 스마트 홈 기능을 갖춘 740L 4도어 인버터 냉장고 RQ600P7AB 출시 - My Everyday Tech. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 5건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Aldi는 하나의 주방 가전 제품을 사용하여 바나나가 갈변하는 것을 막고 더 오래 보관할 수 있는 편리한 방법을 공유합니다 - Irish Mirror",
+      "media": "Irish Mirror",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HeW95OHN2RkYxbktHMlV1WHNxUk02VElnQl9GQ2I4SHdpc3dkWjd6bEpmQTB1QTZHV3ZxbDQtVkQ3UHBnaHg5RjZneEFzaDROLUwwaWc4SU9PM0o0VzI4bkZJVnhuaDV6emdsaHpwYmVybHVfREcxZUpWSG9JQTTSAYQBQVVfeXFMTlFUdmxtUkR0ekgwSDhQTmszLTNQTGtKU1dnREVTN1Q4T2xWUjgyRDJpSjhsVDg5WWI2MzR3ZzVheEZNVllTeEpudmV2eDBPRFV2ZklpNHNLc3VzUFpXZTRnemp3cHR3UWdHYjRxOUdvS0NVVUJmenVwQkpaaGNlaGlXNGZ1?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1782025292,
+      "summary_kr": "Aldi는 하나의 주방 가전제품을 사용하여 바나나가 갈변하는 것을 막고 더 오래 보관할 수 있는 편리한 방법을 공유합니다.  Irish Mirror",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Hisense Malaysia, 스마트 홈 기능을 갖춘 740L 4도어 인버터 냉장고 RQ600P7AB 출시 - My Everyday Tech",
+      "media": "My Everyday Tech",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb29acWN4TGdRbHVKUWlRWHdLMEoxNFB4cE1JcGIzTm43aVNmeHFwQkZtVXlUajZiZnJrY0Ruc2k1RjdKaGk1VUhFSmVKUjhCOFVJbkhGYUpwQlFfQnh0MktNYU9Mc1hneUJENGpSMm5GTFFfZHMyY0ZKQS1WU2hqNmZvT3FBVXR2S1N3YW9EanR1elE?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1782023538,
+      "summary_kr": "Hisense Malaysia, 스마트 홈 기능을 갖춘 740L 4도어 인버터 냉장고 RQ600P7AB 출시 My Everyday Tech",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "코웨이, 소형 음식물처리기로 소규모 가구 공략 - The Korea Times",
+      "media": "The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUl1dUs4M3djMWpkM3k5VVNvQndhSTZUcmh1TWZmNkdlWlVUcTBXMlZGQm5fX3pKT3NLcF9qTVJUVGpNaV8yQ0FfZUc4ZGR3Q1lJUkFoTDdpUE9XdkZrLXNhcWc2Qkpxb2dJQVpzcWNWTFpyNTdTa3ppcTVvX1pjb2hwUzczYXFEREc3c3ludkV0aGlUVmRiYUZGZFJRVGdibk9lYTRZN2xlQmxIeGJhRGRobTQteUJoV0dJZUhMYnnSAcYBQVVfeXFMTXMtcXl0aGlpZG5hYm5GM2k4eXlNQ29hNndWS1FSSHVxWnhkNi1YWC1nSWVkNlJKMzFjT2ViMjRncmJkNmdPT0NYRTNQbnRxLWgwVTlMS2VFLUtxeWxtV2EwWnZ4cXRBREJ3cEcyNjhZMklUcEx1Ni0wcm1obktvLUJrQXp3NjktQldRYmhSZFhnZzNoTm9Zc3k1ckV3MGxyZkJ5YjkzdmU0ZzNqMkZJaVRaWkR3V1dRZTBZaGhxWkdlZ1p6Wktn?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1782019804,
+      "summary_kr": "코웨이, 소형 음식물처리기로 소규모 가구 겨냥 - The Korea Times",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon 최고의 조기 프라임 데이 특가가 아울렛 섹션에 숨어 있습니다. 가장 좋아하는 제품을 25달러 미만으로 쇼핑하세요 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ2g0dGs3TE8tMzRKMFd0Z1FITjV1QzM1RUg2VW9wTUN2a2FjV3AxYVFQUGR5b244RDd3SWlNcll3RzdIM2tGM2c5Zi03Mk5YbENqSFFzUEVxZVQ5eHBiakZEMk5YWlRjVFAzNUhVYTh4TnJPekszeFcxcHBGSVhyMzc0blhZSXM?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1782019800,
+      "summary_kr": "Amazon 최고의 조기 프라임 데이 특가가 아웃렛 섹션에 숨어 있습니다. 가장 좋아하는 제품을 $25 미만으로 쇼핑하세요.  Allrecipes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Amazon Prime Day 가전제품 거래: 유명 브랜드 최대 65% 할인",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-in/lifestyle/other/amazon-prime-day-home-appliance-deals-save-up-to-65-on-top-brands/ar-AA26asw3",
+      "time": "11h ago",
+      "pub_ts": 1781991331,
+      "summary_kr": "Amazon Prime Day 가전제품 특가: 유명 브랜드 최대 65% 할인 Amazon Prime Sale은 가전제품 최대 65% 할인을 제공합니다. 최고의 브랜드",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "코스트코 vs 베스트바이: 어느 매장이 주방 가전제품에 대해 더 나은 할인을 제공하나요? - 야후",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUUwZm9EQ1VTa2Z2UEFGY1JyR29aX2FEb1UxLXJLSkhaa1QxRk1MeTZySDc2M1k1cGJnV1oyRkdsZG9xSzJsNWNORjk1aUpHa0xrbU9Mdm9pSVRpcmEtV2pCQ3RfWU1CWFdoZ1ZfTm1sU1E2SXp2Si1LbDdJS1p3alp6VzR4VzJxVUw2UTBEOEtMN0tNTFhPSE4xTQ?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1781975100,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성 냉장고의 5가지 일반적인 문제",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/technology/5-common-problems-with-samsung-refrigerators/ar-AA268knD",
+      "time": "20h ago",
+      "pub_ts": 1781958660,
+      "summary_kr": "삼성과 같은 브랜드는 냉장고를 포함하여 거의 모든 제품 범주의 가전제품을 생산하지만 모든 사람이 좋아하는 제품을 만드는 것은 아닙니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "모든 스테인레스 스틸 팬 소유자가 완벽한 계란 후라이를 위해 가지고 있어야 하는 12달러짜리 OXO 도구 - 가정과 정원",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZkV3aUJEX1Z1Tkl1Qi15RHhHSmFDZzU5SFpBLV9SbUJFQ2RGMVluV0dUM005cEp4VW9YVUN5dFRuQjYzOVB1Y0xkR21TMUREVXNQYkpkejZJTzlOdXlKWERXMU05QlpqbE5hdzNITkRacE9KSkEzZFptVTNFYzZBbFJYX1dMV1Qya29CV3RhZi1FSnFTOEhWUw?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1781946000,
+      "summary_kr": "모든 스테인레스 스틸 팬 소유자가 집과 정원에서 계란 후라이를 완벽하게 만들기 위해 가지고 있어야 하는 12달러짜리 OXO 도구",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
