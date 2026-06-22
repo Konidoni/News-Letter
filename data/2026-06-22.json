@@ -1,0 +1,216 @@
+{
+  "date": "2026-06-22",
+  "date_display": "2026년 06월 22일",
+  "generated_at": "2026-06-22T16:22:37.226686+09:00",
+  "generated_at_display": "2026.06.22 16:22 KST",
+  "category_counts": {
+    "Samsung Bespoke": 2,
+    "Market Dynamics": 8,
+    "Samsung DA": 1,
+    "Technology Trend": 1,
+    "Competitor Analysis": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 13건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: 왜 기다려? Amazon, Le Creuset, KitchenAid 및 Lodge Kitchen Essentials에 대한 조기 프라임 데이 할인 중단 - 음식 및 와인. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: 삼성전자, 프리미엄 주택 계약으로 인도 HVAC 입지 확대 - CHOSUNBIZ - 조선비즈. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG, 모듈형 주택으로 가전·AI·HVAC 성장 견인 - 서울경제. 시장 전반 기사 8건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Samsung Bespoke",
+      "title": "\"세탁소 긴장할 수도 있다\" - 세탁기 건조기 커져, 대형 이불도 딱 맞는다 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hM1NoU1NKQlNYMVhhNUdRUy1FMXJQRFBLc3VndXp5bUdTRWVQX1FWQXFiTGxTMHY4NVZmS0xZNlZrVWFnSWFtR3B6cVZTRU9nVVFV?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1782105704,
+      "summary_kr": "\"세탁소 긴장할 수도\" - 세탁기·건조기 커져, 대형 이불도 맞다",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "조기 아마존 프라임 데이 특가로 세일이 시작되기도 전에 수백 달러를 절약할 수 있습니다 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXhOUDdVYWNFZm15Z0NMdUZDbW9VekNTWDZxb2FSdlZid1lIWWpxdGdCc3B0VHdhYmU4dGVWUi00OGp2SUpNMnhEM183dGNzeVVSS0ZmUkdMSWYwR3hqS0JtYXFUMGU0QTl6OHVZZmZCU21ud1lZRjZUcFlsbHNvcXJEaw?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1782102600,
+      "summary_kr": "조기 Amazon 프라임 데이 특가로 세일이 시작되기도 전에 수백 달러를 절약할 수 있습니다.  Allrecipes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 프리미엄 주택 계약으로 인도 HVAC 입지 확대 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HNll1U04weWlwaXNXaHRwa0RMdW0wQnUtdzJodHdKM0pUWGRBRmxCOUpXU2xwNlhzVjMxZE1JeW1wZ04zbUNLTkx2bzR3YjAyNlZFZnhMS2VFNS16clVNa3ZyVkRXSENCNmlqQS14RWdLSW1ZcGtJam5B0gGOAUFVX3lxTE1hck9BX3RVR2hFWjN6eGVVSE5DM2tiTEtfODE5emZTMmVjdGRENjRjUGdLR01Kb25rd1pXbFd3dGg2UVNWT0FERm95TWVqRlh5UG1HQkY4ZGotRWt1X05WYXktelExLTNjUzNhS0NJaS1tQ19rQXpWel94djRqaEtYR0tYMTg5WGZlZmtHWEE?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1782090960,
+      "summary_kr": "삼성전자, 프리미엄 주택 계약으로 인도 HVAC 입지 확대 - CHOSUNBIZ 조선비즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "사용자가 피하라고 추천하는 4가지 로봇 진공 브랜드 - bgr.com",
+      "media": "bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSm9ySm1FVWh0OE9Sd0tpdUROZjZGM2dSblNyNWZKNGtUYWw2SVlZTHFiODVubVlaV01xbXBhamdjQXpUTE5aa2NrRFNvVmFRcUwtdTNZSm1TanE1Vlo5WC1fWDM0NXZIVkM3U0NIVVFwaUoyOWFhLVd1cVNPamlFNzBEYnQyZ29iZVdB?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1782085620,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "폭염 기간 동안 집을 시원하게 유지하고 에너지 요금을 낮추기 위해 플러그를 뽑아야 하는 5가지 가전제품",
+      "media": "Bing News",
+      "url": "https://www.yahoo.com/lifestyle/articles/5-appliances-unplug-during-heatwave-040000093.html",
+      "time": "8h ago",
+      "pub_ts": 1782083280,
+      "summary_kr": "폭염 중에 집에 불필요한 열을 추가할 수 있는 일상 가전제품과 플러그를 뽑으면 공간을 시원하고 쾌적하게 유지하는 데 도움이 되는 이유",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "부동산 전문가들이 완전히 가치 있는 주방 업그레이드를 공개합니다 - Good Housekeeping",
+      "media": "Good Housekeeping",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMk5tSWdwOHl5a0dRU09XZXdRd011TW1SY0o3dlhZVmpjZ1haRlY0eG5qTnd0S01QTnl4QWlkYUZDNWl4ZE1kaHNjSFhVTU5hcVRXa0hxdzlBcW1BS05idTBSb1JLLWNRT2NKUzZHNWFadGVvUFFlV0RwMlRLT0NSa1Q3cWEtQ2dYOWpON0xQM0tiRzlyTkE?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1782068560,
+      "summary_kr": "부동산 전문가가 완전히 가치 있는 주방 업그레이드를 공개합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "유명인이 사랑한 이 Vitamix는 지금 $230 할인됩니다 - 주택 및 정원",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUp1d2liQWQwRnNuQy1JMTBPWXowTVlfM2t5WEg5SUNNVEJIcUdURmoybGg1ZjBVcGM2UFpJSzdIV2hybkxXd2lnZDBpT2FlZVBHVEdGQ2lja0JTRG5PLThETkptYXB3c2Nzb3djcDVXckNVMTNCd3hfeU56Tk5CVkN3RmdFNUVLWC1r?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1782068400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 고급 주방 가전 브랜드는 미국산이지만 여기에는 함정이 있습니다 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2FXRUdZWUl0b1M5ejhtMG04djI4RVlCeWstUDJsZ1lLbk5adW5TUEVmVHp2LW1xc2l1T1FfV005MURPWW81bzZadC02UTd0cUk4ei1ROFJMcEJZTnJobEdmSk8wU1FETmJHRElFcktfX0VHa1d2ZEJ6ZWJYRUdVczRXUUo4aUwzSDZCQWVCbkVUMFk?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1782059400,
+      "summary_kr": "이 고급 주방 가전 브랜드는 미국산이지만 눈길을 끄는 테이스팅 테이블이 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "컨슈머리포트(Consumer Reports)는 1년에 냉장고를 구입하기 가장 좋은 3가지 시기를 밝혔습니다 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUXJCY21VOVcxMTRKUmZqckU5eEpsZ2VkQkpfQkpabjhSMnpnbXNZSGR6cjhNMmVsZlAwRUdQdS1DSEVxUnR4Z1pWVURRWG9KLWZYYmtBdk9qU2phNTJDY2x5bTllSE94RENBYzZZeXhhTUJSSllmVHpQOGR0ZFFxTTN4SGYycGNL?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1782043200,
+      "summary_kr": "컨슈머 리포트(Consumer Reports)는 1년 중 냉장고를 구입하기 가장 좋은 3가지 시식 테이블을 공개합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "왜 기다려? Amazon, Le Creuset, KitchenAid 및 Lodge Kitchen Essentials에 대한 조기 프라임 데이 할인 중단 - 음식 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc2pSZE5mT29oQ2M3WWxCMEphV0pZNXpqMmF5czczRV9hQkFxOG15WEZLNjktVDBJbms5WlNhVHdnZ2VwRGNBQkNuUGJ4cDFXYnU5UkhEczJYYTZIVmNXS1VRUnMzRGZnY19lc3Nyd3hnM3BoTzJsU2YwMV94WDJKQg?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1782039600,
+      "summary_kr": "왜 기다려? Amazon, Le Creuset, KitchenAid 및 Lodge Kitchen Essentials  음식 및 와인에 대한 조기 프라임 데이 할인 중단",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전기 압력솥의 평균 수명은 얼마입니까? - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGE5N1FQdG9sNzV5RmFQS20yUmItX3l4dkU4QkJnYy1nbk05Mmk4NlM3LVA2b1Eydmd3NzJTdjNVcVlrTUE4WFBfUVpNMVZDeUxmY3ZpSEVQTHoxQ213cFZESmJ0Tkg3SU1ocjJpN1B5dWdPWTJYNGl5WDBQbXVPQm0wUGRlamloNDRLdEZXZkw?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1782032400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG, 모듈형 주택으로 가전·AI·HVAC 성장 견인 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQk5nYm5yRlRNSVB3T0JEb28tbHk4SlAzSHhuZF9aaGFsZHBpUnpEd21HaUo0Tndva0pzUTVxRGJYaUlsSWtsaFdDMWlJZkJrVnpzRHA4cU8tLXJXOFVRUVdXZzUyQVlONWppUTRyaTY4QmtNWGJBeHZocFFhZGFJRTlWZWctMmpMbGRsREdSMDhwQVNSamtHUW95WkNDUQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1782032233,
+      "summary_kr": "LG, 가전·AI·HVAC 성장 견인할 모듈형 주택에 투자 서울경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성은 새로운 맞춤형 AI 라인업으로 주방에 AI를 선사합니다.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/lifestyle/shopping/samsung-brings-ai-to-your-kitchen-with-new-bespoke-ai-lineup/ar-AA1WH2if",
+      "time": "23h ago",
+      "pub_ts": 1782027240,
+      "summary_kr": "삼성전자는 플로리다주에서 열린 '2026 주방&욕실 산업전시회(KBIS)'에서 연결된 AI 기반 주방 가전제품을 선보였습니다. 여기에는 업데이트가 포함됩니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
