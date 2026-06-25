@@ -1,0 +1,397 @@
+{
+  "date": "2026-06-25",
+  "date_display": "2026년 06월 25일",
+  "generated_at": "2026-06-25T17:17:44.727459+09:00",
+  "generated_at_display": "2026.06.25 17:17 KST",
+  "category_counts": {
+    "Market Dynamics": 19,
+    "Samsung DA": 2,
+    "Competitor Analysis": 4,
+    "Technology Trend": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 26건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 4건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 8건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: 프라임 데이 딜이 빠르게 진행되고 있습니다. $30 미만의 충동구매를 놓치지 마세요 - 식품 및 와인. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 4건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 4건 수집. 주요 동향: 인정하세요: 당신은 꿈의 공백을 가지고 있습니다. 좋은 소식은 아마도 지금 당장 판매 중이라는 것입니다 - NBC News. 시장 전반 기사 19건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "프라임데이에 무엇을 사야할지 모르시나요? Brooks, KitchenAid 등의 14가지 베스트 딜을 8달러부터 시작하세요 - EatingWell",
+      "media": "EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KUlZtSkcxYXZ5VURiRWFrblYzUURObXRwZDdPSjNKMlM3QnMtbV9UaUQ4QVlHb25yZ29URTJBQ2lINjlXX0ZxSHJxMkF4X0trejZPdGVjUzVZYjl0dU1TcU1lSXBWNEQ0RWxQMDRDcEpyS09CYUw2cENTQTY?oc=5",
+      "time": "Just now",
+      "pub_ts": 1782374400,
+      "summary_kr": "프라임데이에 무엇을 사야할지 모르시나요? Brooks, KitchenAid 등이 제공하는 14가지 베스트 상품을 8달러부터 시작하세요  EatingWell",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon Prime Day에 구매할 가치가 있는 주방 특가 70개를 찾았습니다. 단 $7부터 시작 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FaFhPQ2VmUllwaUF3VW5YVEJFNjdiVElpSDV1UzRlT3A2aTk0SjM2THVoTWFaS0hvcHh3RGhCd24wQmxtYW5GV1E5bmhpSlRNSkIwYml0YlBjMmdRZnhBdDU4Ml9Ga1E0b2ZwSVZOQmhCWFNZT200?oc=5",
+      "time": "Just now",
+      "pub_ts": 1782372294,
+      "summary_kr": "Amazon Prime Day에 구매할 가치가 있는 주방 상품 70개를 찾았습니다. 단 $7부터 시작합니다.  Allrecipes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "프라임 데이 딜이 빠르게 진행되고 있습니다. $30 미만의 충동구매를 놓치지 마세요 - 식품 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWTJGa0lvQ1ZJc09nSFozUzRvLS1QWXdXSTBhRk5fc1ZSb25nQTFsTlZuWEczejhJQTdFZTdlUWotTmFWLWJhTWhZQU05cUFZaXEzZGNwU2FWZE9tSWx0a1FsVFZ3Zl8yUzk5M3gxMWN5dEZvY3dDRExfcmxSNndDRHpIMUI?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1782367200,
+      "summary_kr": "프라임 데이 딜이 빠르게 진행되고 있습니다. $30 미만의 충동 구매를 놓치지 마세요.  음식 및 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "OSK Property는 IKEA, Cuckoo 및 Samsung과 제휴하여 홈 퍼니싱 패키지를 제공합니다. - The Edge Malaysia",
+      "media": "The Edge Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHSUk0SlVxLXFDbDhmTWpWemFVeDc3ejB6eHlZdVB2R1RraDNIMTROTW05ZS02SFh4T0p5Umt6TDlFZTFzNjJYWGltczdaQUpJ?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1782367009,
+      "summary_kr": "OSK Property는 IKEA, Cuckoo 및 Samsung과 제휴하여 홈 퍼니싱 패키지를 제공합니다.  The Edge Malaysia",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "폭염 속에서 집을 시원하게 하기 위해 지금 당장 플러그를 뽑아야 하는 가전제품 5가지 - 톰의 가이드",
+      "media": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjdBYUl6SGZzMnd5TWxiMEZKSUVkV203R3E2RDRXMW50V2VCajc2RzJ0NkU4Y2pjVTNFUGZ4UnE4ZGljU2EyRC1SV0VSM291b2wyNFVob21CUWwzSXVZQVZGUzZoTmk2QldqeEwzcVd0Vm0yVlJET2xST2REeG1VMy1XQ1NEaC1kVWxvb1RmLW9kX0xoTkFBN21Sa0JhMFd0S0NJb1ZwZGpNRHNnSUE?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1782365685,
+      "summary_kr": "폭염 속에서 집을 시원하게 하기 위해 지금 당장 플러그를 뽑아야 하는 5가지 가전제품 톰의 가이드",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Appliance Pro에 따르면 오븐 하단 서랍이 보관용인지 확인하는 방법은 다음과 같습니다. - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2FlZFdWWkpVQXpSTHBVamdSekdGOFVvZzA1WEp4MFdJbTRDVlZFNWk2UlFQZjBCTGFjUWdLelRVeXA5eHNVdVhpTzFnamVNSDE2Z2wzOEZ1Zk91VjBvRS0tc0JSc3M5c0IzbFFIclAxVzV5bkk2SVY4eXY2VXY0Mw?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1782365485,
+      "summary_kr": "Appliance Pro에 따르면 오븐 하단 서랍이 보관용인지 확인하는 방법은 다음과 같습니다.  AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "저는 전문 제품 테스터입니다. 인생을 바꾸는 6가지 주방 업그레이드를 더 빨리 만들고 싶었습니다. - EatingWell",
+      "media": "EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GdGNtQ0R5Q1FtSnJ4VE5oQnhBcVc0dE90aE1HQWlLOWIyRHhrYXduUWxPbjNRX29CUzFvUVVNTU52b0hXUXNSeUNraC10WVhQUXNuOXpNYnZScC13SXU4RVE5QjUteWM2UTYxblpiSmZuTlE?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1782365400,
+      "summary_kr": "저는 전문 제품 테스터입니다. 인생을 바꾸는 6가지 주방 업그레이드를 더 빨리 만들고 싶었습니다.  EatingWell",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "우리 전문가들이 최고의 Prime Day 주방 상품을 다음 10개로 좁혔습니다 - Business Insider",
+      "media": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU2tDUlc1MXl3SGFlVmdQeXFkcTVoNldyX1J5YlVmRi02RGRHdWJjNkI1MWZHa2NydzJJZF8wTFBQMDRselBrNjM2enB1OGxsQkxZeGdrTF9ZZklnb2ZQMDBZY19JWVh0N0ZmeVktb1ROZUhrUFl5SC04b2NRUkdndG45TFBkaFd4ZjdMZ2RRMzA?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1782353100,
+      "summary_kr": "우리 전문가들이 최고의 Prime Day 주방 상품을 다음 10개 Business Insider로 좁혔습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "우리 삶에 큰 변화를 가져왔고 그 어느 때보다 저렴한 23가지 작은 제품 - CNN",
+      "media": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOam5tTGZKdTFMWjV4VTFDa2xqNGEzazhPYTc2NUxvWXREX0lycVVBeUVKcUhtU3ZqcDVvZndTTGxUbDdxQzdUOXJBUXV5Y0Q1VlN4d29BSzd3c3VsbVFjN2E0VUZrdzB4a2JqZVZBb2tsemVOeGlpN0lSREtDV2VJNDhXaDlvVUNQTXhUTWtjUkt3eGwtQlI5UHpFM1hXN1E?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1782352920,
+      "summary_kr": "우리 삶에 큰 변화를 가져왔고 그 어느 때보다 저렴한 23가지 작은 제품  CNN",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 조리대 가전제품을 쉽게 절약하고 반죽을 절약할 수 있습니다 - 시식 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQVFqX1VWRVg2YTFUS0pMbjFCZmpYZVZ3SXdWTlpXUG1YdEJVQnphUzdEbnRjaEtsdWVJVXZYM3RLdlc2UC1wNXlQbTVUaTJOTWFHal84eUNwNlgxTUx2aEV5OHlBRjBWQU82YnBCWTNMalBVdGNZVTdfdlBNeWxPejJ3YWxHQQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1782352800,
+      "summary_kr": "이 조리대 가전제품을 쉽게 절약하고 반죽 맛 테이블을 절약할 수 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "홈 편집자 - CNN이 직접 선정한 Amazon Prime Day 기간 동안 주방 필수품에 대한 43가지 최고의 거래",
+      "media": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWdHaDdwMTBva0RVSVN6WGRJRUdUSjJYM0pxWllqMFdiS1l6YVBTZlZjY2ttLW1fY0FneVZBVDJ4M01HMFVmb1pBdWc0d0hiY29aeVI5TlFBU25XRFBtYWc4ZG1rajM1cmJCdEd4ZEpZUFdHaFk2Vjk0UmJrNUZIVDlpQk1tdGk4MFo5UERCUU5Ydw?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1782352140,
+      "summary_kr": "홈 편집자 CNN이 직접 선정한 Amazon Prime Day 기간 동안 주방 필수품에 대한 43가지 최고의 거래",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "요리를 훨씬 더 쉽게 만들어줄 주방 할인 — 최고의 날을 위해 그들을 사로잡아라 - 허프포스트코리아",
+      "media": "HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPejVSdFJmNWtnR1E5UzZ2ZW56dkkxVjB5Z1BaeHBET0s3VmhaSEUyN0xCWDNqSnVXLW1laGw4NXBTSm5yWDlmdm9ZMWNPb01Lc2pDVXFYVGlINzR1VlZNMkQySkEySXhjUjBBOWRhY2hseW41UkdTQlVQUzlfUGRvT1BfeGZEWExBSkpOeTVNS0ZRNk3SAZgBQVVfeXFMT2hHZjVhZkFveDBuUWswam1sazZXNDFrMXEtRnpSQ1RjQ2xzNTI2Q2NHcG8xVjh6Q0JYV01oTFVWcGZCaUx4WXU5UEo2ZC1MaWxHNHJQYXFqT2U1WmtDYnkySnJCb0VJREpFSUl1dlYyUGlsMHFLc1d1R1ZjcnJVQ2VVUjl4YlRPX3ZxN0JNdEI5TVFhUFY0dFk?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1782345620,
+      "summary_kr": "요리를 훨씬 더 쉽게 만들어줄 주방 할인 — 최고의 날을 위해 그들을 사로잡으세요 허프포스트코리아",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "인정하세요: 당신은 꿈의 공백을 가지고 있습니다. 좋은 소식은 아마도 지금 당장 판매 중이라는 것입니다 - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1VsWUdFTl95Y2dyR0hYU3JNUURSYkZLVFQtWnJtZFg4Mzc5TURHT05aZWREQXJoSnlLNkFrZmJab1hsOEVvckhjY0U2YjJnampkRnhZTFBWRWVpX2F1eXhjTndxeS01RkxLVFBCSTViMmUwZ2xKUExxbjREdHpheURlVVJhZkt1blZrS0tB?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1782343635,
+      "summary_kr": "인정하세요: 당신은 꿈의 공백을 가지고 있습니다. 좋은 소식은 아마도 지금 당장 판매 중이라는 것입니다.  NBC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Prime Day 진공 딜은 올해 본 것 중 최고입니다. 쇼핑할 품목과 건너뛸 품목은 다음과 같습니다. - Business Insider",
+      "media": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYlhyTGhBR1p4bUtTSkVfZUlGZHB1eWN5aEdEZWhlZW0xY21MSmNYMlp5X084M1lzSkFtVXlpTFRaSnBtVkRFc0UtY29lTW1HVUhkT3VjaXFXME9zR05sTXUzN0NOeGJsdGdUNDEzT0ZNTzJPd2Vlc2J1OGRTeWhCVw?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1782340140,
+      "summary_kr": "Prime Day 진공 특가는 올해 본 것 중 최고입니다. 쇼핑할 품목과 건너뛸 품목은 다음과 같습니다.  Business Insider",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "프라임 데이 진공 특가: 편집자가 승인한 19개 모델 최대 65% 할인 - Forbes",
+      "media": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQTRIcTlrdHh3RVVqbVNkLXl4RmRlenNRcURvdlpCZ3I2eVFQZEtYaEFWMVphbGp2dDFKaEhNOTFhQ1hWQk1TZEF4Z1JnNmdCdjdFdFRod01idEFkQ2NsdUpXWDd1NWpuaUFlYjJEU2FaVGp3R1BwYUhRc0ZMUjNBbzRfeG5FVDhXZjRoR2VnTkk?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1782334140,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "다른 것보다 먼저 업그레이드할 가치가 있는 주방 가전",
+      "media": "Bing News",
+      "url": "https://www.aol.com/articles/kitchen-appliances-worth-upgrading-rest-200000000.html",
+      "time": "12h ago",
+      "pub_ts": 1782331200,
+      "summary_kr": "약 10년이 지나면 주방 가전제품을 업그레이드하는 것이 필요하고 중요합니다. 하지만 어떤 제품을 먼저 교체하는 것이 합리적일까요?",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Dyson, Bissell 및 로봇 진공 청소기에 대한 Prime Day 2026 거래 - ABC 뉴스 - 속보, 최신 뉴스 및 비디오",
+      "media": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdXlsWDRVOTNkY3NuUHdzYmpDTnVPaTBIUFhXSWN3X2E5M0JpUXBaYTRyeWhLNUtVamNRN2w2VVpsT3JIV1lKNGVOWFRpR2hDMVdyS19MLUVRNGk0N2I1b3pkLTNkeEpYTjNXTDBMNnVIWDFSWldEVE11UGxBbXFzT0JXeXI5V2FhX1HSAY8BQVVfeXFMUFRGWjhiN1NBLVZ1NVBsZ1g3VHVEUkNrS0lYTngwOXNsdV9MZ0tuamszWEZRZk9oTDNKdkR3NDFtSEdBdXFFQlQ0dHkzd29SNGNlZzdyNjhzLUllN0xBcVVtN0ZRQTJSM0tNSFlQc3BQeUFCNFgzVlRyc0Ruc2xYS1ZvLXJfU0VtbnNJTG1fS2s?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1782328893,
+      "summary_kr": "Dyson, Bissell 및 로봇 청소기에 대한 Prime Day 2026 거래  ABC 뉴스 - 속보, 최신 뉴스 및 동영상",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "해밀턴 비치의 최고 판매 주방 가전 제품이 프라임 데이 동안 최대 31% 할인됩니다 - thestreet.com",
+      "media": "thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGg5Z0N2dkc5TlhpYkstaTVhVWRSLWZqclU1VUc2UEgyRU81VHQ5TExFaGM1RmQyTzlUMmhibXVaU0lKU3F0VjhtTk1CLXgweUZ0by12Y290ck1NM29lZ3JLTldRcFVSajAtVzhHX3VYV29jNVM2WV9WOXBnX245eFVucUsxUk54NThadjJOQUVsZw?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1782328500,
+      "summary_kr": "프라임 데이 동안 해밀턴 비치의 최고 판매 주방 가전 제품을 최대 31% 할인 thestreet.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "하이얼 스마트 홈 주식회사: 유럽 전역 유통을 목표로 WpHG [독일 증권 거래법] 50조에 따라 릴리즈 - TradingView",
+      "media": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQZHUtVmY3cUJiMl9EajBDM0xmZk15ZzE0dWVrOHNOWjRYbnJqbXFBbHpWMEZIblRlSWJob3dXVC1oczhLMUx4SzJ1V0VJcHp2M1I3Tk0zdDloa1gtR0Rla2ZfWFBNdzBWUUU5Sy1sSDNINkYyR2dUS1lfRk9sVDlraWE2cmk5Nm5kSWhtZy1YSjQ5bzM4dzhPYzhDZ3Zfek16eU5lRWhaMW9EZkQwNk4zX083bmhXRExxNmE4OWtWYTBqVE1Ib3g5Z291UGJNWXlielhtUmU4eWNLWHB4OWQ1ZEFRd3pmN2dxRU1IVXBrR1VkRDQxWkxwd2QzVlN6ZkRNS1EwUzczSWhjdExiano3QXVwZ3c1WmEwT2ZMMllYTFhudDZQbDVXZkdn?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1782322084,
+      "summary_kr": "Haier Smart Home Co.,Ltd.: 유럽 전역 배포를 목적으로 WpHG[독일 증권 거래법] 제50조에 따라 출시",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Drew Barrymore의 4쿼트 슬로우 쿠커가 이제 36달러에 불과합니다. 바쁜 가족에게 딱 맞습니다! - 야후",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWm8tcVZhLU1xQ1hvN2w0M3VpaFdESjlleS1VNU0tTjJ4bWpRVHFDMDFiTS1WOG1ldXgxQy1NQlBKN1FHY2FPNmEyZnJvQWRiLVY2TnZIWGRnYmJRbTBrOFhIa2ZQUlA5UkRTajdBdGt1OTJjLTlJaGZRUjQ2U3p5eUVSbHdZMm1faV9MaXNsYVR0WFJZTGRRMzZhMGRBTEI0?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1782321300,
+      "summary_kr": "Drew Barrymore의 4쿼트 슬로우 쿠커가 이제 36달러에 불과합니다. 바쁜 가족에게 딱 맞습니다!  야후",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "여름에는 아침 식사 준비가 힘들어요 – 이 30달러 할인 XL Nutribullet은 스무디를 빠르게 만들어 무더위를 이겨내는 데 도움이 됩니다.",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSm5KM0EzSkFyYlF6M0o3bGloWXFUMzZGZkxxbHZIU2FObkk0Vk9XVWp0Zk03OXpVMWFtN3VmdlktR2ZrTnRnWnhfLVR5a2hwNWEwdWsyb0EyUjlLRURQMnh1SWZDVEVoX3RnZU9qMkdnWk9BdHU1QWNweFpoWWZGcEhmb0dva1luVDFrWnNuVXlucVBwR0wtelBEa2Fzdw?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1782320400,
+      "summary_kr": "여름에는 아침 식사를 준비할 수가 없어요. 이 30달러 할인 XL Nutribullet은 스무디를 빠르게 만들어 무더위 아침을 견디는 데 도움이 됩니다.  집과 정원",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "아마존, 빈티지에서 영감을 받은 가장 예쁜 색상의 키친에이드 핸드 믹서 판매 중 - Good Housekeeping",
+      "media": "Good Housekeeping",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMWxPZmJWZHZKZ1o4cnN4TWVNVHZlOGZ3UkZHX2YzaE94eXdJZUZsMXNfbTFZU1p6bGtWRVVRenF6LWpFNDlqelU3aFNUWVhaOW50c2RZWFlCa09MaDFBc1hQaW8tbkstbXFVbk44czltSnYwLW9SWHNxZmtYaHJYQ2pySnpfZzhQaEdPWDFSRjllSTd1c1E?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1782315600,
+      "summary_kr": "Amazon, 빈티지에서 영감을 받은 가장 예쁜 색상의 KitchenAid 핸드 믹서 판매",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "26입방피트의 저장 용량을 갖춘 KitchenAid 냉장고가 현재 판매 중입니다 - OregonLive.com",
+      "media": "OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX0JxeXZ5NUtFc3ZlbXRpMmFTZzhCQm5weGtjTGdRZjh1a0VXMmhIRkhFcFJEcTQwaGxfa1RfVGhoOW51Qk9BUmZTLXFqSWpTOFhYOUMwOUxCRDJlak9UMkx4RExiUEdjM3Nyc0NvQk5SLWdMSDZabHl6ODVWSWlhYnlrSkFDN1p4TnFUNEFMVHNwcnUxNE81aHF0MHJORmhBVFhvRjdDR2N1d1VfNDJuV2JDM0ZVRzFWeVloNFpKbzN4Rmx0RVA4aU1pY1FFZ9IB4gFBVV95cUxQT2VkOEFOd0pLdTRibnd2OEI0YVZPcFJZUTJVVzFXMGZVNE5aWml0MkN2eEplVURQc3BFdVJvZFdkNDU0MWIwbVBPMTZnVFVPeXZfU1Z4WWJ4UGdiMjdkT1dvWTZya01xTWNxWVpZR2gtbVRQZ0N0dHRfV3NYVms2S2RweV90RFljUEhrdGwtSHJDSDAxcDFzdzczcndHM29LV3NnU1lkcnlCZkF0UWd3THVTNkZpOXRpRmFidVhwaVJIVERmY2k3MXR2RmVCdHk2WXVvd2owWEVydEhWVk9vN3Vn?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1782313200,
+      "summary_kr": "26입방피트의 저장 공간을 갖춘 KitchenAid 냉장고가 현재 판매 중입니다.  OregonLive.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "미국은 250세, 월풀은 115세: 미국이 소유한 유일한 주방 및 세탁 기기 회사가 제조, 일자리 및 국내 혁신의 100년을 기념합니다 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNMmxHQ1FOZFdUeFl6V3I1VXF5YWFJNDVFNEF2a1Jta0dRbk1sMFJjbGwtQTJMRFR6eXNOSEhjcno3MU5tUUR4VlNLYkRRSExWYmIyT0d5R1dkaGJpSFFTdmVpZWxTTDN4ZHZFNVJGRlhCd2FONlkwM0JJbzlwdlNVU3BKU1E4WXIyVWNCQ05DQTZhbGxGT3I0RGtZNkJtZ0pTVi1sYnBCVEhfZFBnalVhajB4QVhSV3d5REF1Uzg5M2NwWXczNnFjNU82Y3BnQXFyV1AwcVo1LXRmMnA2NlpfeXVmVHVvYzlrNDhYUl9MVlBlUm0wZy1hRVRUU2g5RGFSWjh3aTBhTlhMS01uQW9hZnFiNFY5aC1MVEZlZkpKaVl4MUNfUlg1TkdKX0h4dFhtSTV4UU9VMFY5RVQtY2c?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1782306000,
+      "summary_kr": "미국은 250, 월풀은 115: 미국이 소유한 유일한 주방 및 세탁 기기 회사가 제조, 일자리 및 가정의 100년을 기념합니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Prime Day는 편집자가 승인한 45개 이상의 주방 거래에 대한 할인 혜택을 제공합니다 - New York Post",
+      "media": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93VDNmdnc5NnNOaDVLMG5VNkpObkVyTVZWQU5Tb1ZKYlJnaGE5enV0M1FQZnFKbkpFaEZITVJuUjFGVWRkeWwzV2pwVEU1M01jQjBvM1hKa0J2N19LdG55SVZHSnd2bXp3c1gxcy0xT2c5Y1ppYmdBSg?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1782303360,
+      "summary_kr": "Prime Day는 New York Post에서 편집자가 승인한 45개 이상의 주방 거래에 대한 할인 혜택을 제공합니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 모듈형 주택으로 AI 홈 시장 ​​확대 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1V3N2R1Z5ZTJfcTR4V2pHMklqTldKS1c5Uld0bG9fMmIwNjFZTldHZHNfWmFwNFRZOFR4QzFpQ1k3bWZObTJHSWFmUWM1dlk2LW5kMHVONWdWYWhQeXhZaWJkSElKNkZPeG5EbjA4MlFkcFZSYnBTcTVB0gGOAUFVX3lxTE5kbWx1NHo4UjlQcEJPWGJxcGpqUmMxSHJrbFppYkRnLUxZY1RCcG1kQm5Vdm12d1Fhc1hxNFEzNmxXVnEwUHBhWXdCRHZDWmdOV2wyT21zaW4xeG1GQTk5UlhjOXZRbWZla192NW9lWHNkX2djcUhfMHdsR1FFNER4UEY1VlUtZnIyMXlZZWc?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1782291360,
+      "summary_kr": "삼성전자, 모듈형 주택으로 국내 AI 홈 시장 ​​확대 - CHOSUNBIZ 조선비즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
