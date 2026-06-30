@@ -1,0 +1,314 @@
+{
+  "date": "2026-06-30",
+  "date_display": "2026년 06월 30일",
+  "generated_at": "2026-06-30T16:05:18.764165+09:00",
+  "generated_at_display": "2026.06.30 16:05 KST",
+  "category_counts": {
+    "Market Dynamics": 11,
+    "Competitor Analysis": 3,
+    "Samsung DA": 4,
+    "Samsung Bespoke": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 2건 감지",
+      "desc": "오늘 수집된 20건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: Amazon은 7월 4일 초 할인을 중단했으며 여름 내내 볼 수 있는 최고의 주방 할인이 될 수 있습니다. - Allrecipes. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 7건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: 여름을 위한 Le Creuset, Staub, Global, Shun 등의 Williams Sonoma 클리어링 하우스(4달러부터) - 음식 및 와인. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: LG전자의 LG 워시타워 - 스마트 제어 기능을 갖춘 공간 절약형 세탁탑 - AD HOC NEWS. 시장 전반 기사 11건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "IKEA의 75달러짜리 휴대용 밥솥으로 여름 요리 냄새를 외부에서 맡을 수 있습니다.",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUxHWnpZQnRUcW1fazJIRnNibGl4cGdqdkh4S2ZYaDRXdlpMaXhQaFBJckFYOGFJYWlxWmVLWVRaTVpITW11aEIzMUZrMUVtQnc4RHNEdDNHSXludEE5UFNXRkxOSzdBSWU2MmdwRDZ2MWplbWpmOVEtam84M2o5OXRicw?oc=5",
+      "time": "Just now",
+      "pub_ts": 1782801161,
+      "summary_kr": "IKEA의 75달러 휴대용 밥솥으로 여름 요리 냄새를 집과 정원 밖에서도 유지",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "여름을 위한 Le Creuset, Staub, Global, Shun 등의 Williams Sonoma 클리어링 하우스(4달러부터) - 음식 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUHd6VWR1Q0g2djNJTUhwd2NoN3ZRRVpUaS1FWHdkaVJtZTk5N09PWjZMQlkwVXJZUVBNX0FVWjV3TElVNmpYNW9nV0tWUHlLbkpKRlhzMlctdV9leV92VXd0Tm9SUi1ka0Nna0xjdnRlNFR0UW9IUW1BMDhYMW1wX01QQUw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1782799200,
+      "summary_kr": "여름을 위한 Le Creuset, Staub, Global, Shun 등의 Williams Sonoma 클리어링 하우스, 최저 $4 음식 및 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon은 7월 4일 초 할인을 중단했으며 여름 내내 볼 수 있는 최고의 주방 할인이 될 수 있습니다. - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04SjB1ck1pMmM0MG9VWTBLN0JxMHNoTkFzQzV6MnppRE5oejRKdURIV0lOZlZiZnRNVUtjZjlWVDRrRFhCNXI2dlFmcFVEM09FcXhjY29XRG1PM3dfMWdGZHNwbnJxb2FTcXF5eWZQdzE?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1782797400,
+      "summary_kr": "Amazon은 7월 4일 초 할인을 중단했으며 여름 내내 볼 수 있는 최고의 주방 할인이 될 수 있습니다. Allrecipes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자의 LG 워시타워 - 스마트 제어 기능을 갖춘 공간 절약형 세탁탑 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOFA4R0tKWENVb1pNYnlyT0RUSzRNVG1ENFhfbHZjbDFvbTJRRm9tQWtBOGRmdTdvRHVQdF9zaDEtRnpqZFpJei1PMEd1M0NVMVNhTGs3Z2tZZGRDMFJDYTBCeEJDcVFIM05yYlg4NnV3MnItbHpKa2V6YUt0UFFnNk1aVUlzdmR5emVVOVBVSUgwb0tSWkFCdkozWXRaalFvZjBlQTdxUi1IWF95UmsxMk16WF9LZnpvZWhhcFhXQ29tUU9C?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1782782478,
+      "summary_kr": "LG 전자의 LG WashTower - 스마트 제어 기능을 갖춘 공간 절약형 세탁 타워  AD HOC NEWS",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 7월 코스트코 주방 가전제품 베스트 10 특가 - Chowound",
+      "media": "Chowhound",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFJpRzM1LWliN3pCNXhkQk83bXRCSDgwSVdjeDRJODlSbGpxV0M4LUxVOXJRcDNLUldIbzR3MGVtVG9rRHgzRVk5MU1WQ3lNMm1RbnBPNFhSbmoxQjI4eGE0T0RwMHhCLXE1MDZtMTVHQ2RaQ0loOWR0NldpdndpSjhB?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1782768900,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성·LG, 혁신 기술로 유럽 공조 블루오션 공략 - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb050WThRTjE4aEc4Q1JxOXl2Y0pzRE5fd0NkbzRwQmhZdW5IT1JOZ2NkZDFteGE2Z1M3Sm9WRTNCalFTbTE1S2QtRkc2b2xMRUtUMUR2ajRsZnBfaktFbTgxS3puaF8xRzNwdzJhZnI3THhVVFZXT1VUTF9aS0R1Q29wZjJGa0Qz?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1782767492,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, ATE 2026에서 AI 기반 스마트리빙 혁신 선보여",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-xl/news/other/lg-showcases-ai-powered-smart-living-innovations-at-ate-2026-lg-electronics-has/ar-AA26QZdP",
+      "time": "10h ago",
+      "pub_ts": 1782766894,
+      "summary_kr": "LG전자는 Af에 지원 스폰서로 참여해 아프리카 전역의 혁신과 스마트 리빙을 발전시키겠다는 의지를 재확인했다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Pacific Appliance Group: 독립기념일 가전제품 대폭 할인 - KHON2",
+      "media": "KHON2",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CeUlGLTFEMk4wd2NucnpNYXAtd3R4VzFRS05fVk5NOEpsS20xWWs4R0h0RWhkNkJYQkNheDh5NHFlYWhMYzU3Y0pUNzFBZ0hSeXRZdDhaNE9XQ1Nod0J5UDllTkJUTjFKRkYzTTRaOExqQdIBd0FVX3lxTFBhb0hVNDAwUTlmZmhMUE1WSS1pY2RJTVg4QTE3cEo5WklhV0U4MDM0aUthSnpzQ2RlVF83enllMUlxVHp5RmxkemVLaElZUzNwQWgwdmtLY2VISGtFazEtcWRZQlVDQWo4cDA1ZG8yS1lBUlFSS29F?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1782765941,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "테스트 후 이중 연료 범위에 집착하게 되었습니다. 그 이유는 다음과 같습니다. - Good Housekeeping",
+      "media": "Good Housekeeping",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pREljR1NVd3UwZ2RwQ0V1ZU1MVEVCMURGUXpTNUZGMk81NzB0WlBwbDUxeHZoc2MwUVQ3RzJqM1UxZ3dRVFlrWi1NcWlPOGRIbGdPa0taY3ZCcl9Dc2c0WWxNVXdNc01INUdHblNRSklRN0trWmZWZkpqRQ?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1782763938,
+      "summary_kr": "테스트 후 이중 연료 범위에 집착하게 되었습니다. 관리를 잘하는 이유는 다음과 같습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Costco의 주방 가전 제품 보증 및 반품 정책 설명 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcndUTl9xdWM4YzR0Vjk2NktwOTdTT1BSaGFWWXZUUkhkbDUxbFpZaktZWEV0Y19jTGRmZ1htMGJ1bkNKT2dEb290dnI0VUZiOTBmQTBzTFVRNDdsRzBUckh5ZjZVNFZNNllXZWtNQVg1NWdwR1pyQkV2RnprRkw3azh4ZzlXYXVwY3VoOWNrYzhvT0pPcnVwNXNqWmVFZ1BibVB5MVNMMGV1b1ZWcEJyUmdn?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1782757500,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "유럽의 104°F 폭염으로 냉각 시장 재편: 삼성, LG는 덕트리스 기술로 블루오션을 목표로 함 - BigGo Finance",
+      "media": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBweTViSmw4YTgxYW1FT3ZYdzIwZy13WjBHS3VwbmMzdEhNUkVGVEl0c0xYR1AtWEg2cFg2djAwYUtBVU5fSlVjZE5DS3h4LW9UcjE1dW1TMTRGblFUX01tMk5QRWVBRU9ydzB2MnVRSmJvMktyaFE?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1782753300,
+      "summary_kr": "유럽의 104°F 폭염으로 냉각 시장 재편: 삼성, LG는 덕트리스 기술로 블루오션을 목표로 BigGo Finance",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 미국 최고의 무선 스틱 진공청소기에서 200달러 할인 - SamMobile",
+      "media": "SamMobile",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVzR4NnhidG1jaWRxNjZuVjFxQU95MEtRenA3Vk9Ba1FmeVBNYWxWT29OaTdTRDNEeUVSZ2Jrc2QzbkFRa0QzTlVtU1hUdmJLZWNidEtxdTE1NFF6Z21QM1FpOHh2UWhCX3RNN0E3aUdrWENUa01WUTJZS1R1RmZZSUZQc01yMUxkUzhadDBXV1drdFVGV05n?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1782745440,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "CHEFMAN CEO이자 CHEF iQ인 Ralph Newhouse와의 독점 Q&A - CES | 두 배",
+      "media": "CES | Twice",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTElGRkkzNW9UNlltNmR2UHkzem1YeWk5VUVOaHlFUUg5U3J5YlEtMFV1eXp3S3FIdWYwYXl5Smo0T1BxbURPM0VXNFRWSHNCX0VFOVZaai15QmZ6c1ZIWEZyMUJQYnFmTV9JN2hsNmlpNXRZMklhODJPXy1vVmw2Tk4zLUFJLXp2MVZKVy1RTjd5Wlk2RnB0N2ZlU0tackRRWDBrYVFjUQ?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1782739179,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Arspura, 새로운 F1 레인지 후드로 미국 주방 환기 분야의 높은 CFM 경주에 도전하다 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNHpoZzZmUGV2S1A3Qlg3eUpTWTJfb0NhMmVyTzRCME1LLW1VVzFJeXZsdVNxVlJnZmJOanhhLUhXbkY3Z0RKSWczNWVkVU15LWFFNUdXNlJMcmFHZ1k5Qi1IWk1SYWdwWThhbF9TSzdzb2NKNHZTLWNZTUphQlloYlEtVlY0ZHdxM1kyMUlsRGduZEVZZDNyYXFsRC03UnotNGxqYnU2Z1FMT21qMjFHdG00N1EwaGRYZGxMT19VTWVRT1VjSmF3M1VwNmVKRGpBbmRXMl8tUEloemFvX2c?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1782738000,
+      "summary_kr": "Arspura는 새로운 F1 레인지 후드로 미국 주방 환기 부문에서 높은 CFM 경쟁에 도전합니다. PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Drew Barrymore, Walmart에서 가장 귀여운 Sage Green 가전제품 출시 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFdYeHpoS2gtNWhmcE9aeGJHQm9jYzcxYXdtTlY2dzBJNnJLcnozX1VuS2hKeUppMDNDQ25GdHM5SHhNZ2hUNlVfQ2JBVkNrbVd4cVpzbm16ZHluOGRoWEhzQURqVEpkZTcwQUFma1JuMEFBXzJoTVE2TEtjMWhfbFZUMG5CazFEM2c1LXV3V0pWcFlwRF9ObURZMkpzc0E3TlpQSHhOcENEdw?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1782733131,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자 '배스에어(BathAir)' 시스템 출시 이후 월간 매출 120% 성장",
+      "media": "Bing News",
+      "url": "https://biz.heraldcorp.com/article/10792212",
+      "time": "20h ago",
+      "pub_ts": 1782730260,
+      "summary_kr": "LG전자가 올해 초 출시한 가정용 욕실 환기팬은 소비심리 강세에 힘입어 빠르게 시장에서 주목을 받고 있다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, LG, AI, 스팀, 보안 기반 로봇청소기로 Roborock의 지배력에 반격 - BigGo Finance",
+      "media": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWdWFVNG90ajI5UFRvQThPalBpb3o4THpzemQ0SHQyWkFFb1ZLREhnRVdsVGo0bl9lVnVtSWQzVTF6Z0xrSVFid3NDVjBodk9GXzFEdGlFQzg5YU5HRHJWUmM5UGxmNW0tM2hmUDR0ZlIwY2l1N0E?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1782729420,
+      "summary_kr": "삼성, LG, AI, 스팀, 보안 기반 로봇 청소기로 Roborock의 지배력에 반격 - BigGo Finance",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "내 삼성 홈 화면을 맞춤형 오픈 소스 런처로 교체했는데 다시는 돌아가지 않을 거예요 - MakeUseOf",
+      "media": "MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2hIWWFCSklBUUdtaDB3NDRGNDJCQjBacENyVjVqVkVkRi02eW5GX3hVUzFJTGlIWUFQRUNIeDdqdDBrbnoyeUxwekpxTnRnQUhyb0VsUjhraHZVX0o1OW4zMl9CZ2hKc1U3ZnpJb1ljYTJ3c0FDc3lrVFJZaXBVZHRsQmVMV3FtazlQdA?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1782727218,
+      "summary_kr": "삼성 홈 화면을 맞춤형 오픈 소스 런처로 교체했는데 다시는 돌아가지 않을 거예요  MakeUseOf",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이탈리아 소형 가전 브랜드 아리에테(Ariete), SA에서 빈티지 컬렉션 선보여 - 비즈커뮤니티",
+      "media": "Bizcommunity",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZm9abUFsVW1qMDk4ZnBLYUprRnJVckxodkU2azVtMWNvSUVYcXktV3VEYnJXS01ZNnJxLTJZWjFtbWVoNlRoQW5Sdm1XTksxWm9nUWJudnA0c2g3U1ZIVG5MYWZZZnZUbUJGOUhxdUxFMTZlMkhmeFQ5eTB0MGRoT1ZCbU9sTmJhenRVQl92bndfWko5UUZDbzgzZ1ROR3U5TDRlLWtsWnRCVWhlTkJFRXIwaw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1782723978,
+      "summary_kr": "이탈리아 소형가전 브랜드 아리에테(Ariete), SA 비즈커뮤니티에서 빈티지 컬렉션 선보여",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성 가전제품이 이제 당신을 이해합니다: \"청바지를 세탁하세요\"라고만 말하면 됩니다 - BigGo Finance",
+      "media": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZVUpIb1ROWklNWmJxdW5VQzJYWm9QNkoxTUdpeDA3d2p3azJKcGF2NHZUQWRvR2tMQXFYRG9PRlNvcU96czUyWnVHY3U0YXA0MWJWV1BDcm1KVWV3ZFhnQTNsZWVCSi1wWENfd1YtZ3ZfTklqNXc?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1782722700,
+      "summary_kr": "이제 삼성 가전이 당신을 이해합니다: \"청바지 세탁하세요\"라고만 말하면 됩니다.  BigGo Finance",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
