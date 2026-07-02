@@ -1,0 +1,369 @@
+{
+  "date": "2026-07-02",
+  "date_display": "2026년 07월 02일",
+  "generated_at": "2026-07-02T16:34:22.634639+09:00",
+  "generated_at_display": "2026.07.02 16:34 KST",
+  "category_counts": {
+    "Market Dynamics": 17,
+    "Samsung DA": 4,
+    "Competitor Analysis": 3
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 2건 감지",
+      "desc": "오늘 수집된 24건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: LG전자, 가전제품 A/S지수 3년 연속 1위. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 5건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 5건이 감지됩니다. 주목 기사: 삼성전자서비스, 한국서비스품질지수(KSI)에서 가전·홈퍼니싱·컴퓨터 A/S 전 부문 휩쓸다 - starnewskorea.com. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: LG전자, 싱가포르에 업그레이드된 공기 솔루션 쇼룸과 지역 HVAC 아카데미 허브 오픈. 시장 전반 기사 17건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "과대평가된 주방 가전제품과 맛 테스트의 비밀: Xanthe Clay가 귀하의 질문에 답합니다 - The Telegraph",
+      "media": "The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRDg4c01ubmttQjc4TmhqZjN3XzBVcDI5RmxISmtGcGJiWHRfUkJOdVpfS1ZMVEhiZlJBTGIwMnpLVENjSzZrdjZWRGtLZDhQbThHanRQRzM1VjJYS1ExZUVWd1U2cWg4UjBxUU4yZDFfNmhGbnk2bkxmUzdhYVVjNl93NA?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1782972000,
+      "summary_kr": "과대평가된 주방 가전제품과 맛 테스트의 비밀: Xanthe Clay가 귀하의 질문에 답변합니다.  The Telegraph",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Midea 주식과 중국 가전제품 주식은 유럽의 폭염 수요와 연관되어 있습니다 - Simplywall.st",
+      "media": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONEl3RXVVS3lPOVZsRWxDbG9PeVMxQmJEc1BOaE1kY0d1Q2QwNzdvdU82MkMxLU9aV3NBUWhFX3MtcEtWbWxGdnA5ay1GbGJWRzg3T19kenpCa2QyaG96YXU0bUNjWjk2OHd4Ym1uQ3RsYU1jb3pRU3NuVC1ZSzc3TEJfVXNXbUlZanVEMEpCbjB3dUdpajFoaTBDLUpZMnVvbnpxMG5sQ2dxLV9SeFJxWFMwZ244M3ZkazRnRjBvYjRLei1HSzNjZjNsVC13RFBYX3FjWlprd2JsTHBxTFVj0gHkAUFVX3lxTE5tMDRUbHJkNXl0cjc0ZnFsWTFpbXp1UHJLM1dBbFBjUVRxOHU4RXptUjJHQ1YxeFZ5U1BnTnVRRlgxN25zQVhXWGJxZk9mRFJBRFRvNHNDMnJJMkFEYThWNXk0Z0kzTlNkdHFqMXlScjdsT2hUcVlpYmZmbjJOVjZXRno5c0w1Y1JyR1JtbkRjVHdqODBiSE8tVS1TdWpMY2w1QkJuOTNwaXZpdWw2TEtEQldOaEttQmRoeGhzdDhfNkhuSDFtVnNlbnhPd1VSMnNRVy1lbkVJc211RU0zNm9nUEZQSQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1782971890,
+      "summary_kr": "Midea 주식과 중국 가전제품 주식은 유럽의 폭염 수요와 관련이 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Owala, Brooks, Le Creuset 등 Amazon 비밀 아울렛에서 최대 82% 할인 - 숨은 특가 $5부터 - EatingWell",
+      "media": "EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40cTlLZ3FFOGtMSDc1Yl90UVA0dVdSRHJEV2NVS3BaTE5kNTdXUjJKcXlCWGFMTzhrWUltYnJPV0tIellweTBlVHNwR0xHdmNfME9FRzFwZGVBcldfc2o2UWtRM05JaWNFNjlQOFB4RXRjdFE?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1782968400,
+      "summary_kr": "Owala, Brooks, Le Creuset 등 Amazon 비밀 아울렛에서 최대 82% 할인—숨겨진 딜을 최저 5달러부터 시작하세요  EatingWell",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자서비스, 25년 연속 한국 AS지수 1위 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHBUT2ZqY19WdFRFQjdvSl9BSFFxV19qM2c2R1ZlRkxNQUlfUnZlVVRzTm80aEtJbDVXcTFnNEJqOTVyRC1BSjRBd19CdzZjZi0zWHIyQS1VZUV5NkRhZjF3Vjdab1FHc1d3ZFBtMzUxdnF5LUZSR0Z0RFU0OWhHVUVFYVBrTkNFbXlkZ0xR0gGOAUFVX3lxTE9wcFRPZmpjX1Z0VEVCN29KX0FIUXFXX2ozZzZHVmVGTE1BSV9SdmVVVHNObzRoS0lsNVdxMWc0Qmo5NXJELUFKNEF3X0J3NmNmLTNYcjJBLVVlRXk2RGFmMXdWN1pvUUdzV3dkUG0zNTF2cXktRlJHRnREVTQ5aEdVRUVhUGtOQ0VteWRnTFE?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1782954060,
+      "summary_kr": "삼성전자서비스, 25년 연속 한국 AS지수 1위 - CHOSUNBIZ 조선비즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "LG전자, A/S품질지수 3년 연속 1위 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVVJPckhCUC1Bc0ZwYU5qQTVXamxQbmsxTnU5d2E4cmtQdHVHblAwVjlCdnlOTDRUZ0lKQjBicE5lT01HS0t2ZUNEMTRvYzZvQ0hqY2Z0enBlZ2pvZXZibnFGc1cxanZCOFphWEdyTngyZU1kREVrNDVXMXRwQnNoclVIYVVHSXRibVEzcktmUmlQM0ZVV01QTzZ2aVUxdw?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1782953950,
+      "summary_kr": "LG전자, A/S품질지수 3년 연속 1위 서울경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자서비스, 한국서비스품질지수(KSI)에서 가전·홈퍼니싱·컴퓨터 A/S 전 부문 휩쓸다 - starnewskorea.com",
+      "media": "starnewskorea.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWnJncFUweWFUcVhfUFd4c3k2Qm5qQWJMNEZUbEt6QjFLUFV2NXQzbXhzZUtsTzBBQy1kZ0g2aWxFTDJYLWRtMUM4OVA4eFhsb3BMX0hGV3h0aEVvS2hSVHM5VHdsVlBFTWRQN2NzdzNtdHNpVEZFT2Z5YkZEUm5HeG9Icw?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1782949429,
+      "summary_kr": "삼성전자서비스, 한국 서비스 품질 부문에서 가전·홈퍼니싱·컴퓨터 A/S 전 부문 석권",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "115주년을 맞이하는 월풀 - News/Talk/Sports 94.9 WSJM",
+      "media": "News/Talk/Sports 94.9 WSJM",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DUmtZY2JPQmM1THhqYmJQSTdNTGVFbWYxZnlFOW5HamQyanVMVEFQZUFXTzZKMzkwYzJfV2E5d0JuWm1LTmstNFlFaDg2a2VXXzAtZmJYYXVpZmpHNlNXdWNZTGNhYTRsUENsRUo2RjhoSWxFN21ta2hR?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1782943284,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "100달러가 넘는 코스트코 주방용품 10가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nc01yR3N4SU9seUQxRy00Q3ZMbklhV240WkZ4QnJlbUUyV0VPNFBZeW95UG96WldfbGZDTWxVZG9mSDQ2NER3YlUyeVpTTHdFX1VvWDlVM0w2QkM4eUJ0eXNNc3g4WHNJTm5lbmdjOXRBV1FxdXdBWE16ZWFfc2s?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1782936192,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "단순화된 일상을 위한 필수 주택 업그레이드 - AndroidGuys",
+      "media": "AndroidGuys",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNnZfYlN5YjFDSkxoNm5JbjFYMk9GSVJlWTExYWM0MWpYWWZCX1BSbXZXOEFuaDI2VjJXU1QtdUhHY0tUY0pyTXZXdkF0QWNVSG5FQVkteUpYd19sSF9QRXZsVExTVGtwZjFUNEZucVhvTWVESmI5ZmRpNi1JbjR4bTRUYXlqY0U0RWVIUUp5dVdDV1lFYWpxYWlKanFuYnRXUDVWWkVsaF9FODVTeHZTMzh4LW90UUlLdUNxM1ZXYWdRQzRiWjljcQ?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1782936020,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소유자는 이것이 보쉬 식기세척기의 평균 수명이라고 말합니다 - 시식 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOUlPZmt6ZEY4S0lPbGxGRlU4emhpVnRHNmZSSFVhX3FOa1drT0tMWkVzRjhLbVU5eVhWa1Z1ODF5bmlnYTJ0Tmh5cG1IYlFMQmQ0d0U5Y3ZvUkFQNUFwbUNXbzlwRExKUV9ubHFsRUw1c1BxUVNfeXVRTGdWSUFGNHBxUzVFWGZhUUJXTg?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1782932400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 싱가포르에 업그레이드된 공기 솔루션 쇼룸과 지역 HVAC 아카데미 허브 오픈",
+      "media": "Bing News",
+      "url": "https://www.manilatimes.net/2026/07/02/tmt-newswire/pr-newswire/lg-electronics-launches-upgraded-air-solutions-showroom-and-regional-hvac-academy-hub-in-singapore/2377185",
+      "time": "13h ago",
+      "pub_ts": 1782930180,
+      "summary_kr": "통합 에코 솔루션 B2B Space는 상업용 HVAC 포트폴리오에 생명을 불어넣는 동시에 동남아시아 교육 허브 역할을 합니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 가전제품 A/S지수 3년 연속 1위",
+      "media": "Bing News",
+      "url": "https://biz.heraldcorp.com/article/10795586",
+      "time": "13h ago",
+      "pub_ts": 1782928860,
+      "summary_kr": "LG전자가 한국서비스품질지수(KSI) 2026년 가전제품 A/S 부문 1위를 차지했다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "엄청난 돈을 절약해 주는 11가지 주방 도구 - Gadget Review",
+      "media": "Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ndS1rMnZZZGFxOXcybjhCM2ljSzltcERXWm1ZaVBBaXJmTi11TGx0cE9BcHlyQU53dlNBX0RPQVhsTGYwMTJDLUxGZ3lRZkc2RjZaWFhnQnJsZll6ODJ3Y2dPOFJJdFc2OURNNjQyWWN0bEVKTjRWVDUtUkk?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1782928800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Cuisinart, 미국 250주년을 맞아 FastFreeze를 새롭게 단장하다 - DesignRush",
+      "media": "DesignRush",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaF9abFN0RmNYWHZZNi1JVk9hd19lLVF2TEQ3THZYTzBLTHhCY1hxWENDNURvTEtqa3hkbFVTV01ad3JDSFRlc3hVSHZRMGQzZ1ozZEFKV3JLSVNKM3VZRDJhRDFQSjhrRTQwSWdTbmlmODhldlNzdmo1Wm85cnFnLXdyN0E?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1782926921,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "7월 4일 최고의 가전제품 판매: LG, KitchenAid, Dyson 최대 50% 할인 - Forbes",
+      "media": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPam94NTVBaW5zdFo1bmpURi1jOWxGQjFoZlZwV2lIbUFTTVIzX2RFMVREblZheFdhOU9GLU9od1FXVDBhNUdVajZnY3M1bzc3SWJZQjNVVDRxLXI5Q3A3VlhjWUN4ZmtpWndIWlJtYkVFU2VsZ2ZCeGpqbUMtWnowTEFtT1ppX1RncGhlM0EyeHJnTVlJNTlJZFNMS2JVdw?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1782924518,
+      "summary_kr": "7월 4일 최고의 가전제품 세일: LG, KitchenAid, Dyson 최대 50% 할인 Forbes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Best Buy 7월 4일 세일: GE, LG, Samsung의 가전제품 대폭 할인 — 최대 $1560 절약 - Tom's Guide",
+      "media": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObFNUSXRnbk1Ra24tV2hGWmtEaVZicElVZGlycm5sOWREdGhzeUM0b1V6a2xBTjZ0dG5qR3NMM0JVMUlwQzZYdmhIVmhzcnNZaGZPTDB4aVowaGMzdTVzdXVqcWVyaTE0Y1VqZEE3c2RUVUpid3lwU2JJZ0tUcGJxSEtwOXh4dVFFM0Y0bmlSYW5ZYWdQZXZWd0JYQjZ0Y29fZDFzY25aRksxbWV2bnAzalBiNDJXZmI2Yk9EalRRS09zOE1CUDNyUWtrdl9lbzRETUtKS2F3?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1782924151,
+      "summary_kr": "Best Buy 7월 4일 세일: GE, LG, 삼성의 가전제품 대폭 할인 — 최대 $1560 절약  톰의 가이드",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "7월 4일 로봇 및 다이슨 진공청소기 특가를 활용하세요 - PCMag",
+      "media": "PCMag",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU2NYOXBLdDNRLThHUG1aLVJjOWVqYWpRajVWLWRoWjh1SEhNbGJGbTQ4ZmhDUTdUQUtHUEFPMlJ6T18xQndaNnpCekZPVHJlNExqR3NSTGhPdFlqWEExeVA4b3o5cE5rYU93OWRkeUZDRGZ2N2E5QTRSQng2bF9MbWsyUWVUM05YY0VHcEFsdlB1alBu?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1782922279,
+      "summary_kr": "7월 4일 초 로봇 및 다이슨 진공청소기 할인을 활용하세요 PCMag",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소비자 보고서에 따르면 이 두 소매점은 소형 주방 ​​가전제품에 있어 코스트코보다 낫다 - Mashed",
+      "media": "Mashed",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFZJR1dxd0thdHRmT0FJN3lyVzI3QW51MzlaY2dOQUc5cmpIZk5RQUJLRHVTaEgtR0ZpTEN4bzYzVDZiOEZaendTU0lha3NIMmRFc0puX2tXeG5acFJrZHhoVjhRTFVzS3AzeFBuQ3NELU9hUDBvaWpSaG1qQ0MtUVdQN2ZjY3RweVFrM2ZqQkNUUkdueWs2WXVuMl9JMDlYcFhqMENQVQ?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1782921780,
+      "summary_kr": "소비자 보고서에 따르면 이 두 소매점은 소형 주방 ​​가전제품 부문에서 코스트코보다 더 나은 것으로 나타났습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Whirlpool(NYSE:WHR)이 마침내 복귀할 준비가 되었나요? - 칼킨미디어",
+      "media": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjUzdXRibi1pVDVTcDZRX21OakR1UDFLYTllbW1vemROS0hnY2xpSUlnc1JJYTNHYUw2UlhFZFRTY2RjX3RMZVpqSnZZbGozdEZqQXRtaVA1VEFYYUY0U3JlajVPcXRJX2ZVVWM3V2JqUWRWVEljOXFwd2t3c3N3bWhjWXRwUFRoLXEzNTY1SHZMazBkUU1vTg?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1782915180,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG, 홈 엔터테인먼트 및 가전제품 전반에서 7월 4일 절감액 기록 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRWMtRUUwdTBENmxGTTN3Y2xHQmZYcVBvR2tVNWFMamRWV1N4ZzdGejNRNjk3d3pWcUpYYUl0cGt6MEVrWVlLX1NGMndEc3BrenlXWGlVNzg5cFpYOXBjZzVWLTMwNV9KYnU3WmhCZS1XQzNTb0ZlbUVZQXFZODljNExFVC1WVk1lZlQtUGtfYUxxdlJSVWpTbTExOWVzVU9ZMVVnOVgyVWVrS2VJMmhHQ0E2MXRPODRwQm85MlRJQkFkeEJkdlF6OFJMLVk?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1782907200,
+      "summary_kr": "LG, 홈 엔터테인먼트 및 가전제품 부문에서 7월 4일까지 비용 절감 PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "항소 법원, 뉴욕 가스 기기 금지 조치 지지 - E&E News by POLITICO",
+      "media": "E&E News by POLITICO",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcmhHMXZ4Qndjb3Rfa1VIR0RVLWdfTklRUEVsRjJJM1RHbnhZMFQ2akQ2cUdnNGkzSUVWc0VsR1lwZlZXc0djNkJicTc2YTU1Q0o3N09LRHE3YW5yR3RxcmdUb2lLUnpCYTczU0ZDWUNNY0tiY0FYYjFNRk1XNHhaNjdEOU1GUGZWVTY1NQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1782901380,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 복고풍 주방 가전제품 구입처 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTndkNmY0MERRUWxQSWxja0pTdjIxbVM4TjhHUVZGZk1OMi1Ja1RkLWphcURjYWZuZGtlNG9DTDZralMwV3BsUUduaFNFZjY2cW5mNUdUR0ZMemxESHRHR0VhUkQ2UkgtYWFBMUpldmpKam1VNWNlMXkwZjVoSlhsd0t3WlVMZ0k5OU1PM0h0MHZyNjlhOVVvR1BsN0lfeHhlU3pSREF1UXU?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1782900300,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 레트로 주방 가전제품 구입처",
+      "media": "Bing News",
+      "url": "https://www.aol.com/lifestyle/where-buy-retro-kitchen-appliances-100500542.html",
+      "time": "21h ago",
+      "pub_ts": 1782900300,
+      "summary_kr": "실제로 수십 년이 된 복고풍 가전제품을 구매하고 싶거나 단순히 빈티지해 보이는 현대적인 가전제품을 원하는 경우 여기에서 찾을 수 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "그릴은 잊어버리세요. 이 조리대 기기는 폭염 중에 더욱 좋습니다 - cnet.com",
+      "media": "cnet.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlRTQkNROEV4eXgzQkx6ekEwbWpEQnlSdXNkQTJQYkFoSlVoeEQtbm9LanBScEFvNllBMnpqQ21vRGpsZmtZSzlHY3RkNkRjS1Y1S2k3ZXZISENEODI0T2lZanl2WkpsVWx0RU5TaFdsazk0S2hRazdsb29JT2xBbGNsVWQtbkJpTXpsUTB3MUJOWlhfZUdYQXdjM2Y2RnE1Z3ZITjRLZ3lBYXRCX08zcmdaN0VOY2l3TVRUdmFUdjB3aWc?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1782892800,
+      "summary_kr": "그릴은 잊어버리세요. 이 조리대 기기는 폭염 중에 더욱 좋습니다. cnet.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
