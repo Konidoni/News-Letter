@@ -1,0 +1,255 @@
+{
+  "date": "2026-07-04",
+  "date_display": "2026년 07월 04일",
+  "generated_at": "2026-07-04T16:38:17.658332+09:00",
+  "generated_at_display": "2026.07.04 16:38 KST",
+  "category_counts": {
+    "Market Dynamics": 3,
+    "Samsung Bespoke": 8,
+    "Technology Trend": 4,
+    "Competitor Analysis": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 16건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 6건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: 월풀(Whirlpool Corp)은 내구소비재 부문의 확고한 플레이어로서 가전제품에 집중합니다 - Ad-hoc-news.de. 삼성 Bespoke 8건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: 로봇 및 다이슨 진공청소기 할인: 7월 4일 청소 할인 - PCMag. 시장 전반 기사 3건, 기술 트렌드 4건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "월풀(Whirlpool Corp)은 내구소비재 부문의 확고한 플레이어로서 가전제품에 집중합니다 - Ad-hoc-news.de",
+      "media": "Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQmF6YlcwUFN4SWozbFdhTEh3RHo3c1gzNDJ0dVFMbW1wenFrQm1aSktodFdueUdla08xcnNxTFAzeVVFVC1sa0tZMVhZT1lkeDV3WHJlUlJqVDhiVV9fbjVtd3B5Q2NHeVlmOG5keHdsN05lR1AyeUdMMFFxZUsxcnBNRUtma2ZrRl9GU2JRaVlRMkZ0eTBVakgzeHEwcVlhY1JZZndyN3ZvdjR4dkc2ajlVZlliQmMxWnh3NTh4ZWQ5NGp3d0ZUeHRXZw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1783145467,
+      "summary_kr": "Whirlpool Corp.는 내구 소비재 분야의 확고한 플레이어로서 가전제품에 중점을 두고 있습니다  Ad-hoc-news.de",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Anthropic, 맞춤형 AI 칩 위해 한국 삼성 주목 - upi.com",
+      "media": "upi.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZF9aSlNYNWJvblNUYm5SRnpnRkZWUk1UbEVIcW5LclBuc05PQ0lZMkdIb3JwWmNfNDJHcFhUaU9CTDVMNklDaDA1Y1Z4Q0xJRGx3NG9rX0ZvYzF4WUxHNktlQldMZnFfV29mV3VmRkZqeUMya2hBanE3bHBsMmJMX1BQcTFDUEtub3BvNnFrRUFTc29RQ1ppRXJIONIBoAFBVV95cUxNODNpSWktRTdVQlNWRVY1VDJudF84bXRVZm1SQU5aNFJ6R3R2RzZrcGJpQW55b1Y3Tm1PMWtBb2Vnd1BfaTZCVUFMUldGS1lSc25VTDhaM3REbXdyQXZxcUdUMkluTmQ1bXR2N28yTWs5bEZvdkNhX0hFcVNIcGJuZGFFMHFQa3NoOWNXYkswMFZrWFNSd2VNM3FIQmxyWFgz?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1783129900,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "홈디포 7월 4일 세일: 37세 이상이라면 Dewalt, Milwaukee, Shark 등의 특가를 놓칠 수 없습니다 - NBC 뉴스",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd3dLZEo2a0dnR2Jjb1ZxcWNuX0w2SUptRXNzZXVNbTl3b2N0S3NIMFJGaTNBWmVEX0IycHppY2NkdDRjQ0F1aHhmUkRweFRYVDgwTUlCRjRiSGFmcWRic1NTN2FJQU5BZTJDaXY3MHhGLV9tSksyTE1hN2k0bm9LLWY2eHBtclNtNk9xc1dQUXB1eXc?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1783119376,
+      "summary_kr": "Home Depot 7월 4일 세일: 37세 이상이라면 Dewalt, Milwaukee, Shark 등의 특가를 놓칠 수 없습니다  NBC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, Anthropic용 맞춤형 AI 칩 생산 논의 - 한국경제",
+      "media": "The Korea Economic Daily Global Edition",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EVDdCRGtUUGlaVEVJVFdWd25Vd2haNzRNSE9VNHVTbUJuNEsxRmdrcjNPLU1NeUtaYUhUdVVoTWNScDBiRmRXNFlVWFdLSE9fNlVncEtlUERSM0pvdGp3MUZ4c19lUnpUa0tVdzAySEJUX25sbzhWenpiRkpOU2M?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1783098614,
+      "summary_kr": "삼성전자, Anthropic용 맞춤형 AI 칩 제조 논의",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "앤트로픽, 삼성전자와 AI칩 논의 - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1BHSGpKcFZKcVY0M2ZqVjBaMi1NUHQ3cWplUEZfT0xZbTh3ZExSRVNreDUzYzRSRmlrZExXRE9aQTQtRTd3elVTMVRjMzJTaHZiWk90d0hxRFBwenY1cVpKdnVKYmxuWnN1QTNOUXBJS2x3RlJ0cXpMOUNyN0FGMWdkSjlQUXRx?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1783093465,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "로봇 및 다이슨 진공청소기 할인: 7월 4일 청소 할인 - PCMag",
+      "media": "PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXJCbkItcXlaM2VNbzJ6OGcwckh6M0RfNHpldWpaYWVWY3pzM3hkSlJZVzNoMUFBaUlWNm9nZ0x0SHR0VHUtQ09XNEFKaTRiR09zSU95MmxYM1ZrM2NOMUNTMXp5WlF2TDd0VVViTElUdlc3YWJaQ2RST3lfcHlfSmhORlk5UkxtTFRB?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1783092944,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소비자 보고서에 따르면 대폭 할인된 가격으로 7월에 구입할 최고의 주방 가전제품 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1Z5UkRhejlJMkZsVVhSX1ltcWdZS0RPb2RnanloNDJCQ1VTTGc1V2czTHZ2WlNFdzItdjRvV19FYkhvcFAySG4xWE5EREMxYXJIbVJKUEpwR3cyNXUyNlVPNzJGRDdRM1Y4aW5JeU1DZVlEYlgwaXFDRmZtU25JS2FNdk5LZlFWdWdIUlNrMmVWakEtQ2FGUXIwZmdiQQ?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1783090800,
+      "summary_kr": "소비자 보고서에 따르면 대폭 할인된 가격으로 7월에 구매해야 할 최고의 주방 가전제품 테이스팅 테이블",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon Basics 휴대용 전기 온수 주전자 - 미국에서 꾸준한 인기를 얻고 있는 저렴한 조리대 필수품 - Ad-hoc-news.de",
+      "media": "Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLVJGaXpXTEw2R2otUmxnNUw2SkxJWnVMZEdOak43R1RfMUFCczl0dmJ1d2hrNmZiMEd2Qng5dmVHWkVXRW9HSW9mZnNpNktTellCcDVuTkl4SHpJQjZEYVN6R1QySFZzVGoxWmNNUjBMVEstQ3dzY3ZOaWJzTjZqRFJ6bVVNOE1ZU2pTZ0JSSXNfNlRvcnBKeFdueEVIVFozSHJNWnhmWFdPcmJCZ2NUUm9CY1lQMWdZTHh5bFpiRFZFSmVZMlVBb2Zncw?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1783088197,
+      "summary_kr": "Amazon Basics 휴대용 전기 온수 주전자 - 꾸준한 인기를 얻고 있는 저렴한 조리대 필수품 US  Ad-hoc-news.de",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "하이얼 스마트 홈 주식회사: 유럽 전역 유통을 목표로 WpHG [독일 증권 거래법] 50조에 따라 릴리즈 - TradingView",
+      "media": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPV0V5Y3U3M2dPRzA4SkpjNkl1V2Q0ckJ1VkhiWlhSaFdDT0sxUWwwemd1VTJkczZEeXBHRjd5Mi13ZU12TXRaY0U5NFdHcklFV25OZ250cThkOHEzYkRpMk9hLVV3dTBtb0tvZi1CaHZuUk1uNjZwalpzbGNwcm5aOHJ1NExybzFwbnNBTlpOcU9CVmtvTFFIbGFDSXUxTy1XN3pQNUM5N3ROZ0NzdDVGRVRHN0JLQnhnOGxhTC05aDVwcEp3d3JUcEhRUWhRSEhfNTR1OHZSNndRcnRDSGtLRzBoMC1RNFNqSy1YLWtDVVR5cFlHUnNtcGNmamc1ZFphaW5XMUZpV2ZYdkJoeU90VGhocEF3SkFJXzRSWDc1SVQzTC1rU3hQNThR?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1783087743,
+      "summary_kr": "Haier Smart Home Co.,Ltd.: 유럽 전역 배포를 목적으로 WpHG[독일 증권 거래법] 제50조에 따라 출시",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Anthropic, 삼성과 맞춤형 AI 칩 개발 논의 중 - The Economic Times",
+      "media": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTmdsSVBvbTBaQVp3dHN2YjNCdFIxVkwyWV80MWhZdUJFX1BrSTFhQVUzLVBxNHB6TWt2VnJYSUhNUFN2a0ZWNnJUUERQSmd4TjI0X3RVR1JVR09sMncyZXhlQUFOdEFJNFJfN3JvTlEtclRJNUpfeTBzSWhFcXVJLWpxOWY4ZWxzWnN1SFhuczBFdi1ZRzFzYW95UXpXLU9USGhiT1Z5V2V5akVlOVpRalVXWEF3aGZxdUZXelZNWEZoU0haTGZXNHBvQm5CRDBHanJnc0pYc9IB3AFBVV95cUxQZlpkc2JRd2V1NWxHRVB6ZWxlaGR1WVlDdThzWVlhTzQtMjQ3bzhNNWNQQ1Q5eWY4UEFKODVNaDc4MU1RRDNhbndFZU9aLVpSSlJHMmxTcV84aDF1ZURxbWdPT01nRER2aHBuc20zaUk3WElHb3hZTU1xVFZqMmQ5Xy1YVks0dTFjZzdvdnhzSEQ5TU11UUg3S0tFTGY2MFo1MFBlUEJ5NWRFakVkMFVPcHZkc1hGVWZZWmV1MVRQZzZaNjY1QTFNRGJ6V3VjZ05KSThJRmtJQThyQ1Bs?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1783085614,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "ZemiSmart는 오래된 가전제품을 위한 저렴한 스마트 홈 장치를 출시합니다. 그러나 클라우드 종속성과 데이터 규칙은 구매자가 실제로 얻는 것을 결정합니다.",
+      "media": "Bing News",
+      "url": "https://www.ibtimes.com/zemismart-rolls-out-budget-smart-home-gadgets-old-appliances-cloud-dependency-data-rules-shape-3804913",
+      "time": "18h ago",
+      "pub_ts": 1783084680,
+      "summary_kr": "ZemiSmart Matter IR 블래스터 및 AC 컨트롤러가 2026년 7월 3일 출시되어 기존 적외선 기기를 Zig를 통해 Apple Home, Google Home 및 Alexa에 도입",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "유틸리티 비용을 줄이고 싶으십니까? 스마트 홈 자동화로 시작해 보세요",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/technology/hardware-and-devices/want-to-spend-less-on-utilities-start-with-these-smart-home-automations/ar-AA27a68s",
+      "time": "18h ago",
+      "pub_ts": 1783083720,
+      "summary_kr": "스마트 홈 생태계는 그 어느 때보다 광범위하게 성장했으며 단순히 무드 조명을 설정하는 것만이 아닙니다. 스마트 애플리케이션을 사용하면 유틸리티 비용을 절약할 수 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "면에서 실크까지: 삼성 맞춤형 AI 세탁기가 모든 직물 유형에 맞게 주기를 조정합니다 - NDTV",
+      "media": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeW5MdFJnTWVKSmpuTDkxbUdQZXFiNzdYRVg2TDNIOGlqTThOT05ZazF1M0tMN19nYm42SG5BRXJTYmVTUTVUTmZBczAydWFZalYwcWZPbW0yQkp2MFhKYWRHVDRaZVlzZWloTW1LWVc3REdLWExtUU50RUZhNVNiSzEzV0ZVZ1lrYlZjQUlUUHd0Q2NDLWt2Si1vMjN6emxsSXZxS0NBY1RLVjVzaEJSdV82S0NFYjlhZEdpVmQ0YmI2TF9MWkRjQmFhc9IB0wFBVV95cUxNOWUtNFBVM3p6OFRBYU03Vkk3cXRxdkJBaVBkZk0ydUxrUDNxSVBMM2o4ZmVxREc0SGNIS0xfM2tnVnppS2gwNVNaeEJ6UWtiSV84dVZiNGg1ekxxZHQtc0dMMEFyWndsZ0k1TmhDZ05RQ1RDNk9Ya0tmS3N0MmktMFBWYjZrMjlSbHJsVV9uT0NEMWhGWngtN2hKN2hVZFd2VkZjR1Q3VjF4cU81cXNGVlV0ZEVjeVZ6SEFpd2xNLXZMeGdET3lBcXZ1Z2FYSXVWeFhn?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1783078765,
+      "summary_kr": "면에서 실크까지: 삼성 맞춤형 AI 세탁기로 모든 직물 유형에 맞게 주기 조정 NDTV",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "맞춤형 AI 칩을 위해 인류가 삼성을 주목하다 - Mobile World Live",
+      "media": "Mobile World Live",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcmZRSjN5YWIwNDlCMHZYM2xfUWdjRUt5c3QtamtDRHdwR29yZ2ZCNVRIUUUtVXhOclhIdUZzeXhMWnN3aFRXOHBULXdFZ3hUVVJKNkRHTDJ5Ym9fN1RFV1A4dF9nbHhNUlBUTkxWVngxb2E4SzhLUWRWTGF0ZUZVbmxuekx4dWprTnBr?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1783072854,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Anthropic, 맞춤형 AI 칩 개발을 위해 삼성 파트너십 모색 - Dataconomy",
+      "media": "Dataconomy",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0RiNFdZNWlfR3NyZjJGM2M1LU12Sjd1RjZUQzNib29SdEhJRWN2ZHdVOFloUllPYVlyX3IxSTZqbkZsakNWRGhubEFnU3BKcFBnYVIwVkFrZWZOU01sSnpzS1NmYmVTNW16d3FQcDJ2NldyYWpudEt3MWVlbEZ2TDNXeDllY0NwNXA2NU5VckYwdzBydUxIcmNGWmItTEpMbmc?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1783070429,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "맞춤형 AI 칩 개발을 위한 인류저울 삼성 파트너십: 美언론 - 중앙일보",
+      "media": "Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmExSDBNb1hGVGdvMW1nTGh1OEJENmxaMlU0MnQ2MHBqSXlaZ0swN3B2RW4tcDBfMlFpakZWQXY0RVVoNWl1TlY3N01ZLTkzak5URkZaZGxDM3dETk5iR3VTem9lcUtadnNzN3RVRkVSSS00d3lfMzBibmpxV0dBMjF0aFdtQmVFUm1Fek1TZk5PM1I5bmFJWm9qYVRXNHA3bG1XeHprWTdsUVVEck4xNHRHVnVyOHBBWVFfTWxZZkNERnk0Znc?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1783068562,
+      "summary_kr": "맞춤형 AI 칩 개발을 위한 인류저울 삼성 파트너십: 미국 언론 한국 중앙일보",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
