@@ -1,0 +1,484 @@
+{
+  "date": "2026-07-07",
+  "date_display": "2026년 07월 07일",
+  "generated_at": "2026-07-07T17:15:43.269790+09:00",
+  "generated_at_display": "2026.07.07 17:15 KST",
+  "category_counts": {
+    "Competitor Analysis": 7,
+    "Market Dynamics": 13,
+    "Samsung Bespoke": 3,
+    "Samsung DA": 8,
+    "Technology Trend": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 32건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 7건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 12건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 12건이 감지됩니다. 주목 기사: LG전자, 프리미엄 가전·미국 관세환급으로 사상 최대 실적 - 중앙일보. 삼성 Bespoke 3건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 7건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 7건 수집. 주요 동향: LG전자, 프리미엄 가전·미국 관세환급으로 사상 최대 실적 - 중앙일보. 시장 전반 기사 13건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 프리미엄 가전·미국 관세환급으로 사상 최대 실적 - 중앙일보",
+      "media": "Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWHU2TGVqS05aODYwRkU3dE9wd2tMd3dkc3RkczZ4RW5NaktHWi1HRWZfa0IzTGx1V2tlMzFNVElYLUZYdUZZRGdBRU03MF9kci1BSlJxSllkSThFN3ktbUhoeFdIeWtjZlUyQk1ObE0yQkJabzIxZ3BSdEs2ZFpIOGJtelV4d1JyNG50QWhqNjc1N0NtcV9RQVZUa21Wbk13REtyNFNjc2EtSmJ5cmp5NElUbEZaSk9md0RvVDVXS2Uya1RaOURVUWNaNA?oc=5",
+      "time": "Just now",
+      "pub_ts": 1783411505,
+      "summary_kr": "LG전자, 프리미엄 가전 부문 2분기 사상 최대 실적 기록, 美 관세 환급…중앙일보",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "/C O R R E C T I O N — Beko/ - 마카오 비즈니스",
+      "media": "Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlSF9TVUI4NjBlTFNqbXk0YnlVeUVtc2FMWnlidWhlYk8tUmRoUGloeHVpcFQ3ejRBVFlkYXQzT2ZEdTlaLXVuY1AtMnlEOXNLY2NaT2VZbV9TeUlObDRZeQ?oc=5",
+      "time": "Just now",
+      "pub_ts": 1783410812,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG전자, 가전판매 급증으로 분기 사상 최대 실적 - 코리아비지와이어",
+      "media": "Koreabizwire",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXRQZ2JBa1RwclFmcnR3SXRQdlg2blZRN3FoN0NIS241U0FBNV8zczVuSjA5c2l4aU9qdDFWRXNHaWItTkl3V3hyR3JIN2dFYWU5ZEdTdkVKUGROQWpwdnpzMkoxY3JCS0dKUU9raFQzaTY4WHRSX2ZsRG1HRlBacG8xMEZkd05DWWhnMlUyY0p5THBJcVZROEpIcHJJU0UtNlo0Sg?oc=5",
+      "time": "Just now",
+      "pub_ts": 1783410595,
+      "summary_kr": "LG전자, 가전제품 판매 급증으로 분기 실적 사상 최고 기록 코리아비즈와이어",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방가전업체 쿠첸, 매장에서 자사 주력제품 소개하는 브랜드데이 운영.. - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YYlJTdmpfRkhiamJYcmF4ZlJjN0VJU0hBcERzcjRvV1BGSzJHTEZaOUFIcFI0VHktWEJXbnI4NnNWQl9OX015YktsVURjOWR5dFE?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1783406724,
+      "summary_kr": "주방가전업체 쿠첸이 자사의 주력 제품을 소개하는 브랜드데이를 운영하고 있다..  매일경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "2026년 최고의 무선 진공청소기 5개 - RTINGS.com",
+      "media": "RTINGS.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DNDhXY3prcEhhNFNsaFd4NW5wYVJ5VTZEalJvWG9hZmJOMHhUa0NLWFh1SGhwRTFKTVBKdDI3NDB2MXpMUXIta0NJRVNzSmFtQ2ZSek1rY29feEJRU1YtVg?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1783403436,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성의 새로운 패밀리 허브 냉장고는 내 5년 된 냉장고보다 빠르지 않습니다 - SamMobile",
+      "media": "SamMobile",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1VtcENjWHI2OUZscWF3VGV2VlFWbnA5eEhQRHRuVDh4djE3THpPUHN0MjR0V0dxbVFvVkwzVmozWUd0Q2FxTEFuUDZ3MVp4LWZscVRLSnFLYkRXajh2YlFFNF9yaWwzanBBNExMeTR2M0pWWGtJX3dlY2VfeEJvZEJpdm8zM2NPeV9jbGF5SGlVeExxLVBtYmo1bm8yNkVHVFE?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1783402740,
+      "summary_kr": "삼성의 새로운 패밀리 허브 냉장고는 내 5년 된 냉장고보다 빠르지 않습니다.  SamMobile",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 생활가전 판매 호조로 2분기 영업이익 사상 최대 - 코리아헤럴드",
+      "media": "The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPS0lfM3RhZjNubE1vRjRYUjM5aS1wZkZiOWtDQmhrV0lxNUM4aVZsVGZVbDhZeGNYUS0yN0o1Snd3UzdFSGx0OFpxWHJ6dVBFdzZyZkFPdw?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1783391892,
+      "summary_kr": "LG전자, 가전제품 판매 호조로 2분기 영업이익 사상 최대 기록 - 코리아헤럴드",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성 가전 노동자 항의 보너스 격차 │ 데일리 뉴스 다이제스트 │2026-07-07 │ 웹 전용 - 天下雜誌",
+      "media": "天下雜誌",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14UHJ3OUZZekl2SU04VlhvZDMzY0JjLUstTFFHMnFVWTBDT0hCREpwVTVCTDlJamMwa3lJZmpxVGE3bGZzd1hMN3VqaTZmbUstQzktcnJER1pqd19ZT0V3V0NKak9sYWM?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1783389386,
+      "summary_kr": "삼성 가전 노동자 항의 보너스 격차 ｜ 데일리 뉴스 다이제스트 ｜2026-07-07 ｜웹 전용  天下雜誌",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "인기 가전제품 폭발 후 25년 위기 - News.com.au",
+      "media": "News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNajlGeWYxcUJvdXR0MVJNck1DNUNGX3NreTdPREpHamJkbjVNVGRqanlqbHZPS1hBYkVPYXIxSHBIWHFwTXdPT0E3TVpoZzdVeWlNSkdMZ3VIa01wTWlGeXlpZTJUaUNhSHB1N0dHbHNvalVQOERtd0ZLZzZiVTQzdUR0SU1LaHd0c2JESjJ2MjVCWlRzdDlnclhwV1pRdE03VnREbm5mYTkzZHRCQzh1aGczaVo5TVhFdFg3cnprUHMxX2ZkN1VuQ1VhLWdnaHF3RG1jaGxsZW53SXBuUnAtLWJWRHRmM2ZXMFhncEhiWXc5WTVub2FDNW5wNNIBgAJBVV95cUxNajRXZGd1bDBYWTd2V1hRR2lGRU5BNXpWeHJmR1g1MlNCekZWbVVDeE9MTm91S0ItS1N2cjhFREdrWW1lWGEtekg3cmRWcGpmVVVERmJmUV9FN29yQV9LSGs5NmtFMHBBT3JuUER6NnZfNTlEcHkyWUI0LXhnZk95aTJ1VXJJZ3l6dHpsWkVDTUd5Qmw1SVZ5cE9ZRTRkeUk3TTd3YXptRm9zSmxRLXN6T00wMGZwaW9qNXNHR2FkQV81WFlsNERjYUFtRlJtZllDVWpZX2gxOXFYVHE1NG5ZekNuN2VwQXJVSkQ4UlJQczBvOHZRaDljeVZRM1pOWmZr?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1783386461,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성 근로자 계획, 직원 간 상여금 격차 100배 이상으로 항의",
+      "media": "Bing News",
+      "url": "https://propakistani.pk/2026/07/07/samsung-workers-plan-protest-over-100x-bonus-gap-between-employees/",
+      "time": "7h ago",
+      "pub_ts": 1783386420,
+      "summary_kr": "삼성전자 스마트폰, TV, 생활가전 부문 근로자들이 .",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성생활가전 2분기 영업이익 '제로' - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPajU1SzNOSkJvbUtjYTB5d292SDVQdTZjOThhcjNXME1zckNkOU4telgzeFR1SWllaGJQdTBNSHhLVGdWWHdySy1XYVZhMDh5TW8wSU5EQUd1Q01pU0lkcGtmUG4yQm16REVVbzJmVnBUc2E0WkNsUEpJbVhzaDEzNG5GV3Y5V1FfZWxjakRzOWtJWmFEcFo3SUYyLUVSMlBm?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1783383984,
+      "summary_kr": "삼성생활가전 2분기 영업이익 '0'에 가까워 서울경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성생활가전, 2분기 흑자…노사 갈등 부추긴다 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLUlFZ0cxR2JvUnlXaUk3NUl0enQweF9Od0FOQXdhN2NtUFpORVhlOWhUSV9fQnFXU3d3VUZSLXZIMjZHbVVJRGpuRW9GanYya3RTOGdLQjB6ODZCSlBucmkwYThTdm1JXzhqUmtxM3huRE1kd0Ztc3NscWs2RVo5N094ZF9qRXl2VkhvaHF6NnlycWZEVng1aklHT3pidXBf?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1783381076,
+      "summary_kr": "삼성가전, 2분기 흑자… 노사 긴장 촉발 서울경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자 2분기 영업이익 사상 최대 기록",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/technology/hardware-and-devices/lg-electronics-q2-operating-profit-hits-record-high/ar-AA27mrl4",
+      "time": "9h ago",
+      "pub_ts": 1783376911,
+      "summary_kr": "LG전자 2분기 영업이익 사상 최대 기록 2026년 7월 7일 촬영된 이 사진은 서울에 있는 LG전자 본사를 보여준다. LG 추정",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "여름 최대 $1,199까지 절약할 수 있는 코스트코 주방용품 5가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0VxU2cwb1RUN3NBYklvNlVWWGNaeVppNXlSbUtxdHZRNExGZWVVcjU3SDB3Uno1TTVkcndsRG45T3ZlejJBQWx1aDV3djRJNVdJT2loWDdnYUxKdW9oalVia2FOdmd1ZmppVUtJMFM5WlU0c29LclVCdkpwcnZ5Qg?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1783376027,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Rentomojo, 수익성 있는 성장 속에 SEBI IPO 진출",
+      "media": "Bing News",
+      "url": "https://www.ciol.com/news/rentomojo-sebi-approval-ipo-12139971",
+      "time": "10h ago",
+      "pub_ts": 1783373220,
+      "summary_kr": "Rentomojo는 강력한 재정적 회복에 따른 1억 5천만 루피 규모의 신규 발행과 매각 제안으로 구성된 IPO에 대해 SEBI의 승인을 받았습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 관세환급 효과로 분기 실적 급증할 듯",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/money/general/lg-electronics-expects-quarterly-earnings-to-surge-buoyed-by-tariff-refund/ar-AA27mHIf",
+      "time": "11h ago",
+      "pub_ts": 1783372200,
+      "summary_kr": "한국 가전제품 회사는 미국의 관세 환급으로 인해 2분기 영업이익이 2배 이상 증가할 것으로 예상했습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 2분기 사상 최대 매출·영업이익 기록",
+      "media": "Bing News",
+      "url": "https://biz.heraldcorp.com/article/10800588",
+      "time": "13h ago",
+      "pub_ts": 1783365060,
+      "summary_kr": "LG전자가 2분기 영업이익 1조5800억원을 기록하며 분기 연속 조원대 이익 행진을 이어갔다.",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "EZVIZ, ANZ 전역의 주요 소매업체에 스마트 보안 제품군 출시",
+      "media": "Bing News",
+      "url": "https://www.applianceretailer.com.au/ezviz-launches-smart-security-range-in-major-retailers-across-anz/",
+      "time": "13h ago",
+      "pub_ts": 1783363320,
+      "summary_kr": "글로벌 스마트 홈 브랜드인 EZVIZ가 ANZ에 출시됩니다. 호주의 JB Hi-Fi 및 Harvey Norman에 다양한 홈 보안 제품이 도착합니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Costco 2026: 꼭 사야 할 최고의 가전제품 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaW5HYlZKTDFGVGdYUGlZWnJjWDhjeE1Ea3NtRGJPS0dZLTdVZ0Zfd2s2MGlsclcwenZEQXRGZ1BqZVctT3lEbHN2TV9TOWt5djJjMEJLMVl4c1dNcThaS0NmdkFsbEpuSlhyMEZvQmc4d3U3eEFzQWxsZVFfeUZjTmpLWFVKdS1lZ0xXQnpKVUZDY01sS1haU21rSmNNbDA?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1783362300,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성 가전제품 노동자, 반도체 노동자 임금협상 반대 집회",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/money/companies/samsung-appliance-workers-to-stage-a-rally-protesting-chip-workers-wage-deal/ar-AA27mhuP",
+      "time": "14h ago",
+      "pub_ts": 1783358546,
+      "summary_kr": "서울, 7월 6일 (로이터) - 삼성전자 스마트폰·TV·가전사업부 직원들이 7월 16일 노동조합 집회를 가질 예정이다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방 가전제품을 연장 코드에 연결하면 안 되는 이유",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/lifestyle/other/why-you-should-avoid-plugging-any-kitchen-appliances-into-extension-cords/ar-AA27lNpB",
+      "time": "16h ago",
+      "pub_ts": 1783352100,
+      "summary_kr": "주방은 일반적으로 가전제품이 들어가는 곳 근처에 콘센트를 두도록 설계됩니다. 주요 가전제품은 벽에 직접 연결해야 하기 때문입니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성 가전제품 직원, 칩 직원과 100대 1 보너스 격차에 맞서 집회 - qz.com",
+      "media": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vajF3andRMUxrNktseHcyaUlyM0kxTVFsSXdsV204b2R5eG1ZUXlUZ2h1R1dWWXZRZkxXd3pWNFAzTEZkZ210UDZOTmxfNnpvTzhsRURMcTlLSDFWZTdiQVgtdXI1R2p1Q1BINVdQMl94YWx6aVRV?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1783348045,
+      "summary_kr": "삼성 가전제품 직원은 칩 직원과 100대 1의 보너스 격차에 맞서 집회하고 있습니다 qz.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "로봇 및 다이슨 진공청소기 할인: 7월 4일에 청소할 수 있는 마지막 기회입니다. 절약 - PCMag",
+      "media": "PCMag",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTGUzRHNsN0pjbUxYVFotSXdoMGhlblhtaUtKV1huNzhhY3JpcDhuZkJxdENoazZJa0dlNmRXOVA1b2p5MEF6M3lMa0pSdXo4S3RoUDQwVkQ0WVNLY3hnRlMtMTlSTVM3dWRIeW8xVldSSUxKQmlXc3lqT0VUWFo3U2tfY2tYb2hMQlpWcnQxbHdNcWFicUgzOWEycVQ5ZV9R?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1783345890,
+      "summary_kr": "로봇 및 다이슨 진공청소기 할인: 7월 4일에 청소를 할 수 있는 마지막 기회입니다. 비용 절감  PCMag",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Anthropic은 맞춤형 AI 칩을 위해 삼성을 주목하고 있다고 합니다.",
+      "media": "TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUFUZzk5UEJBMVN6QTU0UllISmVLY3lNRWluUzdhSXllOTRBZGEzZFdBQkFlNHRlTy1HTDFFQlQxWHk0LXV1dWNJVnFHM1hBVXNfdzRSU3RpX09XVGtUVkpJQmdXbXVVaXNvalYxUk1rSm9fRTFDNU5vWlN0ZE93Ug?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1783345692,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Anthropic, 맞춤형 AI 칩셋 구축을 위해 삼성과 협의 중: 보고서 - Deccan Herald",
+      "media": "Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVUxQbWpmaUUzTFRiZmFibGtBX0hTWm5wRWF5MVBLV3VJLU9VbG5jSnlhUlVhZEk1S1NiVTlKWldfMUQxd21CMXBCQ1JBTU1RLWIzREhWRFljTVFaVmI3bU8xRjJqVjk1dU1QY0FjbG5GYmdzRFp4OUFpbng1VFYtVy1LVkE1dUpfNm9oTmpxVFl1VjVrWHI2T1pXNEJUbXZtcXhMWWZvQWRIUU1RMVNZQ3FsdU5LNzdRb1BHNHMtVDBiUFI3czBMa3F5dVF5cDhqUV8w?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1783343790,
+      "summary_kr": "Anthropic, 맞춤형 AI 칩셋 구축을 위해 삼성과 협의 중: 보고서  Deccan Herald",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼의 hOn 기반 가전제품은 주방을 고급스럽고 연결되게 유지합니다.",
+      "media": "Bing News",
+      "url": "https://www.t3.com/news/haiers-hon-powered-appliance-range-keeps-your-kitchen-classy-and-connected",
+      "time": "20h ago",
+      "pub_ts": 1783340100,
+      "summary_kr": "몇 년 전으로 돌아가 보면 주방 가전제품이 어떤 의미에서든 스마트할 것이라고는 아무도 예상하지 못했습니다. 그들은 단지 배경에서 멍청하게 맴돌았어, 계속",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "최근 업데이트 이후에도 Groupe SEB는 안정적입니다. 투자자들, 글로벌 가전제품 수요에 무게를 두다 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWJUMHRYa0Vnc2M0WXJNWHg1WDUwSHF3WnlVaVc2SVl5MUZ5Ul9nV2NGMkEybHZCVHJXVU5IbDQ1MGczeWF1TjJobDZvd1B5X1RtN1JJZ3YyZkpMSUtpOXdMb3VmQVpOTWk3Mk9SV1J6akdXT2t4eXdYMk5teU5WalpSdU44TzhFY3c4cjQ4eEEwanZpTVlsU3Bkd3ZyTGpHXzcyb3RNcTRHV1hXZ0dfdkp3QVJMeUZyY3BzX2hNNkc0RlNOMDhJTWdB?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1783337684,
+      "summary_kr": "최근 업데이트 이후에도 Groupe SEB는 안정적입니다. 투자자들은 전 세계 가전제품 수요에 무게를 두고 있습니다.  애드혹 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전자레인지를 다음 3가지 용도로 사용하지 마세요 - Simply Recipes",
+      "media": "Simply Recipes",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3X25VQ0tadUtGZE1iSlFIRkpWc3NNc1FHZWstZjhMUDFaZXM0OFhHNVpPazZZMGxiS3NJR2xleS1yV2FaWFJMY0RtdkJKWFFERlNVbGM2cGg1NDMtdEpNaWRJVktMalVxVVNOUUYzZ0ROR0Z5?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1783336080,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 레트로 주방 가전제품 구입처 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0lhdkFCWE9xUFo2V0lyU0trcHRmUld3cVNLY28wd3BILW5wSHppWGU4dFZBQ01qWU1XWnR5ZFNiR2JZWl93OVh5V1NHNklidTV2eEwzMkZub28yZnBrZjBkbzdLdFcybVJCLS1veW44b2dueE94ZnlhcTBwMkRIeS1ndmQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1783333927,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "월풀(Whirlpool Corp.), 글로벌 가정용품 공급업체로서 가전제품 사업의 장기적 성장 포지셔닝 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRERJYW9BNERBWTVWRW5HbEJucUdnTGJ5cl9tQ2MzbjR5Tk5lVkN3WE5GcXE4Yi1sM29iX2V6OHZhaTJXZGtqY3F1MVhobEc1VU5EWEk2cFRqNXBHc09MMlctQTJ1elJTTU9uWm9Sd3JMZ2hMY1pOVzNQcUJ0V09sSmFyTTRyQlk1d2xGWE8wMmJLTHhaclZKZno4dDd1eXFQY1A3V29obDY2YmIyZkJQN2JUXzFGVGxFalo1ekdGYnduYkxCQUlyci1UclY?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1783332742,
+      "summary_kr": "Whirlpool Corp., 가전제품 사업을 글로벌 가정용품 공급업체로 장기적인 성장을 위해 포지셔닝 AD HOC NEWS",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 고객이 사랑하는 9가지 최고의 여름 주방 가전 제품 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLWtRbVFwX3hXWDhwcTFza3BaQ0hlTVVvYk1yVkpDSUpXWHd2aFdTMENmQ1l0MTFxMEVKa2NuOUZwX2F2ZHgtLU41cXZqZVctZlFiNW5lbkliRGNndGljVzUtUUs3MGRQbkgzaHNsZ3ZoTlEwQjJRR3hBd29keGdfbW1B?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1783328942,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성반도체 부문 보너스 100%, 스마트폰 50% - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXM2TjZuSVBRMWt5Q2RBQUdoMVlFbVlfTHFaZ0MzRXFNQ1NWRk1sVGE2TGx6dGVZckFDc2hvajQtYkMxQmtwT1NMbXM3TnRudS0zNGgzcGpjWVp5OW1NdlhuV1BCQXY3c3puNktMS29rVEdJOWU0dk5ieFZYNi1PT1JFTC1uZk9D?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1783326151,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
