@@ -1,0 +1,345 @@
+{
+  "date": "2026-07-08",
+  "date_display": "2026년 07월 08일",
+  "generated_at": "2026-07-08T16:23:13.175696+09:00",
+  "generated_at_display": "2026.07.08 16:23 KST",
+  "category_counts": {
+    "Market Dynamics": 10,
+    "Competitor Analysis": 7,
+    "Technology Trend": 1,
+    "Samsung Bespoke": 2,
+    "Samsung DA": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 2건 감지",
+      "desc": "오늘 수집된 22건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: 삼성 AI 세탁기 건조기, 스마트 홈 푸시로 에너지 35% 절감. 경쟁사 동향 7건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 9건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 9건이 감지됩니다. 주목 기사: 이러한 Amazon 거래는 레이더 아래로 날아가고 있습니다. 25달러 미만의 KitchenAid, OXO 및 Rubbermaid를 놓치지 마세요 - 음식 및 와인. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 7건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 7건 수집. 주요 동향: LG전자, 11년째 대한민국 NCSI 가전·IT 선도 - CHOSUNBIZ - 조선비즈. 시장 전반 기사 10건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "이러한 Amazon 거래는 레이더 아래로 날아가고 있습니다. 25달러 미만의 KitchenAid, OXO 및 Rubbermaid를 놓치지 마세요 - 음식 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWjNZeG5acklnQWVFNzVYaXRzM2MxeGxNMk1IUThOQUtZTHdJeXd0T05LYnI5Ni1qS0dYd0FfUHl4MFFneEw0ZVgwb1BINW84ZHZlOEJaUGxqRjVFMEYwUHgtT2NHMXFMSDE0UklzNDAwcWhzYnR0ZTRtemc2R0FadVhB?oc=5",
+      "time": "Just now",
+      "pub_ts": 1783493100,
+      "summary_kr": "주목받고 있는 Amazon 딜 — 25달러 미만의 KitchenAid, OXO, Rubbermaid를 놓치지 마세요.  음식 및 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 11년째 대한민국 NCSI 가전·IT 선도 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sRHVnWFFjS082OXZKT1BWNWNWUHBrYWVTSFlpRk45d2pPeUZoWGZhMEthYVBMM3R0ZEdzQzhaSVV0bFpjVjNBRHR6T3ZmVW1RaTBMS1pJVjh5d2Z1blFhNWFHOEpTYlFYRmRBX01qa0dOemhHR2lXM1dB0gGOAUFVX3lxTE9WakE4b2R0MHZXRkNHaHFPRUFEbDZ4MmJ2M3d0MFFoc3U0NjJKQ1J6eFFydFBZei01ekF1U3RhOXhHb3E5WTR0d3llVVRIN2VIdmlzblpaUUdUUFEyMHVKeXFIUGw4UlV6bWZPOXY3ZlFtSmlLZXNOZUw5em9BUkdWOUZIOUpqa2JtMGFrYmc?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1783490160,
+      "summary_kr": "LG전자, 11년째 대한민국 NCSI 가전·IT 선도 - CHOSUNBIZ 조선비즈",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Midea, FC 바르셀로나와 5년 파트너십 체결, 2026/27 시즌부터 키트 슬리브에 등장 - SMBtech",
+      "media": "SMBtech",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1BtczNuUW1ubTE0M1VsTXREOWI1U0xZN0FpTE11QlBhaWdpQnBOVnloQ1B1blRhVEVGbUNoRG9wMFpJOXBRR0d6RUpUa2Q5OFNpZnY2SXI5c2t4X1NTZUZFZ2pBTEVKVkMyQnRZZVF5dUM3WWpiTEFGVXpsRUpMNU9lSjZad0hkeHk1YmktdXFQbG9uOGtGRTdMSjd5bGVZUURHVXJaUmlRVkc0d24taTNsLXNiQXFsM0RkTk9nRm8?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1783485314,
+      "summary_kr": "Midea, FC 바르셀로나와 5년 파트너십 체결, 2026/27 시즌부터 키트 슬리브에 등장 예정  SMBtech",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "쉿! Amazon의 과잉 재고 아울렛에서 $3부터 시작하는 Cuisinart, KitchenAid 등의 특가를 숨기고 있습니다 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPak5xcmFDV1hrVFl0Q3NUdVdIQmpkZWJnVDZBY0lscXBORjUwY2h2WFVqaXF2eU1GQ05OeTQ1b2hteEFhUXg3c1ZzTFBVZllaS0htUS1Vc1FqRzhCdDdqRWE0Wk1ycEF6RXJuOXM3LXBXNlRSV0JEX1djT3hmYWZwdQ?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1783485000,
+      "summary_kr": "쉿! Amazon의 과잉 재고 아웃렛은 $3부터 시작하는 Cuisinart, KitchenAid 등의 할인을 숨기고 있습니다. Allrecipes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성 AI 세탁기 건조기, 스마트 홈 푸시로 에너지 35% 절감",
+      "media": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3ZPNHJxemhObUY0WklCZFBaUDdrOEpvYTloQW1oVUVPUzQzcUNZN1R5ZFlrRlQwVC1Oc2VGMjViLUpPWk40dVJiYjJibE5DU193WjZlQzBiSlJfT21ZTkVCOE95UDkzN2g0WFhLeFN2OWV3Q3k0aWxhNGcyTmNiM2x5WHJpSHdyenBueEZsNG05Z3pjdTlr?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1783477620,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 가전·자동차부품 주도로 사상 최대 실적 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJZnBjMnVwMk5lYTNONElmTTFlMGdSMWZVRWFyMEJiTU5QRjduMmRnZ0FRWU96ODlGWGdmZHB3Y3MwcFN3eWlBWkZCR2NIV1Bfei1vY3NMUQ?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1783475595,
+      "summary_kr": "LG전자, 가전·자동차부품 주도로 사상 최대 실적 2분기 실적 매일경제",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 7월 Costco 주방 가전제품 베스트 10 특가 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14YWlYWkV6RFBfNDdDOTJPZGhSRzhzOXQ5dTl0QzZwMU0yOGVWQ3FCS3lyOW52N3hycHFnQXh5bVRzTjBUNFN6TU02MG5feERjMmd1VVBzN28yN2sta0JNZVNhSVlmeE1ZYXJmc3hfOW9ZblE2RXpWd3VHQ3F6dw?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1783473870,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성전자, 에너지 절감과 스마트한 원단 관리를 위한 맞춤형 AI 세탁기 건조기 신제품 출시 - Samsung Newsroom Korea",
+      "media": "Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3VuSjE5Q2tjMkNXLUFGeTN4UTloZTFyRldJbFcydXN3THNhMWhuOVlzQlNuclpiOTVPSXV0QzFPY25pdDNKVVV6M0JNbmpVejlzQzZMb2VHSVREc3Z4SzJvYzgxRUFRTnVrdDZvOTZKc2FwR3dTTDFYUkFTLVhQYTVtMGpISnNTbnpqUjZoTFJicHF1bFZvendqUkgzcllJU294YUotZng2VGZndkVyVXd6RllqZ3ZpcHhIbU5nTUtmVjBfUGJQUEt0UGtvREE?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1783465200,
+      "summary_kr": "삼성, 에너지 사용은 줄이면서 더욱 스마트한 원단 관리 제공하는 맞춤형 AI 세탁기 건조기 신제품 출시 삼성 뉴스룸",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "집에서 전력을 소모하는 숨겨진 장치 7가지와 이에 대해 취할 수 있는 조치 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52REFxRERvLUJDTHVya2FtOGpXS0NaZktEM2hrSHpFMk1vS21XV254ZnBYalY4OGJ3Q1JMV2I2dzkyNmZPWnpVbVNHeG1VSHFleGlxTDRSSkNXZ09ZTGN6WjRMT3NrUEZlYWwxTHJkTi01QzFybG1OXzZPYkQ?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1783460025,
+      "summary_kr": "집에서 전력을 소모하는 숨겨진 장치 7가지와 이에 대해 취할 수 있는 조치 AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Igloo ICF 전기 쿨러가 Yeti Tundra보다 나은가요? - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDU5NEl3RmZXZzBIRjZGc2dMSmNTbnJ2MXNsVXYyWEU1YUk1a2tUdmQ1WWFGMVZ1VzU0V2JEMmV1dXhJc0xrQjhicVJzNjBXbUs2YWlnS0hxRzZ2Ql9xYnpWOGJoWlFONGZ3WE1iUlo3dXloUENtTzNjX1VyN2dTUU5B?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1783458757,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방에 꼭 필요한 15가지 주방 도구 - Gadget Review",
+      "media": "Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTVQxYzFBUVB4Ry1hc19LOUZpZ2ZSLVZicmZyUFBDbVBlZWpJeFJ5MlRkemdsR2labWlhLVlpYmFlYjljbXZadzE4OEtWc2hUdV9qR3JxcWhWdDFJVDZDenphamp2dEZUTVJ6cDIyRjJ4TGpGVU5aV2pBYjlkTGNRcVdHd1ZTSVFf?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1783447200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Curion은 소비자가 스마트 가전 기능보다 신뢰성을 더 중요하게 생각한다고 밝혔습니다.",
+      "media": "Home Furnishings News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEthQll1NlBoWXZCRlFKaVZvZWp1Y0hoT2JUaWVtbWh2TndwajFhbHp6a3RKbUZsM0huZ09QY3luRU9HQmxIMEJzZWRxYUlmQm0yRFB2cFNqQzFTZGxmTHRWMU9hX2RLbmJoU2d0NXpxSjF5eUdabG93bUpPUXBVbUk3MEJReEJfMFdoaUFNOHhZZjFtSjhzbnlHWjAtaUtUVTFXanhXNDdkZkNyVWc?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1783444343,
+      "summary_kr": "소비자는 스마트 가전 기능보다 신뢰성을 중요하게 생각하며 Curion은 홈 가구 뉴스를 찾아냈습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이사할 때까지 자신의 아파트에 난로가 없어진 걸 눈치 채지 못한 여성(단독) - People.com",
+      "media": "People.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmpCUHhWT3Fyb2o5eVJqQ3hnYWdwNjhUOG51RDNETEx3SG53NkxwRmJ0Ym41MTB1NklvX2hLZ2gyTXZ0LU1zN0plUE56SkFpSmNtSjFOc0lGWW9OWENBeTRiUlNWc3ZnRGtZU0I2enVKSjZQX2VCLU1CY0V6UTdkSnVtMGgtMnRDWDRxM0c1bjZmbUkyZVc5bVBaZ0ZDR3drbWQxMTFTOWtVZw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1783430574,
+      "summary_kr": "아파트에 이사할 때까지 스토브가 없어진 걸 눈치 채지 못한 여성(독점)  People.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "자신이 꿈꾸던 아파트로 이사한 여성이 열쇠를 받은 후 주요 가전제품 하나가 없어졌다는 사실을 깨닫습니다(독점) - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEc0QllPN3hvaEt3ME5peFNEV2JmNkJ5U2xNQjY1NDNBNG1fejRJSTNfZGN0d09nZjVEVzJ5R3BGM0NkMDJQMXVOZGptTF9uME5jTlVKRmpnVlBQRUxBNHZBY2ltTkoyWG5vTFYyZkduYmNrVFhDZzF6R0h6SDhEWQ?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1783430574,
+      "summary_kr": "자신이 꿈꾸던 아파트로 이사한 여성이 열쇠를 얻은 후 주요 가전제품 하나가 없어졌다는 사실을 깨닫습니다(독점) AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "잠시 침체기를 겪은 후, iRobot은 5개의 새로운 Roombas와 습식 건식 진공청소기를 발표했습니다. 구원의 시간인가?",
+      "media": "Bing News",
+      "url": "https://mashable.com/life/july-7-new-irobot-roomba-robot-vacuums-launch-price",
+      "time": "19h ago",
+      "pub_ts": 1783424460,
+      "summary_kr": "로봇은 보다 예산 친화적인 가격 모델과 멋진 살균 대걸레만으로 파산 위기를 피할 수 있기를 바라고 있습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Groupe SEB는 글로벌 조리기구 전략을 간략하게 설명합니다. 투자자들은 가전 선두주자를 지켜본다 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdEs0MFFtLXZzOHBVQlNhUUt0ZWtxRUY4VklaSmQzME9kb1R4VnJraDg2UmNLSGtKNElVUkhURmFnbmdqT0Y4VV9Tc3ZOUFdTUW0wSThVMjM4Z28yNm1Sdzhya2ZBRkZFVU82bWk4ZXVvNENQdndtN0hfZElrX3FUajUwMTdYNEItbnFYUkhmY0N6NDZmTzlZMTJlNTZPNmkxU1JGY2k2S2tlRHV0RjdMWlN5bXRQa19oTi1zODktYU1La2N5TFE?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1783419484,
+      "summary_kr": "Groupe SEB는 글로벌 조리기구 전략을 간략하게 설명합니다. 투자자들은 가전제품 선두주자를 지켜본다.  AD HOC NEWS",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 가전·자동차부품으로 2분기 호조세 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LZWdrMlRtUDUzX2lhZDNxTGh4SHZUWE9GMmhFSXhtSllROXBzS2NsRkpuVDVqYmVuMWxDakE4RWVDUnZ4NEx3SF82eHJNem83S3Fr?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1783414077,
+      "summary_kr": "LG전자, 가전·자동차부품으로 2분기 호조세 매일경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "가전배송 중단에 홈플러스 카드결제 취소 급증 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmZ3WEtIUUoyY3hsbnBZdi05RFp0Yzg2Qmprazdja3Etc0lDcU9wYzVybHVEaW40OGhTUHRFaFAzbUxwb0RQZExScFp0NG1SRllkZUNmMlQtZXJscmhINlpFZUlhcnRnWV9EZ2o2TEZVM3pSTHRtcmZ3VUU3MjJwdmNwSTFTRXZvODRrOTBTaFZzUzNtX1pOaU5DSk9DeXdN?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1783413235,
+      "summary_kr": "가전배송 중단 후 홈플러스 카드결제 취소 급증 서울경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 프리미엄 가전·미국 관세환급으로 사상 최대 실적 - 중앙일보",
+      "media": "Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWHU2TGVqS05aODYwRkU3dE9wd2tMd3dkc3RkczZ4RW5NaktHWi1HRWZfa0IzTGx1V2tlMzFNVElYLUZYdUZZRGdBRU03MF9kci1BSlJxSllkSThFN3ktbUhoeFdIeWtjZlUyQk1ObE0yQkJabzIxZ3BSdEs2ZFpIOGJtelV4d1JyNG50QWhqNjc1N0NtcV9RQVZUa21Wbk13REtyNFNjc2EtSmJ5cmp5NElUbEZaSk9md0RvVDVXS2Uya1RaOURVUWNaNA?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1783411505,
+      "summary_kr": "LG전자, 프리미엄 가전 부문 2분기 사상 최대 실적 기록, 美 관세 환급…중앙일보",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG 구독 시멘트, 말레이시아 최대 가전 구독 소매 네트워크로 자리매김 - 뉴스와이어",
+      "media": "world of buzz",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFlDRF9JUTdLNGpSc3hkS2Nxd1dzWkpyRVpxNjFwQ1lIQm9jNlFfT2dWSVNUM1pTRGhSYnhqRjl4MEpaa0VfRUdnR2hRTElBQ0k2V2tnN3QyYVlrRHcybkR4MzhONmRTX0NscDY0WHdJVEFLelNUekprTFZkM0hEVHc3OVJTNnlfbUJHSVVLOEFPN1FuakN5c29oc0RXNTFNcmhxQ0VWNGZEeXZESG1peXFBSWVCV0NId0E?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1783411371,
+      "summary_kr": "LG 서브스크립션, 말레이시아 최대 가전 구독 소매 네트워크로 자리매김",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "'메모리 쇼크' 홈 히트: 삼성 DX 사업부, 스마트폰 가격 경고 - Finance.biggo.com",
+      "media": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCcUFEd0JURkVMWWxZVGZFOUQ1VjlQUmg4QVBVdlFrbDdVR29qU0dVU2FDcnkwdEc2UnpyeFVMcDAyV0Q4dURoRXp6M3hIcHVXUk9sT01iVGFpN1V1ZjlzZndrY0hHQWQ1TTkyYW1LVGFqNlJWUlE?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1783410960,
+      "summary_kr": "'메모리 쇼크' 홈 히트: 삼성 DX 사업부, 스마트폰 가격 경각심  finance.biggo.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 가전판매 급증으로 분기 사상 최대 실적 - 코리아비지와이어",
+      "media": "Koreabizwire",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXRQZ2JBa1RwclFmcnR3SXRQdlg2blZRN3FoN0NIS241U0FBNV8zczVuSjA5c2l4aU9qdDFWRXNHaWItTkl3V3hyR3JIN2dFYWU5ZEdTdkVKUGROQWpwdnpzMkoxY3JCS0dKUU9raFQzaTY4WHRSX2ZsRG1HRlBacG8xMEZkd05DWWhnMlUyY0p5THBJcVZROEpIcHJJU0UtNlo0Sg?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1783410595,
+      "summary_kr": "LG전자, 가전제품 판매 급증으로 분기 실적 사상 최고 기록 코리아비즈와이어",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    }
+  ]
+}
