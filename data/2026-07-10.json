@@ -1,11 +1,11 @@
 {
   "date": "2026-07-10",
   "date_display": "2026년 07월 10일",
-  "generated_at": "2026-07-10T16:50:03.168800+09:00",
-  "generated_at_display": "2026.07.10 16:50 KST",
+  "generated_at": "2026-07-10T17:15:51.920455+09:00",
+  "generated_at_display": "2026.07.10 17:15 KST",
   "category_counts": {
+    "Market Dynamics": 7,
     "Competitor Analysis": 1,
-    "Market Dynamics": 8,
     "Samsung DA": 4,
     "Samsung Jet Bot": 1,
     "Technology Trend": 1
@@ -14,20 +14,34 @@
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 0건 감지",
-      "desc": "오늘 수집된 15건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 14건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 5건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 5건이 감지됩니다. 주목 기사: 기존 진공청소기의 안녕: 삼성은 스팀, 바닥과 얼룩을 인식하는 AI, 셀프 청소 스테이션, 열풍 건조, 자동 비우기, 물 보충, 앱 제어 기능을 갖춘 2-in-1 로봇을 깜짝 출시합니다. - CPG Click 석유 및 가스. 삼성 Bespoke 0건, Jet Bot 1건 커버리지 확인 바랍니다."
+      "title": "시장 기회 6건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: Breville Group (ASX:BRG): 프리미엄 주방 가전 브랜드를 전 세계로 어떻게 확장합니까? - 칼킨. 삼성 Bespoke 0건, Jet Bot 1건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
       "title": "경쟁사 기사 1건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG전자, 가전제품 다각화로 국내 이익 급증 - CHOSUNBIZ - 조선비즈. 시장 전반 기사 8건, 기술 트렌드 1건 함께 검토 권장."
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG전자, 가전제품 다각화로 국내 이익 급증 - CHOSUNBIZ - 조선비즈. 시장 전반 기사 7건, 기술 트렌드 1건 함께 검토 권장."
     }
   ],
   "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Breville Group (ASX:BRG): 프리미엄 주방 가전 브랜드를 전 세계로 어떻게 확장합니까? - 칼킨",
+      "media": "Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLTJmVUhWWmJSbE9BNThmRklMT0E0RHJlQkQyaUdZd3hsT1FrMnBmLTNfTlkzYm44R2lKSWJNLXYwaFVLUTVHUGtZay15WkdObngyUDZXZF9OWDBOMmJsQWNwdG1mSDZEVHVCNDhKR2doYWJNY3Rmd25SdjU4VWswVUpmWlowckdNYkRXaXUxNEZveUlNY0JsanFiRzZVVGs1WUo3R2lQQnQ3WU1jU0lZLVdEMldOTjhyNzEzWHNqczYzcVdSc0xPTXhnNA?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1783667340,
+      "summary_kr": "Breville Group (ASX:BRG): 프리미엄 주방 가전 브랜드를 전 세계로 어떻게 확장합니까?  칼킨",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
     {
       "category": "Competitor Analysis",
       "title": "LG전자, 가전제품 다각화로 국내 이익 급증 - CHOSUNBIZ - 조선비즈",
@@ -47,7 +61,7 @@
       "title": "가전제품을 위험하게 만드는 4가지 휴대용 에어컨 실수 - 이상적인 집",
       "media": "Ideal Home",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTDNPUUhSTmxUX0V1emlXNXRJVWc0S3RXa0FfQnhDZ3RRcjdnQU1tWFVXeU9EejE1ejBPZnB3STF3bW8tUUI5SExzWEU4VlFpQTI0OXlvUmN6bk1NbmJGSTF5VHJoOEhRcEczc3pKTXNXcU00S0RscV9KY1ItUkU3ZUhqWGVXVEhFejlTWnQ2ZUllRmZDOG9DeQ?oc=5",
-      "time": "1h ago",
+      "time": "2h ago",
       "pub_ts": 1783663200,
       "summary_kr": "",
       "strategic_implications": "",
@@ -75,7 +89,7 @@
       "title": "AI 칩 붐으로 '칩플레이션' 촉발 — 냉장고, 세탁기 가격 25% 급등 - Finance.biggo.com",
       "media": "finance.biggo.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rT2pvcWV3TU91NGhhdHgyNmZ5dTJ2Mkw5VXc5NnVmUVNUVnM1TU56Q3hvUFNjbHM4cEFsQTAyVlE4RHlxQnBra3l0VU1oV2Y5eVpHZmowUkJldUJXZ2UzSUNPcV9mUXlyeWNlVG54WGlCd2dZM2c?oc=5",
-      "time": "6h ago",
+      "time": "7h ago",
       "pub_ts": 1783644960,
       "summary_kr": "AI 칩 붐으로 '칩플레이션' 촉발 — 냉장고 및 세탁기 가격 25% 급등 finance.biggo.com",
       "strategic_implications": "",
@@ -114,34 +128,6 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "소비자 보고서에 따르면 7월에 대폭 할인된 가격으로 구입할 수 있는 최고의 주방 가전 제품 - AOL.com",
-      "media": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFZKSFBrSlpSclNlc2V0dDBUYWRyeHE1aDVIdVFrUDFzSWswWklUVTBXMVhYcU9IM0FhaUZUT0NCQ0wyZUw1Ql9SU2ZKb3I5alpOdUhxbVNQaWJZcmJ1a3l6ZnlTaFoxVEdsc3RXQ09YOVpCUEJHZzlhLTlOZGI4M1J3?oc=5",
-      "time": "12h ago",
-      "pub_ts": 1783623989,
-      "summary_kr": "소비자 보고서에 따르면 7월에 대폭 할인된 가격으로 구매할 수 있는 최고의 주방 가전 제품  AOL.com",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "80년대에 인기를 끌었던 이 제품은 이제 우리 집에 꼭 필요한 빈티지 주방 가전입니다 - AOL.com",
-      "media": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDMtcng1TVNMWEpSY0lxODNLUmRrc3FDMWJkWVMtVXVVNS15eXJLd1JqT01fYjhuMnNWYzNpRW9COWJsS1BtOW11d0VOZWVrc1JRM0NaSnlOdUtCREVta0dFX3AzR0J4QnZVSUNHMnM0amRkajY0bG1xeTRDeEdZQw?oc=5",
-      "time": "12h ago",
-      "pub_ts": 1783623915,
-      "summary_kr": "80년대에 인기가 많았던 이 제품은 이제 우리 집에 꼭 필요한 빈티지 주방 가전이 되었습니다. AOL.com",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
       "title": "Amazon Outlet에서 Caraway, Martha Stewart, HexClad 등을 비밀리에 할인 받으세요 — 거래는 $7부터 시작합니다 - 음식 및 와인",
       "media": "Food & Wine",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qd2VsTDltLUZuNm9GVm9odDdtX1VyYmlTclZ2aVZXR0hvYzByX3p4NzRPZG84RzBHSGhXZEFwdzhWTXR3S3dnU29tYXlLcDlIMGdEVTBTWDBEWDB0SVFKSVFPSExFS0hObzdUVGZNTmRSNG1uVUQ1aUlVLVlBWUE?oc=5",
@@ -155,11 +141,25 @@
       ]
     },
     {
+      "category": "Samsung DA",
+      "title": "삼성 인도, 판매 단순화 위해 TV·가전 유통 전면 개편",
+      "media": "Bing News",
+      "url": "https://www.newsbytesapp.com/news/business/samsung-india-overhauls-tv-and-appliance-distribution-to-simplify-sales/tldr",
+      "time": "15h ago",
+      "pub_ts": 1783616400,
+      "summary_kr": "삼성전자, TV·가전 판매 부문 중복 기능 제거해 수익성 제고 위해 인도 사업 구조 개편",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
       "category": "Technology Trend",
       "title": "하이얼 주식은 스마트 홈 확장으로 유지됩니다 - AD HOC NEWS",
       "media": "AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTgtaXUyNWp6Ukd4aWdjREdsMUNLekx4Vlpmb3BNNnlYT1J1ejdoMVVseVUyd2MwRXJUT0pPZnJpLVVTOFk4eGpWVlo4aERha3BvUXF4SVdzNFRRTnltNURBaEJlZVFsRzdqX0F1Q0ZhYjFqR0l2ODVYLU9Xd2ZHX05IRDVYa2ItUWlOSk10QlZWblpweXlWLWhwUlFaQk5aRVFNN0xIT2F1LTJxTFlZ?oc=5",
-      "time": "15h ago",
+      "time": "16h ago",
       "pub_ts": 1783613539,
       "summary_kr": "",
       "strategic_implications": "",
@@ -173,7 +173,7 @@
       "title": "Thermador, 완전히 새로운 Masterpiece® 슬라이드인 인덕션 제품군 공개, 새로운 보급형 가격 등급으로 럭셔리 포트폴리오 확장 - Voice of Alexandria",
       "media": "Voice of Alexandria",
       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQSEFXajNGenMyUGNHLTFqdlBBdkd5ZkVQdk5qaTVZZllGbzJBc3JrejBVR2xnaWtsblVocHNQbHFmRDdmdl9Sa3lyUzdEeXkwSkl4R042ME4ycFc3UkxtWEpmbTlFODVNLW9hNE92RXFHWFJYb1FaVzFSVkhZN2o0YzdPMEtqR1VCZEFpZ2MzTmdINXRmaEdhV21rVGJXbzA0UWZ0ZTJmRmFYU3V0a2Z1bmtjUlFQZjRneUNZTWFhZ0REOGhLN21DSVVDajBRUkVEOWIwdWpnRGVmQlVMTl94UlNseTQwWDgxaEd0MTlZVWJvb0N4ZTEweW5YZnRkNVlpMnZTSFpfY2NodmdIT2xQUmdBN255eEpvTXloUkVkTVpPT2RLT0pjTTlZc2ZwQ0lmUGVVdnpEOGZwZw?oc=5",
-      "time": "18h ago",
+      "time": "19h ago",
       "pub_ts": 1783602056,
       "summary_kr": "Thermador, 완전히 새로운 Masterpiece® 슬라이드인 인덕션 제품군 공개, 새로운 보급형 가격 등급으로 럭셔리 포트폴리오 확장 Voice of Alexandria",
       "strategic_implications": "",
@@ -194,20 +194,6 @@
       "impact": 4,
       "tags": [
         "opp"
-      ]
-    },
-    {
-      "category": "Samsung DA",
-      "title": "삼성 인도, 판매 단순화 위해 TV·가전 유통 전면 개편",
-      "media": "Bing News",
-      "url": "https://www.newsbytesapp.com/news/business/samsung-india-overhauls-tv-and-appliance-distribution-to-simplify-sales/tldr",
-      "time": "19h ago",
-      "pub_ts": 1783599120,
-      "summary_kr": "삼성전자, TV·가전 판매 부문 중복 기능 제거해 수익성 제고 위해 인도 사업 구조 개편",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "watch"
       ]
     },
     {
