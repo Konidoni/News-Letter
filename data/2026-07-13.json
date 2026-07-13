@@ -1,0 +1,155 @@
+{
+  "date": "2026-07-13",
+  "date_display": "2026년 07월 13일",
+  "generated_at": "2026-07-13T17:10:21.899446+09:00",
+  "generated_at_display": "2026.07.13 17:10 KST",
+  "category_counts": {
+    "Samsung DA": 3,
+    "Market Dynamics": 6
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 9건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 1건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 1건이 감지됩니다. 주목 기사: 메모리 가격 오르면 올여름 삼성 수리비도 오른다 - 서울경제. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 6건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 자재값 급등에 수리비 인상 - 일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjJINDQ2TmdwSUZpeE5jUTEzUG5QeEpERW0xMzhzdld3MjZpSGJBdmFnMkxfSk12VzRMWjJRYXNwMTJ5UnVJNVB6TmVPQ2xIYVRCZWR0MnQ2UEdmWEE4aU90YTgyOXZZQUQ2V01pbktMOHBUSkxZYWRPeUNOZVU1ZFZCeTd1aXdU?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1783925704,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "\"사는데 비쌌고 이제 수리비도 올랐다\"…삼성, 칩플레이션 속에 A/S비 인상 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BRkxnQ2ZLNzFyZFg1QkxZQmVmNHhCWThISTQ4NzE5RS1aaWtOdG54TUozWGNlMFZkTS05R0I5YU1XbTdzbGRvdXdxd181X28xNWNr?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1783920285,
+      "summary_kr": "\"사는데도 비쌌고 이제 수리비도 올랐다\"…삼성, 칩플레이션 속 애프터서비스비 인상",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "메모리 가격 오르면 올여름 삼성 수리비도 오른다 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEZYUHlKX09yNnRjRHFVMlBZYmlUZzBQb0Q3MjdtRWx1S0w0bU5USGdkeUVMRy1VSUV0YTRIVTAzeEp5bWJReTZQa2x0S0w1T0tjSG9nRWg0dC1oakF0WWFnQ3JrQVhfd2swS1VlOXdOekxVdTduQWZpVnNraHJzT1hjLVczRko1R0R5VDM3Rl90WDQ5RHJkQ2JvVkFkWVAwVXc?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1783903219,
+      "summary_kr": "올 여름 메모리 가격 오르면 삼성 수리비 오른다 서울경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Bosch 뒤에 있는 회사는 3개의 다른 주요 가전 브랜드도 소유하고 있습니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EaU02c2l4QUZuakZSZTZUYV9JWXhWUG4tcTFTV2hVQnNHcUJteWdNVXdNZm10Y29NbXYzMzEyTGlGZ2YyVnB3aFdXOXpaUnMzM2oxdUxMS1Vua05sNE1OTWZzczUxMFVqeUo5Y2phWnNtd0U1UUYwY2JBTQ?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1783889367,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소비자 보고서는 이 꿈꾸는 복고풍 스타일 냉장고가 중요한 부분에서는 부족하다고 말합니다 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeURJM3lqeXpZMnVEam5RRlFvN0FOOXdrRlRjZGxMTUR6WUUzV2tMM3hZX0YzZ2NTNWVwRzRsbm95a21VMGhGR0ltQnJWWjVabzBwTUhKbGlDM2ZoOEQ2X3ZwTnRSa0VsMURjRy1MN05jM0ZxbEVscF9uLUs5ZVJZQk9xUlJZYmdsSlRKdV9kSTZFZWFzRndNRkhEcmk5Zw?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1783878000,
+      "summary_kr": "소비자 보고서는 이 꿈꾸는 듯한 복고풍 스타일 냉장고가 시식 테이블에서 중요한 부분에 부족하다고 말합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "GreenPan의 16-in-1 아이스크림 메이커로 모든 일을 할 수 있습니다 - 가정과 정원",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdUJiS3o1ZzRqZ3JGbk12VUtYR0k5TU5MZDFybkNuN3Z3YWlhTEN2eFFTVlkzaFEwTk15RUlsZVpXZExweTVCc09kb09mQVlvZ0xxTG1fNjE5RVo3dkZmNDdiUFNSV08tQWstODBTc3dJVmcxeGczM2QzLVhMNUpXSkpGMTFiQjNrWXpBNnZBWVRtRjR5WWdwcU5vc05hYzBPamVNRFp0dw?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1783873800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방가전 비용을 절약하는 현명한 코스트코 쇼핑 팁 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0VMQWpOcXg3UzNsZlhPZFlHVXVKX2x2VHI3bkJXcjNPU281TDBiUFJJU3BkenNsczQzMk9aUlMyNHlGS21zUEgxSy1RZUR2UlV1aGFIVVN2aHd3MkZyUVpMWEI1THA0LU9hZUUwTG5RZnByTFcwc0NKenloRVhUdDhKT1lYWVlvSW9xY1NmLVQxQ0k4S3ZwejZTdVI4dnpLSnRj?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1783872300,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "80년대에 인기를 끌었던 이 제품은 이제 우리 집에 꼭 필요한 빈티지 주방 가전입니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGkwb21rbG5ZVlZjQTRqU29wVlJPdF8tM1lhN25WMVp1SUJxUG1QRWZRYUltaXlsbVZBSlhoZ01YS3BQenI1R1FjNTh6YmhaZzd4YzBJeWZEMHRfQ2VUdnBIclNYdWwwazk2eVNCQjk5UjNCNEt2T0VXdC1Ic1JpTkdR?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1783866499,
+      "summary_kr": "80년대에 인기가 많았던 이 제품은 이제 우리 집에 꼭 필요한 빈티지 주방 가전이 되었습니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "코스트코에서 구입할 수 있는 인기 냉장고 브랜드 5가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRFZmUXNnN1hJYmZwSHMwRUoyUFl4RnNEOHVMTndZVXNfYm8yQlJRVk1VZFZOMjdFYUVneExsX3QxWDVsSkdIaG90VXQyUGFSQWhHRDlkRTdhUVZzYzF3RmdZeXREX2lfSlZYdjVSblU4WTZUenp4Z09vVjJfaUlzYm10bw?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1783849978,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
