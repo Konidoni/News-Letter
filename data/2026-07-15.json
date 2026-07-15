@@ -1,10 +1,10 @@
 {
   "date": "2026-07-15",
   "date_display": "2026년 07월 15일",
-  "generated_at": "2026-07-15T16:00:02.395876+09:00",
-  "generated_at_display": "2026.07.15 16:00 KST",
+  "generated_at": "2026-07-15T16:08:00.632547+09:00",
+  "generated_at_display": "2026.07.15 16:08 KST",
   "category_counts": {
-    "Samsung DA": 2,
+    "Samsung DA": 3,
     "Market Dynamics": 16,
     "Technology Trend": 1,
     "Samsung Bespoke": 5
@@ -13,7 +13,7 @@
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 0건 감지",
-      "desc": "오늘 수집된 24건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 25건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
@@ -127,6 +127,20 @@
     },
     {
       "category": "Market Dynamics",
+      "title": "뇌우가 치는 동안 세탁을 해야 할까요? 전문가가 위험을 설명합니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclZ3ZXB0YlpJdHJTWUxueEV5Q3l5RzlTc093UDRlTTkxWnB5WkQ3Wlo1WGFpTk5jbjVnUC1HNy12eUg0aThJZ3I4MUZybDAzMk10djhORzRESEJGSEVnUi1BRi1HY1RQNWVxRE1RLUduU1pKVGNrelJQN25EQktUSllOVXZtejd3QU93?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1784062963,
+      "summary_kr": "뇌우가 치는 동안 세탁을 해야 할까요? 전문가가 위험을 설명합니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
       "title": "Marshalls는 아이코닉한 빈티지 스타일 주방 기기를 매우 저렴한 가격에 판매하고 있습니다. 하지만 사라지기 전에 구매하고 싶을 것입니다. - Parade.com",
       "media": "parade.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWVlYczZPU1dUdHJqU1ZCQWtkazF4YlVRZEdYdGFuLWxyaEtwT0E0dlltUjZvalVySHhKVzQ1dkpwdGFUZ1JoSWhYOUdPdmRNTHlYdUZPTF8xd2tjTjhrN3lMaHBLdmEyV3d6VnQtSkdfWVZLeVRjX0dsZUZVUzd0MVY2b3p1dVBWcVJST1FKQTRXaHpxT0hrbHdDNnY?oc=5",
@@ -154,15 +168,15 @@
       ]
     },
     {
-      "category": "Market Dynamics",
-      "title": "뇌우가 치는 동안 세탁을 해야 할까요? 전문가가 위험을 설명합니다 - AOL.com",
-      "media": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX09hNlpQYXVBY0Y3SGxJTTF0VS1kZF9NRVB2ZnpfdG1sbnhUWEVpTlBTcmZLVENOeklwRDJETXdMVjlWdVVSMjhaN0w4MU1EemdCLWJmcjVtbTZLZF81SGJPVkxKem8yUThSVHd6cFIyUTYwWE42dERfTk96YVd3aWl0d0R6R204ckU4?oc=5",
+      "category": "Samsung DA",
+      "title": "삼성전자, 국내 브랜드에 밀린 TV·가전시장 떠난다 - Turkmenportal.com",
+      "media": "Turkmenportal.com",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxONzNBVVBsWFdLYVcwWnhXSEtEN256Ti1LalZ2T1FtUnlTZmZocEgtRVA2Z0g1M2NaUmZrYzE5eDF3VTlLM0lXWDZKREt6eEdScUJHc2JfTzltclgzbkZ1cXF3ekJ3RUZpcDM5OXN4N3JFS2c0ZFFlR3FGV3BraGNwUlZ2SjZBZV9HQzhqV2pvTTlickgxQ2FHZVp0OTJkSTMzRUgzNGFVcFpkdmZodUJBWU1EMlloOTBCdFp5aS1XUHpxb3A4ZnlsRTI4ODRNenVrT0JEQTY5V254el9ZM2lHY01UTVJ4RHJRY09nSGJJLUdNZWNLUkdJcnpGb3JHNWpfVVNIS1hSQlRBcUlvXzVVbQ?oc=5",
       "time": "11h ago",
-      "pub_ts": 1784057460,
-      "summary_kr": "뇌우가 치는 동안 세탁을 해야 할까요? 전문가가 위험을 설명합니다. AOL.com",
+      "pub_ts": 1784059416,
+      "summary_kr": "삼성은 현지 브랜드에 밀린 TV 및 가전제품 시장을 떠납니다.  Turkmenportal.com",
       "strategic_implications": "",
-      "impact": 3,
+      "impact": 4,
       "tags": [
         "watch"
       ]
@@ -172,7 +186,7 @@
       "title": "스테인레스 스틸은 잊어라: 부활할 가치가 있는 70년대 주방 가전 스타일 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2xXZmJEOE1PaFZVVTJid2VTNXB1dmJRdVE1LWJlX2QxbnpOYWlmVkdpY0ZzUjA3M2ZWQmpBRjVFSTRLRklhWXk4aVYxU2gybFZ3YkxNR2R4ZDlraVVJel9EQUNFOVBYV1VXSTNDb21OSEwtYlgtRzJ4SXk3Zi1oRUlaVjc?oc=5",
-      "time": "11h ago",
+      "time": "12h ago",
       "pub_ts": 1784055906,
       "summary_kr": "스테인레스 스틸은 잊어라: 부활할 가치가 있는 70년대 주방 가전 스타일 AOL.com",
       "strategic_implications": "",
@@ -228,7 +242,7 @@
       "title": "컨슈머리포트, 2026년 최악의 식기세척기 브랜드 중 하나로 선정 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2VKd3JtUHQ4dFFBeW14aTR1TC0yN0lGUkVUb3FScko0aVZ2clRRMlNJV2x5WnRXTjN6ZW9JWUlaMDQ1Z2ZORFpham96VjAwc3dVM0VseFdwYmxLYWNyMmtOdGNfWndyMWdmaEZXZUR5WXRUYVZXRHlqeVdSa3Fwc3JR?oc=5",
-      "time": "13h ago",
+      "time": "14h ago",
       "pub_ts": 1784048625,
       "summary_kr": "",
       "strategic_implications": "",
@@ -312,7 +326,7 @@
       "title": "초효율 AI 세탁 가전 - Trend Hunter",
       "media": "Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQamdFWDNVeGE0Vm9ubW9PX1BnZUl3dXZOaUdmVWp1d0FvLVotemFjUmp5V05OM0NuVjM1Ql8xcHJfMEs3NXVBMWVRN01kdVd5a25wc2NGb0htdzlnSmdDVGR1V1VaV3dNN3ZHSXBMdFRiN3Faa3JNQUFB0gF6QVVfeXFMUFBqZ0VYM1V4YTRWb25tb09fUGdlSXd1dk5pR2ZVanV3QW8tWi16YWNSanlXTk4zQ25WMzVCXzFwcl8wSzc1dUExZVE3TWR1V3lrbnBzY0ZvSG13OWdKZ0NUZHVXVVpXd003dkdJcEx0VGI3cVprck1BQUE?oc=5",
-      "time": "20h ago",
+      "time": "21h ago",
       "pub_ts": 1784023616,
       "summary_kr": "",
       "strategic_implications": "",
