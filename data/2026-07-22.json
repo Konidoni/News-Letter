@@ -1,8 +1,8 @@
 {
   "date": "2026-07-22",
   "date_display": "2026년 07월 22일",
-  "generated_at": "2026-07-22T14:30:46.936030+09:00",
-  "generated_at_display": "2026.07.22 14:30 KST",
+  "generated_at": "2026-07-22T16:29:54.898337+09:00",
+  "generated_at_display": "2026.07.22 16:29 KST",
   "category_counts": {
     "Market Dynamics": 15,
     "Samsung DA": 3,
@@ -13,13 +13,13 @@
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
-      "title": "주요 리스크 2건 감지",
-      "desc": "오늘 수집된 24건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: Breville Group (ASX: BRG) 하락 — 글로벌 가전 브랜드 평가 - Kalkine. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+      "title": "주요 리스크 3건 감지",
+      "desc": "오늘 수집된 24건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: Amazon은 KitchenAid, OXO 및 15달러 미만의 기타 거래를 중단했지만 오래 지속되지는 않습니다.. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 6건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: 삼성 신학기 가이드: A+ 기술은 여기에서 시작됩니다 - Samsung Newsroom Korea. 삼성 Bespoke 3건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "title": "시장 기회 7건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: Amazon은 KitchenAid, OXO 및 15달러 미만의 기타 거래를 중단했지만 오래 지속되지는 않습니다.. 삼성 Bespoke 3건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
@@ -30,10 +30,25 @@
   "articles": [
     {
       "category": "Market Dynamics",
+      "title": "Amazon은 KitchenAid, OXO 및 15달러 미만의 기타 거래를 중단했지만 오래 지속되지는 않습니다.",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1NzhHRzE3d2FpZ1VETVdiMXNBdDZEMVcwYUVseHVMVDA2c3FZblZMOTd5NHVQcE1vbTZ4Ui1JOHZ5eXdBYVB1dnc4em5IUWhYX19zc3ZmTTR2bjN6dEwtekNMbzgxdjI0M3hjWkhRSks5N2VqcWQw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1784700900,
+      "summary_kr": "Amazon은 KitchenAid, OXO 등 15달러 미만 할인을 중단했지만 오래 지속되지는 않을 것입니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
       "title": "Breville Group (ASX: BRG) 하락 — 글로벌 가전 브랜드 평가 - Kalkine",
       "media": "Kalkine",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjF6emx3SWlYazNrQV9pcFpVLUxneEFXUjNaZXBiYmhOZ28xbmpoRk9PU0dnbFlMMmpSN0xUVi03MFJ4aGhDYlZueXFEQzk5MDVyNWpMdW5lUGM0VndMQnh3VVJ4by0yLVM5Sm9UdzdHSmNYOFdCNWwwbUJhclp5Z21WVW10WmVNRFJBMlBSY2tXV04xVnVRdEtKaHJJZkFyT082bTVFN2Frdw?oc=5",
-      "time": "1h ago",
+      "time": "3h ago",
       "pub_ts": 1784692860,
       "summary_kr": "",
       "strategic_implications": "",
@@ -47,7 +62,7 @@
       "title": "삼성전자서비스, 서비스품질평가 1위 유지 - 매일경제",
       "media": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Cc2U4MEpSN1pVNmZkS1cyT215SF9JM2pTN3JVY3RXNWllb1hwUEJicF9qQTJuTE9ZczFDLVNkZWM2bzZ5RlB4Q1NxX1Rudm9PajhZ?oc=5",
-      "time": "3h ago",
+      "time": "5h ago",
       "pub_ts": 1784686727,
       "summary_kr": "삼성전자서비스, 서비스 품질평가 1위 유지  매일경제",
       "strategic_implications": "",
@@ -57,11 +72,25 @@
       ]
     },
     {
+      "category": "Market Dynamics",
+      "title": "빌트인 가전업체 하츠, B2C 확대 위해 온라인 판매 확대 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaG5CUXd3S2YwZFhHWUJjLUJEa1RqTjNYMUd4a05HYk1xbWNDcEFQNnRGR2QyZ0tZT1VCOEtUVTk2d3FGWXQ5UVNkS0RncDBWNVdKbjZRQ1k3cE1ZSHVRUnEtY3BoZnhCQVk2NmVzWkpaQ1dTOGNuUTdJU01zMmFrRU5CVE1DUUVhNTM2NTVaRHJYQUk2dVlZb05kUWQ?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1784679735,
+      "summary_kr": "빌트인 가전업체 하츠, B2C 영역 확대 위해 온라인 판매 확대 서울경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
       "category": "Samsung DA",
       "title": "삼성전자서비스, 가전·모바일 AS 부문 KSQI 1위 - 아시아경제",
       "media": "아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WT3BnTERmMFVwWWJmN2dONzE4YXB6R2ZjTVpMZkxxZFdhamN6bDVNX05feXZMSEFDRnVhTm5uUEZpeVdMbC05Z2hFb3NwSzlKbmdIUTVUeXZmVDJRVkVnWUQySXA?oc=5",
-      "time": "5h ago",
+      "time": "7h ago",
       "pub_ts": 1784679416,
       "summary_kr": "삼성전자서비스, 가전·모바일AS 부문 KSQI 1위  아시아경제",
       "strategic_implications": "",
@@ -75,7 +104,7 @@
       "title": "사용할 때마다 플러그를 뽑아야 하는 주방 가전제품 3가지 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1RKNmhZQVJOZWZQMVo0SWVZLTJXQW5GYllNTG54SDIwYTJURGVIcUI0amcwbmtvZGV6a1RQUWdydXVCWVl6NExWT1NZTDhhRWU4enlkVHVUWkpQMnFCVEx2bDd2LThybE9zRVFHM241emdlbHgxMVhRWDBaRWFERkJqSQ?oc=5",
-      "time": "5h ago",
+      "time": "7h ago",
       "pub_ts": 1784677522,
       "summary_kr": "",
       "strategic_implications": "",
@@ -89,7 +118,7 @@
       "title": "15달러 미만의 비용으로 일상의 불편함을 해결하는 천재적인 아마존 주방 기기 - Better Homes & Gardens",
       "media": "Better Homes & Gardens",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91NzlXZTJDOUlsRUlKOGpxeGJaTHVMNng3WWJkZTNNd3ljSWdvUVJpQktmc3JpdFlsLW9DN3VkY2hPbElVSThPclM4T3dFc0FEb3FMS01ZUVdnaDhudFhHZUVQYmpPbmt5a1EzZ3haRHBmOGMxNGNLSWpB?oc=5",
-      "time": "7h ago",
+      "time": "8h ago",
       "pub_ts": 1784673000,
       "summary_kr": "이 천재적인 Amazon 주방 도구는 $15 미만의 더 나은 집과 정원을 위해 일상의 불편함을 해결합니다.",
       "strategic_implications": "",
@@ -103,7 +132,7 @@
       "title": "삼성 신학기 가이드: A+ 기술은 여기에서 시작됩니다 - Samsung Newsroom Korea",
       "media": "Samsung Global Newsroom",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zMUpFZUFPc09ib1p1UUgyZFpxMjZRd1hwMENxSEMxdk4tSk9DekdNQjlvVEhJUjFHb1lqUjFNTTFWX1d3SDRrSHBYTnAxdENsbDZVSGwwUWUtN0hIM3NQVkQ3aTh3TUpl?oc=5",
-      "time": "8h ago",
+      "time": "10h ago",
       "pub_ts": 1784667066,
       "summary_kr": "",
       "strategic_implications": "",
@@ -117,7 +146,7 @@
       "title": "삼성전자서비스, AI 연결 서비스로 KSQI 영예 획득 - 조선일보",
       "media": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazlUeDB6OFVqSE0yYVhXTF9mdVFPTl9iM1dZd0JvRmhINUVlRTZxbkkwYnQ0aDlZbmhyclR2MW1rNUtFcy1aM05ObG5LM0FRRW5KRzJ6bDdtRll6NmVYSjR3NXhtQTk3TFFpeE43bFVnX19XWmhueXNxazlUSlY0cVZhbkVHLTZZ?oc=5",
-      "time": "9h ago",
+      "time": "11h ago",
       "pub_ts": 1784662879,
       "summary_kr": "",
       "strategic_implications": "",
@@ -131,7 +160,7 @@
       "title": "실제로 결과를 제공하는 15가지 스마트 주방 도구 - Gadget Review",
       "media": "Gadget Review",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVzFnTE1ibUdMSG1yaGFMMnpTamhYT2hBQWRUSUt5Vnc4b3RyWWJHM2dxMXJ5emNMVmE0YVpFTWxKSkFNazhlTUR3UFBJZ0pwamFjS0JrYTdvUGpRaE9wcWpDWUxPbnJ0T2FjcFkyVHFXaUpMWjEtOEVrd3JtRFltTnI3MHE?oc=5",
-      "time": "11h ago",
+      "time": "13h ago",
       "pub_ts": 1784656800,
       "summary_kr": "",
       "strategic_implications": "",
@@ -145,7 +174,7 @@
       "title": "지난 달 30,000명의 아마존 쇼핑객이 이 스팀청소기를 구입한 이유는 무엇입니까? - USA 투데이",
       "media": "USA Today",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFFRYkVyRTNOOS01blg4N0Y5TnRRTVlVUVZ1Sml4MUt2Q1pYZjIwdlRTZUNSUXVfWm9yNjU5bkJhNC1MRnZramR1ME90Y0hfRjZ0VkpYeFE1WjRnSHA2REI4YWFkeGJVbnNFYUtVc0luMlJOZVZORURnZWVLZGY0Q3I1U2dYNlMwTHFCd1BYMmVzVmZiWVRXeFZkSFZYdTdMYTdabnBLNzJoT3VvTU5nNW16OWw?oc=5",
-      "time": "11h ago",
+      "time": "13h ago",
       "pub_ts": 1784656620,
       "summary_kr": "",
       "strategic_implications": "",
@@ -159,7 +188,7 @@
       "title": "컨슈머 리포트, 더운 차고에 가장 적합한 냉장고 유형을 찾아내다 - 시식 테이블",
       "media": "Tasting Table",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONTFMN216QzZFdV9ONy1JbS1yRUt4Zmg1TDFFeTR1TjU1ZXdrSGEyUHhBbDdESE1JUC1sa3JOcmNqTnA4ZlZGLVVocnNoNFlGSW1OODJPQjFMZXZOSVl1NWlkMHBfelJxSUtRcHl1bDllQlB0UHRod09jLXJianh1azR2NWh6MEszWkhCNU5DVFNHcEE?oc=5",
-      "time": "12h ago",
+      "time": "13h ago",
       "pub_ts": 1784655000,
       "summary_kr": "소비자 보고서는 더운 차고에 가장 적합한 냉장고 유형을 찾아냈습니다.",
       "strategic_implications": "",
@@ -170,25 +199,11 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Lidl의 새 광고에는 10달러 미만의 주방용품이 있습니다! 당신은 무엇을 먼저 잡고 있습니까? - 여자의 세계",
-      "media": "Woman's World",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnl0QXd2NWd2T3ZBZW9peDVtR0MwUXpSbzU5VFc1MEhqaG1xam5kTkRFSmZ5SnVvN2VVbkQ5NW1malhRSUhodFBZR2JxZjdfR1dscDFHTWUwVnBNNE8zbGVqSEY2SDZDb3k2aC1YWmVudHY5aXA1cmpCcnRkQm9XTS1pVnZPYW95LTdHdldwaVNubmVLY2RhYzhJYUk3eUlLNF9YU0Vzc2NoSFU?oc=5",
-      "time": "12h ago",
-      "pub_ts": 1784653499,
-      "summary_kr": "Lidl의 새 광고에는 10달러 미만의 주방용품이 있습니다! 당신은 무엇을 먼저 잡고 있습니까?  여자의 세계",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "opp"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "인기 주방 가전 브랜드 Reddit은 '쓰레기'라고 부릅니다 - AOL.com",
+      "title": "GE가 소유한 5가지 주방 가전 브랜드 - AOL.com",
       "media": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSVdGVnZGMmNXallXYzdkeW5DamRtME1ybGVfWVBEbnowOXcwdlBKNXE5ekNidVhtemdhWkVMUXdsbHVHekV1bkhwRnM2bjkxaEJIMzdvYUd5VjZaUjNLdjh1bHRKWmNLbmd0TlBBSm1DcHZhcV9qWXd5MVZOeXFRYVkwX3dBaUo2NHc?oc=5",
-      "time": "13h ago",
-      "pub_ts": 1784649863,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUEloUUtKUjdZTGdXNEJBZUVJLVhJOWZDb29KVkNhb0h4anIzaEZITFkzZklQUWdHcGppS3VVdlZxUzk4MTFmYUdRWHcyRHRqWVBYNXNCMDRYcVBvbTVldVBsQl9SR3FqYmZsbW1OdVNtR3BUTzFTcXVXWkdaU2FWaThR?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1784654907,
       "summary_kr": "",
       "strategic_implications": "",
       "impact": 3,
@@ -201,8 +216,8 @@
       "title": "LG, 스마트 TV 앱에서 주거용 프록시 금지",
       "media": "Bing News",
       "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "time": "15h ago",
-      "pub_ts": 1784643060,
+      "time": "14h ago",
+      "pub_ts": 1784653200,
       "summary_kr": "거대 가전제품인 LG전자 미국은 이번 주에 TV를 스마트 TV로 바꿔주는 스마트 TV용 앱을 모두 중단할 계획이라고 밝혔습니다.",
       "strategic_implications": "",
       "impact": 5,
@@ -212,11 +227,25 @@
       ]
     },
     {
+      "category": "Market Dynamics",
+      "title": "인기 주방 가전 브랜드 Reddit은 '쓰레기'라고 부릅니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSVdGVnZGMmNXallXYzdkeW5DamRtME1ybGVfWVBEbnowOXcwdlBKNXE5ekNidVhtemdhWkVMUXdsbHVHekV1bkhwRnM2bjkxaEJIMzdvYUd5VjZaUjNLdjh1bHRKWmNLbmd0TlBBSm1DcHZhcV9qWXd5MVZOeXFRYVkwX3dBaUo2NHc?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1784649863,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
       "category": "Technology Trend",
       "title": "Hisense, 5가지 AI 전략 기둥 공개, 스마트 홈 동반자를 위한 새로운 청사진 공개 - Finance.biggo.com",
       "media": "finance.biggo.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KSmpoX0tyeGpYbHFfVG1NcDBlNF9QelRMRDlFTEZpTDhqT3ZsZVAxSllwbXlIcFZfLTViSmQweXNCek5ENG8xTTlhTHpKcHE4Rl9vbFBDQXAyMDV6c1daaVliUXhyVWxLZXFSdTVvVVh3RzBpWlE?oc=5",
-      "time": "16h ago",
+      "time": "18h ago",
       "pub_ts": 1784637420,
       "summary_kr": "Hisense, 5가지 AI 전략 기둥 공개, 스마트 홈 동반자를 위한 새로운 청사진 공개  finance.biggo.com",
       "strategic_implications": "",
@@ -230,7 +259,7 @@
       "title": "편리함보다 더 혼란스러운 주방용품 10가지 - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WZDZFUE5Fb0cweFZJZ1FEamZWSGdXMkVsNnV3cG8yNWwxdGZLZW94dGYtcjY5LXZFX29HNEpKd0pRR0tSNVVOcHhSVTNFanFKNnRVZVBxd3NMQm5nYWtqc0VLNmFpQ29USnpUb1BBLVFsaFhBVVFJZkRUblpQd00?oc=5",
-      "time": "17h ago",
+      "time": "19h ago",
       "pub_ts": 1784634112,
       "summary_kr": "",
       "strategic_implications": "",
@@ -244,7 +273,7 @@
       "title": "Xiaomi Mix Fold 5: 맞춤형 칩, 절반 가격, Samsung을 비싸게 보이게 함 - Memeburn",
       "media": "Memeburn",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OSUNOQjVnenBWb3M2bGd1UGFKM0Eyb0JHUUx0VnhJVVp1X0tISFJidUhleGVMTXdwQ1FRZnhzOEZZRENETFUxU1J3TFJ2WmtuSHh1d29NZVRtSlRaNUdkTjYtX1A3WmtpQzhYSDd4NVoxNTg?oc=5",
-      "time": "17h ago",
+      "time": "19h ago",
       "pub_ts": 1784633447,
       "summary_kr": "Xiaomi Mix Fold 5: 맞춤형 칩, 절반 가격, 삼성을 비싸게 보이게 함",
       "strategic_implications": "",
@@ -258,7 +287,7 @@
       "title": "스마트 플러그와 함께 절대 사용하면 안되는 가전제품 5가지 - t3.com",
       "media": "t3.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRkt2elFKNXBEb2twTlpBRDNwOWpjYlZnbFNLWFU5WnJGNWFDcHZqWjliR0lfSkhmMmY2SFBrNHZuVE45SFdCcExUM0ZsdlZsQVdXZTZXVndURUY4Yk5VQnZ4TTdVeVhidEFZN2NrclQwY0ZqdnVYbms2eG4zUElIa2U5Y3UybGJNZWczZnl3Snk3Q0V2dU5CUA?oc=5",
-      "time": "18h ago",
+      "time": "19h ago",
       "pub_ts": 1784633400,
       "summary_kr": "",
       "strategic_implications": "",
@@ -272,7 +301,7 @@
       "title": "LG의 홈 솔루션으로 이번 여름을 시원하고 신선하며 효율적으로 보내세요 - PR Newswire UK",
       "media": "PR Newswire UK",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGNqX0ZWYk5TY3RZY1E5Ym15U25aYTV6T0ExbUE3RHhZYjRvYnd0T19ld3NiMWw3ZUYzeGhkQ1dKc2R2UDdGQXNGdFBWblYyUVJyY3k0Vi1JV0xkdnFXd2l1QlNYaWFMdDVMT1U2U25iNjFUUkNlOXZ2dElMUmVBeWlkSy0xb0c4S2pjUGFQaFNnaW5BYVJmY2M4Yk10a20xczZNTWFmajQxM3RrVGl6djRiVzhBcGJvNzZlbVAzQ1A?oc=5",
-      "time": "18h ago",
+      "time": "20h ago",
       "pub_ts": 1784633280,
       "summary_kr": "올 여름 LG 홈 솔루션으로 시원하고 상쾌하며 효율적으로 지내세요 PR Newswire UK",
       "strategic_implications": "",
@@ -286,7 +315,7 @@
       "title": "추가 주방 카운터 공간을 확보하는 세련된 가전제품 차고 아이디어",
       "media": "Bing News",
       "url": "https://www.yahoo.com/lifestyle/articles/sleek-appliance-garage-idea-frees-182500463.html",
-      "time": "18h ago",
+      "time": "20h ago",
       "pub_ts": 1784633100,
       "summary_kr": "주방 카운터가 어수선하다면 추가 수납 공간과 요리 공간을 더욱 깔끔하게 보이게 해주는 세련되고 현대적인 차고 아이디어를 고려해 보세요.",
       "strategic_implications": "",
@@ -300,9 +329,9 @@
       "title": "삼성 비스포크 AI 세탁기 건조기로 업그레이드하는 것이 가정을 위한 현명한 선택인 이유 - The Economic Times",
       "media": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYnNjNTZCSWJXRmppLVRkN0llalkxems2VDhWLXdpNzZ3MkRHNEdjT2NqTUhUNTl0N002UHlVd1hkMkg3NG9pYXBNMFJ1Slk4QnRoWVg1S1dyVWtQOE90dDBxMEU0UmZUOXFhSEZ1Sk9PVTZSTlJtS1l1OXFLTnp1akstbGoxUDRIT2sxeTVMNlhuczdMbUpSRVM2WUoyM0lNT3h1NmwyaHV5bmJJUUFYeTROVk4xUlZnVkRRUF8zamo0djRxMDNxbUxuVXBJdE8xZnA3UzFRYkdydUNDVU8yQTdrWXY1bTc4c3RiT2wwUm1TdzUyU1ZEZ2RKNkzSAYICQVVfeXFMTnBuYVVmOTJDc2ZiTndYWG1LRmMtcTN3T3VHU252RzE4X0tRWE1ncUpFMlNHTy1rbHJDQlQyTlpURmZPZkU0bUFEamF4NTNZaUdlSkp2WlFwVjBwa2cxaHlmU1BHYjE3TnlhZDlsenVhRXlRWkt4YXVLU0doZ292NTduWGJKN1NtWlcyenRGMEJveWlrRTBPMm8wNWdoaFFvU3lpdXc1bzVrV0VzZEFteDZMVTRTbU03NC1CUDJxazZjd0RIMVF1NC1BMXdHa0dvTmQ0ZGpfWFNRYWk0a2tiaHIxeVNYb0FlOHJEVTJ6WFRLM1l5Qkdnd19NR093TUN1LWdn?oc=5",
-      "time": "18h ago",
+      "time": "20h ago",
       "pub_ts": 1784632103,
-      "summary_kr": "삼성 비스포크 AI 세탁기 건조기로 업그레이드하는 것이 가정을 위한 현명한 선택인 이유 경제타임즈",
+      "summary_kr": "삼성 비스포크 AI 세탁기 건조기로 업그레이드하는 것이 가정을 위한 현명한 선택인 이유 The Economic Times",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -311,12 +340,12 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "제니퍼 가너(Jennifer Garner)의 인기 밥솥을 테스트하고 카운터에서 사용할 수 있는 더 많은 모델에 대한 할인을 찾았습니다 - 식품 및 와인",
+      "title": "제니퍼 가너(Jennifer Garner)의 인기 밥솥을 테스트하고 카운터에서 살 수 있는 더 많은 모델에 대한 할인을 찾았습니다 - 식품 및 와인",
       "media": "Food & Wine",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWJqd2dzWkwyYkVxd3dRaWFMOUVlXzBmcVFSVnpxZlBrSTAxMTVic3ZVSGhxQ0ZzUjkwYUVuc01wem9FclFsbkZta2lxR0piYjVVMVB5NmJYbGw5M0ZPWkNvbzEwbndJQjFrRFh3UWdFRmlPUDJzM1lLZF9SVFIwTVBUUQ?oc=5",
-      "time": "20h ago",
+      "time": "21h ago",
       "pub_ts": 1784626200,
-      "summary_kr": "제니퍼 가너(Jennifer Garner)의 인기 밥솥을 테스트하고 카운터에서 살 수 있는 더 많은 모델에 대한 할인을 찾았습니다. 음식 및 와인",
+      "summary_kr": "제니퍼 가너(Jennifer Garner)의 인기 밥솥을 테스트하고 카운터에서 사용할 수 있는 더 많은 모델에 대한 할인을 찾았습니다. 음식 및 와인",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -328,37 +357,9 @@
       "title": "구매해야 할 이케아 주방 가전 6가지와 피해야 할 6가지 - 시식 테이블",
       "media": "Tasting Table",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZM193MFhpTGkzWTd5dThhSkdPQi1zUGwyVzZ0cUR3R044UzhVQXQxYV9mNkFQYVQ0SDFpb0ZfY08ybTFmbThab0xNbUZUZlFHMzhOSmtGd2V1clBHSFItZkdaOFhndkNvWHpwU2tXcjBKWTlWbEMzX0xvUQ?oc=5",
-      "time": "20h ago",
+      "time": "22h ago",
       "pub_ts": 1784625600,
       "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "무료 가전제품 구입을 돕는 글로벌 프로그램 - AOL.com",
-      "media": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN256T0kxMWZTS3FDVE85clowRnc3N0ZXNVJKUktLS05Ka0lEeE9qQW5ScXZNZmFjTm9MSDY5QkVPUU5MQUNoUWNZMkp0VlNhVlRZZ0JZRUg0andPSjB1aWJ2STZxaFEtY24wZ3c0U08zbmxQOHBrUDA1Rk93TmdvMjVVRWZQVEE?oc=5",
-      "time": "22h ago",
-      "pub_ts": 1784616814,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "오븐 서랍이 뜨거워지면 걱정해야 합니까? 가전제품 전문가에게 물어봤습니다",
-      "media": "Bing News",
-      "url": "https://www.aol.com/articles/worry-oven-drawer-gets-hot-123100000.html",
-      "time": "23h ago",
-      "pub_ts": 1784611860,
-      "summary_kr": "오븐 서랍이 뜨거워졌을 때 취해야 할 조치와 이것이 문제인지 확인하는 방법에 대한 주방용품 전문가의 팁.",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
