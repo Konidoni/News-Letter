@@ -1,0 +1,142 @@
+{
+  "date": "2026-07-26",
+  "date_display": "2026년 07월 26일",
+  "generated_at": "2026-07-26T16:31:26.602016+09:00",
+  "generated_at_display": "2026.07.26 16:31 KST",
+  "category_counts": {
+    "Market Dynamics": 5,
+    "Competitor Analysis": 1,
+    "Technology Trend": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 8건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 1건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 1건이 감지됩니다. 주목 기사: GZHJMY 데이지 패턴 식기 세척기 자석 커버 식기 세척기 앞문 스티커 트리밍이 가능한 냉장고 마그네틱 데칼 주방 기기 20X26 인치 홈 장식 B065ae4e 97da 4d32 A591 B7ebc15cd34d.bbebbc63b21b2b160818586f991286bc - aviglianonews.it. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG전자, 美 컨슈머리포트 선정 '가장 신뢰하는 주방가전' 1위 - 아시아경제. 시장 전반 기사 5건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "GZHJMY 데이지 패턴 식기 세척기 자석 커버 식기 세척기 앞문 스티커 트리밍이 가능한 냉장고 마그네틱 데칼 주방 기기 20X26 인치 홈 장식 B065ae4e 97da 4d32 A591 B7ebc15cd34d.bbebbc63b21b2b160818586f991286bc - aviglianonews.it",
+      "media": "aviglianonews.it",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWthUXFBbXZ1VU1RLWNNNWNCNTNpZUFrZkdXNWF6Ql9Qb0drZUQzSE9OSG5CRC04eUJIV09ZVzRvZjZzeGczZHBhMnFHWlFGNlpkT29tNGJDQVJVZDNxakRnZjRPVkM4QU93azhSc3lLblNWeXVCWmVyWUlMMThvaVJTSFhRYnZ6UmxRRF94MVcyOGpCN1E4d0hDVnJkT3U1M0E?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1785033437,
+      "summary_kr": "GZHJMY 데이지 패턴 식기 세척기 자석 커버 식기 세척기 앞문 스티커 트리밍 가능 냉장고 마그네틱 데칼 주방 기기 20X26 인치 동음",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 美 컨슈머리포트 선정 '가장 신뢰하는 주방가전' 1위 - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xUzhSMExiM01HUFpyZEhkV0lDZFptYnR6amVmc0hVcFNmUm1VZEtDQnJyR2NMTXowNHEwM3NZM3puZm5ubzdyd19GOGlIZmNTS1hFNGt5WWV4MHE2OEhzOGc3c3I?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1785028887,
+      "summary_kr": "LG전자, 美 컨슈머리포트 선정 '가장 신뢰하는 주방가전' 1위  아시아경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 코스트코에서 구입할 최고의 주방 가전 제품 4가지(지금까지) - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jU0plU3ZOclZmcXZPMFlKOHRKdXd5ek5RTHc4aXlzM0RmeVA5UlU2U3hLYVRMWlZndkZ1ZmhBSnFpdnhLR3JoYlJBZ2NqT3dKUmxuVmtia2tUSHRTYlcyNlc2c095MVlWLW0ySEF3LTV0c1kyUFVGeXY1Q1R3dw?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1785022677,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "식기세척기를 넣기 전에 접시를 씻어야 합니까? 가전제품 전문가들이 논쟁을 해결하다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjgybWVnVW95Sm1KYkRRSHZhV2FrRk5VMlFsTkQ1SF9RcDZUOUhBNHZKQzZ3NFhlX3JRMXhzNlktTmpRNWRDM2JYd0htbUZNWlM3TllTZVZxS3RnN1ZHZU1NU185SmJZQmJvLXRtRFloNXVmV1o3ZXl3R1hyVnZ6dkcyMDVtOXJLa0QtS3NQNGU3TmQ2QzFzVjRtMWVWekV3d3ZRbmFqZnpJdEhMUlJramp3?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1785016380,
+      "summary_kr": "식기세척기를 넣기 전에 접시를 씻어야 합니까? 가전제품 전문가들이 논쟁을 해결하다 Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소비자 보고서에 따르면 이러한 주방 가전제품에 대한 대폭 할인으로 2026년 8월이 구매하기 가장 좋은 시기라고 합니다 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa1VzZ0ZNenBqM0R1V0g1bHJpTjF5SEg2VWR4blJPMW1QajZzOUJIMWVWRDk5dUM0cUlXZDZ0OHQ4WnhOR2tOOXJTSGtaRk9heTFnMFhMd0JGU3J5dWtnckRuQ2tuWDM0Vlg4Znc2RjBoYllFcmNYSDRjemo5aE55U3Y3QmhvajZUY1hRSl96WUQycTYyNTdGd2k3bjUwZ1VPeC1RaUxMMGU?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1785001200,
+      "summary_kr": "소비자 보고서에 따르면 이러한 주방 가전제품에 대한 대폭 할인으로 2026년 8월이 테이스팅 테이블을 구매하기 가장 좋은 시기입니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "이러한 가전 제품을 스마트 플러그에 연결하지 마십시오. 생각보다 위험이 더 큽니다. - MakeUseOf",
+      "media": "MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTFp1bkJqZFhiUHpXUnpzdFl3dHBqMkZRcnlSZEptWkNuRGt4eWtyMjlJRllxLVFISXByR0VkVUxsdmpIU05CdXUwS016VFBVcGRWaVd6RzM1bmdyRDZZdXlIanJxNjZPUEQtcWhQVkE5Z3JscHFkVi1aQjFibk5zdEEtSVMzb2haMnJzUlYwX2o3TXpjdmN6LS1RWHNOQQ?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1784997012,
+      "summary_kr": "이러한 기기를 스마트 플러그에 연결하지 마세요. 생각보다 더 큰 위험이 있습니다.  MakeUseOf",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전문가들이 밤새 전원을 켜두지 말라고 경고하는 7가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOWjdVWUFkWHdvU0FBMk5FSndibnE0YURtSnpieDRWQVN6TWdfcHEwQkFram81d19FREhqYVFmTU5LWjNsQkFvZnZsRVY0TU82NDl0RE9sQlBOaWlUbjRzS3hKMGZRUmdyVnhBNWtCWGRNYVhXcEhnVHV2QzN3dw?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1784986859,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "기술 및 가전제품 문제를 과거의 문제로 만드는 Costco의 무료 프로그램",
+      "media": "Bing News",
+      "url": "https://www.aol.com/articles/free-program-costco-makes-tech-185000000.html",
+      "time": "19h ago",
+      "pub_ts": 1784980140,
+      "summary_kr": "코스트코는 고객이 텔레비전, 컴퓨터부터 냉장고, 식기세척기에 이르기까지 다양한 제품의 문제 해결에 대한 도움을 쉽게 받을 수 있도록 합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
