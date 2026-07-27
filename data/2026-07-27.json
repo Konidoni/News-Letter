@@ -1,0 +1,183 @@
+{
+  "date": "2026-07-27",
+  "date_display": "2026년 07월 27일",
+  "generated_at": "2026-07-27T17:22:38.366554+09:00",
+  "generated_at_display": "2026.07.27 17:22 KST",
+  "category_counts": {
+    "Market Dynamics": 10,
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 11건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: 파나소닉이 정말 세련된 일본 전자레인지를 출시했습니다.. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 10건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "팬 vs 에어컨: 더위를 이기기 위해 어떤 가전제품을 선택해야 할까요? - The Independent",
+      "media": "The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYlBPdTY4aTVZVk5YbWt5YzlXdnJmLUtDb2RmWkxwZVJocTJyUkdxTktRS3RnaHoyNkVLYm5SOEpEM1dYWmlaNnBsY2dOMHBWWUpoNEMtZUhBdGJqZG02RGpyYndIeFhFc0phaXM5VVZRVkhkbGRpSHpSZVlEMGlxMFQyVU5TN0pWem5jR05qeGw0cHJSNXYxMGUwdGJIUWJLaGhDT0RtVFh2bl9UUTlqcGxsMGl4Y2ZGMU5QZHdHcU1rMmc?oc=5",
+      "time": "Just now",
+      "pub_ts": 1785140040,
+      "summary_kr": "선풍기 vs 에어컨: 더위를 이기기 위해 어떤 가전제품을 선택해야 할까요?",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "파나소닉이 정말 세련된 일본 전자레인지를 출시했습니다.",
+      "media": "Livingetc",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JN0ppV24xM0ZqZ3hWeG15ZEczUmxMRjdDRnkwQjdFM2ZkMnRyZXYxTW5zYXdZSGtmM2tMM1hXdmlaZUxueER6SmNnZS1zZmhHd0kyT1hHZmZCYm1kcXFIcTlPb2ptaTdscUIxcUliQWg?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1785135600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "삼성전자, 유럽 소비자를 위한 빌트인 주방 가전 신제품 3종 공개 - Samsung Newsroom Korea",
+      "media": "Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PYVlDYUhWMkc2WHNFVllzaGxqSnlXNE9ZMHFuX3pUaEtfWUZ5bmxjbUFPakE0Ymp1bDdoaHJOa2EwQzNJWFZDRi11ZTkyTTRhdXBDaGxuQ1h0RWlFSEZKWTJCUktIZFJhZGZWeTRzZ2R2WTJF?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1785111540,
+      "summary_kr": "삼성, 현대 유럽 소비자를 위해 설계된 새로운 빌트인 주방 가전 라인업 3종 공개 삼성 글로벌 뉴스룸",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "집을 운영하는 데 따르는 정신적 부담을 덜어주는 방법 - The Straits Times",
+      "media": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUV9TSFhxNVBNLVFiV0pEazJmWG5mMEdKMDBxWTRTeU14bjJjU1lxZm8yN25OMXo5NlYyeEpHblFEeXdVbmZKUEh0Sk5fYXhjM2tXNU9PRzBjeDE2N3otSFRJNkljcWloNHFTWlZ3MEd3NkRrdXF5QmVNQmtySGEwaEV4NVRjVVUxYzVj?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1785096000,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "모두가 그것을 유행이라고 불렀습니다. 이제는 가장 많이 사용되는 주방 가전제품 중 하나입니다.",
+      "media": "Bing News",
+      "url": "https://www.yahoo.com/lifestyle/articles/everyone-called-fad-now-one-030000472.html",
+      "time": "12h ago",
+      "pub_ts": 1785095940,
+      "summary_kr": "요리 도구의 인기가 점점 줄어들고 있지만 일부 도구는 그 기대에 부응합니다. 이 기기는 나를 더 쉽게, 더 건강하게 만들어준다는 점에서 칭찬받을 가치가 있습니다",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방에 놓을 만한 50달러 미만의 주방 가전제품 7가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15ek15MEt2VzZQdTZVTVl4eVljRVJGeUtKdGUtaC1vaXpqcGFESFV1cmY2Yk40ampzUDdzTFFQYXZiZUpvbnYxQzh1RE5DYko0SnFybkszNDByNVVfNC1KeEJRNXNGRENVeVZJZ0xXeHB2a0tLdzhNN1U0MVk4dw?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1785090378,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Electrolux가 소유한 5가지 가전 브랜드 - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TRXNsVkVWYnlMYi1zZmpJOHJqN3A2Nnp3SndqQXhHeGdyZzFuYVBZZjluRHRESTgtZ2gyQ1lEV3JDR0dVeF9pc0dTVklHZDhsdlZ0QnBwX3pkODRkQ21RUHBsb2JDTFphblQ1R1IzbFdlcG5VUWRkWDVrWQ?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1785080700,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Joseph Joseph의 기기를 사용하여 10분 만에 완벽한 밥을 지었습니다. - Ideal Home",
+      "media": "Ideal Home",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE5IZm9yRUJ4cXh4MjhWVUQxOTBKdFlnOFNpOWN1OTJEWWlYbWJLQXhuaWJ6a2ZLWWZicTdLSlpneHdIcDdMcFVsNlptR0FQc2ZTaHEtaW1qV29ZLUU5cUVLM3ZyUXM5SGZSQTBNSnQwa09ySFk5OURhT3Q5OGRoUThpZ1MyMWVyUE1mNmdudVNFRWVnQUxn?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1785070800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "수요 감소로 인해 월풀 주식은 최근 최저 수준으로 거래됩니다 - Ad-hoc-news.de",
+      "media": "Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMzNpT3VISW8zMWVrNWxoNG0yVFBkaFdmVXM3ZnVBMGh5M3UzaXp6WjBIUkVuLXFSNlh3MDhjX2UtOUs3T2hMWENwTW9LUjNaeE5Na3dCV1JZZ1Ewek5ZMnNkV1NkQWgxbWdtWEpSN0QtSTcwRjZsdDZkUHZ3d3NPVHVvWGZHU0F3U0V3UGRLLXppRkstNTBiNDI0XzJYUllMM1JmTnQxMWI2ZGJnS3ZvTHRfTTEtUldpRUYxV3pKa3NBMDFhWnc?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1785067943,
+      "summary_kr": "월풀 주식은 수요 감소로 인해 수익이 부담되면서 최근 최저 수준으로 거래됩니다.  Ad-hoc-news.de",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "기숙사 생활을 더욱 편리하게 해주는 8가지 주방 가전 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfWkdaeXJ5SUNOZGt0eVVoTU1CQmN1eEt2RWJoYTJNcG90ZmtLLURLbzZZczRkVnNBNWN4dHR1Ylg1TC0wSWktSzlTSDd3TUdVZDh2a2VDQmlXZ3ZweEp2c21CeU84VUhmYzhSTWFHcElEX1N5Zi14VnMzQlNManc?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1785057629,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "43센트짜리 도구를 발견하기 전까지는 내 작은 주방을 고칠 수 있는 방법이 없을 거라고 생각했어요 - 음식과 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XNnJBdTh6VUQxUTZOdlQxQ1RNNEp5ZUxwTThBSEQxLTRJSHZPSFRxUUNCZFduYlBTa1hHYjg5MU9IUXJidkJjM0Njb0ZCQnZMM3pzYmVjRDQ4ZnlPV1hqanNscWJpT3pLMkQ2OWFvSHBHMldzUzFBd2dtSzFfNkk?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1785054600,
+      "summary_kr": "내 작은 주방을 고칠 수 있는 방법이 없을 거라고 생각했어요 — 43센트짜리 도구를 발견하기 전까지는 음식과 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
