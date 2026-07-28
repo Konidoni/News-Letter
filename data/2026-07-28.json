@@ -1,0 +1,268 @@
+{
+  "date": "2026-07-28",
+  "date_display": "2026년 07월 28일",
+  "generated_at": "2026-07-28T16:33:41.415394+09:00",
+  "generated_at_display": "2026.07.28 16:33 KST",
+  "category_counts": {
+    "Market Dynamics": 12,
+    "Samsung Bespoke": 1,
+    "Samsung DA": 4
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 17건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: 삼성전자, 친환경제품 16개로 대한민국 녹색대상 1위 - CHOSUNBIZ - 조선비즈. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 12건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "2026년에 돌아온 복고풍 주방 - 집이 낡은 느낌을 주지 않으면서 주방의 모습을 보는 방법 - The Spruce",
+      "media": "The Spruce",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43M1Y2czJqVWJqa1lNdHYxTDNsUGxqdDVDYlZmNXlRVjZpZFBRVGhSeElLQnJlQmxnRTVoT1FFSkhGX29teVhTNXRtTTdwaHNiMkh1RmVvZzdfWWN2azNUVzJjOXg?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1785220275,
+      "summary_kr": "2026년에 복고풍 주방이 돌아옵니다. 집이 낡은 느낌을 주지 않으면서 외관을 얻는 방법은 다음과 같습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Salter Slushie Maker를 사용해 보았는데 이제 그것 없이는 호스팅할 수 없습니다. - 이상적인 집",
+      "media": "Ideal Home",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM19XZzZPTGNMNm5LWE10NF9qeTVxZkxGT3lEQlF3OElOQ2hYMm5nMzRzcVlTR001d2dwY1p3SUhqc24tVmFRSUpKMHFzdy1TSnlKWEdJWFhLbEpUSkRIbEc0X00tUHFQTmRfOE91YTQyaXIybG52a1dOenFzQ3FESldlSm4?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1785218400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성전자, 친환경제품 16개로 대한민국 녹색대상 1위 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlhUb1p4aVpJSlByOXc3UzI2SENJOFJHb0Rrdjh5U3J1eFRIOU93Rm56WVA4Q1p6c1dfbTVnMEV4RXBfWkN6QnpMNW9UWEIyRmpBSHZGZzlpelFqREpfbGJzUWQwSEEtVHlVSkI4TXdwbEdOcjlpeU9xWHZ3V0hucVBZR3UtbGswOE9vMXFn0gGOAUFVX3lxTE5KWFRvWnhpWklKUHI5dzdTMjZIQ0k4UkdvRGt2OHlTcnV4VEg5T3dGbnpZUDhDWnpzV19tNWcwRXhFcF9aQ3pCekw1b1RYQjJGakFIdkZnOWl6UWpESl9sYnNRZDBIQS1UeVVKQjhNd3BsR05yOWl5T3FYdndXSG5xUFlHdS1sazA4T28xcWc?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1785198960,
+      "summary_kr": "삼성전자, 친환경제품 16개로 대한민국 녹색대상 1위 - CHOSUNBIZ 조선비즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, '2026 올해의 녹색제품' 16개 제품 최다 수상 - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01c0Z1R1RzSjVVV1hjYmhLNFhad1VDVmpJMGdSMHlZNWNUaDNSRFhYVzNkMnI4NVRQNlhIVko5VEpZdld5SHJPUjZyR3h5dU1yNjhzcDc0cld1cTdfN1pPa2lJNW0zQkt5NG9jYlNkemdiSGlZTjY5Xw?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1785196800,
+      "summary_kr": "삼성전자, '2026년 올해의 녹색제품' 16개 제품으로 최다 수상  아시아경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "공과금을 인상하지 않는 최고 등급 가전제품 - Consumer Reports",
+      "media": "Consumer Reports",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHUwYjVwVDJwZlZpSklIamZnRjdtMm51d3EzLXUtMTZNX1pabmF1VHlUWlRMRFpHcnpxcDRWX3Z3ajZQUXF5NW95UVpISW1FZG9UNHBwUkZobFBNNUs4anZ1TGF3cHp2YzFNTFBjSDkyMDVOSXdHbDhBRXI4RWp1a0w3QW9DQVBYOVN2Ri1NaUc0ZGFUSjZMT0VyVUVZZw?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1785195324,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "아파트 건설업체, AI·로봇 통합으로 전환 - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFhwaTF3dks4WnBTNGRTVm5BRkZQcW1EcFdHVUlJN29kQXdxV09DLUlnaHl6dXgzbTVxaUc5cUF3QTNmOXJSODlibldtWTJLZkNoaXRMMk40UWZBSFg3VkNGZ2FNT2FoVHd4Zk5zbC16MEZKa1FZeDZteWdlWDFDdDAxZXNHUkFo?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1785191443,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "월풀이 아님: 이 저렴한 식기세척기는 소비자 보고서에서 높은 점수를 받았습니다 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDlrTWZIcU1ocktnTGhIZHN0Vm1aT3QzOFNZaGt1R3UxcmtqQUE5dmVjSHBETnJ1MkVEdEFSQV9fbUZ5YXU1ZkxUd3ZCc2ctdmtKN1hMWkRVazlucmRrNWFsLUp6SzRlc2NQVS1ONHczaExvQTJ2cHNHNU5pQVJkRjhaeFozTXJGcjdNQ2hodnpLZi1rRmNfMnp4ZWxuUzc3QUxscHdB?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1785186000,
+      "summary_kr": "월풀이 아님: 이 저렴한 식기세척기는 소비자 보고서 테이스팅 테이블에서 높은 점수를 받았습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "민들레 인쇄 기기 장식 레몬 주방 데칼 레몬 인쇄 식기 세척기 커버 - 주방 기기 업데이트용 23x26인치 비닐 데칼 자기 기기 커버 장식 이동식 자기 커버 - aviglianonews.it",
+      "media": "aviglianonews.it",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRGp5Y0hFR29IYTdDRlpGLU1XSFhWUGZqNndTcHV5bEVvLS0weWIwMGwyM2FUanB0eXFlamhjcm95OU9OWUFEV0hWajhjeWNsR1Rhb2k0amVyclk0T2o5QWZ2WUo1aHVuQ0FySGdtSENxclhxQ3ZWQmNDNGlQVzQxQWNyTHl3cjVnTkFKRHhBWXVtaXltY2pCQkxrUQ?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1785181659,
+      "summary_kr": "민들레 인쇄 기기 장식 레몬 주방 데칼 레몬 인쇄 식기 세척기 커버 - 주방 기기 업데이트 자기 Applia에 대한 23x26 ​​인치 비닐 데칼",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "코스트코 대 샘스 클럽 — 어느 쪽이 더 저렴한 주방 가전을 갖고 있나요? - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2p1RFhoaGlabDJCMzFfbjl2eTVmbGw4M3o5TXhaMDkzZ1VuV3doZUVDSUVHal9SR0hheEhqS3JjOFkwUXpROGo5OUVOWEloSnk5NzNDZWZ5RnJUVG5xNFotSmtxVEdSY1JRc0RXbEg4TWJNQXRlaXpPMUdrZENFNk5HR1JoWjhzVVVYNw?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1785171600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Typhur Sync 오븐을 사용해 보았습니다. 일반 오븐이 필요한지 의문이 들었습니다. - 가정 및 정원",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZEExdVlISS1YNFpPaFpuOEJTRUhjUEd5Z3hOODlhVzdVZkN0ZWZWeEdqRHF1bmp6REk3Mk93cnV4T3I4RDQ4N1dCbmlNN1ZtVHJjakxGb1FyMGc1Vjl4enhqLXREVi1qUVdxU3didTZMd2ZIWWpEd05QMWFHdk5yeEtycFV2LWJXVTlELQ?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1785171600,
+      "summary_kr": "Typhur Sync Oven을 사용해 보았습니다. 일반 오븐이 필요한지 의문이 들었습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "부부는 베스트바이에서 삼성 냉장고를 구입합니다. 그런 다음 작업자들은 집에 설치를 거부합니다. '그래서 우리는 이 월풀을 당황하게 샀습니다.' - The Mary Sue",
+      "media": "The Mary Sue",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yMEhxWHV6cmx2N09PbDNmendxMXp4bzNIeEpiRl80T2VJRVoxMC14amxZNjlkU2YxMnU3c3o2WEJNMjk4ZndObENLQmc5bERISVZ3b3pWMU9lZmlvOThMVl96ODFBZw?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1785168000,
+      "summary_kr": "부부는 베스트바이에서 삼성 냉장고를 구입합니다. 그런 다음 작업자는 집에 설치를 거부합니다. '그래서 우리는 이 월풀을 당황하게 샀습니다.'  The Mary Su",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성·LG 아파트 디자인에 AI·로봇 접목",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-xl/lifestyle/other/samsung-lg-embed-ai-robotics-in-apartment-design/ar-AA28ODcf",
+      "time": "16h ago",
+      "pub_ts": 1785165600,
+      "summary_kr": "아파트 신축 판촉 행사에서 흔히 볼 수 있었던 '프리미엄 수입 대리석 마감재', '프리미엄 가전 무료' 등은 머지않아 사라질 수도 있다. 이 시",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "건강하게 요리하려면 값비싼 주방 도구가 필요합니까? Rs 1,000 미만의 저렴한 필수품이 도움이 될 수 있습니다 - News18",
+      "media": "News18",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbmZVOFVGZWJ4MkJnSHBvWjJ1dXJNZTVwSGMwS05iYmF0aWd6THVGNEJ3akJDVTd1U204ZUZIa1pQblgyM3IzM0h5eGQxVGVLeElwUXh5amhPbnJPby1RcWNCOFktOGcyM1NBTDV6alhnY1B1VTYtZkhaRi14ZmVXMnZpZHRjNmhsdzdOaldZZlRDa2dWYzd6aUZ2M2VHOExMVExwU1hhc0Y0M1NOa3BsdGdrRlQ2OFlpYUtVTTBQZzBZbUFQTVU4QlhFUXV5cVk1MDN4NmRmMUhUUTM3aUt6Sm9Lb9IB6AFBVV95cUxQaGlTQTgxU2daWVZpQzc0M2dKRmxWOEFwM3Uzb1VMRVdxOURyS1hDYThBZms1aVNicEJZc0xYZGJYaFZMblNiekFqbVVpdk9UMTEyMHhhVGFpc09LSTFjcHk4WDB5QXI3LS1tMFFJS0dHNnN2N1VGSXcxZHpVUnJqdjNUMEhKaXpwTjhUY1IybjZQUm9JSkY0WmZEdl9rc1E5Y3kwYWs4TFN6ajdlSnp4Y2VRdzNoeFl1Q2tDTFduU1h6MUhWNXZJTW1iWmpoOGU4bDhMenY2UW9naVEtR2tCbmlOZHI3VFp1?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1785159208,
+      "summary_kr": "건강하게 요리하려면 값비싼 주방 도구가 필요합니까? Rs 1,000 미만의 저렴한 필수품이 도움이 될 수 있습니다.  News18",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Kitchenaid Go 무선 컬렉션 리뷰 - pickr.com.au",
+      "media": "pickr.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblBPeXVyQXJKcWYzZFYtWm9rV19yd2pfRjZaWTgwNS1ybzlFUWtLTGVWbS1XWFh4aHdzNUNKYV9tU0JzOTZrQnJuOEpKYVVTUFJDRTgyUzl6VGpNeUE4bXQwdHZ1X3JRaHl2dEdERFJEaUVFZVgyQUlSdlpUSkNFc0dEZmlhcnNsOWtB?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1785154016,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "HGTV의 Christina Hall이 존재하는지도 몰랐던 주방 가전제품으로 분위기를 뜨겁게 달궜습니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lia05RRDY4WEtvRWh5Ty0tdncwUnFWZmQ5U0gtbWtBa01HSC1zYUlmalpGWHl5RW02T1FYWG53VUNqb056R251ZVpUUUxkeGhOTXEwaGc4em1RNFNwY1U0MlBGMjJVQmJmYy10S1dMNWZySHZaaVRlTEFQcXdxYUM2cw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1785147527,
+      "summary_kr": "HGTV의 Christina Hall이 존재하는지 몰랐던 주방 가전제품으로 분위기를 뜨겁게 달구었습니다. AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "에너지 전문가들은 모든 사람에게 8월에 가전제품의 플러그를 뽑을 것을 촉구합니다 - 전체 목록 - Wales Online",
+      "media": "Wales Online",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjlRQ2Iyb2tHdVpTZVNpZlRwa2d3U0ctMTV5V24yRVRaWDJ0VFhteTh6cVdyZzVaVktEdGlKTzA1eVZEbXhlTFc5aFFoRmxUWTdpaDZGN0hKV3pqTUlsZGttNUFicDYzSlV1OF9JTTFlZ0k1QVplS1JvNERYS1RWR1pXalh4elktX3l5NFBTUkg5QdIBlwFBVV95cUxOaVZWa215VVVhbk1lUGFyNXhyTUFwV0t5cVFaeHBaQ0JvbWJBNmZ0OFVvSGpLcGNpMW5FNGRkT1pwaUJlbmNwVURnQlZpZ2oyclNPMGRTQUdUZlc2X01hVlZvczFJaTIzWXZHb3A5M01YRW5RWC1YVi02eTRtbXZYT1AzVXpRbzNZSlg3TGU3NnR4ZUxpcGlB?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1785143820,
+      "summary_kr": "에너지 전문가들은 모든 사람에게 8월에 가전제품의 플러그를 뽑을 것을 촉구합니다 - 전체 목록  웨일스 온라인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "팬 vs 에어컨: 더위를 이기기 위해 어떤 가전제품을 선택해야 할까요? - The Independent",
+      "media": "The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYlBPdTY4aTVZVk5YbWt5YzlXdnJmLUtDb2RmWkxwZVJocTJyUkdxTktRS3RnaHoyNkVLYm5SOEpEM1dYWmlaNnBsY2dOMHBWWUpoNEMtZUhBdGJqZG02RGpyYndIeFhFc0phaXM5VVZRVkhkbGRpSHpSZVlEMGlxMFQyVU5TN0pWem5jR05qeGw0cHJSNXYxMGUwdGJIUWJLaGhDT0RtVFh2bl9UUTlqcGxsMGl4Y2ZGMU5QZHdHcU1rMmc?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1785140040,
+      "summary_kr": "선풍기 vs 에어컨: 더위를 이기기 위해 어떤 가전제품을 선택해야 할까요?",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
