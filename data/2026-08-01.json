@@ -1,0 +1,244 @@
+{
+  "date": "2026-08-01",
+  "date_display": "2026년 08월 01일",
+  "generated_at": "2026-08-01T16:23:39.708418+09:00",
+  "generated_at_display": "2026.08.01 16:23 KST",
+  "category_counts": {
+    "Market Dynamics": 7,
+    "Samsung Bespoke": 2,
+    "Competitor Analysis": 3,
+    "Technology Trend": 2,
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 2건 감지",
+      "desc": "오늘 수집된 15건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: Galanz Retro Fridge 리콜: 전기 단락으로 인한 사망, 34건의 주택 화재 발생 - Tech Times. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 9건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 9건이 감지됩니다. 주목 기사: 욕실 2개 브랜드, 인테리어 시장 공략 위해 라인업 확대 - 서울경제. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: 국가 안보 위험에 대한 미국의 새로운 단속으로 로봇 청소기가 휩쓸었습니다 - FOX6 News Milwaukee. 시장 전반 기사 7건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "욕실 2개 브랜드, 인테리어 시장 공략 위해 라인업 확대 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd21LODMyWW1YcDdQLXVhVjB0OWRENFVwYnZmQWxsT0RNRmxpZG1uNy1HUWZOaERJX0xscGkwUTBWNjRIYV9TMldpdHZiNXNUZ3l5WElOLXNNcHJKREFyU0FGU1EtU3ZTdnBZbmVacGN2OTA4d1MtT0RqZGpkXy1OQUlNNDBoRXhmWS1ra1NNRXNxcHVBWWhYWjA2MW1XdEQ5V1FodQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1785564005,
+      "summary_kr": "욕실 2개 브랜드, 인테리어 시장 공략 위해 라인업 확대 서울경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "싱크대 건너뛰기: 2026년 임차인에게 완벽한 독립형 식기세척기 4개 | 기술 뉴스\n(HT 기술) - Hindustan Times",
+      "media": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOVp4VHF3dXFHX3JfOEluaGJWREZiMnUzVHEyOGEtcWhBd0dQMlZreTF3Q1JMVk9MS2xZUWRNR0hEMTN3bWFOZnJUcFBOeWFPNnBkMnJFUDVTd3hRLUU3SmptT0htamJ5RG5wZXVqbTJZNUtQcWNqVmpkVjU5Vkd0TWdoS1lyQTRDa1Y0WjFmY0g4UUpWX3lpMDlyR2NIajJtY3htN1ladGcwdHFLcFduRFhVQmVDcXBnV3BqR3lwLW8tWE81M2pFZlNPSlVMOEhjcnJFWnU4X0HSAd4BQVVfeXFMUHJaaTN3bzhySk91U183a0xkX2k1ME4zTGtNeE9xV1g3bGNzcUJMSUpHV2NKdzBBcWxwUllTYnBxMV8zNU53Tml2MURxNU9IT1hDWXlvNkVjQUJMdmN4am56Q2RYQlUtdUNyYUctck5uVnMxdk9jOEhfcVdUc1JyWUM4TnoyTnZ4VHh5RVhrOUVqRTlGR1RMNUhsVklwOGpZdzE0cVRXc0k5SmtrNmV1Z29LVTRVM2wydWVKOWxpS18xRlZGRmJPTmp5bjJCVGVSeG1scDBFa2ZGTXdYZUxR?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1785555065,
+      "summary_kr": "싱크대 건너뛰기: 2026년 임차인에게 완벽한 독립형 식기세척기 4개 | 기술 뉴스\n(HT Tech)  힌두스탄 타임즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 즉시 디지털 대출을 지원하는 맞춤형 AI 기기용 Finance+ 출시 - My Mobile India",
+      "media": "My Mobile India",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVltX2daN2Q0c2RlU2pnc1VyaWVTbm8wdERhVFpJaFh3Q0hGUDFUeUVFVkhEOUJHZU9iTWd3cUZrcTNWbzNKQXViNWY1ZkZ3Yk54QTAyNTVsMUZ3T1J6eF9DSWdxS3A5anllZ0l3SFFRSG5XN0pfbDlENFpuWlpqY2g4X2MyTVlYaGlYUWZHd2x5WGd5Q1p0REFkclF5LWZybUdrdmZ4NGRNaC1HR3VFTWZfVkNPLVk?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1785533169,
+      "summary_kr": "삼성, 즉시 디지털 대출을 통해 맞춤형 AI 기기를 위한 Finance+ 출시 My Mobile India",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Galanz Retro Fridge 리콜: 전기 단락으로 인한 사망, 34건의 주택 화재 발생 - Tech Times",
+      "media": "Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVk1helZWOWZjc0pFMkFRTEMwQy1za0NZLTFSWEgyd1pJUkJUZmZCOGRISEJyRXpXRXYtX1p2MDFFUkhkbVoySFd0dENYQW4zRmdEVkVVcC14akdkNmppa2lYclk4eXhXQ196MHFKOUN5ZmFpYWVJeVhwOUsxek9rX2FaU2tFVVBIYTRiZndhNlpoNlZJdjFqOTB1eXd5U2lPSXdtQzZqTnJhYlVubEhvV3VMMmIwUFptaWYySC03azBBRU5PUmtlRWxBSGdTTi12NDk5ajJ3?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1785531697,
+      "summary_kr": "Galanz Retro Fridge 리콜: 전기 단락으로 인한 사망, 34건의 사고로 집에 불타오르다 Tech Times",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sam's Club은 주방 가전 제품을 무료로 설치해 줍니까? - aol.com",
+      "media": "aol.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LWUlGeF9IRTlwWVhoV045MHNDV3lkR191WXY5a0Y1WkhvVFlyUkRYdk1QYmFfU1RPTzloN2JxYUtPNlNBZEFXcUtZelFrNElBUktCQnlBXzhiR1hCUnJVdWROY1hSRFItdEZBZm15RWxUM1JHaUY0Mw?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1785517275,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "국가 안보 위험에 대한 미국의 새로운 단속으로 로봇 청소기가 휩쓸었습니다 - FOX6 News Milwaukee",
+      "media": "FOX6 News Milwaukee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NcTRKaHNzazJoWk1XNmY1azdEUzdoMVFoY0RheWlHY0kwX0s0WVc5SFVmNktNSlBpVVl1RGUzV2F0eTlERUtWZWJPcVBkakxPR25pNTBKOTFXaU1rMHNXV0x2VnBLVkFZYnIzMTB3MkVzWnVmS1ZrMEdLSlg?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1785514642,
+      "summary_kr": "국가 안보 위험에 대한 미국의 새로운 단속으로 로봇 청소기가 휩싸였습니다.  FOX6 News Milwaukee",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "중고품 가게에서는 당신이 기부하는 것을 싫어합니다. 주방용품 3가지 - Simply Recipes",
+      "media": "Simply Recipes",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQXBuMkV1eV9FTzNodklZeEJNTU94QXhxdmVxZ05sanZTeG50UDEtbFQxTXRsN3p6Rjdqa0wwb3ZmbTNvUVBJQW9tNDEyYU9WaVdTaE1Hb04zVjh1SkE0dTRwaVZqME1rSnVRQUU3UW9Vb2FNZThyeUdrT2EwaGdnV01nbmJtM1lRbU1UYlJfQThmelU?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1785513420,
+      "summary_kr": "중고품 가게에서는 3가지 유형의 주방용품을 기부하는 것을 싫어합니다.  간단한 레시피",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "하이얼 스마트 홈 주식회사: 유럽 전역 유통을 목표로 WpHG [독일 증권 거래법] 50조에 따라 릴리즈 - TradingView",
+      "media": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNTElpTkpJNDBzSlpKbXRvbkxITlEyVXNneTdHX0pPVUkybGVOMnRZUlVyVmVtUjFRUGFCLVJsLXNfYUdabzBnSEVZVVkycXNtRm1ZVktrcmhBN1IyNjJodjNSOG5kbTJzbFdmRDlvVFVqMTRtTjRrOGxLT2VEdHFuUlRGYm82Sl9LN1I5NFItZkgwLUFMYjVkME5LTE1tamJkbXNEeWRlZTVOY05ucWx4ZE5FVEpRRy1GWjJEeW9xLXI3WTVVUDVKZkpGa29zNXVYS1BVbzVHMUZBTzMyb3U5SFlJdm9YdUNmWXFhemdiOWhkZ2NubHFvMTNmU3RwY0ZkRTJUUmgtQ3N1RGJyRFZUdVExcTN1VnNHdk5pbFVrRDN0bDBqeHB5cVdB?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1785512163,
+      "summary_kr": "Haier Smart Home Co.,Ltd.: 유럽 전역 배포를 목적으로 WpHG[독일 증권 거래법] 제50조에 따라 출시",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년에 구입할 수 있는 최고의 냉장고 - 야후 뉴스 코리아",
+      "media": "Yahoo News Singapore",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40MDRqVWpQYjVjX2tXeVpZMFFFNkl4Y2dCNXlQYW5Qc1NqaEE4a1Y1ZllvX2ZfLUxLN2I0TFVhVDFaSzNLd3I2S2xfQmlhZ09mdUxsMXlJSWNBMkhfWTlHS0hSNUxONElMQXBJOFNsa2QtdzVIWkpR?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1785498601,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Hisense가 새로운 AI 기반 세탁 컬렉션으로 삼성을 제압합니다. 세탁기가 이렇게 멋져 보일 줄은 몰랐습니다. - t3.com",
+      "media": "t3.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxON3pDQU5TUmplbHI3a3VqRlBud3Z0N1hGSFpPNXhRX0N0U2JxcTVpUFp6ZFBralJYaGtkNERrMWktZ0dfWHVLNVdZRFVQU193SThFbnREZDZKaUk4cnpxLW1TY0NIUEZMWWR2bVhpaGt6WTBKeFhVN2dyMjZRVktpT0I2c245MGpQQmJReW9mTVhtSzVuWGJGYzh5bzdtZWwxUXlLX3N6OWlObk9NUlkzMkFUN296MDJSbmdCTVZIOFRUOHAxV19pXzJCLWVSSGtNMmVINVNkdEh5alUwV1BKWUl5NmZ4OEJycGIxYXVjQQ?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1785495600,
+      "summary_kr": "Hisense가 새로운 AI 기반 세탁 컬렉션으로 삼성을 제압합니다. 세탁기가 이렇게 멋져 보일 줄은 몰랐습니다. t3.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "룸바 스타일의 진공청소기는 '첨단 로봇 장치'이며 국가 안보에 위협이 됩니다: FCC",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/lifestyle/shopping/roomba-style-vacuums-are-advanced-robotic-devices-and-a-threat-to-national-security-fcc/ar-AA299YX4",
+      "time": "20h ago",
+      "pub_ts": 1785493805,
+      "summary_kr": "귀하의 공백은 국가 안보에 위험이 될 수 있습니다. 이번 주, 연방통신위원회(FCC)는 외국에서 생산된 로봇 va를 공식적으로 추가했습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "다이슨 스팟+스크럽 Ai 리뷰 - 주변 환경",
+      "media": "The Ambient",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkaG50ZjgyZkQ1R2Ezdy1RS3ZjVm93RFZwSXp0MUVmbTFpQ1hGQU9DVmZhSTUya2tJZFlxQmhQajlFSjRZQ3JYN3VfRlhDeGZfTkRJOVVIZVVvSUxmMVg0bjItYTlrMUVBb3Z5QUZoSQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1785490210,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon은 이번 달에 수많은 새로운 주방 용품을 출시했습니다. OXO 및 Rubbermaid를 포함하여 15달러 미만의 최고 상품을 쇼핑하세요 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWXQ0Y19zakdPY01IV1B0SWE2THA4ejh4M3F3WFRTOUtDSmNXaHllWDhmd1JyRXF3V1U0dVgwMXN4MWlLRnBlMmVhaXNxVkhSaUxVZm5rWmRjVU9UcDhuMzNKRm5kLTdUVktabExGT1JmamxXa0YwaFp2RDJHLWxDaTFpWUdBVFBJLV90YTdHajFwTHhPUE1lcQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1785486600,
+      "summary_kr": "Amazon은 이번 달에 매우 많은 새로운 주방 용품을 출시했습니다. OXO 및 Rubbermaid  Allrecipes를 포함하여 15달러 미만의 최고의 제품을 쇼핑하세요.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "영국 삼성, 최고의 무선 스틱 진공청소기 할인 행사 - SamMobile",
+      "media": "SamMobile",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUpBOTVXbDRsQmVqbHNBZFdNZUlxTXA5ZFpMaUlmT2ttSzQ0Zk1GS0JsVEtaM3ZjMU1oNkU1VDFGTU10bVk0d2RaTHN2aGxsa2p2dVhQZ0NyeTF4c1ItWGYyX0pxc3V6alMydXloRjBMZ3ZYM0tIWXp2Q1lzNGpqbXBENEdLSmpVMjJTWGFQOUlrdnRRanNmeVln?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1785486368,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "중국의 주택 보조금 프로그램: 정책 추진으로 스마트 홈을 일상 생활에 도입 - news.cgtn.com",
+      "media": "news.cgtn.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03dFVCaEtUR19vWTFDVG13TUM1a0VZejhYcWN6OGNDVFFtT010QTN6RDY0RThUYUZITTBBX0ZVdF9LQzc1dmRQT21HZEJxLVY5N09XX2RkYjhYN1ZZcFJMRWxEaXBNRDhMLVlMR2d0QXNvUFFJc1hnaA?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1785483276,
+      "summary_kr": "중국의 주택 보조금 프로그램: 정책 추진으로 스마트 홈이 일상생활에 도입됨  new.cgtn.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
