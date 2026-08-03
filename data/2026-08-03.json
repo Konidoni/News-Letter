@@ -1,0 +1,257 @@
+{
+  "date": "2026-08-03",
+  "date_display": "2026년 08월 03일",
+  "generated_at": "2026-08-03T17:21:14.147083+09:00",
+  "generated_at_display": "2026.08.03 17:21 KST",
+  "category_counts": {
+    "Market Dynamics": 10,
+    "Competitor Analysis": 3,
+    "Samsung DA": 3
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 2건 감지",
+      "desc": "오늘 수집된 16건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: 미국은 Dyson, iRobot, Shark 등의 로봇 진공청소기를 금지합니다. 영국이 다음 차례가 될 수 있을까요? - GB 뉴스. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 7건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: Haier, Fernham Homes와 파트너십을 맺고 뉴 캔터베리 개발 지역에 완벽한 시설을 갖춘 프리미엄 주방 제공 - Construction UK Magazine. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: 미국은 Dyson, iRobot, Shark 등의 로봇 진공청소기를 금지합니다. 영국이 다음 차례가 될 수 있을까요? - GB 뉴스. 시장 전반 기사 10건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Haier, Fernham Homes와 파트너십을 맺고 뉴 캔터베리 개발 지역에 완벽한 시설을 갖춘 프리미엄 주방 제공 - Construction UK Magazine",
+      "media": "Construction UK Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZE40Nng5Q016TExyZ1VtLUZkV1N5eFVQZ252UlR3S1I4MUlpQkl2VXVTUjhBb3k0MkdrenI5SDdKT2N0MGw4UlhlRTV5R1hEa2JqWDJMZUlFRnJOcWpKc0VBNkFoVm1nNUVDcUdSNlNUNVNkVzhDNDRheFVKLVN2ekE4RGczYkhHTkpsMXhpY3lWcjRjQi1WenNLWi1HVnI4VnBnRlYzNXFGN0hrVFEtenFyQlFQcnBQcTl2RVNKdUhvcWU4SGVINDdJY0tNOHk4bVhEYUZn?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1785740697,
+      "summary_kr": "Haier, Fernham Homes와 파트너십을 맺고 뉴 캔터베리 개발 지역에 완벽한 시설을 갖춘 프리미엄 주방 제공 Construction UK Magazine",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "미국은 Dyson, iRobot, Shark 등의 로봇 진공청소기를 금지합니다. 영국이 다음 차례가 될 수 있을까요? - GB 뉴스",
+      "media": "GB News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tMTBFSzg1ZnRUcW5haVk5WVhvb2tRVHY5blpwbTRuVl9ESDZUdERfaDlkeWNGTGJqSWgxcU0xcHlpOTNqY3oyQmlka0NIanpGQXVLMkZCd3ZKaXM?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1785739049,
+      "summary_kr": "미국은 Dyson, iRobot, Shark 등의 로봇 진공청소기를 금지합니다. 영국이 다음 차례가 될 수 있을까요?  GB 뉴스",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk",
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "LG전자, 생활가전 구독 브랜드 순위 2년 연속 1위 - en.sedaily.com",
+      "media": "en.sedaily.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk1aTUVaYm5XQVNIU3J3Sk5SXzVtNWRFREVfMHp4d1ZpVUoyeUJwT3RBTkg3N2c4cDVrR2lSSE12T0VOVWhuTzhpUnUwYU5qVXZWMlp2ZGlYa0R6YWQwUHNzUlpzRm85WGVZMlc0dVlySjBiVE4tY0Y0QlF6M01MLUZlc1dGcjFobTlYaHhsTEd1emdPSDFBTW1SNA?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1785726605,
+      "summary_kr": "LG전자, 가전 구독 브랜드 순위 2년 연속 1위 en.sedaily.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "그들은 아직도 작동하는 오래된 기술이 무엇인지 물었고 사람들은 1930년대 라디오, 스토브, Game Boys - The Cool Down으로 대답했습니다.",
+      "media": "The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3J2MTlNbzlYVFJDa1NsQ3RPR1VNNDdiNEhPX3R6TzBYbEhoN0FWdDRaX1AtY1J5dHhhS2drSnBROWlyQkNWWmw4QlF6VTNuLWtRenNCRE9MNXdGejBLeEQ1QTJRWnByenBjSDkwOUhxaGNSSjQxV1ZIWlI3NV82emJPMlJIMjA?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1785725400,
+      "summary_kr": "그들은 아직도 작동하는 오래된 기술이 무엇인지 물었고 사람들은 1930년대 라디오, 스토브, 게임보이(The Cool Down)로 대답했습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "쿠첸, 요리가 끝날 때마다 웃는 '브레인' 밥솥 출시 - ko.sedaily.com",
+      "media": "en.sedaily.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc21zdzR1bWFyWTBUZm5RMnMwOUt4VDN2S0lETjdNLXA5ZHJvdkJvUXpxcHRLMnpIcEVtZmp5WDhYY0F3Yjc0eUtrR204MjZZNXZjcmFFdldpVUdmSzZ0ZnFXVDEyaEQwdWFxWGs2V3pBX0MzLVByLUhaTTdhbVBJdzBSLWtBTkZPR21iWUlzcFhHQmJISHB0UzdYTHBPTllFSUE?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1785722535,
+      "summary_kr": "쿠첸, 요리가 끝날 때마다 웃는 '브레인' 밥솥 출시 en.sedaily.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 태국 세탁소 1000곳에 세탁기 공급…동남아 B2B 가전사업 확대 - ko.sedaily.com",
+      "media": "en.sedaily.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPallVWFl0N29INlF0aUE2SmFsN0VsMWpscDRULVZja1AyZEFQaXAwTUdwNjE3em5lMThwbGVGeWp6eGVtTi1lYk5tU3Rwa0tiVjBCZGdWUkR4SWMycmdjSm90SVhRN0tFSFJleHBqZUZWancwWVhINWJNNVpXUmN1RmJYaWdBQU01b2pHSkwxdUYzRGNzeFpZVGJqNnVzQVdJ?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1785718809,
+      "summary_kr": "LG전자, 태국 세탁소 1000곳에 세탁기 공급…동남아 B2B 가전사업 확대 en.sedaily.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "\"삼성전자, 명품 추월: 대폭 리베이트 소식에 백화점들 유례없는 매출 급증\" - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lNmQ0UEF2bUY5NmtXS0U1Zjl3Z0dpVi1VWW11RTBRMGNKRDl4N19OWGF0d2g0Y0FsbXJ1YXFyWmdMbXNZN0tST3lhSUp1cHptcy1HQ0haTlRXdTVoYjRrUFNfN0k?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1785708840,
+      "summary_kr": "\"삼성전자, 명품 압도: 백화점, 대폭 리베이트 소식에 유례없는 매출 급증\"  아시아경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Costco 대 Best Buy: 더 나은 주방 가전 제품을 판매하는 체인 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzF0SnZPTVhtaVlBSDJqTVFQM2JyR1I3Q1ZvZVRyNGM1NDJYUG1BNGx6TDZ2dXE0bk9vVU5samU1aHhjR3J6NTRGby0yRldJQloxVHl5MVhOelhseVo1anNzWUJGaE1WaGtEclNUR0FxXzlON3JhZzFZdU9sWkhkYUNYNDdoOE9adDZ5SmZUMG84WC1oQlRnYXhfOA?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1785694620,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전문 셰프가 말하는 주방 가전은 가장 과대평가됐다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0hHYWIwaUFfRUJvZll0VTdETktZOUJ2cW91YWRmNG4yR2ZXUExyeWZkNERTZm1BMnN0akJpZnByLW9PcFBYMUZiY2NBNEpIQ25xQ0NLdjJuQU5iRXIyS2dKTlhMdzBCRnN1RnpIUC1kN0JFYmFuYXgzT2IzaTc1b3hYYVZwcWppRW9tUWhiX2dEY2hhRkZaWEh1bVpwQ0FsX1VqMUZmYXBNWWRDOUxzSkV3Y2w?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1785689700,
+      "summary_kr": "전문 셰프 Yahoo에 따르면 가장 과대평가된 주방 가전은 다음과 같습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Nutribullet을 부수고 그것 없이는 살 수 없다는 것을 깨달았습니다. 새로운 Ultra가 훨씬 더 좋습니다 - 여성 & 홈",
+      "media": "Woman & Home",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0llWlM3VFlZQ0hwQ1VIcjgyLWpQOVN0azRnOU9kUk5BQkpqUHJOYUgzNzRJZ0o2QUpyYTNwckZOMmp4SVFOU3FfVzROT1AxQkwwNE1FQlQtamhvcjk0MjUwZWFEWERfZzdUNENIT09nLVZNLU8zWXAxdXJsQXRabUpR?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1785686400,
+      "summary_kr": "Nutribullet을 부수고 그것 없이는 살 수 없다는 것을 깨달았습니다. 새로운 Ultra는 훨씬 더 좋습니다.  Woman & Home",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Dualit의 새로운 아이스크림 제조기에는 사전 냉동이 필요하지 않습니다. - Idealhome.co.uk",
+      "media": "idealhome.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTJyclFxbGVVRjBHeVc4MXBqVXdES04yVlZZZDQySTlfazFLZHcyRGJxRWxMUHBkcGtSd2x3RGlxUW5pcWJOa2dZRkFpZl9VQTdUQk1TdXpDU0phNURFQkVZZG5SckhWcUxSSTdMbVNsalpDVllmbVFzSXhtaGl6YU1adDNiVzBNQW44VDItaw?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1785675600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 태국 2위 세탁소 프랜차이즈에 상업용 세탁기기 공급",
+      "media": "Bing News",
+      "url": "https://biz.heraldcorp.com/article/10828486",
+      "time": "19h ago",
+      "pub_ts": 1785675600,
+      "summary_kr": "LG전자는 태국 2위 세탁업체인 트렌디워시가 운영하는 630개 매장에 상업용 세탁기와 건조기를 공급했다고 월요일 밝혔다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "보상 판매 프로그램으로 중국 전역의 스마트하고 친환경적인 냉각 업그레이드 추진 - Xinhua",
+      "media": "Xinhua",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kU1FwQUEtb1dvTWh1Um80ZWhPbS1wVm1vTUdEYVFJTXU3NlFJT0Zsc0R6OXo0VzVCTFFHZFdfenlzWC0wX3NDVV90UEl4WldMOVNLdUJNQTNWRGxBelJXRDc0Vnp1OHZISVIxU2RBZWNDeXZ3MElvWUxZU3M?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1785669978,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "성가신 주방 파리를 방지하는 획기적인 소형 가전제품",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/lifestyle/shopping/the-small-appliance-thats-a-game-changer-for-preventing-pesky-kitchen-flies/ar-AA29fPgx",
+      "time": "21h ago",
+      "pub_ts": 1785667500,
+      "summary_kr": "초파리, 집파리, 배수파리는 부엌에 모여서 귀찮게 만드는 경향이 있습니다. 이 편리한 도구로 이러한 문제를 제거하는 데 도움을 주세요",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "가전업체에 운명 엇갈려 삼성은 적자, LG는 1조원 회복 - en.sedaily.com",
+      "media": "en.sedaily.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSjc2RjFSb0UtMWZQNVJ4UnpKdkJBMTBQbm5lRGRfMnFMX2VZNVVUM2piY1hIaHNHN0RZRXlheGdOakpwUGlORHhIYWJUellSSXUxYUlaWlZEOVBCWDdlNm8zZHJUaW1PV0xZMXJaeHJYbDdHbjhyVHVGWkJZYXVMQ1FGaFZWT1c4dmpQb1hyQ2M0b0Jqakw2RE84SG54VlU?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1785665983,
+      "summary_kr": "가전업체에 운명 엇갈려 삼성은 적자, LG는 1조원 회복 en.sedaily.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전자레인지를 손상시키거나 더 악화시킬 수 있는 10가지 일상용품 - AL.com",
+      "media": "AL.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmlYU0xiWnI3YmFydmJBdUVYRW1iR3RBOFRZMWdDSV9IVnUtc01JLVJrSEd2SWx5SlVxV3VvdjJud3UwRlNJNG01RFJSMWpmdHFEMHlGeHgteUFpWnNHX210dHpBVjdOQW04S2U2ZGtaR05kYTctaUhVa01LdndENDRzeGRreE1vMDl2UmV2dFZlYlVNRi1kcEliZXdnUdIBsgFBVV95cUxPYWNULUptZThDMFJOU3ZOQnFkay1wRUR5ZWJ5b3E3eG1XWE16T1o0SXRsUVhfMHlzdFhXbVJtdVdENTdSeFhWVEJVS0VMcW92NTJlOWl4ekZmbUhjT21jeGFOX1ZEN0pvVVhIQTVITTdVYmIxazZLdGtGQWhPQ25uQTVrcWZIWGhkb3BiNUwxQ194REtlVVh4UERoLVBMY2ZjbHRzRzRXTEFGYmJJR3BHOGtR?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1785664800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
