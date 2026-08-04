@@ -1,0 +1,382 @@
+{
+  "date": "2026-08-04",
+  "date_display": "2026년 08월 04일",
+  "generated_at": "2026-08-04T16:31:14.972888+09:00",
+  "generated_at_display": "2026.08.04 16:31 KST",
+  "category_counts": {
+    "Market Dynamics": 19,
+    "Samsung DA": 3,
+    "Technology Trend": 1,
+    "Competitor Analysis": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 25건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: 월풀은 글로벌 야망을 포기했습니다. 지금은 상처의 세계에 있습니다. -WSJ. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 6건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: 삼성, J.D. Power 가전제품 만족도 조사 6개 부문 주도 - ChannelNews.com.au. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: LG전자, 2년 연속 가전가입 1위…\"고객 변화에 맞춘 모델 선보일 것\" - 스포츠조선. 시장 전반 기사 19건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Falmec, Level Invisible 하향 기류 추출기 출시 - KBN Weekly -",
+      "media": "KBN Weekly -",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlJKUGhFWkx0TFBDQ1FVX3dULUNWUGtlSjZsYWFaXzc4MGY1eUctUTdkVGp3aUVySXV4VElsUEt5TlN6UHY1VzkwTVdFU1NJYW9WMzE5WnB6MkNPMVhvTmZiSTk2OTFlZnRMZ1lkbEJmTVdtQ0lJLTQyRERCWUF0Q1lPdTE?oc=5",
+      "time": "Just now",
+      "pub_ts": 1785826531,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "가전제품 찬장 vs 집사의 식료품 저장실: 디자이너 의견을 갈라놓는 주방 수납 논쟁 - Homes To Love",
+      "media": "Homes To Love",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTjhqWjRUWTduS25YOHA2UjhoUDZwYmF5X2s5NVBIcTFDS0dzYkxwbjl4UFVqR3NSWXVTRDUyaXhfdnpKR1oyVVNwYWlLWFp2NXFMX19ySnN0SEV2X2pqcnBwS1dneGowaFJyWFplWE1nQ2MzV00ydGhBMDJ5dlRvS1dKaTdFYkczcmVibDFYc0Q?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1785810248,
+      "summary_kr": "가전제품 찬장 vs 집사의 식료품 저장실: 디자이너 의견을 갈라놓는 주방 수납 논쟁  Homes To Love",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Lowe's Vs Best Buy: 대형 주방 가전제품 중 어느 것이 가장 좋은가요? - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WODRuTFZqWGN2Z1RGTHp3TTNyTlVUZllBOXZXMEZ4NDBWcTZMMm92YmVDZTg3WkFvY3hHSDFjSDIwdlRxYWpkRzJaaU83TVNzenVEd0V4ZjBRNXdwSlI0UUdLNGVpTWZIbVpIVFQ1RHFtbkJy?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1785808559,
+      "summary_kr": "Lowe's Vs Best Buy: 대형 주방 가전제품 중 어느 것이 가장 좋은가요?  AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성-LG, 국내 히트펌프 시장 경쟁 - mkbn.mk.co.kr",
+      "media": "mkbn.mk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nU0hzQUJaYkMwbWdpVXVhZkEyZG9qNFA0YzY5Nm9YbzBEM05vTjAtd1l1aHlwTk0zd0tmQmRTV1Z4ZGNmODJZRXdRM2lUaE84MnNWRTRn?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1785806823,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성·LG, 취약한 스마트TV 앱 제거 - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc04yWHdrNkJxMFV6UHJIWW83TmI4SU9HZ0t5OEJTS0o2MkNIZW9ta0VqQjZuckhsazhHcVdOd0c2TXlEQ1NGZWh1ZXZXbTkwNnVaM0YteVd2UkFGVXZUeHdseW9VcXg0VlhHeTljaG9SaVJvb2ZMWkZWWU9acXlrZFBrZU1fbWp3?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1785805564,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, J.D. Power 가전제품 만족도 조사 6개 부문 주도 - ChannelNews.com.au",
+      "media": "ChannelNews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUV4T05FazJGUXpab2ZuYzA0YV9oX3VITE0yNEcwRzJxcnpHTlFaWHFpZ1N2aUhFVloyZmNRYkc3M29vUE44X1pXOGJOamtSYzJrTnZMajd5Y004QTcyaEpXNEY5Tm56TUxEMG5lSktFUmt4cGktenJFUVBxYXNSTklrc3NIRWJhc0ZsYzRveXY1bTJjbklGWHlWMDhzak9XVElEbQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1785804317,
+      "summary_kr": "삼성, 6개 카테고리에서 J.D. Power 어플라이언스 만족도 연구 주도 ChannelNews.com.au",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "오타가 아닙니다. 파나소닉의 최신 주방 기기는 실제로 빵과 아이스크림 메이커가 하나로 합쳐진 제품입니다. 저는 그것을 확인하기 위해 요리 학교에갔습니다. - TechRadar",
+      "media": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbFc5WDhfS2xBWUpGRE5xNWZra2VyWW4zbkRTSTBpM1RTcWFDcm50R2dJWjJhUWFnd3lWcTVpcjlrR3BtYVJWY1ZTN0ExZDhBZThjdE1FVDR1MmVfTklZVVNnaWhUN1luaWN4NHVETEJaY3NRazhqbEJQbW9TdHNhRVJjYlZDdDQ4d1hxZUVNNWs1dGloNTNydENjcEhJWEZ1TFMtNjFJbmZkeEJpRmZ3VWlTWjktZkROaWRIMXVuWHhBcE0wSHJabHhMQU43TE1JbkNwckh0eW0xcjNfbTJtdmZhbmhTQTBXazZGTFZVWFR4NkdOeUp3elpRbDFuWHVtckJvYWlZYmJvMDliaS1Hd2k4bFMwYnRLckJsN0VDU3E4NVk4YW1pcw?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1785801600,
+      "summary_kr": "오타가 아닙니다. 파나소닉의 최신 주방 도구는 실제로 빵과 아이스크림 메이커가 하나로 통합된 것입니다. 저는 그것을 확인하기 위해 요리 학교에갔습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "월풀은 글로벌 야망을 포기했습니다. 지금은 상처의 세계에 있습니다. -WSJ",
+      "media": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbjhCRm9md3l1SENLdlhpNHNxOFZOUXRoUHFHeG5nYmZjdTdsZzRIdnlkQnBQal9RMVFPaGFzVnpSX00yWDJyUnZIY1I4emplZHNqWFZFNXBoTzZIME5MM3c2ZmtjUXhYVDRfZktqMjFHVkNPTHA3ajFsVV90MHZ3S2lQQ0Z6eXZEMlFuR2NuZlNPTWpMd2tjX0UtTnRPZDVOTnZGaW5yVE8?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1785801600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "인텍스, 선풍기, 온수기, 주방용품으로 가전제품 포트폴리오 확장",
+      "media": "Bing News",
+      "url": "https://www.moneycontrol.com/technology/intex-expands-home-appliances-portfolio-with-fans-water-heaters-and-kitchen-appliances-article-13993466.html",
+      "time": "8h ago",
+      "pub_ts": 1785798000,
+      "summary_kr": "Intex는 새로운 팬, 온수기, 주방 가전제품으로 가전제품 포트폴리오를 확장하여 인도 내구 소비자 시장에서의 입지를 강화했습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "스테인레스 스틸 가전제품에 줄무늬가 생기지 않도록 유지하기 위해 소비자 보고서가 가장 선호하는 세척제 - 시식 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVTA5ZUZwNi1hXzB1S2tMUEd2TVExQTlEV3NDYVE1ODJXMkxWdG1iZFlxVFZXc0hHV0JMaXpSUkNsTUJLTDRLX2x5Q1RwdzE4TVhpYVhaM0dncWpPblpDckFvWEU0ZkVGZEFuZDI2bHRZWmwyWDF6UE1vMk4xUkNnVjd6c1NwbmdlYTFRSHRUS2dCYWJfczgwaFczNlp6RW8?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1785790800,
+      "summary_kr": "스테인레스 스틸 가전제품에 줄무늬가 생기지 않도록 테이스팅 테이블을 유지하기 위해 컨슈머 리포트(Consumer Reports)가 가장 선호하는 세척제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "새로운 우승 CEO Anthony Heraghty, 스포츠에서 호화로운 주방으로 도약 - AFR",
+      "media": "AFR",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSmxzSk1jS0tPSnZIYnVrMHR0TGVwMG5QcjdVTjQzQ2JyZHAwQkVUR0pNRHIyU1dSME5WR0Vja3pmQVQ0MFAxemIwXy1ncHpISks5TmI4OVU2MGFqZ1JsOWItY1l5ZDNiTUtuNVJvbTl2UjJaN2pac0JIeWhvS0IxVjBYaUlvSVktQWlkTXRMQkl5V1dyQU5meGp2em1tRjFwZ1BldWFuMWt2LTJ2Z3RQM3FmWm1GODRDWHJCcWl3?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1785783600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "월풀은 미국산 가전제품 브랜드인가요? 알아야 할 사항 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNS02aGhxVGJFZ3pEVkxwOGhsdGN4YVdWUm9wQnM1Z1Y3NXUwaVUyS214VkNBZzBVSWZOWldCSV9UWS15SzY5S1FNcWRxc21aMlFRT3lZRDBoQjM3UVMwTFRQekkwa2ZOWEYxLU9MeEhmdzBuOU44T2xSSjZNcG43VDVnUHFuUUk?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1785782400,
+      "summary_kr": "월풀은 미국산 가전제품 브랜드인가요? 알아야 할 사항은 다음과 같습니다. 시식 테이블",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "모노그램, 첫 번째 아이코닉 키친 디자인 어워드 출품 개시 - Voice of Alexandria",
+      "media": "Voice of Alexandria",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPV1JxNXFOVFJWNlhpa0tyWG5NczJsMUFEQzFZTnBlMVIyM1lfNnZUQzY0MkZqQUx1Zk43Y2VETHZaU1Q5VV9ndFozTWpRTDI0dDRvUUdfT0FEXzB4Q1BwbDBVQTJEQ21STUlRU1FySGxxTWRQa01Vbk0zX0xQbm04clhCamsxVm1iSWp3NUlYVkpQV3dIY0RkVlJpSk9TUk8wcGRmemNieTJKQ1VpUzRobHJHbUI0SFpuSlBOY011cm41NmxISnFmR0hfaG8ybDFzWTF0REVPc2N5VHdnbGRjbk5MODE3WlBlSFl6ZHZVNlRLTlQzNXZzVEtaNDJVa1ZOT3FOa25YTFJWdjE2aVJsQjcwaw?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1785781881,
+      "summary_kr": "모노그램, 첫 번째 아이코닉 키친 디자인 어워드 출품 개시  Voice of Alexandria",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "여름에 뜨거운 주방 가전으로 요리하면 정말 집이 더 따뜻해질까요? HVAC 전문가에게 물었습니다 - The Spruce",
+      "media": "The Spruce",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbllobER1WkhfeEVpQ01xSE5tdjg4X1BwcFlSRzBzRWJYYWxPTG1ndUZrMTVMYWEwcm5EemtnSkNjT3dsTVp3QkdsX0NrVHJjbV93Sy1fMy1wck9xS25NamhpNGVkWlV3RWtpcjZldWpvLTU3Z1ZaLS1UdVYzdEhhdUZRNzJzYk0?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1785771240,
+      "summary_kr": "여름에 뜨거운 주방 가전으로 요리하면 정말 집이 더 따뜻해질까요? HVAC 전문가에게 물었습니다. The Spruce",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "캘리포니아 집주인이 세입자에게 이 흔한 주방 가전제품을 집에 둘 수 없다고 말해 비난을 받았습니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3dRSGRRX0pUY1hmcDlfWlg3T3piNF9QbVc4X2Z3VnUzc2k1NlNfNUM0V3lWMG1fdTJxUkFDa0NYNUNZVFczWlpHVTN5clZUZ2RVekcxQW91MU1IR19iVE4zWWdvNWdCdkg3OFVodTN2RDFHQzhvaHNXZFlFMG43TXJwQ0lsQ3pieUNmSUFJWTNZVGx4UERHa0VB?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1785769247,
+      "summary_kr": "캘리포니아 집주인은 임차인에게 이 일반적인 주방 가전제품을 집에 둘 수 없다고 말해 비난을 받았습니다. Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 8월에 주목해야 할 14가지 Best Buy 주방 가전 제품 특가 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44Y1hZUzNNaGRDZHRDNmc2M0xrYnBZOFBLS0d6THlkT3Yyb2lRX2ZId2dnYlVVZ1V6Z281cVprdmxYSHVtT08xcUpHaTRiMVZGM2NINWNFdkpYeG82WnRBTjFBNEhCSk1wZlQ5dzkxeHZfSFprTF80TzJwYTFPQQ?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1785766899,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "삼성, KBIS 2026에서 맞춤형 AI와 Dacor 주방가전 혁신 선보여 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1QldMUUxKOS1xdFRvYUFIcDlDRHlnUFBNUHdiSEZRNWlhSG9RdXhYY2RpUW5NRXpDTmxuNnRteFpHd0pDS280UWd3eHlpbHg3UkkxZ0NYak9jTWFlc09YaDFuU0FTWlJma3JSMHF6cGpPSGs?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1785759523,
+      "summary_kr": "삼성, KBIS 2026에서 맞춤형 AI 및 Dacor 주방 가전 혁신 강조 samsung.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "수리공들은 이런 흔한 주방 습관이 냉장고의 수명을 단축시킨다고 말한다 - 허프포스트코리아",
+      "media": "HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZWxmQ1l1ZHBTWWZ0WlNfWnpWLVNmVUR3Zm5BcUlfenBlTWpZQVNHNUxnU1F2QzU5bUN0NVR4RExiOHV2V0pNanhLRUR1aC1QMnVBZ2Y1Q2VlVFNPWXllMElmaGQ2M0ZKU3RRckNucVRDTFh3LXp4TVhjVTRxQ2ZsM1lMUlhpVXM5TjRpRjBpc3hoaTI3a1VueEVpdFJDU1puSXc5OEdBdEJTTnZlRElBcDREZXZjQzdva0HSAb8BQVVfeXFMTzhCcWJrZVJURFgtQWZvdklfcDJoWTNiQTdzNGFDZl8tX1JpYjU1b1EtVllaRW1jMTc3X1JucWpvWmYwMDdpQ096cmtDZFpjcEdXQ2xhU1hpeUNibjdnLTNtU3p4Uk92SjVrX21RVTNCc2FGc205QU9BRC10aWdiOHJ0M3lpa29YQ0lwdG03cUgzbzBBX2ZpSEp1U1V5M3VpenUycS1XN09na091bkpqcXlYLWgta0NaU09wVVVPaXc?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1785754817,
+      "summary_kr": "수리공들은 이러한 일반적인 주방 습관이 냉장고의 수명을 단축시킨다고 말합니다 허프포스트코리아",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Haier Smart Home Co Ltd의 배당 분석 - GuruFocus",
+      "media": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2xPNHlGM3djYUVvRHJYbGNaaG00WWlFcTRrZGhtdEo4eTMteFFLWDBPWDgtRXJGLWxhUmRCbE1KTW1NYlhaS1djd1M3VV9xTUJ0eUJtR0N0N3ZrTHBHYWVqd21rMTVqRXd4T1g3eXEyWmZ0LTFSV2o2U3NDeTRzWW12Yng0Z05O?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1785754285,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전문가들이 조언하는 8가지 물건이 손상되거나 안전 위험이 되기 전에 스토브에서 치우세요 - The Spruce",
+      "media": "The Spruce",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kaVc3ZlpLZDJXUGVpZEVGMnRNd004Qy00TDNvZU9KVHozNFR1aW9CUVdvZ1gxNUpGNU5fWlBUWE9ZM1JZcHJ5SFdoSzhHekJFaEN6TjBXSExyWGxjVlE3ZkhSVGc4UkJ2MnJweG5YTWtsb3dM?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1785754140,
+      "summary_kr": "전문가들이 조언하는 8가지 물건이 손상되거나 안전 위험이 되기 전에 스토브에서 치우세요.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 2년 연속 가전가입 1위…\"고객 변화에 맞춘 모델 선보일 것\" - 스포츠조선",
+      "media": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUDQ3MHBfOWdGWjBSRzBwaW5YeEwwaEluQ0p1aTloV0MwWnZyRGJUSS0xOElPdUVfbWF3WHR3SVQtR0RUOTBYVG1Oay1FNG1Ea1NDOGEtZ2pRcmFLUkgzREQydFplb3pSMjNHS0lnM1BWYkRoZGNFc0tNSnp4Vl9PMw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1785750859,
+      "summary_kr": "LG전자, 2년 연속 가전가입 1위…\"고객 변화에 맞춘 모델 선보일 것\" 스포츠조선",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 글로벌 상업용 세탁가전 시장 공략…동남아 넘어 유럽·북미까지 확대 - 스포츠조선",
+      "media": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjZnSFhlRllHWUFOeVJ2WFRTajFKWnZXOWtGQ25aUGNZZEhsRmVlcUFrdy1fWDBzQzRhX0wtY1pBSlpRTnJqblIydUViQ29wOWIwSF9pRlNna2VZMVZXODdIOWtDR0k4al8xTWJ6a2hXR3NNMzQ1d2xHZFNCeVNocQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1785750574,
+      "summary_kr": "LG전자, 글로벌 상업용 세탁가전 시장 공략, 동남아 넘어 유럽·북미까지 확대 스포츠조선",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전력 서지로 인해 주방 가전제품이 망가질 수 있습니다. 큰 폭풍이 닥치기 전에 플러그를 뽑아야 하는 방법은 다음과 같습니다. - Simply Recipes",
+      "media": "Simply Recipes",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcTYzQVdPdGxKODdEUEpVY1FfQmVQOTdJcWFnTkpSZHluU3J1cV9JdmVqcV92d1A3Z2VKaVBMcHBna3FKNllfSGoyU3p1OUk3R25BOTJBQ2YzalQ4bFo2Ymc3amhUN3ZIQTVNWDZWSHphNFk0WURVWVdhbGpDTWZwMU93Zw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1785749520,
+      "summary_kr": "전력 서지로 인해 주방 가전제품이 망가질 수 있습니다. 큰 폭풍이 닥치기 전에 플러그를 뽑아야 하는 방법은 다음과 같습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Breville Group (ASX:BRG): 글로벌 프리미엄 가전 브랜드로 투자자 관심 확대 - Kalkine",
+      "media": "Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQekgzalY1dERwblpqS3FVbThubXdrVjhOUkpOS1NiX3dkZlZEZWNMcjhKODlHZEpWZWZkOWM0ejh5c2FmcC1iRkhhV3J0cGk5RGl6bFZnSlZSTXpDVzFfOUtUTGpfOVEyTGd1SVhwMXBGcVRNSTFVbUJ0Z0JnU3FsaDNiYlU1WTBReEhncnJ2UkotNjVYQVJNYk5IZGpyVUpQalNkMWFWbktxZm5aRFhiSE1R?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1785748500,
+      "summary_kr": "Breville Group (ASX:BRG): 글로벌 프리미엄 가전 브랜드로 투자자 관심 확대 Kalkine",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "팬 그 이상: 더 나은 엔지니어링을 향한 Click의 투자 - 비즈니스 표준",
+      "media": "The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQmZ5QTdkTUN4YVd6dkxxamd3YVM1R1NfdHljZ1dqamtubENSVTlZclQzVXFyRjU3d2RrU0FoOHMyZy1xMlZjeHlHZ25JVE5nbkZVdVJzcGR2SDRqSlJGZFVqYkg3VjNkZTkxRGlOWGNLRWZVZEliNU9kSUVxX3Q4eWgtanhYQVNudF9pX2VQONIBlAFBVV95cUxNcjZsa3ZXNFNSaUxXRDRaXzhaMFRLWVcxajE3SkNTZHhNdUpIVy1Rd0VIS2JIUDZXcnJWcGxBSXZKejU5djhLWHNIdWZCbW01RU4tZzBqLWU2MVZDVmFNRzM4VGctSzlDdkZ1blJFdnIzTmN2RS1BZlhmXzJacm5Ua3FYMjRIQ3JlMHg0STZJX1hsV1hB?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1785744600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
