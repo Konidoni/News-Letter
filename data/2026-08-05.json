@@ -1,0 +1,185 @@
+{
+  "date": "2026-08-05",
+  "date_display": "2026년 08월 05일",
+  "generated_at": "2026-08-05T16:33:26.693557+09:00",
+  "generated_at_display": "2026.08.05 16:33 KST",
+  "category_counts": {
+    "Competitor Analysis": 3,
+    "Market Dynamics": 8
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 11건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: FCC, 해외산 로봇청소기 금지: 룸바, 다이슨, 샤크 모두 자격 인정 - The Eastern Herald. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 3건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 3건이 감지됩니다. 주목 기사: LG전자, 2026년 2분기 실적 발표. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: FCC, 해외산 로봇청소기 금지: 룸바, 다이슨, 샤크 모두 자격 인정 - The Eastern Herald. 시장 전반 기사 8건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Competitor Analysis",
+      "title": "FCC, 해외산 로봇청소기 금지: 룸바, 다이슨, 샤크 모두 자격 인정 - The Eastern Herald",
+      "media": "The Eastern Herald",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUd4ZzJXN2NHSnliTmJnVDVoanMyS29kbklIUF9SS09nWlRMcENFM2Z4ODBUSjFhQklFamJ5cGZvQ0VndDJ3T1FzUVJISW9HR3pPLTNSc0YtdGd6YWY4WTNSWmpxak1BNGZ4ZHJCSzA3ckZsak10cXU1NGJBc09JMU1rdVpaVzg?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1785904228,
+      "summary_kr": "FCC, 외국산 로봇 청소기 금지: 룸바, 다이슨, 샤크 모두 자격 획득 The Eastern Herald",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 친환경가전 구매자에게 5만원 리베이트 제공 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVE5zY3RDdXJHWEFyWE92bFBFYjZNU2JmTVlnTE9PbWtuVmNNMktmdGRmaXZNc2haQUFuZnRSZXVNQXBjUTlVMlMwaEZtSWtISzRyQ2JyQVIyM0FMOThYakVsdGlNeC1zNFdXMENReVFEMnpla25qMmtYOTBLQnE3WlBTUGphcWtRR3VldlRiVi1mU2l2RFAzcFJvN1c?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1785894868,
+      "summary_kr": "LG전자, 친환경 가전 구매자에게 5만원 리베이트 제공 서울경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 홈디포에서 구입할 최고의 주방 가전제품 7가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xRlFnbEtEb3FZRVJ6Vk8wOG9lSlhqamN6ZkxweWJjQUhNRFFBTVRtRWRRU0dxN1RDRUlJbmRaY1g5UjFvYnpYUWxrMnQyTkZCU3QyTHEzcUhxWVUydzdOWU1rZlBPZFgwRk5wNmFkVFQ2amJLOU1NdER2Um9KQQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1785891631,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전문 셰프가 선정한 가장 과대평가된 주방용품 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGEzWWdrUnhrbW53U25Ua2tabkRsN0lmeEYtdWw3VUJESW94c3RpOUFPTU5MYW5PZDFBUnlFZTItZGMtM0lkQzdWd1RlM3JtRjNvU2RydFViaDMyaXR2S0RlR2ZpSkJDVkRuRnZoUEFpOTBjTk5LX3BGdzJvWkNxSVp6djh0bW91SWIyMU0tZ0Q?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1785891077,
+      "summary_kr": "전문 셰프 AOL.com에 따르면 가장 과대평가된 주방용품은 다음과 같습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Thermomix는 호주 주방을 확보하기 위해 본사를 멜버른으로 이전합니다 - ChannelLife Australia",
+      "media": "ChannelLife Australia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXc3SEtScTlRSmwyN1RKM1pBMThocDBmZTBkMUE0Y3dKMnU3QVNsVW1obldPVmpHaUt0MllpZHdxd2szTFp2SWtMUkJucmxfQWtLQ2NYNGZTOU5SMjV3LWc4OTBFWG5jcDhOQTcwM0VMNXBHbHVZQTBGZHpGbkE3Z2RmNWgtd25OeVg0enpwNEU2R3lxNGc?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1785884400,
+      "summary_kr": "Thermomix는 호주 주방을 확보하기 위해 본사를 멜버른으로 이전합니다.  ChannelLife Australia",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 2026년 2분기 실적 발표",
+      "media": "Bing News",
+      "url": "https://www.albawaba.com/business/pr/lg-electronics-releases-second-quarter-1634452",
+      "time": "11h ago",
+      "pub_ts": 1785874920,
+      "summary_kr": "LG전자(LG)는 오늘 2026년 2분기 연결 매출 166억 달러, 영업이익 11억 달러를 발표했다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "가장 인기 있는 브랜드가 만든 엄청나게 비싼 냉장고 5가지 - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEFvRlBBUTM3aFBmQkpfWXlQbmIxZDZmV0dkVlQ0QS1hT3gxbzBPeHgxMlppdmRLSnpkTzEzZHE3VFBXVGtEcExaREUxZVkxTjhhSDBsdHJ0ajltWTFXWXZpOW5fbDI2N0JURmpXN3N1ZDdPcUxvcXZhZlYzTkFZcnNGaGNZOTlGRzYyczNWNjdhdDhJeENNOTRFZUVVSUlOUEE?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1785870900,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "허리를 다치지 않고 가전제품 밑을 청소하는 방법 - marthastewart.com",
+      "media": "marthastewart.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWl9McVBMV1V1V05ReWFrWTZtQV9sSzNYZmtKX0IxTzUwVmtFUmpHT0tBb3gyMTBDSE1nSmY2UXZVQS1JQ2xDZVRMV3RlTUFKcDFhUS03ZVhXS3ZSVFlpZ3lVczVrSUpSaW80azJGR0JBZVhvRU1Sb3IwYjZGSXZlaDYxVDQ5MnpBN2FwNG9FcDEyUk1WZmo5VEFR?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1785855600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Bitzer와 팀은 Whirlpool 복구 계획에 대한 자신감을 강조합니다 - Moody on the Market",
+      "media": "Moody on the Market",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZzFyZmZDRTYyTWVRUmdzeTVqT0Fxbkpjd2FOYk1KREV1MUFoOGVOdVlhM3VMNk9pMzMxQnAxMkpXdExWOWhkWGtReXEtNFlmV2gyU2h6MEFhbTRtQzRqVFRZaXl1eEVReVh6ci11b3dEV1NtYUc5OWtBQzF2Y19JQjJ2NTVwSzJXR0owX3JSUmQ1Q0NVempDVXhR?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1785853688,
+      "summary_kr": "Bitzer와 팀은 Whirlpool 복구 계획에 대한 확신을 강조합니다. Moody on the Market",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "PINNACLE 판매 그룹, TOPIA와 파트너십을 맺고 동해안에 프리미엄 가정용 물 체험의 미래 소개 - EIN News",
+      "media": "EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSkdXRDFFS1pwcWZnNmNiOWQ0VjM1MG95NHVpV3dBNndQbEFaR0prVGxrcU8tME5xdzE3UDBUS0F2RjQweDhMejZMMnM3UHIwWjZ3REd2Y2s1czVXRFo2Z2MtZTQtTHg5VlRldXJrTXVWdzFHVWp1a3d0SGNaY0QtYVQ3WThkZE5pbnR2ekhNbG42bTlrUHhCaTV6eFdIRXh0alkwWnNBN09EVWV3U1J4M2RvUmR2QVFDREVxaDZiYWNaRjI0NUZwbld5TTQ0ZVhiQmxXc0NyT2pxYnBRMGZibERlTUNrSEVVRVlmRkUtSQ?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1785852240,
+      "summary_kr": "PINNACLE 판매 그룹, TOPIA와 파트너십을 맺고 동해안 지역에 프리미엄 가정용 물 체험의 미래 소개 EIN News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "BSH, 인도 프리미엄 사업 성장 위해 보쉬·지멘스 소형 가전제품 포트폴리오 확장 - t2ONLINE",
+      "media": "t2ONLINE",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRWxhejNsMTJjTzhMZ2ZObUVxTlB3RW5TR0JzcW9DSWp0OVNXSHFfOVBJTjQtdXdmbUVEMnMtNmNjZVFTbG16aVhDVTNjVzN4Z3R5cmpCTTFtVG9feFUxYTRJaEVWcndDUnprQUVMYmhLRlQzMjd1S2hDWlg5LXFTazFHVXVaajNCUjFyemxvREkyR3Z1SktCSmdpdU5fb3R4a2hMYy02TDRsZWJiR1FPV3FNb1FZVC0xM0xpYVpOa09TV1FSamstdDdwdU9CWHo5VW9n?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1785838980,
+      "summary_kr": "BSH, 인도에서 프리미엄 비즈니스 성장 위해 Bosch 및 Siemens 소형 가전제품 포트폴리오 확장  t2ONLINE",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
