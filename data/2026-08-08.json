@@ -1,0 +1,297 @@
+{
+  "date": "2026-08-08",
+  "date_display": "2026년 08월 08일",
+  "generated_at": "2026-08-08T14:35:49.490493+09:00",
+  "generated_at_display": "2026.08.08 14:35 KST",
+  "category_counts": {
+    "Market Dynamics": 10,
+    "Competitor Analysis": 2,
+    "Technology Trend": 7
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 19건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: FCC 금지에 대응하는 로봇 진공 브랜드: Shark, iRobot, Eufy 등의 성명 보기 - Mashable. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 6건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: 2026년 여름을 정의하는 7가지 주방 트렌드 - 음식과 와인. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: FCC 금지에 대응하는 로봇 진공 브랜드: Shark, iRobot, Eufy 등의 성명 보기 - Mashable. 시장 전반 기사 10건, 기술 트렌드 7건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "전문 정리 담당자에게 주방 수납장 정리를 요청했습니다. 이 간단한 수정으로 공간이 너무 많이 확보되었습니다. - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdTlidVRxZ2NhLU9fczNiblBQbDdHaEN5VEpiWXE4eTNaWWFXM21nMzNiUHNMOGpOeFRaTTFMWHJremRwYlFhLWgyWlB4ZXlnRlZtNGQ0X2xHcS1kcEF3S2ZjNHAwTEgxWl94VXNVRk1yQU5Tdm5nUVZhcExLS2FrWWFsMVhZZGt6cDNGYng2UWc0S2dHbU8ycTFBQVJ4R2VKS3ZkMk40UXhFMUhfVTFnUFUyTWE2dnVIUTdwamdpRzlDd2dSN0ZrUDRLSkVfWEQwZUhHWllxZTJkRjhEU0JEcWZ2YmJUZ25vbVM0c1RxYw?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1786124926,
+      "summary_kr": "전문 정리 담당자에게 주방 수납장 정리를 부탁했는데 이 간단한 수리로 공간이 너무 많이 확보되었습니다. Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 7-in-1 가전제품을 3주 동안 사용해 본 후 오븐을 한 번도 켜지 않았습니다(단돈 100달러입니다!) - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLWZyZkRQOFRqZFgxWkpDcHB4emRBMWJLTWVLSlRlVUdNeGxBWGpsckRveUc5N2JoZ3Nua0t5cndNZ0VkUkJqTF90Q2ItY2VzWkxyNmphaHc5SnB1dmZmSGhodmt3bUNBd0ZoY2xqdEFFMkhtekpCYnZoUjQ0YlZTMjZiUVBmTVN5S1Vib3VsYldjYkRlN19j?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1786121100,
+      "summary_kr": "이 7-in-1 어플라이언스를 3주 동안 사용해 본 후 오븐을 켜지 않았습니다(단돈 100달러입니다!)  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "FCC 금지에 대응하는 로봇 진공 브랜드: Shark, iRobot, Eufy 등의 성명 보기 - Mashable",
+      "media": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14akFuZGtsRXRGRV8zZzJiMzhJcjVUUWpiUUk3eklfZVlSS3puYVF1OTFqMEUxUklDRGxac21zRmszUFduQXNnbUJtV0Y2YlFISFFBbE5yYlN2WlVzTkx5LXBkMzRzVnlLNmxkTDFEQ0RKQQ?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1786115034,
+      "summary_kr": "FCC 금지 조치에 대응하는 로봇 청소기 브랜드: Shark, iRobot, Eufy 등의 성명 보기  Mashable",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Dualit 디자인 시리즈 주전자 리뷰 - 톰의 가이드",
+      "media": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTG14c1VxaW9GekxDTTJ3djdwMWg4SmxiVjlMM0p0bTVqQ1BwM1lzM1QtV05oajJhcGdZYkl1VW5uMXJjTUpxLUNJS2lpaDBMS0FXSTl5OXhKbWV3QUlkc0xqLUZGSlcwTlpWRGwwcGRsYXVVY2tvZ2FlT00tZUFVc3lfeHBMcHc?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1786114839,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방의 미래는 하이테크보다 인간적입니다 - CES | 두 배",
+      "media": "CES | Twice",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2lXc3RiTVI1Qkd0ZUxrcUdXNVZpcGdCVGdLZFR6aUZCOUthdXRPQTNjRXp3bU85ZG1CY1YybUM5LWl3VVJnaGFkcXNDcmpiNkNmenVZWlhlelVuWi01SWFKczB4eWdCWFAyNk1mcXRoRGF0TWlmQllackVOUWp0NVZuLWpITVdNYS01UGhsUG5iVmdkc0NJTlh1U0JjMGtV?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1786108154,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sam's Club은 주방 가전 제품을 무료로 설치해 줍니까? - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LWUlGeF9IRTlwWVhoV045MHNDV3lkR191WXY5a0Y1WkhvVFlyUkRYdk1QYmFfU1RPTzloN2JxYUtPNlNBZEFXcUtZelFrNElBUktCQnlBXzhiR1hCUnJVdWROY1hSRFItdEZBZm15RWxUM1JHaUY0Mw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1786101274,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 여름을 정의하는 7가지 주방 트렌드 - 음식과 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mSlltWWF4aUxwLUJ4dXBUMG4zTTIxaUx0VDFIYzNkRzd2ZS1kVlJXNGs3TUwxZjVWSGNmTFIxOXRoTzBRWDRqMUdoc3RWWjlpUjZtcjdDaGZKaFI3VzZHZDUwOVdhOFgwWkY1ZWtSWllKb1lwd2x5UHBR?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1786098600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Xiaomi는 Mijia 출시로 스마트폰을 넘어 확장합니다. 인도의 가전제품 시장을 목표로 합니다 - outlookbusiness.com",
+      "media": "outlookbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM2ZVQmJzTE1xaTBDa2owYzUzSmVoUElrampRSDNvclpJZ21oZVBBVkRUek1LWnhXelE1UEhHNUNyb0lma2dDcEppQjkzY25ibHF6TnJERm96SHVCNWkxMGQtS2xmSU5KZ2VidW5BVU9VcFNCWW1iVGJ0MVJhRFlFQXVZb3BMUTJGV3BWT2tMR3VoM1RBWTROSEZNUHlCV2NPcHMwMURiQnVrWW80aEhfaXFsZmluVGszSEY0TzlVa0xHaVJFQ2w5Z1R30gHXAUFVX3lxTFByYVliLVRSaFFaQU5NUi1NcHpwWXo5M3hhb1ZnYXRFd21rQU5uNkxpamVIUHZ3MzdMcl94eEFjblRlSWZnY3ItcHFNdENVanhXMk5rVFpMWnJxOFNHTjMxVHUzS1gxUzBpM3h6ekRKWlB5YVk5TkR4WlU4azRjOTJFYlRxYUc5bnh2QlJmbl83MlQyTzdQVFpmRlhEd3oySVJNb182NlM4V0VrbnNta3lQN3B1aUU1UHZvaGVPTDhtaXE0NlVGRjhOOWhxdWJpMmJmQ0ltVF9j?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1786089296,
+      "summary_kr": "Xiaomi는 Mijia 출시로 스마트폰을 넘어 확장합니다. 인도 가전 시장을 목표로 합니다.  outlookbusiness.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Xiaomi, 인도에서 스마트 홈 및 대형 가전제품에 중점을 둔 Mijia 하위 브랜드 출시 - 91mobiles.com",
+      "media": "91mobiles.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWFZOFRkTnJmMFJuM3l5Wm9wczltdkk0bWtETUJhM2RCTnN0TDdrbUJGb25EbUI2dGE4OE8xbFRKUC1BSW5KcUVySTJyZ1dMSjlMaTBWZG41VW1HNXRxTWY1ZUlJNThLUzdXQXhKWGtyU2piMGxWYkFoRDBrNVBDMkZSZGhyM01MUjl2MGxTZlRBY2pOSnVn0gGcAUFVX3lxTE1EbzRteWpVenMwcUE5aVg1ZVNBY1JJYThsYXI1akFoWXFYcUdVOTdka0ZIZ3pfb1NZUjF3TXdjaXlDRUVxY0I1NFpZbS13b3JzLS1aeHNIb2lMLUE3UExFVF9iX0tkd1pHUUcydXE1WUtuSE9vaXhxNHNTS3I0NXZfQ1ZhZE9uVW1lRTdub3ZtNm10bk5oX2VvZmZHVw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1786088976,
+      "summary_kr": "Xiaomi, 스마트 홈 및 대형 가전제품에 중점을 둔 Mijia 하위 브랜드를 인도에 출시  91mobiles.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "샤오미, 인도에서 Mijia 출시, 더 큰 스마트 가전제품 추진 주목 - Indian Television Dot Com",
+      "media": "Indian Television Dot Com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUXJOX1lKWXBfQ0FVY3M1WkxFbmM4NndjRDMtbW1WX3l1LTVjTFNDM1NDYS11TS1vVlk1d0dWclBkWldocUM2c1d0S0xURTFGYmVIVkZ0LWJYRWIwYTlhRy1Ea3VianhSRzA0M3UtU1BJd3RFMW94bkIxb2NIa0RZT2FMLWhnZ3Zaa0JidE9FVWhaLUxxZ3RYaXNrbFhtaUhRc1IwUg?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1786088197,
+      "summary_kr": "Xiaomi, 인도에서 Mijia 출시, 더 큰 스마트 가전 제품 추진  Indian Television Dot Com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "쉿! Amazon의 비밀 주방 아웃렛에서 All-Clad, KitchenAid, OXO를 최대 66% 할인 받으세요 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdkFnT2JlbHphZ1JCdFFONDF6aW5UcWVNQkdtQnJiM1I3bEVaRXJobjVLNERVeEFlWjJDaThFVmJFeU43UTlpNDBiZm4zb2Jqc3FiNGlESGl2WGZDMUFjVk5vcHBLZkFuOGNOc0hxdlhsZ1otMFljejEyYXN3RVhES2Z4UQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1786087800,
+      "summary_kr": "쉿! Amazon의 비밀 주방 아웃렛에는 All-Clad, KitchenAid 및 OXO가 있으며 Allrecipes 최대 66% 할인이 제공됩니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "DITAA 2026: Digit India의 Top Appliance Awards 2026 우승자가 발표되었습니다. 전체 목록을 확인하세요.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-in/technology/general/ditaa-2026-digit-india-s-top-appliance-awards-2026-winners-announced-check-the-complete-list/ar-AA29Buus",
+      "time": "22h ago",
+      "pub_ts": 1786087022,
+      "summary_kr": "첫 번째 DITAA 상은 주요 가전제품 및 스마트 홈 카테고리 전반에 걸쳐 제품을 인정합니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "샤오미(Xiaomi)가 Mijia 가전 브랜드를 인도에 선보이며 스마트 홈 시장에 더욱 깊이 박차를 가하고 있습니다.",
+      "media": "fortuneindia.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdF9uM0hsdG1VN09UUk9hanJPYTFNLV9Kak9RUy16OEhrVDlpUF9yeFYxZ2c1eERWODRGS0xqQzN1bXNSWUJDOFZCdDQtTlQ1ZTdKSzlZLW1wV2puY0RtMzNGRFp4U3JkeC02UG1JOHpOTDBiTHNkcGVRd191ekw0VUluTXpVXzVXbEpHSkRfbFB0enA3RHg1aE5pcDNNNC1IUUk1UTFncnItYzBKX2hDdXNKTWJsRHZPdUhpQko5VU04RWNfZFBDemhqalphYWNrRGfSAd8BQVVfeXFMTnpoelVCejhySEw5VHl6WlotbUJIa0htbVBURm44ZFZTYUQzWFNYRkdyX0VrakdadVlCaFhyRTVXNTRxVnRtM2ZXaTJEbEVHQ2Fsd0hqQjhLT0xmUl8zVlhKQ2diQTVCZ1QtMUp3ZzgzQkdYNmRKbW96cmx0Q21MWVhOTEYxcWtydjNpd1pVWEc5dzBEeDh2OEFXRWFMeVhVLU1vTTNIaHZJeEhNb2ZFUkd0TnB1d1ZZRFJXb2p1RjJ4Zm8zbUV0bks1TGtCemxURmU1N0UwQTl4dFkzMlh0MA?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1786086093,
+      "summary_kr": "Xiaomi는 Mijia 가전 브랜드를 인도에 선보이며 스마트 홈 시장에 더욱 깊이 박차를 가하고 있습니다.  foruneindia.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "미국에서 가장 인기 있는 미국산 가전제품 브랜드 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHpjZXB1MVdxSmlFU0RmbXZWUE45N2lrN1o3Q2hWTGlCOUg3Z0cwcG5FcTRxWHhoNnhVQVRRTmItUXFPZXJYSGhFUWdhRmx3X2duRVRFVkEyUlp4QWUxNGNzckxQeERLcXZJM2FtVEE3UnRTbzJkVnZqME9XVFR5aEMtQjllem8?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1786084743,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "샤오미, 인도에 Mijia 하위 브랜드 출시해 가전제품 포트폴리오 확장 - ET Retail",
+      "media": "ET Retail",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPYzZsdWFGRHFfcmtERXRtTzhLSk10emhQelZsT3ZPYVRsR0xTYmM4cEotMUdxN0t5N1lDNEMwS3M3TUkzd1hVTW1YZWN4NmpzOXhyX25KWVlscmR0SXVGTUZfZHhxX2QwNkdXX2hqbkVPX2lzYmVsRktCMEN4eWh4OXBLM2k5bDlnSzQwdVF2d25WVEdaWWJYM3dIbjYwaVFnYzhxWnVXbzRxcEJiaVQydDl0ck1UWk5QU2RUV3dhaFpIZ1o0TVRwcjdDSERPU0YwQ3hFOVEyUFJxeUZJdnVPU0FiNk0wT0F1SExaZUhVNDQtR09sU2RYM1NFNmhJOVZlblR6cUhkVERLeHNUNEVVSWpfMkFOYk1DV1g4VWQ5VE1FZUwyUTFSZ193?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1786084048,
+      "summary_kr": "Xiaomi, 가전제품 포트폴리오 확장을 위해 인도에 Mijia 하위 브랜드 출시  ET Retail",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "샤오미, 인도에서 미지아 출시, 곧 대형 가전제품 출시 예정 - 인도 투데이",
+      "media": "India Today",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdnJHeVdKb3NXdkdsYUcyajVVWmExcG8teURJRVprVW5TNWMzRUtUM0g3M1lrOHVVTF9uM09BbzhybTNIQ3U4R0hvaDRFd2JxaGtETElmVkRnMGNQV21QbEVXUVpINlNtZmpyay1hZXNVU2MxblVNcU9xWWE4eEJmTktOZ2M0cEJfQzI2eUVvNDFyWlZ6RXA4WG9LLU16QkwwSTd5RmN3T0Zmdm9wZHZ5bk5uTkZBTG83dS0yZWtoVmphU0QzX04xSU80UdIB0AFBVV95cUxNSV9KN1ZSRW1yUHFJWUxzT0JyeWdkUFFabU9pWWdDSXFaeUhwNEV6UGE5NHBubmIzbUY3VGZfQTJpQnNYNnA5dEFUa1hobUx5bWozQks5d1BFQk1fbHo3RlV3dXVYZGtZZXRfcTJZbWg4dHA0RmRiTnhwTU45MS1iSERvaWR1cHVoZTd2YUNCMWhvX1NiQkcyS1BTYTNqTjRXSjJMYmNoOG0zNVlLX1R0MTR6aUkyN0RHUmRieFdjbjRITDdTVHJyQ3UxX0RCaFBp?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1786083818,
+      "summary_kr": "샤오미, 인도에서 미지아 출시, 곧 대형 가전제품 출시 예정  인디아 투데이",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "모든 신선한 요구에 맞는 £30 주방 가전 제품 - 이상적인 집",
+      "media": "Ideal Home",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY25HeW1CRE1QMlFXYW82R2hxX2Z2ZmZFVnRUc0dJMzRYNEQ5NlktZ2wwVzlXdE5zckVqWV9UOWpvRUsxZlBFQmhBdU83WTAzb2FWcXVha3hYMWRuN2taOTNBYjRxcTJsQXJaSmlCUm8wZ2Z6S3B0czlmNFVBRV82eHdrY1JGV0NJeDNobXgwbXA?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1786082400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "집을 떠나기 전에 항상 이 주방 가전제품의 플러그를 뽑아야 하는 이유 - Delicious.com.au",
+      "media": "delicious.com.au",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeEZYLXBFSXl2c0J6WERNR3d0bnFCclpiMFdnVDRaWVZKWGx5ZWtmaF9ELUNxTHRoRjFSQlVTN0pWb19SbGFDQ3RLQ2dqVlVjWVdBeW1ZaU9vZ0FPRm82bm9aWWV5aTh0dUliUk1pUEIxSW1MUHJCVGJrWnpLRC0zSm8wUFNvSVpxclB4M3JlNTBycU9BZ243MDJmUy1hRkFUN3VrQ29PS1lWc0czQ0laOVpFRTFXUXZDdHRMUC0yS2RvNnNpSGxF?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1786082091,
+      "summary_kr": "집을 떠나기 전에 항상 이 주방 가전제품의 플러그를 뽑아야 하는 이유  delicious.com.au",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼과 파나소닉, 가전제품에 대한 Onam 2026 제안 발표 - MySmartPrice",
+      "media": "MySmartPrice",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZmE5azBNNXdwRnllTkxTNlhHS1o5VjBwS0FCdTEzZXRXTmRRYXVObEZSMGRPV1A4NW51dWd4NmVGdXhMSXNJVFlQRkNtZURGSTFXV09UUzJMdEt5MXNZNmYzU1BTLVRXaUI1N3h0dURNM0hWVTlrbHZOSnA5Q2YxMURNQUl2aTBOSFpGTzRyekJIdE10SGlKQlEzY2VxRkJxY2NFRk9mNUttc1M5VFpsZnZVbW9QcGpqaF8xQlg1NWg4TXBW0gHKAUFVX3lxTFBYNmJCTS1RTEhPX19XWkZOd1V1b1d0V1NuYmdvNy1GbVNQSGwyODV2OGpYN2xvdXlvUVdfLWtGbmJhNFhwNlhMV2t0SmJ5YnJIQ19lenhsNXVVZ1l0ZGx3UG5qQ3BjblBHVlEwX1hGMWxYY0lkck91Z0lQN3AxTXAwSVdqWm9hMlJ2SWxRYnpEZVpNdU1nSi1lMl9DaklPVXVpN0FHd0J2NkxxaTJ5THNjTC1PTEpKTnpKXzlZMHpfaDJ0LXFoRG1MRlE?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1786081394,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
