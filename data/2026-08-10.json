@@ -1,0 +1,142 @@
+{
+  "date": "2026-08-10",
+  "date_display": "2026년 08월 10일",
+  "generated_at": "2026-08-10T15:06:39.690595+09:00",
+  "generated_at_display": "2026.08.10 15:06 KST",
+  "category_counts": {
+    "Technology Trend": 1,
+    "Market Dynamics": 6,
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 8건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 3건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 3건이 감지됩니다. 주목 기사: Xiaomi India, Mijia 브랜드 출시, 스마트폰 너머로 확장 - Storyboard18. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 6건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Technology Trend",
+      "title": "Xiaomi India, Mijia 브랜드 출시, 스마트폰 너머로 확장 - Storyboard18",
+      "media": "Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOGRmcVZldzV5d1R4RmhIMXpMVERvTi1ySC1pV3RjakVWSGFCV0dVLWJ3bnprd2RyTGFkaEJRY3pTTVdiMW5BNDBzUmdxNy15d3JkaEJxamNPR3loeXpJcDAweElxN2ZVM1ZxSG9CcGdjemN5MzNSN2p5OWRweEFmX3FZenNtcUJfS2xqUmVRZ2J1bW5EWFdpSFg3VTIyVTlLeGN0TkJsZGhlLWVBbWQycEdEZmpUOGRMY05PTWZwckw1VGQ0QkZDU09zUDJJNFV1NzIwOVpGZlJSSXpf0gHcAUFVX3lxTE04ZGZxVmV3NXl3VHhGaEgxekxURG9OLXJILWlXdGNqRVZIYUJXR1UtYnduemt3ZHJMYWRoQlFjelNNV2IxbkE0MHNSZ3E3LXl3cmRoQnFqY09HeWh5eklwMDB4SXE3ZlUzVnFIb0JwZ2N6Y3kzM1I3ank5ZHB4QWZfcVl6c21xQl9LbGpSZVFnYnVtbkRYV2lIWDdVMjJVOUt4Y3ROQmxkaGUtZUFtZDJwR0RmalQ4ZExjTk9NZnByTDVUZDRCRkNTT3NQMkk0VXU3MjA5WkZmUlJJel8?oc=5",
+      "time": "Just now",
+      "pub_ts": 1786339142,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 7-in-1 어플라이언스를 3주 동안 사용해 본 후 오븐을 켜지 않았습니다(단돈 100달러입니다!) - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sU01DcFJRbUtOOEtWWDVSUU1hcGRiZzRWeGN0OVhpcFUxQ2lpWmhXNDlraVVoVk4xN2N3TERTTzVLQ21zRWQ4SVd0MTlJT013UGRBMndMUGhDOFdTU01pbll4OFl0MmNwVFcwR09lUDF2N3M?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1786321695,
+      "summary_kr": "이 7-in-1 어플라이언스를 3주 동안 사용해 본 후 오븐을 켜지 않았습니다(단돈 100달러입니다!)  AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주택 조사관이 항상 보는 주방 실수 6가지 - Yahoo Creators",
+      "media": "Yahoo Creators",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0pIekNEbk11d25FcWc0U1Q0LS1tTE5FZjBuZ3NwMUZfZTBvY2t0MVhSajlqMFpubHpiS0d6M2pKWkhiTkM0bDYtWjJWUzBTbG1tTWtZRFpiVzVVQV9ldlJPbDZLek1sQ21PdXdRXzNXWE9iTTRuWUFyT21UQTZJZzVfRkxRemdqdGhfaVJfdHBvczYtUHBzekZHcVMyWDJKaWJwNkRBYjM2WUZnYmc?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1786301915,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 홈디포에서 구입할 최고의 주방 가전제품 7가지 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xRlFnbEtEb3FZRVJ6Vk8wOG9lSlhqamN6ZkxweWJjQUhNRFFBTVRtRWRRU0dxN1RDRUlJbmRaY1g5UjFvYnpYUWxrMnQyTkZCU3QyTHEzcUhxWVUydzdOWU1rZlBPZFgwRk5wNmFkVFQ2amJLOU1NdER2Um9KQQ?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1786297876,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon Great Freedom Sale 2026 : 주방 및 가전 제품에 대한 최고의 거래 - Moneycontrol.com",
+      "media": "Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQTUxN1ZoMy1fNmFYTmxjM1lTMDh3eHVFTmtDSzk5NVFwN2RSVHFiWXBOOWNRa3J2eURMRGQ4MUlRc1ZQNUltbTJBUGgzVGU0cUJOU25iMWlVb3JueUlfajJtUGxWSU5zNE0tNmkyTlBRcU1CVU9KM19UTUtiSnluM3J2d1pQdmh3dEJnNkliUlVtRHdtVTJsSC05NjJIVVIybTFpZFpwSFBjMFVUNGlCTnRFcTR0VWJaZ1VLUDZMNTd1Wm1IRHl6a2xWVU4taE3SAdQBQVVfeXFMUGk3TUdURHVhV3Rud1BTam9uLUtvc01YblFuQWgzOEpUSjZSVlBGbXRzcl9SZGxEX3hJWVV5V3cwclZjQ1RRVzVlUDZtOTcyODBlU0RBQWFlcV95NEVVUmxaVFZ0ZDRfdVZ3aV80Sy1hTlN4ejN3NWwxLVZGTktqNjUxWVpaZTd5cEFYOHU3TVRLam9OOUhIV3c3NFFvRnRzd1RQR3RJdlo0MnlrMDJiZWx2QUVIeGhwMHZQQ09hb09HbW9aS3JPWTdYdTF4N3p3Y0ZPMlc?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1786271951,
+      "summary_kr": "Amazon Great Freedom Sale 2026: 주방 및 가전제품 최고의 거래  Moneycontrol.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Whirlpool이 소유한 5가지 인기 주방 가전 브랜드 - Mashed",
+      "media": "Mashed",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JUWlTaTZ1a0hrT0E1ckVKdy1wZUswaEJMZThKaWVNZW85NkE4WTNMU3J0ZGtQdVg1WWhORmMyR25qdWtiV1hvQWx0VWt5YVlSamZFZWxJamduTkdSWklVR2U4c1hOcEFhb2t4dnAxM1RvU3JiUkxxSXNYOA?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1786269780,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성·LG, 극한 기후 속 냉난방 사업 확대 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LOTd0WUJJb3dYMndqYkVwbTlIYWNNUnBJSmlqMTB4Tlg5MmI1ekpsNGFmWlhlWUh2OVRPcW5zMTZ0cGZEeWVoUjVjT3hOeXd5RUpF?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1786265317,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon의 비밀 매장에는 OXO, Cuisinart, Vitamix Steals가 가득합니다. 단 $3부터 시작하는 지금 쇼핑하세요 - 음식 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaFRMc0MzaGVnblBpMTZwbExINWpNU0poeGNKaVVJSUstUGFTMFFfWUVWU1RzdWdxdFpPcWd3NktyLXZjajJ0WC1ydDNZcDVHRXVJZ1c1Mzl1aEhfb1RlZTJpR0N0Q3dwN1N2bEdkcVlUSnpOendqRXdsanAzTWk1dQ?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1786257000,
+      "summary_kr": "Amazon의 비밀 매장에는 OXO, Cuisinart, Vitamix Steals가 가득합니다. 단 $3부터 시작하는 음식과 와인을 지금 쇼핑하세요.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
