@@ -1,0 +1,255 @@
+{
+  "date": "2026-08-13",
+  "date_display": "2026년 08월 13일",
+  "generated_at": "2026-08-13T15:10:10.025674+09:00",
+  "generated_at_display": "2026.08.13 15:10 KST",
+  "category_counts": {
+    "Market Dynamics": 12,
+    "Samsung DA": 2,
+    "Technology Trend": 1,
+    "Competitor Analysis": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 16건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 6건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: Midea America Corporation, Justin Reinke를 사장으로 임명 - PR Newswire. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG신탁 광복절 세일 : 최대 5만원 TV, 가전제품 등에 대한 30000 캐시백 - FoneArena.com. 시장 전반 기사 12건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "저는 쇼핑 작가이고 8월 Afterpay Day 세일에 참여하는 모든 소매업체를 샅샅이 뒤졌습니다. 여기에 제가 1일차에 찾은 최고의 57개 거래가 있습니다. - Tom's Guide",
+      "media": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZVFFITEE2N19tenVHMEw5MDc5d0xLaEM1VDhzSXRUZXFPWG53LWZtZlBTTDFrMkdhM21xNXFYZHNKTnVaZmF4Nlp0VWEtTGNNQ0lIMGRwTE1STnJuMzAyNXVNQmwtN2E5VEgtb1cweHpNWExqRi1Weg?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1786597366,
+      "summary_kr": "저는 쇼핑 작가이고 8월 Afterpay Day 세일에 참여하는 모든 소매업체를 샅샅이 뒤졌습니다. Day에서 찾은 최고의 57개 거래는 다음과 같습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Midea America Corporation, Justin Reinke를 사장으로 임명 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnZySUNTOS1DMG55enRaYnhzQ0xteGlGZTJ3ajlBeG85Z0NqaUhLSmJiOGhrc3daZUJjSWR6ajBIeWJDVnYxS3o2Q0VsQzZxdTc2N2dQLTRaN1FkYVNSUVB0RU1mMXNaTVJMZk4td0t3bFJHTGR5d0tIQlh4cUowendLXzVXYmZnZTBtZHFLMEFuYVdOU0E4MUxPWmY3Zk90V21YTTZ0Z04xcnhaS0xnVHFRMUdwNFoy?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1786571940,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "가장 과대평가된 주방 도구 - 대신 사용하는 것 - Simply Recipes",
+      "media": "Simply Recipes",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41WnRHOEhEQmE2U1hsWDBUTEMxU0xrUG1RRl9ZamM4U0tGU0E3UVE2VUE2MFdQbVVuUDRNNEtKV3IwbkltSkM2bzJ4R0d2dGVSNGkzM3lQRkpKbkJUSFJ5dHZGenpIMXJ6UzVJbWV6TnAwODJ4OC1B?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1786564920,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Whirlpool이 소유한 5가지 인기 주방 가전 브랜드 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXFTTW1YQThoQndneHNzTGQ3NUNQNDRGOTRRTkFVLXBrdElPS01KUXhFMk1UZmN6YVJSN1dDQjZLRkgtXzRLV082ZjltaGVNNzg1VlNhLWhXb1FxcDVpYzRpZllnV1IwUVlPOFJwcWI2aVNaU2VUeXNwbl82X2ljV2d3akQ?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1786563079,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "InVision, Airxcel의 신제품 쇼케이스에서 차세대 기기 전시 - RV PRO",
+      "media": "RV PRO",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQVVZWVlwUmJGNnpnNElWSGJfU2JGN0czUHZlakxTQjRkaTA4SkhiM2tIV3J1WDRDMDJzTnR5VXBwWXM1MnM5ZVBJazlCbHZVVHVGSG9TcVFxUDlxd2pVbktlYmVuak14M0lNZGFKbEpXV3NzMWNvczFpTHd2T3hyTVpqVXUyUUZ3ZV80YkFIZGg4QkFfYlFJUlV4bjJZdw?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1786561008,
+      "summary_kr": "InVision, Airxcel의 신제품 쇼케이스 RV PRO에서 차세대 기기 전시",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "사용 후 플러그를 꽂아두면 절대 안되는 주방 가전 5가지 - Southern Living",
+      "media": "Southern Living",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3A3blNmTWd1N3htZTNyY1cxSGRtdzB0bndqajRTTHhGUHhoNVhPN0pXeGk3ZURrckdxWDBUSU1xZWZjdkhjRk5CeTFJQzM1QUV0RzdzWWpTWXNELXdMTjVHdW4yeW1oMzBLWWNvdnFsa1RqYlZ4dGF1WDNNUTdsbHd4SWFCWXZvV2lPdWxMQW9CUTBibUFz?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1786557600,
+      "summary_kr": "사용 후 전원을 켜두지 말아야 할 주방 가전 5가지  Southern Living",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "모노그램, 첫 번째 디자인 공모전 개최 - 주방 및 욕실 디자인 뉴스",
+      "media": "Kitchen & Bath Design News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONW5ZMGpNTWlXXy1RcHpjQkxBaWhSdzUza0J4a3BHeVVyMEY0eEFFb3hKcnJBXzJ5ZmZ6Nld2djQ1cGoydEhweE5lc1E0dmo2YzFkbG1ZbVNxN09GQV95VEppTDdJazN1X25HX3g4TlFhTURSUDJSYm5LZ1RDTk5DQ0FUOVNRRW5J?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1786552841,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "InVision, 확장된 차세대 기기 선보여 - RVBusiness",
+      "media": "RVBusiness",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcURLLXNzUmN4VVpYaFV3bVBlbVlqbS04U3dzb3F4dmpySGsxRmpQazBUNXNjTWxlbmZXazh2QWVkZmV2QWtrLVFOTzNfZW1tN0Vzc2pqbTkyLXRJemF5VC1jbk1XZk1EakRsNlZLNFNxRl8yNWlSeHAybnQyUVpwT2hRS1g?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1786549246,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "빵과 아이스크림을 모두 만들 수 있는 스마트 기기 - The Ambient",
+      "media": "The Ambient",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTE5FR2lkSUFXTnVZSDJxZllXWVZtSFpWZ0RZMlNuVE8wRWRoZnNnUFllN0pLbmR5NkcwaFhaclZpQ1plQ0pWT1ZfWjhYMDVsMzd0TmtCcXBCRFBlY1dJX1owZVFISWhaNlpxczZfQ05ZQlMyV0JWZmk1cDNNeW42NzlDYUpCSm95N2k5UjJUM3g?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1786547090,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "실제로 삼성 소유의 명품 가전 브랜드",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/technology/consumer-electronics/the-luxury-appliance-brand-actually-owned-by-samsung/ar-AA29YAv3",
+      "time": "15h ago",
+      "pub_ts": 1786545000,
+      "summary_kr": "아마도 삼성은 고급스럽고 우수한 주방 가전제품을 찾는 사람들에게 상위권에 있지는 않을 것입니다. 그러나 아마도 그들이 조용히 소유하고 있는 럭셔리 브랜드는 아마도 최고일 것입니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 가전 모터 기술로 RX 외부에 비밀리에 휴머노이드 제작 - 테크타임스",
+      "media": "Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQWlqSHY3VWZZNjR6WmM2cmxlRTFYS2t2XzZIVDVTdWJrbHZUdDJWMF9aRlIzQWVJYzBHYTBIdlRqNFFybjZrRWNFX0lYa2NqRVpteDhqZlhGUHgzWTF4d090TWkwbFBxQ0VMUGpFM01icTVKSnN5bVZRb2hWb2p0ZUp3bnBtQlJmeWNZWGNwYUdpYk9jV2NSdW1qV2piNEFUYnp3MG9IdkxvQ1h0OC1iVnlRdVlUd2txZkJjanNtRTBOX1dWdGFpeA?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1786541273,
+      "summary_kr": "삼성전자, 가전제품 모터 활용해 비밀리에 RX 외부에 휴머노이드 제작",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Select Home Warranty, 여름 신뢰성 보고서 발표: 폭염 중에 최고의 성능을 발휘하는 가전제품 강조 - EIN Presswire",
+      "media": "EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcFN0ellEUmtoVWRVUzUwZHpGN01LNkRiMXlGN3g2My1iS3RDWU5tdks1U2JxQVFsNDl6V1FMT25ibmJEWUlJWk5GQ3ZidS05YkFiWEIzcU1HQ0tEdHhpbGdtWk5SWWI3TkxmcWpjLVpnS1ZfUEtpSEktaDlub0VxTjJOTVFZdmdZMTRuQk5NeTRDdmZUQk8waE04TW9VOGx6QnM5cmxIQ3hDRmxDbV9VY3ctSFJEaUNnWXVuZTFVRkpxWkozRDFRV0xCRGhqMzFzUC1TZk1SRFhnTzdLUmhrb3RlZlBSNGtPYXlXaWttU3pBSjVIZVJz?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1786536000,
+      "summary_kr": "Select Home Warranty, 여름 신뢰성 보고서 발표: 무더위 기간 동안 최고 성능의 가전제품 강조 EIN Presswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "DREO, ACE Hardware 통해 필리핀 출시",
+      "media": "Bing News",
+      "url": "https://entertainment.inquirer.net/680237/dreo-launches-in-the-philippines-through-ace-hardware-bringing-smart-home-comfort-solutions-to-filipino-homes",
+      "time": "18h ago",
+      "pub_ts": 1786533780,
+      "summary_kr": "전 세계적으로 가장 빠르게 성장하는 가정용 컴포트 및 라이프스타일 가전 브랜드 중 하나인 DREO, ACE Home Solutio를 통해 필리핀에 공식 출시",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "집에서 만든 식사를 업그레이드해 줄 QVC의 6가지 영리한 주방 아이템 - 가정 및 정원",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWmJBQkF6a3JfRXJDYUVaWjFZTzhLNS1oNmJ1aHA0N2hvVFZZSTJ5Rm4wVDcxU3J0RlNYbWhOenBZX1NaaWtUTUkxQTRXUmNGT2pVWVR4cnFSM1dMV0lxT0J0RlQxSVRFdWZRV2E5RWplUjVhN3NOVkZLMGlBMHlvTEhWTDJZMkFjQzR5V3dCTTR4NnlZ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1786532834,
+      "summary_kr": "가정식 식사와 정원을 업그레이드해 줄 QVC의 6가지 영리한 주방 아이템",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG신탁 광복절 세일 : 최대 5만원 TV, 가전제품 등에 대한 30000 캐시백 - FoneArena.com",
+      "media": "FoneArena.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGhFSmNxWlE5czBGc0JYV0ZNZEJyek52bjU3WndhaHQ4QV9qN2RmWDNlS1JJZ1o1VS1TYU4yMjBNVkU2QTB2X19CTmZXdzczZkFFMzhwV2c1OWJzUlptRHZsQXN3VUppSjM0dFpfTlF4RmJiclhBaS1ZUy1IYmc1NHloQVJCTnh0M0V4YnhJcG3SAZYBQVVfeXFMUDk2aXRMdnVJYWZOcVEzVDE0R05XbWM4UDJURXh3V1FRT2VkNzdGLU1DSlFEcDdRTmY4cTk4azIydGtVYkFGZE8yQy1XQkFTRlpqamJzdU5xNVRmRGVYUnNZOUFYVmNGQjNoUFhFdk9IN19ESHowLWJCOVQ3WjJnaWJMTGw1Z1VKb1k2UVZsT2d2ZjJUSExR?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1786531364,
+      "summary_kr": "LG신탁 광복절 세일 : 최대 5만원 TV, 가전제품 등에 대한 30,000 캐시백  FoneArena.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 8월 대폭 할인된 Best Buy 주방 가전제품 6개 - Chowound",
+      "media": "Chowhound",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRm9GbXlOLVNZMW4yWFc0VE1pQ1ZrdlpFTFZrdmZVaUtCRGhmRHc2Vi14RnlENlJyaE50a2gxZFBaRDY4VHM3VVYwX0xUaGt0S1RnOGZYQnZUQVFSYzdxbkppX0xZVkdGTFlaT0FhbEMzTU5YNkQzaHBES1ExTGJGUUl1U0JyZExLMk8yZkw2RDhocnM?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1786529100,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
