@@ -1,0 +1,228 @@
+{
+  "date": "2026-08-18",
+  "date_display": "2026년 08월 18일",
+  "generated_at": "2026-08-18T14:20:46.934141+09:00",
+  "generated_at_display": "2026.08.18 14:20 KST",
+  "category_counts": {
+    "Market Dynamics": 10,
+    "Samsung DA": 2,
+    "Samsung Bespoke": 1,
+    "Competitor Analysis": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 14건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 5건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 5건이 감지됩니다. 주목 기사: Asbury Worldwide, 가정용 및 식품 서비스용 프리미엄 가전 제품 출시 - HomePage News. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG전자, 브라질 파라나에 가전공장 신설 - marketscreener.com. 시장 전반 기사 10건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "JB Hi-Fi FY26 결과에서 배운 20가지 - 가전제품 소매업체",
+      "media": "Appliance Retailer",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2VNc2c3ankyWERERDhLMW1mQkxwWVFTcXBPYnd0VWxOQWJ1WG9jYTNFYVVzZUExZXhFNTRrRkJUcVV4SDJEdHpHZzY2eW1OMUlQVHBGdG9UZEZzNjQ3SVctWGJmOFN1N25hTlFxdzR3NHI0T25RblBBTUM5MnI2SnhFTGZkcHpsZjJjVm5LQ1V3ZjlNTWY5OQ?oc=5",
+      "time": "Just now",
+      "pub_ts": 1787028950,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Hisense 가전제품 상반기 이익 20% 감소, 주가 약 4% 폭락 - Finance.biggo.com",
+      "media": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iYWdSeGZPUkZmdmp2UUZpWEVIRmpfX25IQjFSUTJWN3AtNWtncHJSbkhtdlJua0J5UnNST1pZWm5DNklWenBtMUF2THo2WHF5aXN6YTVhQXVLS1ppS2Rld1pOQ3hKbVlfdFV3NXRWV1k2RE83QUE?oc=5",
+      "time": "Just now",
+      "pub_ts": 1787027100,
+      "summary_kr": "Hisense 가전제품 상반기 이익 20% 감소, 주가 약 4% 폭락  finance.biggo.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "LG전자, 비슷한 매출에도 가전제품에서 삼성 압도 - 코리아헤럴드",
+      "media": "The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPYkJaRTlpcmlfOTdjRE5RTWcxMnRWbG8zeFRRcFRRNzBCZ0FVMUYtdEVuT1djaHFYRHNVQzNBV056MTFfR3Brd2g2QVUtTTl6NmIyemZjTQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1787026349,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "2026년 최고의 무선 진공청소기 4개 - RTINGS.com",
+      "media": "RTINGS.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DNDhXY3prcEhhNFNsaFd4NW5wYVJ5VTZEalJvWG9hZmJOMHhUa0NLWFh1SGhwRTFKTVBKdDI3NDB2MXpMUXIta0NJRVNzSmFtQ2ZSek1rY29feEJRU1YtVg?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1787016988,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년에는 더 이상 필요하지 않은 주방 가전 12가지 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZbVNRclZIV2tPcmtKNTZIOEVRQU1MRFFPb2FrUXQ1dVptanhndlN6RU1ZdnF0bmZaT3c4UkYyVXN1YkJiTTZoRVJmejFQZHB2VG04YU9jMGhTWEhvZGxndGJvYXhuTkNKWXJyTlZZb1h1UXE2d2FIYUpGRQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1787008800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "어디서나 휴대할 수 있는 휴대용 기기 - nine.com.au",
+      "media": "nine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0lmZlVZcnpPQ2lGY1hNdGRGbnd3TEwtNVJCTnMta3BsenMzbE1DMHcyb0dDM1JLWGNSV0c5OHJSZTVNbXNQd3Vha0E2SEQtRVlSVlNfb0xMMmxLeVQyY2EzQnpqV0R4QWVjQkpyQ3hZTENObE1xanVwZHJ1ekxUY3JZSHNTc2N1cXoybUlDUXk4QQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1787006412,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "HomeGoods에 반품된 주방 가전제품은 어떻게 되나요? - 야후",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcnYtM0NrZkJoRm4wb2FJY09qakI3dm1walJVS2llSWFMZTVtSG1TcWxrLVFhT1gyYVRzT1pmQTNQbE5Tc0liOGpObmRFQmY3T0oxdFdURktLRDhKTDhycTFSR0N2b21hUEJyZWpsMFpuTUd3d3E2a2hiNC1CdUxMTnpRRjB3cGRqcWQ0dzkxV2FsdVJaUHZBMkdJbHUtMkxYZ204OURfS1oyYk9rbElCMnc4dllHTDg?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1786995540,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Asbury Worldwide, 가정용 및 식품 서비스용 프리미엄 가전 제품 출시 - HomePage News",
+      "media": "HomePage News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRTdpNi1wdnp1TDBRMEFZLWlZWFI4c1B0M04xblYxV2l0WktQZDNyQlBJY3NZSy1sMlhjSUN1TVFqOHpkOUJNTHVYNmFwUGxJcnR6MEVjM2JhWHpJMHM1TmdMNEZsSS00a2pjS3V5ZVBlOGJWeS03S05xOWhQel9SSE9oVVQ4VGgtNnZkSjV1dHZ0OUVXR0x1TEVhV21oSFQwRDVQRXRGdHFtZXVaS3RTVXNpWm15c2c?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1786990829,
+      "summary_kr": "Asbury Worldwide, 가정용 프리미엄 가전제품 및 식품 서비스 출시 홈페이지 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "ZLINE, 마리노 프로페셔널 제품군 컬렉션 출시, 현대적인 디자인 진화로 프리미엄 요리 확장 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeWR2cFgxVkd4MlhUN0dsc1Y1ZHNMMmtiSlBuUVNfcW9DRnloVERya2l0cUc0OGJIbXU2QVdyMXo2Q01MNVN5S0twMUlHdGxJWVhocHdwck1icWhoM3RCOXBOTTRKWUJPY0xpUlZqajJDUmJFWm9qUjA3R2xJQnVMTUlXeXc3Rm9fbmFsNm9tWlJ6RFpacUZBeHpPRENELWlpQWFzWlY3bGpjV3NPZXBaT1V0NUJyZzV2cjBZdElPUFFLdWNHTUdVQkpydVNxZUFlU0JRQ295d0RJRjVjbFhwM0NGc3NPTU9CdlVKMzdTcG1IV2s2UFJZeUYzQzU?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1786971600,
+      "summary_kr": "ZLINE, 마리노 프로페셔널 제품군 컬렉션 출시, 현대적인 디자인 진화로 프리미엄 요리 확장 PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전기요금을 많이 낼 수 있는 주방 습관 - The Citizen",
+      "media": "The Citizen",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ2lCQl9JanAxMXRnV01WQlZoOVlHeUJGUklvSDB1aldjUVQ1dU5zNmNyZnQ3ZDFFWGRjV053aGNoN0JRY01yZURiVFBxZENHcklHMzE1TE9jX2MtekIzdXJnYTVXaUpvanFXbVF3MWNKeHZMWkJuZG1tS25EQmFNTmd4a2RDdVkwbDJjVkkyOEZrY3JSLW15WkQ2ZWdyNVZ5eGM1WGZraTZrbnhYdzN5cVZ3bG05cWF0T2RBa2RWNFNRM28xQ3ZrLXAyclE1VWNO?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1786971376,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "실제로 삼성 소유의 명품 가전 브랜드 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmhJZ0ZiVmVWb1BfRXRkVWszbEEyZmNCWldIVDFYU1ZGU2xiX3BsLXdGRHhfSVZpQnlvSXN3NDNXMmNfek1tRng2YUdsd092RjdlTXpnVFkzWlB4SUt5c3FtcVlqXzFqSVZfUTktQU1UYmE1MWt5ZFRFN21sMGU3cEUtaWxPZHhz?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1786971238,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 브라질 파라나에 가전공장 신설 - marketscreener.com",
+      "media": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQld1M1RLa3pXS0dhT1gwei1IOGp1UFlETjM3bm8wbTlxRUU4UHlSbUN3T21wSHU1VndZZ2JfRTVncjVmLUphWnFnU3VDRlJ0WE1fNUs2RXpsOU05MzBGQmV5QWdwNk5nRGVFTnY5M3dNbUFLaEdqRVh5eEdZUXltRHJLTVhMTmxsS3dUY1c5eFM3bEtRRDFjUFZfdEcteGZXUjNKX1lnN3VTdnFCTWFoNjBNX3FwUlk?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1786963865,
+      "summary_kr": "LG전자, 브라질 파라나에 가전공장 신설…marketscreener.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "투자자들이 최신 가전제품 동향을 평가함에 따라 SEB 주식은 안정적으로 유지됩니다 - ad-hoc-news.de",
+      "media": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMmN1SnhWX19CaDNRTFM3LXJaRDROZUJmbl9PRzdnUk1XMS1tenN0VU9BbXE5WWdpWFlIbmxsVXNQVW80a1hOdHBCbUJPUWwwaGlpTHlYWVVNdjd6UkNBVTBoR3FXWTRYR1Q4NUpmSkxyTzhuTGNVWm1QRUhwTU84TGIyWm55b2M5SmdDd2ZkUHg1OS1PWEoxWUZyTFNnWEVRRmt3Q3JEck56MGhVYVRWSWRUZ1JvMzBJUkdWb19peG1qT1R0NDlnLWdobw?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1786960673,
+      "summary_kr": "투자자들이 최신 가전제품 동향을 평가함에 따라 SEB 주식은 안정적으로 유지됩니다.  ad-hoc-news.de",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "새로운 휴대폰과 가전이 삼성 DX 부문을 끌어올린다 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zVHVDZXlfSEZYREVreGRFMENuYURqT1FpTW1DSlRocVRPQVRrWWpCc0Q1dVVuQVBIalVsb01GUUlvZC1ucGZQd1hZb2JlcjItQ1F3?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1786956678,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
