@@ -1,0 +1,271 @@
+{
+  "date": "2026-08-19",
+  "date_display": "2026년 08월 19일",
+  "generated_at": "2026-08-19T14:21:22.422152+09:00",
+  "generated_at_display": "2026.08.19 14:21 KST",
+  "category_counts": {
+    "Samsung DA": 3,
+    "Market Dynamics": 11,
+    "Competitor Analysis": 3
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 17건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: Aldi는 모든 가정 요리사가 필요로 하는 필수 주방 가전 제품을 출시했습니다. 이 제품이 £10 미만이라는 것이 믿기지 않습니다. - Yahoo Life UK. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 5건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 5건이 감지됩니다. 주목 기사: 트럼프 관세에 맞서 싸운 호주 주방용품 제조업체, 2억 달러 손실 - news24.com.au. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: LG전자, 브라질 가전공장 신설…중남미 시장 공략 - digittimes. 시장 전반 기사 11건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 데이터센터 냉각에 1억7천만 달러 투자 - koreajoongangdaily.com",
+      "media": "koreajoongangdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnBEN1E3cE9pVUlCQXpvX1EzcWVOSmJQcXFjVF9LaEpYYUFESW9KLW1rUUp1OUpodDJ3SkJkOTZmdzVxaVNaRW5IbEh3eG0zb3pqMU5BSFRJN2N5dEdmQ0pwazBBSWpLaHVjTUZPa2xJVHlBa2JQZkhfcHF3TU5IVFhRcFQ4d21Ea2RBX1hvd0pWUDJzdlY1aG9uWU15RmFRLWc?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1787112860,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "트럼프 관세에 맞서 싸운 호주 주방용품 제조업체, 2억 달러 손실 - news24.com.au",
+      "media": "news24.com.au",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOLXppS1U4SzdkOXNpTTJmSGJZZ0Jnd0RBTlA4eDZ1c0h1WDNCZ0lLTUM0ZFZyZTE4Q3FmbzEwem5lOWstRDF1eXJMRFpEZEdDcDlvS0NKbXJYYTMwdUs0N1VGM2RXS1VSUjluTE9paFJHclZhV0VERTFyMVpRbjBWako1UVZRbkFHN1NOMUtjVW1FY0diY3lzLWMySEdmT3FnOGQyaHFjNXhFaWVFRGFlZk9nakUxVXRMOWFXSXByX1l3N0lnQ1RyOFFMTVR2UWxESVlfbUswOTdwTmFLNVAxQzFRbGVLeld4SFd1YnNDRk5TeFIyczdNejJLdmFIVlRiaU4tS2drdHR6eENtdm0yQXFKc2hNUDBRcjlRNnI1VDMxS1ZtY0HSAasCQVVfeXFMTzVnSXNpNWYxdlZ1QkMwb3Z2QkJpQzk4ODFCNHFQWWFMT0EtVkZiUmJiMDBiX1QwTVVnVnZ1ZmQ4UmdTNDYzU0p1NzNGcUJkbFJnLU9FU2puZXZIV0JmWGw5U0g1ZzZWMlA0MklORUs5Y0R1TXBvanc3dnR4UURCSzEtTjFtM3M4WVRZWjVKUk1kNFQyOW5xS1pDVEs2T1FZRS03VURpMllRZVRYcmU0Z2ZWREh6YjNOaTdpcG12RzRCeUliSU1FTkFWRGxyN1pKV1diT2JzTTVUNlJyQmp3eVpWaVNJNHdVS1JrQ0todkJ5d0pscFJBMWhVLUgyRE9YX2U2WEpCaUlkdzExUUdibXVlZzJXbWFzYkhZT3BzT3dtOXh1ZWI2QURFSXc?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1787108794,
+      "summary_kr": "트럼프 관세에 맞서 싸운 호주 주방용품 제조업체, 2억 달러 손실 news24.com.au",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 브라질 가전공장 신설…중남미 시장 공략 - digittimes",
+      "media": "digitimes",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORjU1M0VfYUVqTDlqemhMN1ZFcld4NFRWYk12XzFNYTNkVVJmdHVxbVFqd0FueU5hd1VEM2hYRU1VMHhHTHVsTkZ2VEtZZmNJb3Bfd3gtWk1RMmdXZlZZdS1paDZvNVFQQ1dnNVczeFg3SXdkS0lsd0p3WWszQVdvV2Z5c191VWkzWmpsdUU3cFlzdmE5U2FQQVR5VQ?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1787105700,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 광주 AI 데이터센터 공조라인 구축 - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWE5TTVKV1BnYUNLVjVpZXlZS19Va2RjSEg2amFJN3JnS2kwQU93Q3Axb3U5TC15a0xWREt6eDgwOWVGZnNpVHUwYmFySFlaY0FVaHVyc0dmemwzS1FDSGthV3kwWENhQmVIUWlXeE9nOWhpZnRRNF9naGR4d3loQ2F4SGJ1Tl95?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1787100455,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년에 구입할 수 있는 최고의 현대식 냉장고 5가지 - 일일 식사",
+      "media": "Daily Meal",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NSThyaUFrTFlNb0huYkN3VENWXzluempOdWNCSnZyYW1zSTk4R1J4eFkwMDdiczBNMkJXbVlId19uM3V3WnpoSk9RZTMwTEJaX29qb1VhNTNPLUlEeGFaMXVzaFVSUDRmZVRENUduejhBejZL?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1787085540,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "더 많은 일을 만들어주는 Frigidaire 주방 가전 - aol.com",
+      "media": "aol.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlRBT0xxYmxaTnJJTGt3NkZWbGpUN3ZTVFJJYUh6UzczNjVCOUREcGNRRXp6ZHJNeVRSZERKZS1rTVRUT0RmTzY2OFdmVFNzanBXLWVXemJodTBHWHpkTmUyaXVRZFowUUVfakZBRDgzMVBkZGprQ29QcDZ2emRoakpfV0xtSGl6YlhYWDZR?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1787084822,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "이 고급 주방 가전 브랜드는 삼성 소유입니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX001dTRJcU04TmxVY0l1YmFoTDF5VnFQOEVadF93VjlUTlJ4Q2FOUFBkWUNyNFZJMU16WEQ3OHJsZ0hvZkxicnlOeWQ1LXBvRUZseVJtVzhBVnpXZi1MRmV1WEwwZ1ZSNlpEZV9WYmQ5Q3JDV191TmM5YkFVVVdhTHFaNUxSc3lGcXNEbE5VX09QV0lja3ZZZThaamtlelNCZWVVWnNn?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1787076180,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Whirlpool 소유의 인기 주방 가전 브랜드 5개 - aol.com",
+      "media": "aol.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXFTTW1YQThoQndneHNzTGQ3NUNQNDRGOTRRTkFVLXBrdElPS01KUXhFMk1UZmN6YVJSN1dDQjZLRkgtXzRLV082ZjltaGVNNzg1VlNhLWhXb1FxcDVpYzRpZllnV1IwUVlPOFJwcWI2aVNaU2VUeXNwbl82X2ljV2d3akQ?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1787069138,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "스스로 비워지는 새로운 Levoit Aero 진공청소기 40% 할인, 하지만 오래 가지 못함 - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQckdsdzJmU0pZeXRlVXZXZk9EUnV5WmNBNHFMRzZwYnpNeDluQ2wtLUVFcDNiNWpjVFUxOW9McHp4VEVfc0w0ZXdERVhlM04taTFLcTM0VTc2RlRIYzdzYjI1RENUTTlQVjJkQ1J0akRoZ0hrLWhlQnIyM1lLYS1sZWt0dGhXcnRpZDhlNG5QaWZubHpjOExwa2dBUDZJUjZfY1RGNFlINy0?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1787069111,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Robam Appliances, 이사회 개편 완료 Ren Fujia, AI 요리 전략 가속화를 위해 주도권을 쥐다 - Finance.biggo.com",
+      "media": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XSnZNRlRZa2RmMUZlV1h3REdKTTJxZl8ybG9ZeS1UZFZ5QTl0V2JqRlRFOGNPT1U4UkZ6RWRjemNwZ1RxUk9PcVV0WDc1YkJ5Xzl2U0pfS0NENHN4SDB4aEhRdVBHTFA3OWJhdXNPQmZuOFBYY1E?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1787068500,
+      "summary_kr": "Robam Appliances, 이사회 개편 완료 Ren Fujia가 AI 요리 전략을 가속화하기 위해 주도권을 잡았습니다.  finance.biggo.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소비자 보고서에 따르면 주방 가전제품을 구매하기 가장 나쁜 곳은 바로 aol.com입니다.",
+      "media": "aol.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93VkE1R0xjVUQ5SmlkXzh5MDBwejB5ZXNtaTFBbmZWaDd1T0lNTWxLa19BVUpkTlg5bUxJZTZDNXpRZFY1MVhNM085VGtMNkM4Y1JmMWM0TWVlTS1Ddk9qbHRyc2g1a3BSOEYwUkYzSlZaazhkWjJXaE1B?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1787062700,
+      "summary_kr": "소비자 보고서에 따르면 주방 가전제품을 구매하기 가장 나쁜 곳은 aol.com입니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Lowe's Vs Best Buy: 더 나은 주방 가전제품 거래를 제공하는 체인 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzdlTUpyeDcxMnQtQzRtWTk1b0NweWdkUzlZZTdUcEFuTDF6UnBBZGlxdXJRVlhZVmNpaGIwNE5IZmxqaFdWVnFOUkl6UV9zTUpLQWNSVGFHWmhTQ2RTVnNEY2lWa2dSVnVDZERVXzZtMG9wRlp3Z2VsNElQZy1HMU00Q0kzMVlvRGp4MWx2SEFlYWtKUmZZQnN3?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1787055420,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Aldi는 모든 가정 요리사가 필요로 하는 필수 주방 가전 제품을 출시했습니다. 이 제품이 £10 미만이라는 것이 믿기지 않습니다. - Yahoo Life UK",
+      "media": "Yahoo Life UK",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OeS1PYk5DbUh4VmNwWFowX3pEZ2p0Mk5mUF9lM2RLSmZIMVVqdDRxY2t4dWRqWER3ZExoOTF0dWY3bGViMnExelNWTi1DSzRrd0pLOE1ydTQyekd2UHRVQTZWS1FSRTkyVWRBdUdrUFp5WkRVam05WFhEb1E?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1787054400,
+      "summary_kr": "Aldi는 모든 가정 요리사가 필요로 하는 필수 주방 가전제품을 방금 출시했습니다. 이 제품이 £10 미만이라는 사실이 믿기지 않습니다.  Yahoo Life UK",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 고급 주방 가전 브랜드는 삼성 소유입니다.",
+      "media": "Bing News",
+      "url": "https://www.aol.com/articles/high-end-kitchen-appliance-brand-180300000.html",
+      "time": "18h ago",
+      "pub_ts": 1787050920,
+      "summary_kr": "삼성은 수많은 주방 기기에 자사의 이름을 붙이고 있지만, 삼성과 연결된 유일한 기기는 아닙니다. 이 가전제품 브랜드도 소유하고 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Zhejiang Entive Smart Kitchen Appliance 자회사 서명 컴퓨팅 센터 구축 계약 - TradingView",
+      "media": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOd1BmWk44NlhHWEVTX1hpS1J3VDhNYmVhWDdiSXdPSmg4MGJQSFdUMmI2Ui1hUy1CYW83Sk9iOTItUVo3UXJDdkZ3R1pHNFI3TExEV3U3UXIxak1hc0RXNTNLV3dsSllhZ2c2U2w1R1phUW1WNEh3VW5UZU10LVZiN1ZOUGwtdl9FWElGeHZPVVN4Tm1Db1pDaWVrQXk0Q0tvWFFud1JsQ3VPdDJkNFFKSVF5OHRDdnVRNUN0YXNSenZpMnlyOGdCd3pBVUt0X2NnU2E1bFFYbXNvRUlheHB0Vm9mcmVuUHlnU0k1TFhveWxOcE1jWVdDQWhoOA?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1787048843,
+      "summary_kr": "Zhejiang Entive 스마트 키친 어플라이언스 자회사, 컴퓨팅 센터 건설 계약 체결  TradingView",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, DIGIT India 2026 시상식에서 10개 제품상 수상 - scanx.trade",
+      "media": "scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZi15UnIyQkpLbU9oTWdPQXVsUUxtaEViNF83LS15djh0V09Ga3o3UGJ2MmNSNTM2Q3JrUU9vVU9aZFBDMUgwVmtoNjRReE85M1dhazJ3b0hVY1l0bFlycDhXWUgwdkplM25tMThwbW8ySzBzUGoyQW9SaVNJMXJrQ2NsNkV1UmFCRWJTeUxTZ1Y0T3h1ZWxBaXFERm9FNllGY3BjRXhha1VZRnZzSjVKZ05TRjBSaXRHN2tKOQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1787045024,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Aldi, £70 미만의 가격으로 로봇청소기 출시",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-gb/lifestyle/lifestylegeneral/aldi-is-launching-a-robot-vacuum-for-less-than-70/ar-AA2aopLg",
+      "time": "20h ago",
+      "pub_ts": 1787044090,
+      "summary_kr": "Aldi의 새로운 로봇 진공청소기는 쓸고, 청소하고, 걸레질할 수 있습니다. 가격은 £70 미만입니다. Aldi의 새로운 로봇 진공청소기는 걸레질이 가능하며 자동으로 재충전됩니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    }
+  ]
+}
