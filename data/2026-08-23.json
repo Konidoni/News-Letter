@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-23",
+  "date_display": "2026년 08월 23일",
+  "generated_at": "2026-08-23T14:20:51.119301+09:00",
+  "generated_at_display": "2026.08.23 14:20 KST",
+  "category_counts": {
+    "Market Dynamics": 8,
+    "Technology Trend": 1,
+    "Competitor Analysis": 3,
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 13건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: 5 Of The Best Smart Window Air Conditioners You Can Buy In 2026 - bgr.com. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: 50 Years Later, This Essential Household Appliance Looks Totally Different. 시장 전반 기사 8건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Best home warranty for appliances in 2026 - USA Today",
+      "media": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPclROQnZUazQ4LVN3U1pRUDVTSEJhYWd2cEFlRjN6VHEzMkpGc0QyY1ZjUDUySmF0SjRWSnRqNFFfTDRYZ3NTQUdaODhtaFdXTkpLUVFFYUdzZ1ltYW5YZ1NoM0swSEhQNy1XX3RrVFp4bTd6d3VER3NfQXZWdEdaTDVZQzRQUmw3dDRmUzY2MFEtRG15VkhtWlFqQmlLeHlhLV9JUHN4U2hZWUU5bHc?oc=5",
+      "time": "Just now",
+      "pub_ts": 1787460667,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Best home warranty company of August 2026: 400+ data points analyzed - USA Today",
+      "media": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbElXZ3dYN2VkMWhzY2xNbTkxM19yZEVqRHFWcS1SdWtUdkxFVlkyZmF2VXBiekV1d0taeEstUEpxYW93LVdFUUIycmFvT0RYbDNhQy1zUTNNMVVzcWFSU1M0X3RnNFY0VzcxN3VkMjJPOU9HQW5MQTNqdS1kNnRjSFNxMkpxWTJENFh2Um5uSEhGTHlaMVZCY2xPTTgwcXZv?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1787457692,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The Cool Kitchen Appliance Set You Can Only Buy At Costco - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQVZZS1Jlejk4U0FnZ2JYOUhhLXAzdlg2WHVaM1NzaEIyOHBfams0NF8zbENNM0pfY2tmV2tHWUU4Rmt2bkZrdWg2dlR0Qzd0TGhDN2RUOGJsZEl4SVg1eW5ONEUyTjNmMFRmME9DRGpCczhEWjZCTFVBYnlNOEZIYQ?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1787443829,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "12 Useful Appliance Features You Didn't Realize Existed - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1QtX0FMQ2pvZWtjX3ItbUhzMHQydU1NNlpyNEU2dHhtYWU0RkRIcXRoZnZfT1FWTkR0STc4bm1kXzV6ZlRDQ3k1WHgzNjJLWFA0Y01LejF4Sml4U1hqZE5fcDRONjhzZmZtSS1tUXo1SlFlbkpfOGc4NWpfSWxvM1ZMMmI?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1787423400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "5 Of The Best Smart Window Air Conditioners You Can Buy In 2026 - bgr.com",
+      "media": "bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ydXVtbGZ6aUR0dllMZ2hsM2FkMGNxenAyWXZ4ZW9nQUpxUHY0UmFqQkFodWpkekpvQm9uMTZMTEluVGFRZjRGdkZBLVd1Ml9xb1g0YmZUcWNrRTBwY25wTUtJSnpPSjhpN2FhY24tSVNZTlVJ?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1787422620,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "12 Facts About Smart Refrigerators To Know Before You Buy - Chowhound",
+      "media": "Chowhound",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wRFRSNG1JWkktbjRSbUFybkM2XzJYZHNOVGZ6SUlnRnd0ZXZXQWNzVjRRZWxHS0NSX0w3NTE0dUNsYjUzc21BZTV3Y1h3ZHlzZXZKZGdFV3Jyd21YQU9XdTE4c0J6WU5ROVUzdXRzajFiTFdsdmc?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1787415300,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "5 Kitchen Appliances From The '90s Superior To Today's Models - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFlQY1NTMlZGVDZuY0txN08xV3JWdVFWZElEQnVvODVLbVhxRG1jNlZ1QnFLNUMwTFM1aXRfWmQxbjRLTGdnTnRtWGtrWWxmWnZwdUg3UmVRRkRnUjRBTHVPc2hNcXFaRk5aTlRFd3dMQnVFRUtObktUVXBVTnNZN3gwTQ?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1787414485,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "50 Years Later, This Essential Household Appliance Looks Totally Different",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/technology/50-years-later-this-essential-household-appliance-looks-totally-different/ar-AA2aIyOI",
+      "time": "14h ago",
+      "pub_ts": 1787410800,
+      "summary_kr": "When you think of some go-to appliances, you might not realize how far technology has come. This household tool would be unrecognizable half a century",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier Turns Abenson Greenhills Store into a “Home of Possibilities” with New Smart Appliances - megabites.com.ph",
+      "media": "megabites.com.ph",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTlR0bWdWT3hCQUdqZ3l0cDFCYU5yWW1lVlg3eF9DdDJNQzZhNHVQZHhob2JrVGhTWExwQWRsemFGRVBDTGItVmlTU3ZTMGtPODhyRU43a2tPb2VGcEM4b25JVkNfdnB0MHZhUjdETUNtcUZKWEFiaGJtWkxLaVhBU1I3N21LT01Ea2N0dkxfUmlEUXR6RExBXy10bk1TQ1dlNFpnbDRjYmloM09OTE02QVBnY3N5MFA1QnM5YjNB?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1787405153,
+      "summary_kr": "Haier Turns Abenson Greenhills Store into a “Home of Possibilities” with New Smart Appliances  megabites.com.ph",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics Expands Fit & Max Solution Across Key Home Appliance Categories at Ifa 2026",
+      "media": "Bing News",
+      "url": "https://www.albawaba.com/business/pr/lg-electronics-expands-fit-max-solution-1635552",
+      "time": "18h ago",
+      "pub_ts": 1787395140,
+      "summary_kr": "LG Electronics (LG) is showcasing its expanded Fit & Max Solution at IFA 2026 in Berlin, Germany, from September 4 to 8. First applied to select refri",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Why Martha Stewart Has A Dismal Relationship With This Kitchen Appliance - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVdCZklXWmNNZEdwQm81bXh5dmpkQk9ScnVBUEx4NGtvYzgxYllmRTM2TjJQbndiWUVhcGZhRThBRXVrZTN6ZEg1MmlCZWVhSmN2SWhXYlEySk1rUUQxUGN3dDRWQTQ5YktnSm4yU0E3Y25xR0FEZzd5MDJPa3ZMTUJmQ09VTUNPbTZTYVZFbXkxeDJzRWpseS13?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1787393460,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Best Portable Power Station for Running Appliances - findarticles.com",
+      "media": "findarticles.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc3hYM0k0aXVQbGlXSXprNWp2cDRDSEktMkpOTG5ZWmtKd05MTGZ2N2ZMYW9mS0xkRzJ0c0QwWGpyd3FEclNGNlFwZ1dQenk5SzhfN01BYmFYb0xrcUoyczFOX1VVeVdwSllJcnJBNFpJSVJOUFkxYUtRSDNLV3BCZHJTVEVrLWfSAY8BQVVfeXFMTlNtWXpaV24wRWVaOFBpcTJWel9lZ1NkMTFoVUh5ZVpmdjVLRjJ1VWtzdlUtdW5QWVlfMXJTVzNCSUR2UG96YlFhR0pUU3ByY204blB4MW1WSThNdnpJRjhRZzhWaDZ6QTZ1SWU0OHRPRmNuR25rN1VsSDNwREN1eFAtLVZyR0haUGFBZm5KYU0?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1787389388,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Electronics Wins 57 Awards at IDEA, Red Dot - thelec.net",
+      "media": "thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VZjdyazV1MkJxSWlCVEVoa3M2ZEZLemhBSlNXX1ZvMl9vRDQwQW1PUnQ3a2JvNmNIeVFQRW9USDAzRnFuQWRONlhkTDZYeXVfLU5HODJvSlNodWk2Wl9UZjNyUm1JQ2s?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1787380264,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
