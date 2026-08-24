@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-24",
+  "date_display": "2026년 08월 24일",
+  "generated_at": "2026-08-24T14:30:47.938377+09:00",
+  "generated_at_display": "2026.08.24 14:30 KST",
+  "category_counts": {
+    "Market Dynamics": 5,
+    "Technology Trend": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 7건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 1건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 1건이 감지됩니다. 주목 기사: I’ve Rented 5 Apartments and Rarely Call Maintenance Thanks to These Easy Kitchen Appliance Maintenance Tools - Food & Wine. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 5건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "The six biggest problems home inspectors have with kitchens - Yahoo Creators",
+      "media": "Yahoo Creators",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbkhrYjJ2R0Y0SGxSS2lndmhrUG9mSVZ2RndlNU5hQm4ya1YxQ3ExSS14ejRJa1R1anZDbTJsOFFGNzl5S3kzYVRSMEFaRlZTUzJuV1g3eHQ2OW1Qa3lvSWMtaExCSmtIc2FNTlpTNDhkeHVMM2plVHAyMENKTWgtcW5jWDdhaFRPRGF0aGh3MXBPd21HUFVCd1NsRFQycEpsdUFZbzByc0RuRnk4RnZUNTBrTUxYLWhL?oc=5",
+      "time": "Just now",
+      "pub_ts": 1787548908,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Meet CJ Wang, home appliance billionaire who quit teaching job to invent world’s first automatic soy milk maker - VnExpress International",
+      "media": "VnExpress International",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSm5wZTJreXJkUDF5Zlc3dUR5U0ViT0M4dGE4eDlrYWp0VXUxVkpCbjRtSjJYZnhaSUVRWC1jZy1fenBpOVUtd3Z0NjhrdkxCZEpnU0RJVW9mQlAyS1hYdjNUTHZ6eFVwcjZ2TGM2XzNqUUxGWHdpN3ZrSzdqYTlkVmVkeHlyQ2VKOWIyUnJjd292Y2o5QjEwWTB2TENYR0lyS09KVV9fYWN5LWN3Nl9GVWg3RC1BSUZZNzVTYUJ3Y1hqTW9yVGxZY1NPVmpPZlBJZGg0MXZpQ0pXNzdnQmR6cG1JQ3o4eXFzc1hPT0JaZk1wQ0ZRTmpXQm1vMmFqV2J3dnkwcw?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1787540934,
+      "summary_kr": "Meet CJ Wang, home appliance billionaire who quit teaching job to invent world’s first automatic soy milk maker  VnExpress International",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "You No Longer Need These 12 Kitchen Appliances In 2026 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQnl0WGhNRVd1R0xUX1MzSmNlVUxIcEFqdkdPRFhHTnhpRjlkYWRfSEFiZDlLSGRjQjlFakV2SGhaVnZwX3g5OFJud2Z1bUo5UU9VNG5Ka1g0bURqdmtIWWstRmhjWlhwR1JjRXF0NEQxRkpWbFFZLXNwb3ZBR1Fyaw?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1787512498,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Home appliance firms embrace comprehensive lifestyle strategies",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-xl/money/general/home-appliance-firms-embrace-comprehensive-lifestyle-strategies/ar-AA2aM9hU",
+      "time": "14h ago",
+      "pub_ts": 1787497200,
+      "summary_kr": "A rice cooker company is releasing hair dryers and refrigerators, while a water purifier company is introducing medical devices for urinary incontinen",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "I have a coffee station after years of dreaming of one – these are the clever buys I'm picking up for it - Ideal Home",
+      "media": "Ideal Home",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSXdQS0EtQWFqWWcwTkFrUWduUVRvRHVnaDMxTWNPNkZPVllLLXFLYzNlLVBBVFY1aFhTTzdGbU9tOWlVWnpYRERzZjRNRGFEQjd5VXF6V3NVbldJY3IwSGxucGpleFZOeE4xWlFwNFhBM3FGdndVQ3U4N1gwS3JISC04X2dUN0E?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1787490000,
+      "summary_kr": "I have a coffee station after years of dreaming of one – these are the clever buys I'm picking up for it  Ideal Home",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "5 smart home gadgets that quietly add zero resale value",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/technology/consumer-electronics/5-smart-home-gadgets-that-quietly-add-zero-resale-value/ar-AA2aLbVs",
+      "time": "21h ago",
+      "pub_ts": 1787471323,
+      "summary_kr": "Now I have enough grounded material to write the article. 5 Smart Home Gadgets That Quietly Add Zero Resale Value Homeowners love a good gadget, and t",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "I’ve Rented 5 Apartments and Rarely Call Maintenance Thanks to These Easy Kitchen Appliance Maintenance Tools - Food & Wine",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX3B2S1E3dWRGdmxiR1R2cUYxTDhfODdKamJUSUlhQmpCU1pFTUJPQ3FoSnp5LWlaSGRkalZPRjdDd1NmMmhvSE5za1A0Y3JlVWF4bl8xLWIyUFY3ZUdzbjlZWmNjaHg0SXBtM2l1ZmxsTE1fMS03Nk5XN3k1YmNENGdn?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1787471100,
+      "summary_kr": "I’ve Rented 5 Apartments and Rarely Call Maintenance Thanks to These Easy Kitchen Appliance Maintenance Tools  Food & Wine",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
