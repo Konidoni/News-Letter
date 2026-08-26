@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-26",
+  "date_display": "2026년 08월 26일",
+  "generated_at": "2026-08-26T14:25:31.065486+09:00",
+  "generated_at_display": "2026.08.26 14:25 KST",
+  "category_counts": {
+    "Market Dynamics": 9,
+    "Technology Trend": 1,
+    "Competitor Analysis": 1,
+    "Samsung DA": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 13건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 0건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 0건이 감지됩니다. 주목 기사: —. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG ELECTRONICS BRINGS HIGH-EFFICIENCY LIVING TO MORE CONSUMERS AT IFA 2026. 시장 전반 기사 9건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "5 Kitchen Appliances From The '90s Superior To Today's Models - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFlQY1NTMlZGVDZuY0txN08xV3JWdVFWZElEQnVvODVLbVhxRG1jNlZ1QnFLNUMwTFM1aXRfWmQxbjRLTGdnTnRtWGtrWWxmWnZwdUg3UmVRRkRnUjRBTHVPc2hNcXFaRk5aTlRFd3dMQnVFRUtObktUVXBVTnNZN3gwTQ?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1787713111,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Deals of the week: Save 80% on Dyson, KitchenAid, Breville, Shark and more - Nine.com.au",
+      "media": "Nine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2ppdV9IYWI2eTZEOTYyLW1zX0lSQTdDa3E5WDJ4ZjBPUkpmaWJtYVphN1N4QjJKRk1hQ1Q2ODFzN0txVDA5RjQwWFNuSDljdUxIdVlsdlBzMmx2aVA2UHVfZGhBZE9IdDRvNnJPSEQzQ21OTFFMT25qdGROdTJSbG0zWEFNQVg3Tll4TjJyT2RESEJTNTZKV3ZZMFg2Ry04X1A4UkpNenYyX3ZZN0E?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1787712178,
+      "summary_kr": "Deals of the week: Save 80% on Dyson, KitchenAid, Breville, Shark and more  Nine.com.au",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "This High-End Kitchen Appliance Brand Is Owned By Samsung - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR2VzRjNERFdYQW9iM2w4ZUZ6S2xydWpkRHpJSDRDYlhtazI4ak5vWnZSMjlha0c5bmhRTHQ1cjJYNktzQjl4NjQxSG01UTdJRHNLMldHMTNLWW02NE5mbHc4RktIcnh4TTItYUpXN2NYSEc0WEpGaW5zNG1HaEtvRHVR?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1787706439,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "5 Old-School Kitchen Appliances That Were Built To Last - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVlJdUJXOGdFWWsxRnJXZnZqbkpOcDFEWVk5S1lZODVRTlZseTk3aEFWLTJpXzdtQk91U2owczJjTjg4SWhRQmFvZUIxa3ZjR2tDNFp4RGlxaTdfV2hlMk8zSzJSLVdOQTVpa0o4SUdPVm1UWWJ6UkhoU1dabzh1LQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1787700208,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "What smart thermostats track in US homes, from room occupancy to your phone's location",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/technology/hardware-and-devices/what-smart-thermostats-track-in-us-homes-from-room-occupancy-to-your-phone-s-location/ar-AA2aVR1R",
+      "time": "7h ago",
+      "pub_ts": 1787694420,
+      "summary_kr": "A lot of the privacy unease around connected devices comes from not being told clearly why certain information is needed.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "15 Kitchen Appliances You No Longer Need In 2026 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZF9Ya08zZmFabmJJaVRwSGMtSjhReWYyUFFGZWhHaGloMmltRnJTbTMyTGRwMU9rTVBaN3paSGpETFdHNU5YMUFFZWJHM1daZ2hIMHEyTDN0TlFmaS1Id1h4ajR6V1B3aDFFN25nYy1lelowN3pGWnZ0cUVjWmJlLQ?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1787689428,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG ELECTRONICS BRINGS HIGH-EFFICIENCY LIVING TO MORE CONSUMERS AT IFA 2026",
+      "media": "Bing News",
+      "url": "https://www.digitimes.com/biz/news.asp?feed=18162",
+      "time": "12h ago",
+      "pub_ts": 1787677140,
+      "summary_kr": "SEOUL, South Korea, Aug. 25, 2026 /PRNewswire/ -- LG Electronics (LG) is accelerating the mainstreaming of high-efficiency home appliances at IFA 2026",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "This 6-in-1 tabletop cooker has a built in extractor fan for indoor BBQs - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13YzZXN21QcFdHdWpLektyVnlwSDRYQUZ2Z2JMeC1FQzNjYjhHMFE2NE9EYUJMVG1UV2paVkZXemt5cENKSDA4b1lXYU91bXNSejdzTndqTkxBLWtCcklJaEYwOEoxZlhCbjNuYXVlblg2c0VNMTdiQg?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1787667354,
+      "summary_kr": "This 6-in-1 tabletop cooker has a built in extractor fan for indoor BBQs  AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The Most Overrated Kitchen Gadget—What I Use Instead - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGhnR1JKWTdQbmlwOTZ1SmZRMG1PaEp3bkdIcVRzSVh1MjFzVVlPZVRMMEFudXlPdEl5V0VuRnBfUnMzdHJIelJ1RElPWTcwTVg2TjFiU25manN3WEZNOTRpRzRMOGduSXZCbkZjNENOX2trWXY5Q2sxSWl5VjNkMDIwQWZ4ekRC?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1787666797,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Aldi’s student kitchen range hits stores with prices starting at £6.99 – these are the appliances worth buying - t3.com",
+      "media": "t3.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1ZYV3kzM3NoaXhVTHNqU2hIdXFBZER5YmV1ck5fOWloRW52WklZZ1J3bW1fZkJJb2pqV3ZkV2pLOGpCQmFDYWlLaUlTNGZHRDVEeXRuYjZsWDJYcjhybkJQaGJGaTJtNFpZVXFuV0VDZFV4eHFLY0RWNXE5N3oyQmdfNlN3NExWWkZNV2IxNmxjMHpONTRBM29hVDFtUHFvV0tzQjdxSHdBNERSUGFRSDdsc1NZVnI5N0V5OUh0OWVjcXVEQU1jazhOTFZ3UTRBZXR2THVXN3V2M0JnQ21iRDRB?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1787666400,
+      "summary_kr": "Aldi’s student kitchen range hits stores with prices starting at £6.99 – these are the appliances worth buying  t3.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The Weber Griddle Customers Love For Its Solid Build Quality And Lower Price - Tasting Table",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0JnRllBTkdPSHR6X0kyclEzMVU3V3M1dnM3TEN3R3ZhV2F6UGZjRklUaDRlbVdXN01CaUNuV09BVzl5T1g4UW9hSUNsbkZqem5XaUx6dkF1UVE5UDdoSmQ5bFgzVkhUZmZJYmZKVG9TV29tbDJNUFZnSk0xbjFjZTVjeVQ?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1787655600,
+      "summary_kr": "The Weber Griddle Customers Love For Its Solid Build Quality And Lower Price  Tasting Table",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung takes its connected home to three Nairobi malls, with up to 60% off appliances - tech-ish.com",
+      "media": "tech-ish.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTc2ODZjQ3loYVQwcGt4TUxhTC12ZDluX24wcF9SNDBWWTNheXc5MVQxWmR5R2ZOM3RTakZzemxkMUpIU3JWVFRKRVBoc0d0bjhxaFM5T1MzczVzSTloLWNIeXZPOWlRcTZOYkhQTjNSQmFwWFhMQUJJd1RTaTkxZFhSOFhsci05RVc2RWMxNWRFQVBhR1NsM3lvaDltYkNsdUZ1bHYzMjQyUXNWcEJDbjJvMVlTNlpM?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1787650134,
+      "summary_kr": "Samsung takes its connected home to three Nairobi malls, with up to 60% off appliances  tech-ish.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung brings connected living experience to Kenyan malls - TechTrendsKE",
+      "media": "TechTrendsKE",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQjkxaDR2NlhOT1N4ejkzSjJiZkhaemRVMmtSNFVEQV9xZS1PODZIV1gwbzBlUVJPTU81azU2aE9OXzJFc1BubG1TU25hWXN1UUdxaXQwN2VZa0J2Z2VVTzhROXZmODM3aW4xSUNnVklwYk1GMi1hQ2d6X1N6TWJVd0JscjBCeVdPS0pkNU1Ob2hHZTZMTDRVTEVhTHo3QQ?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1787636367,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
