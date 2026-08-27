@@ -1,0 +1,398 @@
+{
+  "date": "2026-08-28",
+  "date_display": "2026년 08월 28일",
+  "generated_at": "2026-08-28T01:01:11.463328+09:00",
+  "generated_at_display": "2026.08.28 01:01 KST",
+  "category_counts": {
+    "Market Dynamics": 7,
+    "Samsung DA": 4,
+    "Technology Trend": 2,
+    "Competitor Analysis": 13
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 2건 감지",
+      "desc": "오늘 수집된 26건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: Get more, save more with Samsung’s Blue Tag Sale - MyBroadband. 경쟁사 동향 13건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 6건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: Whirlpool Corporation Celebrates 115 Years in America's Homes - Share Your Whirlpool Memory for the Chance to Win a New Appliance - PR Newswire. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 13건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 13건 수집. 주요 동향: LG Electronics, KEPCO Offer Cashback for Off-Peak Appliance Use - Seoul Economic Daily. 시장 전반 기사 7건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Whirlpool Corporation Celebrates 115 Years in America's Homes - Share Your Whirlpool Memory for the Chance to Win a New Appliance - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQaFJNcEYzOXEydnNvc0FNMDhueFFsVTBCbE0zZGpFbHhjeEZNYzlWSGJjWTZwQm9VdENOVVhjYldlel91NFFuWktxc0lnQUxtY2lKVHdfNmh6bThPREhnVWRLWnJ1Q0t6bEthSVplRTlxLWVpMEJwaUcxa0otbzBwT1hQUjFBXzFXYUxyVHNDZlAtZFdHZlBpYXZWeTZyclNhQkJnNERwNndkMXM0VW1qTXhpZDRrNTBtdThldWRGUFQyRUxzWUdYUURFTHV6MHlvUW1NTVZXZ3RzUGRmWlBxLUJnVTIyeXRpQ0ZUZzhRMEpTV2lMLVhQMkZMQTJSRHExdVNEUGRXa3Ftd3NVc254Q1ZB?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1787835600,
+      "summary_kr": "Whirlpool Corporation Celebrates 115 Years in America's Homes - Share Your Whirlpool Memory for the Chance to Win a New Appliance  PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Share a Whirlpool memory for a chance at 115 new appliances - Stock Titan",
+      "media": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNFVPaVREbFVqU0NFdElPS192bVFuUHU4SktXNXYweERTRnA2enNxR1hPTlJQMWE1ckFIbXhtcXB0RS1VVzJzU2FmZFJ6Z25HakFyMlV0VTJLNVFyT1Z1N0JNSUg5RkF4djZ6dnlELWpFU1Q5Q2dLaGJKY3M5VC00dEdONEVsbTdDcEtRMG9qVWJ5ejI2X0lvMzI2Q3BKRk0wRERWX1gwZ0NtY0JnLWNGd0lwNlFTeWdCQTNxc3VB?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1787835600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Get more, save more with Samsung’s Blue Tag Sale - MyBroadband",
+      "media": "MyBroadband",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYXY1aXQ3bXF6eW5EVEU3NmlyQTAwemdlV29FUDRCdnBsUmgtNUxSZVJRb2UzV3dCaVg2N2dSRFpFUUJuWlFGT0F5RlBHT0packRjVVY3MVRFVWlMVURQSnlMNTNlUDVaTUFpWi1NSHFKSF9mVkZvUktvZlFIN3VUNlA1Q1RRaWFhaUF4UHBzbGJPN1BWcEd5aXhKVEhKRWZvVE9tRg?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1787829132,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "LG ELECTRONICS EMPOWERS FAMILIES FOR THE NEW ACADEMIC YEAR WITH UP TO 30% SAVINGS ACROSS GCC - PR Newswire UK",
+      "media": "PR Newswire UK",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdjhJU1JER2xsYkJRMjNoU2J6Q09sYzduWm03NFdlSHA0cl9PeVVXV0VwNWtpZ3pXTERvREM3NjljdXV6U2RkNVFscWZRSGlRZW5tUDBOTDBRSkNmVk5qZnAxNHFWdGkwM1FJTC1VOEpoeVNQcjFLSURXY0p3QnY0bWlKbmtaVTYwODRSVFRMRVAyQWF0RWZhZ1p3SlNrdHFtTzBTRlk3RjJSVm9sVGh4Tk9DX0pRNXlnT3ZnclcwRzhGRUVaaENvbnpvYVVOcTBka2dTRnJnZ0RneWkxbXJXWklkOA?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1787825220,
+      "summary_kr": "LG ELECTRONICS EMPOWERS FAMILIES FOR THE NEW ACADEMIC YEAR WITH UP TO 30% SAVINGS ACROSS GCC  PR Newswire UK",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Ina Garten Can’t Stop Using KitchenAid’s Smartest New Appliance — and Now I’m Obsessed, Too - Food & Wine",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaTh0Ml9KeV9UR2xscjJqQ2RyejVyMk5zUkFxZWRSSTlQeU96aDh1clJRbVh2RjIwV2pyQ2FZeG8wTXE4Z1lSWUV5UTZTa3djbVk2enJMbDZOdUhpbGtYS2I1VGV6YXFEYTBJZnF6bVJPNXpvZW5IQVdLMDgxNVllTDVLYTlxNE5EQ1ZpTG5Gei11dUwxZHA0?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1787823000,
+      "summary_kr": "Ina Garten Can’t Stop Using KitchenAid’s Smartest New Appliance — and Now I’m Obsessed, Too  Food & Wine",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics, KEPCO Offer Cashback for Off-Peak Appliance Use - Seoul Economic Daily",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaVVQbEYyeHFtcEdhMVlfVzdBd1hhZkxobFlyZ08za0NtZHZFa3VyS3ZlVVBRRTFJTHlaSjZJVVI0dmVSbkcyaHFxSDBqYk5NY0dpUl9ROWJPaGxFVEJfbTJRbVgtZThnYnJkU0xOUUlZYlMxY1dUZXpFR2dJaWNOT0ZraTRSbG5fSk5wVTROQVBETHBTZlB3cjJrdHNsREUtV1E?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1787822004,
+      "summary_kr": "LG Electronics, KEPCO Offer Cashback for Off-Peak Appliance Use  Seoul Economic Daily",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "I Tried the Steel AeroPress and Was Blown Away by How Easy It Is to Use – It's The Premium Pick for Coffee Connoisseurs on the Go - Homes and Gardens",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbUw3Q2tzYUhrczQ2NVdqNGJwTkFuVXpNMVRTMGFDcWNBREN3a08xNkpQRHJpa2M2Ull1VEZYcU9tX3h2MmFRLThnZE9yQmRkTzFtanZ1LTE3eWw1UklkUHhIY0pQdnotVFdmZVQ1dE9Jbkl2cGwzTkNXUDJsa1ZqdWlRTWNpTm1zdkdB?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1787821200,
+      "summary_kr": "I Tried the Steel AeroPress and Was Blown Away by How Easy It Is to Use – It's The Premium Pick for Coffee Connoisseurs on the Go  Homes and Gardens",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics turns discarded appliances into source of rare earth magnets - Korea JoongAng Daily",
+      "media": "Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYUlmRmdTdnV3cFNRZzhzV21qQWpSazVoZ3RiWkU2ZHNBQk4wS0ZfQVJnNnFUSXFuV0xpT3UtN0EweGhuTTc1ZFdRbmV4TXdOaWVSLVNwX3VBeENkYlduUUlqdHFadnRjZkdrdms0NmZKT29GWTRkVFk3aHQ3VG1TTkF3LTF3SE9fUEJuS3VVdGVtMHIwLXFMY0FReDhQbkpMX3pDb1VZbmNXUDlzM2dlQmVDWEpxYTBwbnU0TnJaVXlWVk5FTWNR?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1787819796,
+      "summary_kr": "LG Electronics turns discarded appliances into source of rare earth magnets  Korea JoongAng Daily",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "\"Recovering Rare Earths from Discarded Appliances\" LG Electronics Develops Recycling Technology - 스포츠조선",
+      "media": "스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTdXVkRMMC1kazBNYVl1WjliVkZkTWFXanh2dThkd2JhTWhIbXdNNXFleWt3eUJZS3BZZFFua1QxaEMtLV9STXUtZEZ4WVA1ZG83ZGxicUcyd1lSTkRMN3VhZkRHVFVyRHppSm1GMWc0ck9Md1RnUFFXT3k4b3l0Ug?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1787819135,
+      "summary_kr": "\"Recovering Rare Earths from Discarded Appliances\" LG Electronics Develops Recycling Technology  스포츠조선",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics, KEPCO Launch Smart Appliance Cashback Program - thelec.net",
+      "media": "thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nNDNfbGFUb1NBM1JSS0JfZXdTM1ctS3lZZEY2RmM0WFUwdlZQLWZ1aGkzZEdlVjZDZWEwSzI0WFY3MklTUWk3VEcyeWRpcC0ybE9fVlFncGwyU2lQMlFiTFlWWUJsQjg?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1787817739,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "\"The End of Housework Is in Sight\"... A Dishwasher with Eyes Raises Expectations for IFA 2026 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NX01zdWZNVFM0dDRYLVprcHk0VzlJaEtjSXhpaGNFX0Uzc0t3ZHlja2NFZ1hmQWlsTlFCRzdxR2VlS1BSdklINW14OEk2RVNkTTc0?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1787815508,
+      "summary_kr": "\"The End of Housework Is in Sight\"... A Dishwasher with Eyes Raises Expectations for IFA 2026  매일경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics to Recover 1.6 Tons of Rare Earth Permanent Magnets Annually from Discarded Appliances, Combining Demagnetization and AI Technology - finance.biggo.com",
+      "media": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53MDZ5QTE1NHJpVnVFTjh3VURkZVFNekEtMGhzX2ZWd25GTVhkUkJRYmRpbXFuVTFmT1BDaFRwdjZ4Sjg0NmhMXzhna2h1aGJQcWlfLUZFcnVzUXhZZG1iSVFxa3JXYnAwSGdsa3lvdGZaSEEwb2c?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1787812500,
+      "summary_kr": "LG Electronics to Recover 1.6 Tons of Rare Earth Permanent Magnets Annually from Discarded Appliances, Combining Demagnetization and AI Technology  fi",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG, KEPCO launch smart appliance cashback to shift daytime energy use - CHOSUNBIZ - Chosunbiz",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MdmRzZ0o0NVBYeEdkSFU5QUFabHRQYUxLMzVoVk1EQ0lTQy1jeGl1Wi1xYkpmX3A2TXFvVXBfSWQxMUFmdkZSeTQtWUg3X3pWdl9uQV9MYTZfbVNzaXBCUS1XVmtLTFFuSzhJcUd3V05VT3pTOGVwd01R0gGOAUFVX3lxTFBiWHJwNXJIeGVaTFhvX2xpYXZRMGd6blR1aW1RWHNtWUo2RnY3SXZvdlRrc0NSRXlNNHFRbGhxWW44VUN2Q09rV0dxVmREYUxFZ2hDWTNwT3FGeXFDLUhTb2F6NDRVSGc4amk1SUtwQ0c5MG93Q0M5bGRKaDZtdkJrMVB3TG4zTFMyZnZXelE?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1787808780,
+      "summary_kr": "LG, KEPCO launch smart appliance cashback to shift daytime energy use - CHOSUNBIZ  Chosunbiz",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics to Recover Rare Earth Magnets From Discarded Appliances - Seoul Economic Daily",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLWFUNmhLVVU5OEc1Y3hrcTZQNlBPc2VOQ1dKRUJzbXc2OGVZcmpzZlVmYlJGZXBJa0lRSlU1NkpMVkRMWGVKd3o0Sm13cXBhRXl3MC1qTnl3U3NqTWMwY0RZQTV6Q1hfaFgwRlhCTnFUTlhpNlVYS2U0dEdOalBoMXhSazF6ZXR6Y3ZKUGN0enpGNGE0ZWdZVHZQRTM5RjNRaHhN?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1787808757,
+      "summary_kr": "LG Electronics to Recover Rare Earth Magnets From Discarded Appliances  Seoul Economic Daily",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics to Recover Rare-Earth Elements from Discarded Home Appliances - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpVThwUU9KNVJLdDQyZE5lMDJUZV92ckVfOTY2c05mLVZGWEhKa3FabTNzS2oyUHQxWWtKdDExSDJ5T2RGRnFWdjQ5cENhbXpsZGZZ?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1787808600,
+      "summary_kr": "LG Electronics to Recover Rare-Earth Elements from Discarded Home Appliances  매일경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics Develops Proprietary Technology to Recover Rare Earth Permanent Magnets from End-of-Life Appliances - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZRDJzTWx0eFAxaUV6cTFobUdtNzRpbnh6THB6azBKQkY2RzNwTkhBVDZCVjNPbkQwZ0hBSWRRMWRNY0phUlhkRzZ6SnRJY3BGajNpZDU2bnY3UHNuNDZIdHpqUWc2aFlndks5ODhCelF3Nzdzd2lEUw?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1787808600,
+      "summary_kr": "LG Electronics Develops Proprietary Technology to Recover Rare Earth Permanent Magnets from End-of-Life Appliances  아시아경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "LG extends Fit & Max design to more home appliances - ChannelLife Australia",
+      "media": "ChannelLife Australia",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmhrMm5JNjNNVnBLZWRUeDFsdnpqUExFS05rb0doWFlnZjRwLU50aXUwWmhmUk15aTJvTVQxRExIb01PVFRxYmFOTUlBQ1N6VkVnUmNhY0dBcFlUR1pKZ05uME00dU43djAtTGVSbUZFS242NWMyeUh3THN1ZGxsWWJQYWRVSXhRc3c?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1787807940,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics, Korea Electric Power sign cashback deal to cut peak-hour energy demand",
+      "media": "Bing News",
+      "url": "https://biz.heraldcorp.com/article/10853538",
+      "time": "14h ago",
+      "pub_ts": 1787795940,
+      "summary_kr": "LG Electronics is launching a pilot program that refunds a portion of electricity costs to customers who use its home appliances during off-peak hours",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "LG Electronics, South Korea's KEPCO to Refund Electricity Charges for Using Appliances During Off-Peak Hours - finance.biggo.com",
+      "media": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93T2dycl9QU0ZoNTlSZjdFN3hqS213TUtvNDBjT1hUWlI0LV9XOEVaNWNKVE5tbENTT0FuWWV1YnI5RmlzRzJTSGltMGtKNnpnSTN2THhzNk0ybXd2N2ZNQmcwRXlCX180LVlramE5d3Q4Ykxfd1E?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1787792760,
+      "summary_kr": "LG Electronics, South Korea's KEPCO to Refund Electricity Charges for Using Appliances During Off-Peak Hours  finance.biggo.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Could Bring Subscription Service For Home Appliances - SammyGuru",
+      "media": "SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44S1hzUWZIOVkwYm1rUDZWcVI0RU8tMVdGbTY4UmxXSVVqUm9RakI2clQ2VGEzUW1qTmtvU0hpa3VKZEctREd5RGhNNFIwYlJDa3NNRm1JNkFJY3Fwb3M5NlMxd1A1Y3NsVmNJaHpObzFjSV9k?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1787790616,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG to refund up to 300 won per hour in electricity fees for appliance use - 디지털투데이",
+      "media": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNW9xb1NLUUNaVGUtLXNNV2tYZUNWZHRTX3dtQkltSlJaZ2ZCc2F0aEZVb0ZyZFFMbGJJMHVCV1JJNGZtSXF6ZVZFRk1oMmdBSW1RajZVdmRpY016VlQ1QlBNMlNaTHJmTTByYjd2aVVsUjREVVFkU2VySGFaa1ZvUURwSHFTRTdyS05aSVhVQ3A4WWJhajI2M0hEY0xhMTJFQ25zQmprN3l6WTRfclE2YlYzZlUtVzJFSkE?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1787790405,
+      "summary_kr": "LG to refund up to 300 won per hour in electricity fees for appliance use  디지털투데이",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Not LG Or Whirlpool: This Refrigerator Brand Tops JD Power's 2026 Appliance Satisfaction Study - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcTZqNE9waGttOWQzVlF4Rlo5NXFJbU1nMXloVDFqRE5VQlB2UmdqaXozUktXaG9UbDlZY3lZQk55Y09BX2VDajEwZEtzLUMzZWx4b1BaVEJ4MW4wYlBIeWlyN1NYUjBQNWVsVWI3OFByUGxsU3hudFFaYlhPNGtwNl9WSmd3ekNmS29OTEhCRlhCX1N3MHVXaXBIZVZWTi1LdkE?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1787773500,
+      "summary_kr": "Not LG Or Whirlpool: This Refrigerator Brand Tops JD Power's 2026 Appliance Satisfaction Study  SlashGear",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Reset your kitchen with these end-of-summer deals - 930 WFMD Free Talk",
+      "media": "930 WFMD Free Talk",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTy1uamRJUEF6VzUtUFNycFI3SWoxUW1SMmNuN1VRRFU2ZzNlSUVXZmZ1bklHMEJDcGY3M24yMHJPX1I4LU1va2dlNXNTaFpLMzgxcTJ4Vi1DQk5RVjYzWnZ4UTNYcTJ6UDE3dWdnZU4yQUlZbFc5NzRxMGlQTlFUSHMxOW13a0JIenc?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1787767710,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Robot Vacuum",
+      "media": "Bing News",
+      "url": "https://www.ndtv.com/topic/robot-vacuum",
+      "time": "23h ago",
+      "pub_ts": 1787763600,
+      "summary_kr": "Find Robot Vacuum Latest News, Videos & Pictures on Robot Vacuum and see latest updates, news, information from NDTV.COM. Explore more on Robot Vacuum",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "14 Of The Oldest Appliance Brands You Can Still Buy Today - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLUk2VTVucHZWWlNZUWFZTGVRR0tnQ0JoRmw2QWdNYk5rZzJhT3dISmg3QnI2NmVGc2gyTTFjWXQ1ODZPb1FwNjRWYzItYW9pd21VYmRkTF9VcUFWM1FEWkxld1N0YXRhNlprN0M3UEY0T0ZjYVdTNzR1N090U1kzS1JBbEt4bTl2V2c?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1787761800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Boomers Can't Stand These Modern Kitchen Design Trends - Tasting Table",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcm9ReFhyQWNTTG81bS1CdWZtT1hIZmY3UEk1aXBvQzItU2pBVjQzQjJuRV9pMXFyVWdSMFZXMTVyXzdOQmdNaC1qay0tTml5amYtcU9JZjRURkNYTDF5MFBXT1V1NmxNRzBsd0FKSHpqRGpFa0ljOEE0NjJUNjNLRkczVzRCZ1FzU1dTMXhR?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1787761200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
