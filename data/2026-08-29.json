@@ -1,40 +1,53 @@
 {
   "date": "2026-08-29",
   "date_display": "2026년 08월 29일",
-  "generated_at": "2026-08-29T02:04:48.419788+09:00",
-  "generated_at_display": "2026.08.29 02:04 KST",
+  "generated_at": "2026-08-29T20:25:33.762097+09:00",
+  "generated_at_display": "2026.08.29 20:25 KST",
   "category_counts": {
     "Market Dynamics": 7,
-    "Samsung DA": 5,
-    "Technology Trend": 3,
-    "Competitor Analysis": 1
+    "Samsung DA": 1,
+    "Technology Trend": 1
   },
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
-      "title": "주요 리스크 3건 감지",
-      "desc": "오늘 수집된 16건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: Samsung Electronics tops home appliance category in digital customer experience index for 4th consecutive year. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 9건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 5건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 5건이 감지됩니다. 주목 기사: Haier Smart Home Co., Ltd.: Release according to Article 50 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution - TradingView. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: Expert Cleaners Say This Area in Your Kitchen Is Hiding Years of Grease and Crumbs — Here’s How to Keep It Clean - Food & Wine. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
-      "title": "경쟁사 기사 1건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG Electronics wins Korea Effie as subscription care boosts sales 34% - CHOSUNBIZ - Chosunbiz. 시장 전반 기사 7건, 기술 트렌드 3건 함께 검토 권장."
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 7건, 기술 트렌드 1건 함께 검토 권장."
     }
   ],
   "articles": [
     {
       "category": "Market Dynamics",
-      "title": "We Tested 12 Microwaves With 18 Pounds of Mac and Cheese—These 4 Won - Good Housekeeping",
-      "media": "Good Housekeeping",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGZJXzdrSXZtX0RMdkdnaTlYSnhOSzVOWEx6SnBBNmxFWFJha0hMaG9pa1BXNFJPQWZsbDY1WF9Fa21rODJkeEUyOXg1OXdZSUtLVW8tZE9Lel9iN0NveHFRRjVoRDhpc1pNNnJVZHRyZDZmd1g0UmhSV0lxc2tHNy0tcHQ3S0pzX3VIMWZJcVU?oc=5",
-      "time": "Just now",
-      "pub_ts": 1787935521,
-      "summary_kr": "We Tested 12 Microwaves With 18 Pounds of Mac and Cheese—These 4 Won  Good Housekeeping",
+      "title": "Expert Cleaners Say This Area in Your Kitchen Is Hiding Years of Grease and Crumbs — Here’s How to Keep It Clean - Food & Wine",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2FlUkRzOWpaSzFBN3VGWklaX3VwRk5fUDhkWnM2azdWV0V4MS1rTG9fblFNQmlsOGd2bEtqQUFUVlR0OTd5MnRJaXRwY3kzQ1NDTmczc1Y4end0bmUwdmkya0wzX3FCNnRRTmQ0X0lDUDBHRmU3S0lSSzNtclF3RjhOclNFQ2thbXBlcW5ZR2c1UQ?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1787991300,
+      "summary_kr": "Expert Cleaners Say This Area in Your Kitchen Is Hiding Years of Grease and Crumbs — Here’s How to Keep It Clean  Food & Wine",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "I finally installed an appliance garage in my kitchen — here’s what you need to know - Tom's Guide",
+      "media": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVRfem4xbndOTjB3b1h2VFNibTFEMEQxdXE1cmRuWUdSaU5CSG8wa0tQdGJCLVc3ZExsdnVDeWhjQjVzMFJDQTNmRTdNWmtNTVkxakM3UnRwYXcyUWhsQWd4NHV3QWM5a0ZWdlNzRUR0QlJQNWh5Um82SVBZbG1Wc3ZPdFB3N3hTWGJCcTZlRV8xNW03STZNVHRWRm1PcE9VUF8zM0xlY1B2YjdKZzlOMjlR?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1787984202,
+      "summary_kr": "I finally installed an appliance garage in my kitchen — here’s what you need to know  Tom's Guide",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -43,28 +56,42 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "We Made Gallons of Soup and Stew to Find the Best Slow Cookers - Good Housekeeping",
-      "media": "Good Housekeeping",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXdBRHR2Q0EwajEyREpEUEtoTTZ0TFF3ZnJBOTVnaXhpQXFJdmt4WWxsN0V0SXB6Y0FxckRqTENmQWtlQVNUNEVtMUVFd05tc3U4dkxWYWJfdEQ5S1k3V1FDV1hKcXV2MnRBYm42LXA1eGdKU1h1c1VGLUJRN2FvYkRkWGw?oc=5",
-      "time": "Just now",
-      "pub_ts": 1787934020,
-      "summary_kr": "We Made Gallons of Soup and Stew to Find the Best Slow Cookers  Good Housekeeping",
+      "title": "Nordstrom’s Secret Sale Is a Kitchen Lover’s Dream — Shop Staub, Le Creuset, and More Up to 91% Off - Food & Wine",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3NTdxVERROVFHRzVZdEpBbnpTLWI4UEpoZS1vLTVCaEp4czZNQ2lLLUZXX0RjRHIwTDVRUGpOSUpWdnhwYk5UMkxWaE5zd0QyQnU5TFJsTDRCNmFNUGpQQXJNUElIU3ZOWXdSVkdCNVR0akZDM1hFZXZJV1Q?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1787983200,
+      "summary_kr": "Nordstrom’s Secret Sale Is a Kitchen Lover’s Dream — Shop Staub, Le Creuset, and More Up to 91% Off  Food & Wine",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
-        "watch"
+        "opp"
       ]
     },
     {
-      "category": "Samsung DA",
-      "title": "Best Buy promises unbeatable appliance prices this Labor Day — save up to 45% on Samsung, LG, and GE - TechRadar",
-      "media": "TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVEVCcU9TNGJlcWI5RmNmTUpoeWlGME9tSTFPNWRjd0M1T1hKVmpmQ0ZOd1Rxb1VSVWF6UldFYXU0Vng1MkRyQUlLWGxIMFdma2lpSF85bWZrYnIyLTNkYzZmSlYwM3llT3piUzVLbzRQN2h4bk5FcDZvZE9ZUXY5YzJ6TFFFcVRsSjZXLXp0aWhlUXg5ajIzYXVNcWJ3Q0FBQ2JqZnItVVpYbEp5MXZqcHlhOUw5d1l3STRuUDNFMXBVb3l1NTB0RE9XU3AxVFVGTUFYTVdfeDdzRHNmRTU5QndvcjA2blBaX3dMYThWRzZHVnVpY3NIdVR1cFNsRnRSTVR0SWU2QXFwZE93?oc=5",
-      "time": "1h ago",
-      "pub_ts": 1787931433,
-      "summary_kr": "Best Buy promises unbeatable appliance prices this Labor Day — save up to 45% on Samsung, LG, and GE  TechRadar",
+      "category": "Market Dynamics",
+      "title": "ScanFrost promotes culinary skill with cookout challenge - The Guardian Nigeria News",
+      "media": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRDRRckFNVDl5YXBoOTFJaFRmV2h4SXBiVEotUHZhOXlRUjRTbmVRR1RPNWM5OGtvNUNwTG51RkRvbVRHamF4TGpJa05OS3FmNnQyT1RoSWI0aklvTlZWRXd5M3hXZmo2SGQtbGtzX1JzX3lVMnAwZ2dhenJWMThvM1FXTmNnb1BLTmRab3MyQi1wcDMxNTVGZy1WNXBlakN3SkxsMg?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1787976000,
+      "summary_kr": "ScanFrost promotes culinary skill with cookout challenge  The Guardian Nigeria News",
       "strategic_implications": "",
       "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Zhejiang Entive Smart Kitchen Appliance Co., Ltd. Reports Earnings Results for the Half Year Ended June 30, 2026 - marketscreener.com",
+      "media": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdEJRR19qMHkwRFVJYjBnZldNLUZHQ0xqS1pxR0IwQVNZeGtzRGc5R1pnUkNhOFBfdmRCZnB1UWw0WE5WZkNRMnJKcXI5V2FTaGhYLThWc1dpS2ZqYXR6VE9LaHY3dzR0b0NGdXVramxzOEdRSjk4NUMtWjYxRFU5UW0zUkRrRnF5Rl83bTFER09LQ19DRTE1cGdyeGw0V2lKdWZVU0ZkX3o1aUtnRWM1blUxLUZxVVJ2RmhPS1dMd0EzSFI3SHlncmRLdDJQckJabU9VRDd4eER3WUZEbzRfb0RhdEE?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1787939819,
+      "summary_kr": "Zhejiang Entive Smart Kitchen Appliance Co., Ltd. Reports Earnings Results for the Half Year Ended June 30, 2026  marketscreener.com",
+      "strategic_implications": "",
+      "impact": 3,
       "tags": [
         "watch"
       ]
@@ -74,8 +101,8 @@
       "title": "The Labor Day sales I suggest shopping before prices jump this fall - USA Today",
       "media": "USA Today",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPXzUyYV9XeUR0bUlRQ1lFbXVldnhaWWhNRGRuOGc3Zk1FYzAyb1JmN18xM1J6Rmp1dF9qQUxiVXdPMG5rSFEwSHdObllSbXNmeVd1MmMtYzhMUi0tdUhEWnZ4VzUxMzlUODNRQXlWeG02WUo0TjNQTmVsMF82RTc2bzhxOVR4QnpHdmE2b3ZGN2Naemo1eTdianJmQlk3b1BRck5z?oc=5",
-      "time": "7h ago",
-      "pub_ts": 1787908200,
+      "time": "18h ago",
+      "pub_ts": 1787935440,
       "summary_kr": "",
       "strategic_implications": "",
       "impact": 3,
@@ -84,125 +111,12 @@
       ]
     },
     {
-      "category": "Technology Trend",
-      "title": "Haier Smart Home Co., Ltd.: Release according to Article 50 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution - TradingView",
-      "media": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQdHJ4MDhQRlR0SkFhLVVnNlFELUV2NWNpMXVST0JvaTktazdMMTZYcVBzQTdpc08wQV9jZEhvelBUMG1PNlFVU1pzOFVidVhsWG5XVEFueHNhYjhoREI1RWZnQVpUaXAwU3VDbl9BZzVtRmg3NVd3THJVNWIwandMbjJkT2hBZm9GcTB4djExeHhXY2JLNGk4eDZQd0V1SC1FODNpUER2eV9XWldmMlJvUmxydlJmaXlnbWhFYmFNZjhuZF91RHRnaHNEWTRJZUNLYzdtV3g4MWNPUktSV0lEcnljWGhjenFUOFpJMl91cVl2c2ZuaVIycFVuemdlX1FvWkRmanJLazl3NnR1MHdQdF9YdDFSS0RaQUtqczI4bkxyUnp4YXgwaVdB?oc=5",
-      "time": "8h ago",
-      "pub_ts": 1787904963,
-      "summary_kr": "Haier Smart Home Co., Ltd.: Release according to Article 50 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribu",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "opp"
-      ]
-    },
-    {
       "category": "Market Dynamics",
-      "title": "The Amazon Outlet Is Hiding Secret Labor Day Deals Ahead of the Holiday—We Found the 28 Best, From $2 Apiece - Allrecipes",
-      "media": "Allrecipes",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0tjZXloWkVvNUFiYnJ4dUIxZjBtS3ZtRWRMT3lIVTRoU2l5NDhyb2M0WGJiZE1KVEVkZXl6Y0tXb0lPWUp4OTBYdjA5M2c0S3hkXzFmZDhVbjZmQWR6RlF0ZVBCV0h2Rkc4UjFtSEtfVTk3dWNNalp3VmpzSXphd3dKYXk?oc=5",
-      "time": "9h ago",
-      "pub_ts": 1787902200,
-      "summary_kr": "The Amazon Outlet Is Hiding Secret Labor Day Deals Ahead of the Holiday—We Found the 28 Best, From $2 Apiece  Allrecipes",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "eCare to Showcase Innovative Rechargeable Kitchen Electronics at the Canton Fair - The National Law Review",
-      "media": "The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc21nN3Q5bmoyVUs4SXFIV1Z0Mk1VNHpEYlF1NElXR3BhZnNLZEUyV2dfMGNZaDBFcHlRYkNXRDNjSHRveDljTEJHbVFIMUlLV1VCbk1SU0RQckJsRW4zNm5mWGpadGF3aW5pTllkRzY1R2FBWUN1TjM1R3F2ZlVRZ25qWGVaQ1BaQUZqcm9uNUVmU2JteHZ1OWhYT1VyVDBtYWtUTk5JaDhXYlRaeUpF?oc=5",
-      "time": "10h ago",
-      "pub_ts": 1787897655,
-      "summary_kr": "eCare to Showcase Innovative Rechargeable Kitchen Electronics at the Canton Fair  The National Law Review",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "Bobby Flay's must-have kitchen appliance is a classic",
-      "media": "Bing News",
-      "url": "https://www.msn.com/en-us/news/other/bobby-flays-must-have-kitchen-appliance-is-a-classic/ar-AA2b7vCO",
-      "time": "11h ago",
-      "pub_ts": 1787896500,
-      "summary_kr": "Chef Bobby Flay's must-have kitchen appliance is a little unusual for a celebrity chef, but it's perfect for making dishes like crostini or bruschetta",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Samsung DA",
-      "title": "Samsung Electronics tops home appliance category in digital customer experience index for 4th consecutive year",
-      "media": "Bing News",
-      "url": "https://biz.heraldcorp.com/article/10855098",
-      "time": "14h ago",
-      "pub_ts": 1787884860,
-      "summary_kr": "Samsung Electronics announced Friday that it topped the home appliance category of the Korean Standards Association's Digital Customer Experience Inde",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "risk"
-      ]
-    },
-    {
-      "category": "Samsung DA",
-      "title": "Samsung Electronics Tops Digital Customer Experience Index in Home Appliances for Fourth Consecutive Year - finance.biggo.com",
-      "media": "finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0LU02Qk1WMFYwMDkwSlNPSWk3M181VnNEeTN3TWhDdmZsOFktMG4tMm5TUm1UcG5FdXhwRjRSTU9nUDFIWTRpYXZRUXQteGZVQ1c2VjhWR1ZoejFUbXZTRXhENkRXYk15X2k3RHh6dVpwdERfVHc?oc=5",
-      "time": "15h ago",
-      "pub_ts": 1787880900,
-      "summary_kr": "Samsung Electronics Tops Digital Customer Experience Index in Home Appliances for Fourth Consecutive Year  finance.biggo.com",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "risk"
-      ]
-    },
-    {
-      "category": "Samsung DA",
-      "title": "Samsung Electronics leads Korea digital home appliance CX for 4th year - CHOSUNBIZ - Chosunbiz",
-      "media": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yNDVpUDFJU0s3MVRXQjlFaDlhSVlXMXVPcDg0RFNzcFJjUjRrc0FodnN0dmhQdUJMUGE4ZHRwbTEtdEFRdnRWN3BRXzVrTENrWl9kWG1UUGpQVmpSSmJyYVYyMUhkZzZSVnByTjV4M2lCMnFuaUc2UWF30gGOAUFVX3lxTE1JZ1J0STBBZURhYjduVmVqOVNfOVVMSWdFMHd0bkYwUUE3cWdzeGtIOHZzdy1faTlsdm9MWHBjSWcxcEJTSDVwMzdOZTRNd2VKRmFCcDlkZVdmeGpvellRUklvY0pwUHNVcWRudFgteUFmOUlGejVmZHl4S2RmU2lHYXFzRFNjOFlSZmlka2c?oc=5",
-      "time": "15h ago",
-      "pub_ts": 1787879940,
-      "summary_kr": "Samsung Electronics leads Korea digital home appliance CX for 4th year - CHOSUNBIZ  Chosunbiz",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Competitor Analysis",
-      "title": "LG Electronics wins Korea Effie as subscription care boosts sales 34% - CHOSUNBIZ - Chosunbiz",
-      "media": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WZUJQUzhDbWJaWm1pZGxFSTFkX3g1NHFtVWYyZXNjYUw2YUNuclJhN1JDSkd2UUxWVjJPam41XzVsQWhSb0NXWHluWUhwSk9wdVNWQlhReFAtbVlRemNBVnZkeEdYRi10VTdCNkRfNnhpWVIxa29aVVFn0gGOAUFVX3lxTE9xYS0yV3ZxQmVNRWsxMHdtSUlPYlQ2aWItdEZjTE4wMjk2LWRDNFRsdmk3dk1vbGQxMmptcDJTUFVMbjBfeTNzWnotWUlaOW1nemh5ZU9KSVJMdllLSldTMVhUTDVOZTg3QXVVZUZOQW44TWZ4NHRnWjRnSFBoTmx4VDFGYTRPdlIyMXozSEE?oc=5",
-      "time": "15h ago",
-      "pub_ts": 1787879580,
-      "summary_kr": "LG Electronics wins Korea Effie as subscription care boosts sales 34% - CHOSUNBIZ  Chosunbiz",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "opp",
-        "watch"
-      ]
-    },
-    {
-      "category": "Technology Trend",
-      "title": "LG expands A-grade energy savings across home appliances - futurefive.com.au",
-      "media": "futurefive.com.au",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZURDQktzV2h6SUszY2RxV1IyeVhJUHAwdWVSeVdPdFFWa1dQcEtrWk1UN0hWSDNKTktyRXBVRGp4Tl81SldSZWRDb2pid3JVa3R4TEthbGx2TGRWcjkwWmFFYVVLWk5kR1hlUUZRbndwRjVsOVpkN1AwNVVOeGJROUU1Ql9YV2ZiUDlPdnZlTzh1QQ?oc=5",
-      "time": "17h ago",
-      "pub_ts": 1787874000,
+      "title": "Freedom Middle School debuts new cooking appliance - Williamson Herald",
+      "media": "Williamson Herald",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUEhvZHdyczY4ZE80ZWVoZXpFT0VJMmhHRExTMWtMQXV5ZVhfcmc1Z05TbnR2RDJCQ0dqb1NxZ1hheS03cEVBRkNfQVFhekN0NVZDbEdpQjFqZWFVRmtIRjJyQWMzbWFreTRKNTdJbXk3Q1N4YlBGZDVJa3hwLU1ia2gyNmw1N1JnbzZwX3lqRWFIRWRXSGlUTnJnVjNid2xQVnF4U3NVRHZIVXZVcUdoVkgwRHlvQ3JQMWw3emR2R1RhX1JfSzl1UDFpbmlrSzZQUTVTUnB1OHpuRW5nbVpiUnNydw?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1787932140,
       "summary_kr": "",
       "strategic_implications": "",
       "impact": 4,
@@ -212,44 +126,30 @@
     },
     {
       "category": "Samsung DA",
-      "title": "Samsung Electronics Ranks First in Overall Home Appliances for 4 Consecutive Years in Digital Customer Experience Index - 아시아경제",
-      "media": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DN0VWSTJhaTJGUHFoM2p2dlFjX1ZQTGg0M0JRbXRWN1ZUQkZEazhkdmlwb1FJQnZPdGdWRTlNUjFuV1Mxb1YtMnB0V2FzLThKSGNGWVF1cW5CYWhuMlJrSlhEUk4?oc=5",
-      "time": "17h ago",
-      "pub_ts": 1787872491,
-      "summary_kr": "Samsung Electronics Ranks First in Overall Home Appliances for 4 Consecutive Years in Digital Customer Experience Index  아시아경제",
+      "title": "Best Buy promises unbeatable appliance prices this Labor Day — save up to 45% on Samsung, LG, and GE - TechRadar",
+      "media": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVEVCcU9TNGJlcWI5RmNmTUpoeWlGME9tSTFPNWRjd0M1T1hKVmpmQ0ZOd1Rxb1VSVWF6UldFYXU0Vng1MkRyQUlLWGxIMFdma2lpSF85bWZrYnIyLTNkYzZmSlYwM3llT3piUzVLbzRQN2h4bk5FcDZvZE9ZUXY5YzJ6TFFFcVRsSjZXLXp0aWhlUXg5ajIzYXVNcWJ3Q0FBQ2JqZnItVVpYbEp5MXZqcHlhOUw5d1l3STRuUDNFMXBVb3l1NTB0RE9XU3AxVFVGTUFYTVdfeDdzRHNmRTU5QndvcjA2blBaX3dMYThWRzZHVnVpY3NIdVR1cFNsRnRSTVR0SWU2QXFwZE93?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1787931433,
+      "summary_kr": "Best Buy promises unbeatable appliance prices this Labor Day — save up to 45% on Samsung, LG, and GE  TechRadar",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
-        "risk"
+        "watch"
       ]
     },
     {
       "category": "Technology Trend",
-      "title": "Home Warranties and Smart Appliances: The Pricey Fix Your Plan May Not Cover - U.S. News Real Estate",
-      "media": "U.S. News Real Estate",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWEJJcG9ja2FmMmQyblZzRERRQjFIUG5NSW8zVFNyenlKa0pRamVhbjNJWFZib0x5Ym5fcjlsM2Ixb09GeGhlY0txeTNBYk5qLXIwR0VFdHAtVFpsTEo0WnZnWWdEN29UdkxMVVZMWjdtX0FGMDFrX096T09zVWtneGlwSEhfbXVXQXc?oc=5",
-      "time": "21h ago",
-      "pub_ts": 1787857643,
-      "summary_kr": "Home Warranties and Smart Appliances: The Pricey Fix Your Plan May Not Cover  U.S. News Real Estate",
+      "title": "Amazon fights rising prices with a massive Labor Day sale — save up to 60% on Apple, TVs, appliances and more - TechRadar",
+      "media": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZVhsenNBWHUtaUZMRTJCRG13eGxtclBFakpTbENwM09zX3pLNVRUSnRENTFIaTIxS1lUd3hmcFZzMHZaOW9xNE5qbnlPbWZzUGMwcWcxbENhOVY0bk54Y0l6Z0hlZmpuZFlfRHBXVmNGVjJrNmNxWHQyZlUyXzlYWURWV1ZTeFd0N1NWbkFDTjUwZDJpUFhUeTUyckJubzVMcVdZYng3aDVCeXV4RWlwY1lfTHpsQ2tuMGJyNWNHUGJESFIxdUx5eUc2NWcxbTVpcXBTOGFIc1BtSHRiaGE2U2oxbHQ1RkJaMjFPYUpfM0FvNXhPY0xvX2pPUW02VHc?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1787919079,
+      "summary_kr": "Amazon fights rising prices with a massive Labor Day sale — save up to 60% on Apple, TVs, appliances and more  TechRadar",
       "strategic_implications": "",
-      "impact": 4,
+      "impact": 3,
       "tags": [
-        "opp"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "Kohl’s expands home assortment with Martha Stewart, Bobby Flay - Retail Dive",
-      "media": "Retail Dive",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzVyTVEzb3ZoOFdoNE1KWVhXX0c5SU5UTUNaanFWSV93RXYtdlpHclZibEhYdnZUSHVuYXUyNWZNNVd2elpIanA4emN0SUtvazNDUEo4bjJYX2lybjZMUDVaS1NnSEEtRkhicE12TUZ4VlZBMEhiLU1Oend6ekhwS3lMNTV0dldiT1l4R1ZmQVhsNWhsS1NYTXgzWmM0WE12UkE?oc=5",
-      "time": "22h ago",
-      "pub_ts": 1787854918,
-      "summary_kr": "",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "opp"
+        "watch"
       ]
     }
   ]
