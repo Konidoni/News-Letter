@@ -1,0 +1,341 @@
+{
+  "date": "2026-09-01",
+  "date_display": "2026년 09월 01일",
+  "generated_at": "2026-09-01T18:40:42.602937+09:00",
+  "generated_at_display": "2026.09.01 18:40 KST",
+  "category_counts": {
+    "Market Dynamics": 9,
+    "Samsung DA": 6,
+    "Technology Trend": 4,
+    "Samsung Bespoke": 1,
+    "Competitor Analysis": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 22건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: How this under-$130 kitchen gadget helps cut food waste fast - USA Today. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 11건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 11건이 감지됩니다. 주목 기사: LG unveils their evolution of an AI home at IFA 2026 - Manila Bulletin. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: LG Electronics stock jumps after AI and robotics push gains momentum - AD HOC NEWS. 시장 전반 기사 9건, 기술 트렌드 4건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Best Buy's giant 2026 Labor Day sale is now live: Apple, Android phones, appliances $1,100 off, TVs, more - 9to5Toys",
+      "media": "9to5Toys",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUmJKWDlPeWpHWEVhMkZkQ0NuUTZNUGswSkU1a3podlFBOHRhSkdkamdxQzYteFZIdzY3ajJlNThxTk9yZEQxMHNYc2JValJrNUkzSVJLTTJHbkhQeTVxRUpBZGVqTXJxaDdJcjNLbWtiYm1WbTcybXFn?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1788249120,
+      "summary_kr": "Best Buy's giant 2026 Labor Day sale is now live: Apple, Android phones, appliances $1,100 off, TVs, more  9to5Toys",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung overtakes Chinese rival to lead Korea’s robot vacuum market - mkbn.mk.co.kr",
+      "media": "mkbn.mk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTQTdEMXJYX2Z1YmxndFRyMm9udEFocjdKZzVXWV9FSnhnWFp2Z0JWWjljTGQ5eklpcHptMXdpTnYxWW8zLVlGOEVrWVFTZXNhejhpNGVn?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1788240761,
+      "summary_kr": "Samsung overtakes Chinese rival to lead Korea’s robot vacuum market  mkbn.mk.co.kr",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "LG unveils their evolution of an AI home at IFA 2026 - Manila Bulletin",
+      "media": "Manila Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQzlTUzBvOWt6WUtPczBqSjQxdmFOSU81Rm5YT0lNTVdESzZLQVpmNy1pNktZQlp2ZjVxMG9yTWsxeUFUZ1ZtS1J2Z2x5S3ZWcGF1cHp0cjNOdm9fcGhfVS1SS2NiLWpTNDdsYmJ2eGRNVGNIN2J2b3RxSlNqWk52QklYOFVfYkhfaFhxRDQxZTd5YlBLVWJDa3BFTjc?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1788239969,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Electronics Turns Galaxy Fold8, OLED TVs Into Art at Design Miami Seoul - finance.biggo.com",
+      "media": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mOE1ZS1JyYmVIQmktZXlGVHRpOG5RSFA0djhLTVFRSmN1bDBoNHhQX21KUGMwcFNneWF4QlJsNENWcVZ4SjN1MWZYUW1SNjVucTZFV1Bub2wzVXhPOXdkakZlRkpicUlPRl9mREZMV0lsZFd5bWc?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1788228360,
+      "summary_kr": "Samsung Electronics Turns Galaxy Fold8, OLED TVs Into Art at Design Miami Seoul  finance.biggo.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung links KEPCO cashback to SmartThings, drives off-peak use in South Korea - CHOSUNBIZ - Chosunbiz",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91a01RNGRZMVB5ZkVZZndOQVYyX0hrZVRDT3RuU1FFVF9SMkVqZ2FxMHNWSTN6enhUNWVuRk5Gd1FwMGlzRmZsVGZwSl9ObDQyaFluNUkyaDlyaG4wTjhsdENKdUZQWms0bUhBZG55TGY3YkVKNGxJdW5n0gGOAUFVX3lxTE12bm5IRTc3d1g1dUhJVjd1clhuSktadGZhdnBqQTFGLXpjZ2tBT1EyaUVnRS16SVpILXB1TUhZVWhzb1JlRUt1OHZLOW1ocFU1cGFjb2NTZTVyNUN0SmdVdko2dnRKUFkwM3dsSGJsU1BuNnpKb3RhRTdpN3VNUjZ0bnVEUkdjMmE3Q1FxeHc?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1788226440,
+      "summary_kr": "Samsung links KEPCO cashback to SmartThings, drives off-peak use in South Korea - CHOSUNBIZ  Chosunbiz",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Electronics launches 'Smart Appliance Cashback' pilot with Korea Electric Power Corporation - 헤럴드경제",
+      "media": "헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GNXYyS0lUNmdzSWN4bzBYUThRLV9selZQR2Q5T2Q5Q1cxbGV3aXA3dERaTFRYc0lQYlUzSUZ5UjJtUTJ5ZWtzc2VpY2lFZnZITGVEWDg4Zw?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1788221270,
+      "summary_kr": "Samsung Electronics launches 'Smart Appliance Cashback' pilot with Korea Electric Power Corporation  헤럴드경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "LG unveils ThinQ Claw AI agent for connected home platform - ChannelLife Australia",
+      "media": "ChannelLife Australia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPejdzd1p0Sm1vVkFDUXJteDBfRnJub0tWSThnT2JVbk01SU9fSUh5b0wzb3pIb1d5aEJuWnpTY0tkak5lV00yRnJWQUc2M1ZIejhhTGNtcWhBOTRROEExNmxoc3VTSHY0MEZnRlJQczZlMjY5anJidVdmQVA0VFg0amhDRERlZGlYYjRvRFpCWkZwT1plT2c?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1788220200,
+      "summary_kr": "LG unveils ThinQ Claw AI agent for connected home platform  ChannelLife Australia",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Midea's induction rice cooker takes the guesswork out of perfectly fluffy rice - iTWire",
+      "media": "iTWire",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLThzaldBRDg3NXQ3VlFFZVlUcThpcUFXMkpZOEpESXJmUEdfMG4tdFBZZlFwY2NxcVBvU3FlNDdtdXpxLUFVYnJCLXBQZUdUOUp1Wm1Xdmp4NXc4LWI2RF9hZmxjMFNHdzRhWGlrSTFuZ1FOYzF4UmotTmxYUmhBQTVsa2Q1UWFyWHUzODdUYzcxaWlvY1hZUFAtNi1BMVF0eG9JeTlxbEVQUTN0bVBVTV9oVldiOU1C?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1788219906,
+      "summary_kr": "Midea's induction rice cooker takes the guesswork out of perfectly fluffy rice  iTWire",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Commercial Combi Ovens Market Poised for 9.5% CAGR Growth Through 2035 Amid Smart Kitchen Demand - EIN News",
+      "media": "EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZDVBQVJHNGdpNUlSUHB1MC15ZTgxUHU1SGJoakcybGxZVWNXY1R3empjel9tYkJiNy03QTBQOXd4c0F6YXVzX3pUakV6X1o4UnBrRmtsR2ZqSVZZTVhDQnRWUXlHMXBMM2JwRXE3MExtMTl5S0d4ZFN6TnlWaXlhY3ZoTDF4OUtIVHpLMktvY1FZX3ZyUGVnMlkzTGtIWUJFb1Y2X19ST2NUMkkzNjgzZElhUVgxR0lOSjRWWnNMUHlSN0NTcjBFR3R0V0p2NU1OcmJR?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1788218100,
+      "summary_kr": "Commercial Combi Ovens Market Poised for 9.5% CAGR Growth Through 2035 Amid Smart Kitchen Demand  EIN News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "ALDI's $30 Dutch Oven Looks Far More Expensive Than It Is – And It Comes in Two Beautiful Colors - Homes and Gardens",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUN5RkZ3WUNrREMwTE4yWjZscERWRTkzbFQ0NVFsc0tjY0VnRERVUGZnT1pYR1hBU3ptcjRpbFp5LWJ1NThXMVE1VjluYWxsM2xvUmI3Z0hidmE5cVF2TEZyZjB5Y0dYcTQwMjExaGlaU1d2NzVtLUQ5RElNVTJRcVpweHUyN2VhT1llTHQtVXB6dkJ1TWZYby1kRQ?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1788217500,
+      "summary_kr": "ALDI's $30 Dutch Oven Looks Far More Expensive Than It Is – And It Comes in Two Beautiful Colors  Homes and Gardens",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Struggles for Samsung and SK Hynix... Is the Department Store's \"Standalone Boom\" Coming to an End? - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IYmFYa2ZGVWszaWRfLU9yMy1wbTZnY2Z6WjJERzg0dzFvMU5xTzBXY2FmSDVUNk9YR3lSd3FrRE55YmFaZVBYVzVkVEJHdnhLLTdZaURJaTQ0QmswblItQ3VNME0?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1788214200,
+      "summary_kr": "Struggles for Samsung and SK Hynix... Is the Department Store's \"Standalone Boom\" Coming to an End?  아시아경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "I moved from New York to France, and these are the ‘buy it for life’ home products I couldn’t live without - CNN",
+      "media": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVbTJfRGd3VXU0Tm54aFdVUGQxNkhHWVBGaFRpLUFpNldHbHVodllBcXFuNGdfTkItdi1waC1pTDV0RTdFRFJEbzY0WWIzeU1sSHdQTGVMQkFBZTl6el9mQUtuZm83WXk0WWh1YmtvTEFwNkVONGRSdGtNaDZTWkE?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1788206460,
+      "summary_kr": "I moved from New York to France, and these are the ‘buy it for life’ home products I couldn’t live without  CNN",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Cooktop Market Growth Accelerates as Smart and Energy-Efficient Cooking Gains Momentum - EIN News",
+      "media": "EIN News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGRPdnhZT2lvNlB4S3RrRHltejd3MUJRMENVU3JjdWZGQUFiQkR3cE9VNjFfdEVIa3lsOWVWaVktc1NmLXdVRE41RlFpQ2VVUVY5UnhrdjFJS09YT2RLYUQ5QnFzN1ZOa0czR216cFQzODY4RFRWM015TFhQbFB1ZW5PMzRpU1d2dzVjOE8wVzJmZ1A1NlNubU5wLU9iMUQ2dm1sY0hUUnFjSUJpNWdnSjFtaF9keEJLR0V3OFpNTWJDRnEtcUtF?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1788200640,
+      "summary_kr": "Cooktop Market Growth Accelerates as Smart and Energy-Efficient Cooking Gains Momentum  EIN News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Williams Sonoma Labor Day Warehouse Sale: Save on Le Creuset, Dyson, Kitchenaid and more - nbcnews.com",
+      "media": "nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeEdqd21zWnVMNGd2YWdGMWFhRkRsMFFWWHJtN0RjYk92MXZ2dmplb2tmNFdMUWpxajlyUmtGd3VwS1lvUHJMX2FlZ2RkbEZiZ1dUTVRkbVpxSTc0SkhHdG5na3NJUjE4ME9FZ2t0dUR3b1ZseFh5RWswOXJRbFJ4SmVsN2tPZTFTUzR3eDdsc2tsYlg3RkRPSlpVZUw?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1788197156,
+      "summary_kr": "Williams Sonoma Labor Day Warehouse Sale: Save on Le Creuset, Dyson, Kitchenaid and more  nbcnews.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Haier Smart Home Co., Ltd.: Release according to Article 50 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution - TradingView",
+      "media": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNTzdJU3ZaZDhRUFV0WUdWcy1fMy1VVDVFcEdzUnVJMUc3RFNfRFBERGM5dlhEVFduQURjaGtHdnZyZUxYYWpDa1o2LVRXY0NuVmRoQXJ1dS1SaEN5WGIwT2xvR2xjSW5WWFRORXh1eUhBTVJ6X3gyQ09Ccjhua0g0Tmh1ak94aHBHc0M4STIyUHlqdUVEeGRDM3BnWlFhWFhuRWJoMWlIMzhpQ3pCeFp1emQydVZ6UGx3TVBVRGYyc01JYmtlaE43elBLRExicWhHc1AzTG5NZEtrZWcwRlpMUHhaYzBKX0tadk9teldOUUZxbkI2bDZXMGRXUENvMTFWSjBLcHRiN2ZUeC1HNkFvZW9JdEdIUTM2bWg5ZllsMTRidW8zS3ZwTXN3?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1788190343,
+      "summary_kr": "Haier Smart Home Co., Ltd.: Release according to Article 50 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribu",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "How this under-$130 kitchen gadget helps cut food waste fast - USA Today",
+      "media": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXFCTEZhZEk0S2xBUUY0eTFROEs5VjJEZjFVaHZlVkpvQXRqZTVIYlpsSWFwVzFMN2tTZThHWUZyQjhFX2JUdV9FVFBqemhtS2daZ2xwQWs0WVhVUWlIbHVYelpNM1djV2xiX0RnNkhTaVpicEVselktbFFxV0NSbDNPWmFQOGp6VkYxMmQzdG5SaXdmRkFJaGxFQ0ZBMXd3WE9ZaDFhTFVfY2pPSHFXSHluQ2lKNkhrWHY0WFF0bVI?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1788186780,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics stock jumps after AI and robotics push gains momentum - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0hpODNFTnRuWE1GRTJpUWFabkhUcDBpVGk0RUEyM3RIWHgtbnR0QlA1WEV3MGpvdTRZbWh1Zm9Xbm96QXNkUHZ6Z29JT0hHVkdGY3NyZ21TU1AzZlhweVVRVXQ3ZXFsMzhkYUJMUG5iTVVOQXd0TndoYXFvNDBDTlpHcVd4b3lsd2lxZDFxVlJRbnU1ZUJWQzlRQzU0a1M0SEhOOTZGcWtGZ0ZzWUt4UWs3bFBlVlpuQXlRUHFCNkNNdjUtY1E?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1788186494,
+      "summary_kr": "LG Electronics stock jumps after AI and robotics push gains momentum  AD HOC NEWS",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG creates virtual K-pop group to promote washer-dryer in spin on home appliance ads",
+      "media": "Bing News",
+      "url": "https://www.straitstimes.com/life/entertainment/lg-creates-virtual-k-pop-group-to-promote-washer-dryer-in-spin-on-home-appliance-ads",
+      "time": "20h ago",
+      "pub_ts": 1788183180,
+      "summary_kr": "Dol, a virtual K-pop group promoting its AI WashCombo washer-dryer with advanced features and largest capacity in South Korea. Read more at straitstim",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Expands Vietnam Chip Plant - Businesskorea",
+      "media": "Businesskorea",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JaHVCRG9ka3lQb19HSVFyYTJxSWhXeWJDZ29jMDRlUVVtOS1PdzQteFk5VUIwZENSanEyeGI5dlRldGJ3TUNrQmx3ZnZDelZ3OXNpeGJHZ0c3SmZhWTF0dnlxclYyWEZlWVM2QnBDQ2RETEQx?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1788181989,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "How to clean your washing machine — and the risk not cleaning can pose - nbcnews.com",
+      "media": "nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZE83cjY2VzRlcjltWU8xWS1QVFl6S29NYlUta0lhNVZMU05wMTg4ZkZQUEJfZ2JUb3B6U2pqWFE3dDJGTHJnVlNGT0VsQlFnYjlmdk1rXzZ6N2gzbmpYVGFkdnRxQkZwWUU2MnAwUG16YVRfNTQtMWFRRmFCci16Tzl1RHJiZw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1788179440,
+      "summary_kr": "How to clean your washing machine — and the risk not cleaning can pose  nbcnews.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "HK Electric provides smart home appliances to support safe elderly living - The Standard (HK)",
+      "media": "The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNmZ0VmdWdnJDdlJQcklaN0JJNUtMR2Q0V3hxVjROYm02REo0dVZpalVJVEVsUjdlRWQzZ0h5WFFKa1lmUk5RWEVTZFFnZGw1dDhlSGF0VVUxMWdlRVB1V0NOUHZtaGV5dFMwcVZfMnpteTBUdTlOc0VtSXZtS2VxdXFqTE9yN0ZkVmpEaDh1ay0yV3dGNXRUcDBmQlVRWHUxRGZ1d0J1bzhBMXowXzRRX3JoLTJHZDUxOWQxSVk5VFBIQQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1788173556,
+      "summary_kr": "HK Electric provides smart home appliances to support safe elderly living  The Standard (HK)",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "\"Even Without Discounts, We Can Now Beat China\"... Samsung's Pull That Reversed the Market - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wSHVWRklHaUFvdG9VTzA1MHVubGFfTmRwenhXRklxRGEyN216R2xfSDN2a2ZYTUMzMm9Eb01ZVkI2MmJJVjkzTXdDWlZRd0xZU3Bv?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1788170886,
+      "summary_kr": "\"Even Without Discounts, We Can Now Beat China\"... Samsung's Pull That Reversed the Market  매일경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
