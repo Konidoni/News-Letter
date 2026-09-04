@@ -1,0 +1,145 @@
+{
+  "date": "2026-09-04",
+  "date_display": "2026년 09월 04일",
+  "generated_at": "2026-09-04T18:13:15.551032+09:00",
+  "generated_at_display": "2026.09.04 18:13 KST",
+  "category_counts": {
+    "Market Dynamics": 1,
+    "Competitor Analysis": 4,
+    "Technology Trend": 1,
+    "Samsung Bespoke": 1,
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 8건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 4건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 1건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 1건이 감지됩니다. 주목 기사: Haier Announces Global Partnership with UEFA Champions League. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 4건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 4건 수집. 주요 동향: LG Electronics targets Europe's built-in appliance market with space-saving solutions at IFA 2026. 시장 전반 기사 1건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Colm O'Regan: The slow demise of the kitchen appliance is an all-too-familiar situation",
+      "media": "Bing News",
+      "url": "https://www.irishexaminer.com/lifestyle-columnists/arid-41906320.html",
+      "time": "13h ago",
+      "pub_ts": 1788465480,
+      "summary_kr": "Kitchen appliance failures are like bankruptcy — they happen gradually, then suddenly. Infrastructure is failing. If I don’t get a handle on this, the",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics targets Europe's built-in appliance market with space-saving solutions at IFA 2026",
+      "media": "Bing News",
+      "url": "https://biz.heraldcorp.com/article/10862463",
+      "time": "16h ago",
+      "pub_ts": 1788454800,
+      "summary_kr": "LG Electronics set up the largest booth among the roughly 60 South Korean companies at IFA 2026 — Europe's biggest consumer electronics fair, which op",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "IFA 2026: Haier reveals sports-centric global strategy",
+      "media": "Bing News",
+      "url": "https://www.applianceretailer.com.au/ifa-2026-haier-reveals-sports-centric-global-strategy/",
+      "time": "16h ago",
+      "pub_ts": 1788454800,
+      "summary_kr": "Haier’s IFA 2026 continued its trend of big announcements at IFA, with it stepping up from football team sponsorships, which it had secured with Paris",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier Announces Global Partnership with UEFA Champions League",
+      "media": "Bing News",
+      "url": "https://www.tmcnet.com/usubmit/2026/09/04/10440512.htm",
+      "time": "16h ago",
+      "pub_ts": 1788454800,
+      "summary_kr": "BERLIN, Sept. 4, 2026 /CNW/ -- Haier, the world's No.1 major home appliances brand, today announced a global partnership with UC3, under which Haier w",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "LG ELECTRONICS HIGHLIGHTS SEVEN HOME APPLIANCES AT IFA 2026",
+      "media": "Bing News",
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202609040504PR_NEWS_USPRX____CN40926-1",
+      "time": "20h ago",
+      "pub_ts": 1788440640,
+      "summary_kr": "At IFA 2026, LG Electronics (LG) is showcasing seven home appliances that reflect these evolving consumer needs. The company's booth highlights how ad",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "How Shark and Dyson vacuums compare, according to our testing",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/other/how-shark-and-dyson-vacuums-compare-according-to-our-testing/ar-AA1ZJ446",
+      "time": "21h ago",
+      "pub_ts": 1788434220,
+      "summary_kr": "These popular brands typically meet head-to-head in our tests. Here's how they stack up.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung exits IFA main floor, brings flat-design washers and 1,100Hz monitor to Berlin venue",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/technology/tech-companies/samsung-exits-ifa-main-floor-brings-flat-design-washers-and-1-100hz-monitor-to-berlin-venue/ar-AA2bvXYY",
+      "time": "22h ago",
+      "pub_ts": 1788433127,
+      "summary_kr": "Samsung IFA 2026: Samsung has left the Messe Berlin show floor for the first time in 35 years, showing its latest products at Samsung Connect in centr",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Labor Day appliance sales 2026: Lowe's, Home Depot and more",
+      "media": "Bing News",
+      "url": "https://www.aol.com/articles/labor-day-appliance-sales-2026-163047000.html",
+      "time": "23h ago",
+      "pub_ts": 1788427800,
+      "summary_kr": "Lowe's Labor Day sale is underway with deals on major appliances from brands including LG, GE, Samsung and Frigidaire, with its Labor Day event runnin",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
