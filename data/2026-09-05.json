@@ -1,0 +1,494 @@
+{
+  "date": "2026-09-05",
+  "date_display": "2026년 09월 05일",
+  "generated_at": "2026-09-05T17:43:18.674258+09:00",
+  "generated_at_display": "2026.09.05 17:43 KST",
+  "category_counts": {
+    "Technology Trend": 7,
+    "Market Dynamics": 7,
+    "Samsung Bespoke": 9,
+    "Samsung DA": 8,
+    "Competitor Analysis": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 33건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: Home Depot Drops Appliances Up to 45% Off for Labor Day—Save on LG, Samsung, and More - bobvila.com. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 15건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 15건이 감지됩니다. 주목 기사: CHiQ Wins AI Home Ecosystem Brand Award, Exploring New Smart Living Experiences Through AI Innovation - The Malaysian Reserve. 삼성 Bespoke 9건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: Sweep Up These Labor Day Weekend Dyson and Robot Vacuum Deals - PCMag. 시장 전반 기사 7건, 기술 트렌드 7건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Technology Trend",
+      "title": "CHiQ Wins AI Home Ecosystem Brand Award, Exploring New Smart Living Experiences Through AI Innovation - The Malaysian Reserve",
+      "media": "The Malaysian Reserve",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRGI1U0oxT2k4NEJqTnoyc3UyUmxSWUdMdUQwbmtlcDNJclR1ZVZQdllRWEhxbWN3RDhlZWNEWloxd2FvWDlSejdZUkZpZGx4cTRLYVBmUEtmM08zMmZQQmRuODFlbG5LeWNTVTlVbVBZdGtTNnNzNkdnekUwdGlzNzZUc1JJNlVhRVp3ck1EY25qQmtZbDlIdHV3dWtYNWg4OTRUdlE1T3FxMkRJQVhtcTMyWEtkSFJaRmpfWEozZkdUR1k1OF9ERm8xTHl6czR2YUhXZ2lWS282SFlx?oc=5",
+      "time": "Just now",
+      "pub_ts": 1788594836,
+      "summary_kr": "CHiQ Wins AI Home Ecosystem Brand Award, Exploring New Smart Living Experiences Through AI Innovation  The Malaysian Reserve",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Dual-Zone Airflow & 10-Minute No-Pre-Freeze Technology: Dreame Brings Smarter Cooking to Your Dream Kitchen at IFA 2026 - PA Media",
+      "media": "PA Media",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOR0dDR0g2ZkhvUjE0aEYxY1hPX3hzT25YNU56QnJiaU9RZEVsMS1fMkc0a2Y3Vm5KanlGa0tHUlFmaHZqdGg0c2hLSGIyNklsVjBSU2RkSm1CU0pSWDdfclBjNzd4cTRmMkNqbHJoRy1QSDVJUlFHTVdDQk9mYWpnLVNBMkVreXFJcXRHMVluM2MzWmtjRmpzRWtnLUY5c1ZKQ0hQODZMazdOdEZJamdvUjJSVGVUcUhMNFpJZzFtVkMzTFB4ekJVdmxsbzVTaUt4U3BpRFhXZVkxS2dLckx5Wm9sMHZXZXJJVkl6X0pzWE4za3dibWgzTGtNRkQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1788591757,
+      "summary_kr": "Dual-Zone Airflow & 10-Minute No-Pre-Freeze Technology: Dreame Brings Smarter Cooking to Your Dream Kitchen at IFA 2026  PA Media",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon’s Hush-Hush Outlet Is Hiding Secret Kitchen Deals — the Best Ones Start at $3 Apiece - Food & Wine",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjlOeTdBbXJrMjQxVXJQVlZ1amNzdmxWUFNlWkdua0JXNzI1MHQ1Z3E3LW5oZTUyZDNJNGhUaFJCWHNOaTJSZXdWOW95SUhTNHZ2NzVrOEFrS3FyeW9XNW5tSDRCQVZpdmJlSWlEWlNUMkp6MlBOM1g5UlZOenVoSDA2bWY?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1788585300,
+      "summary_kr": "Amazon’s Hush-Hush Outlet Is Hiding Secret Kitchen Deals — the Best Ones Start at $3 Apiece  Food & Wine",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Haier Smart Home: China's Leading Industry Enterprise Unveils Full AI Product & Solution Iteration at IFA 2026 - 36 Kr",
+      "media": "36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YTUt6SUQ3dVA2S2lEODItcmgxTDlvWFpoV2Vpanp3NVJ5M2FjTllyZUFKaDBJWjJYZVdLWlZuVnRjU3V2MGtmc2g1b2pUMkJieVBR?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1788571225,
+      "summary_kr": "Haier Smart Home: China's Leading Industry Enterprise Unveils Full AI Product & Solution Iteration at IFA 2026  36 Kr",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Electronics, LG Electronics win combined 11 awards at IFA 2026 - Korea JoongAng Daily",
+      "media": "Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObE9scGlWcUJKUEVqOFlQNmhuakhkOU9YeHpKbVdYYWF5SzVoSTUxMmpXakoybEZTS0JMNzJPaWR6MVRuVl9Gdm1UWlpYWUIxTF8zOXczeHZrczlJQ2VQUFFtNlBvb0NDSkNLTlRTUHdYNG9OTTBpdzIwNklSUk5fajVSM1BYTjVUZ2JOMW84OGx4ODRnTGdfQ3g0YzhhNXNablhHM0JTemtXcWNBa2c3SWNTTTNpUEFJWkhLZjRWQQ?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1788567988,
+      "summary_kr": "Samsung Electronics, LG Electronics win combined 11 awards at IFA 2026  Korea JoongAng Daily",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "The labor union in charge of finished products such as home appliances, which has been relatively ma.. - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jdE5PU1BCUUstOVFaRU55U2R3b3NWZVVaSzBfMHdaZjRtN2tELVJqNVRxZGViYUJURFA0cjlzYktMNVE4TjEyUEEtTUYzOWI0TUE?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1788566961,
+      "summary_kr": "The labor union in charge of finished products such as home appliances, which has been relatively ma..  매일경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "The Core of Smart Home Security: PUF, the 'National ID' Inside Appliances, and Decoy Password Technology - finance.biggo.com",
+      "media": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMZXotTjdkTU52ZHNHQVUtSXFYaGNMejVPQXNjQWNsMzZ1TFZwdVp1YXc4eFQyXzdYQXA2dl92MWk5dkJzY2FINTJKajBsc21OenZ1VXFIYXJIa3dOM0ZDU2Q4NmZ6SUpLSHJ2S2J2c3NHaUZJUHc?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1788560700,
+      "summary_kr": "The Core of Smart Home Security: PUF, the 'National ID' Inside Appliances, and Decoy Password Technology  finance.biggo.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Major appliance makers are thinking smaller, not bigger - Korea JoongAng Daily",
+      "media": "Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU1FadmdTRTFOeUJnYVF5VlZVXzl4R21FZTZZRU53dnE5bVFsMkpEU1FCWlFTWFlVenJlUEJRR3pFbDdJN3ZZbGpRcUpYNXBTRXRQbDFnYTJBUndPYnBHZ2EzQnpYMi1lalItQ3A4NWxlTjlyNFFPT19IbS10clBUaFdQelJhR3pPdWxuQlRWU0FYVnFPMmh5OVJUQ2Uyam5YY0VvbzhPUjVkMVk?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1788559310,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The $30+ Cleaning & Kitchen Gadget Deals Worth Buying for Labor Day - E! News",
+      "media": "E! News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcExNNEU4aDVXNnhQOVE0SDdZV3FpRXh6VDFNMGo4MUZpZU1aUW84cEF1aVhoVFZCOFFwVUhKZC1KUEt3TlQwUU83UDJKbVVUUWZQbHkxc1BTVkpsVDIwMDEwSjg0RGxQYVV6YmVjYzNDSnljeXVLNnNzbFkwVnNvMWNCNkxaQ21KeFBxUFRZeGhKQ2tUZG5aTXAtNmVuUGtiWTVIcHFWM09hbjhL?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1788552360,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Discover Dreame's Innovative Smart Home Appliances at IFA 2026 - AndroidGuys",
+      "media": "AndroidGuys",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk5RVTczRHp0THNIbWtSd0VwU2VRSWVUalgxOGtxR0NCbERSWWFOLWZVNDZKNE9paUpXMWo1U0pOZzBVQk0tUlotMzQteEtSVFpadVNOZmd4MDNjRURBODRBQ1RzTFFKRnZId3JvZWpERHg0NnpBcmpqTHBqQlB0YTdRQ0VnR2VFSnN4b1VPaEdsUVpCcVBzVlE2VnBHOUMxVDQxaEJNbk9zTEV3a0hMc1NING1xQnpMUVI5TUxR?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1788552210,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "LG tops IFA 2026 as best brand; Samsung nets four innovation awards - CHOSUNBIZ - Chosunbiz",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlhBcFh6bTkwUjM4ZkZ5a3F0bmVJYm5NS05PX3pWOU96TFI3c25aR1liUEhVNy1VbUdZTjNxVThlZDFQaHNPZ2xMWVJZeEttaTRDaGdYV3N1Vi1CLXpsS3BkS3gzd0J6alQtYS1yOE1tYS0tR2hoUGZKLVBUSEVTSGhzQzBaelA5NTZwU1dn0gGOAUFVX3lxTE9OWEFwWHptOTBSMzhmRnlrcXRuZUlibk1LTk9felY5T3pMUjdzblpHWWJQSFU3LVVtR1lOM3FVOGVkMVBoc09nbExZUll4S21pNENoZ1hXc3VWLUItemxLcGRLeDN3QnpqVC1hLXI4TW1hLS1HaGhQZkotUFRIRVNIaHNDMFp6UDk1NnBTV2c?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1788547440,
+      "summary_kr": "LG tops IFA 2026 as best brand; Samsung nets four innovation awards - CHOSUNBIZ  Chosunbiz",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Top Labor Day home and kitchen sales: The Home Depot, Lowe's, Williams Sonoma - Good Morning America",
+      "media": "Good Morning America",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVBRLTNQZEptaldkUXF1TlpORU1oQ3ktSmp4NFlWZEZ3bXVGOWFmd3NSTEE5aWxsMDlZWGxlVDFyckgwTEZIbWR0LXV5MnNkQ3l1UmhFdmZtV1JucnFicmFHLWljMHBvbFNtSDg5dXg1V18tWS1teWlwM0hjOVFMMWdlNjlBbEtUazd2TDJReFpseTDSAZgBQVVfeXFMUDd2UU9lRmg1Z3NTbWg2cDR1VWUxUDVxQzF4YTlnVkFLbld4OXE4dC1vcmkyX2V3VTNVdkZQcFRNbG9LamdDcG5senN2a2o2MXZqVWhvdllmeDRTSDNOZ0pmaWF4ckZhTm1zWXRDdjF2UTRJdGtjdlpja0Rxc2FYUmgzUkJhMndxVDhlTVdmWV91VWxWZWUxMDI?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1788544700,
+      "summary_kr": "Top Labor Day home and kitchen sales: The Home Depot, Lowe's, Williams Sonoma  Good Morning America",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "AI Embeds in Home Appliances, Acts Proactively - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObzd2UXNScUp0RlQwMTZNVjNZOW54Q1l3WTNkVV9lTHV2TVl6cGlmQ1NCMGhZYkxHbklnemRVeUgtaEdjZVVTUnllZ0FaOXRmLXAxaDZxUF80NWxFNEwxSGtjYUpjLUlXOGZFZTRqSXhKaWhGY3BRV28xUDlEUDdPQ05YeFVLOXpZ?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1788537229,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Wins Multiple IFA 2026 Awards For Latest Appliances - SammyGuru",
+      "media": "SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HQVVHNU9zbFI4V1NhaHgxNm9DdUZqcGVjc19IWUYtWUg0bExWY0dBWlU2bkF5Y1RWMWFzYlkyM0MtMG5sS3hRdi1fc0lVX1p4aUk1MHJXWHVmdUZveEdVclJJRXVkUVBIMmRqRTdjMHQ1eUxxS1FtcV9R?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1788535176,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Brings South Africans Closer to Every Sporting Moment with the Blue Tag Sale - Samsung Global Newsroom",
+      "media": "Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeDhHRFhSSm9lNGRqYWdQalBTY2ppVzJhMnRIZkFwWVpiSVkzb1RPTGdrSF9mY3FyM2hNUm1seFdpTGQ2eDRqTllrMlpNaDFVVFRYeVJpcU42ZHVHOHdDUDRSLTIxLWlUVTI2WnJDZWFRdVJnZFlCa3lkMnpwSkQyWVZVRHJFNnpDVEFpR2RrRE9NZGVMM0hGazN6RlhrUGpjV05jbDZrQ2tmWWt1X3Z3QjFB?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1788534827,
+      "summary_kr": "Samsung Brings South Africans Closer to Every Sporting Moment with the Blue Tag Sale  Samsung Global Newsroom",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Sweep Up These Labor Day Weekend Dyson and Robot Vacuum Deals - PCMag",
+      "media": "PCMag",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZXZMX3JzU3lzNGZlT1lINmdDQTV6cUptcVRnQS14M1BxdFdZNEw1X2VKZng5Rk9KRVQxbUMwdzN0amFHcE40WUxhQW1pVW9LZWt0RXlMd3pfcUZuX3piMlRiZkVVNF9hZHBBd0NvcmJUVWtreWx0NU5weHJKRVBMRnZBX3J5OGNMRGlTT0ZjdWtyRHp2aS1z?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1788532527,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Sweeps IFA 2026 Innovation Awards - The Tech Buzz",
+      "media": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMeFk4aUFIS25PTE45M19VWkQ4Zkk2ZGx2cWo2V2RrZmpORWhyYzVtN3o4ZlQ1UkplY3daYXB2VzB5bXZHTVE0QnNJM2oxU083VDNUcm5VMkROZy1iRW1lSHg2NlR1dGIxQ2hqNElqUEs4WC1jUjRIOHB2QlRvZXM?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1788531000,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Midea SMART MASTER at IFA 2026: From AI Agents to Embodied Intelligence",
+      "media": "Bing News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/midea-smart-master-ifa-2026-210000183.html",
+      "time": "18h ago",
+      "pub_ts": 1788530340,
+      "summary_kr": "Midea has placed SMART MASTER at the centre of its IFA 2026 showcase. Guided by this year's \"Simply ideal\" philosophy, SMART MASTER is Midea's AI-powe",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Bespoke AI Washer IFA 2026: What's Confirmed So Far - Gadget Hacks",
+      "media": "Gadget Hacks",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFJQaHBqOFhRQ1lkMmNhYlJ1NVhFdUQ4cE1FQjRWVG1TUUJ0WTBmdXhyZExTVVVuaHpydTFsRkstNTR3Ml9kQVdmSXFLei1FRTlZUFR1NHpGeWk5emdhSTZvLUIyWVJwYXdqUXZRaEFZazVpZ1EwQlRFM2YwMzAwR3BJUHo4QnZ4cDZGUm5nRXcwcFVhU0ZJazkyYw?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1788526772,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Wins Four Awards and LG Seven at Europe's Largest Appliance Exhibition IFA 2026 - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80bGNNVS1YeEZSZjBrRTdVX2Q0YzU2UUVlSTZNTDJlOVlDcjVfVHJBTkRJbnVOVXNtWGRaX0xENzVyUmFwS3A2d1FCMm8xSWhPV2N4cUlYcXpiLUc1dVpleXVfU0g?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1788526375,
+      "summary_kr": "Samsung Wins Four Awards and LG Seven at Europe's Largest Appliance Exhibition IFA 2026  아시아경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung, LG Win 11 IFA Innovation Awards in Berlin - Seoul Economic Daily",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGpRY0VLOERRSVZIaHB2aFZYcjUtbnlJTnhMT1R4eG5WY2JfYmVxeURVRVFmYzRKaE1OclRCcHFuY3EwcGNnXzlyWGY3ZC1LNXlXaWw5OEtEYzhkYm5kY2FKZ1JpYTVhTmdkZEUtZGY0MU51TE9iajFSX2NFZUlwUUlIc2REQUJMOHZldkt6R0U1S0doa0E?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1788526211,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "They’re Putting Cameras In Dishwashers Now, and It Makes More Sense Than You’d Think - CNET",
+      "media": "CNET",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVNveHZZUnFvZ0VHSW9zSFhGRXU4aXpSSkVhUWsyYmRiSXNYZGFUZmlYQTNPSDhKNlBIN2syLWRMRG83aThGRFpyZW5wZk5oSUJFS0xXb1NlNl90VGJJSEF5b0lxVUt3UlBPcmxOUEFhZngxbXlpemVwMWF2NDFZUjZ6eVBZVzJ3emtaMG0xemFLcWNmU0VzOG1lSHZocU9INE5rQ3haMnBOSDMwWlg2SnE1VVB4eFA0dFJIZ1VmN05ScHcteENSWDR3?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1788525300,
+      "summary_kr": "They’re Putting Cameras In Dishwashers Now, and It Makes More Sense Than You’d Think  CNET",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Wins Multiple Honors at IFA Innovation Awards 2026 - Samsung Global Newsroom",
+      "media": "Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmJUdjR6SkhIZXNYbzV3Vk5mdDl4Um1pYi1YUmZXdk1mN1RlMnA1R0UwVFMzM1oyajJjQ0pYS1MyTzVMLXNRellZRkxwRktNTUF4ZzFKSXBmZzJOa1ZEUHF1cDQ0bE1QbDM1WldUY0kwYXEzdXZnS3k5WmpvVnhfNXNwa2R6OVFVSktpblBneDFIODRs?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1788525000,
+      "summary_kr": "Samsung Wins Multiple Honors at IFA Innovation Awards 2026  Samsung Global Newsroom",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung's Bespoke AI WindFree Combo Pro wall-mount AC wins top innovation award at IFA 2026 - 헤럴드경제",
+      "media": "헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6R05YMWI0QXJIOERIRlhpMnRXMFBFczBXZU1pNWxZMEtTXzlicjBDcURCODN3aGF5dFFCTFM4bndpNFVBZVFlYmNvU2JhMGJNckdlN3NRUQ?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1788525000,
+      "summary_kr": "Samsung's Bespoke AI WindFree Combo Pro wall-mount AC wins top innovation award at IFA 2026  헤럴드경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Electronics Wins Four Innovation Awards at IFA 2026, Proving the Competitiveness of 'Bespoke AI Air Conditioner and Refrigerator' - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IOTJET0VkUkdtX0pWaTl3T0xsOVlsVXFuVW05VjhLaWx0aGpCdV9ReUlLYlRYQ0JUcFRGWHBaT09OV1R4QUExN2ZzdU1HcGNiLU0tdm9XQVYtRXhobjlnOHoyNW8?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1788525000,
+      "summary_kr": "Samsung Electronics Wins Four Innovation Awards at IFA 2026, Proving the Competitiveness of 'Bespoke AI Air Conditioner and Refrigerator'  아시아경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Electronics wins 4 IFA 2026 innovation awards; Bespoke AI WindFree Combo takes 2 - 디지털투데이",
+      "media": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd2tYVUNjd3RkWXQ2a3Q3dm1hUnFZajJiN05pLVhXTFFxU1I4NUFRV1NUS1k2cGpCc3hjUE93QmJ5dGcwWk5UNUZydzVDdGVGNDVyTTJWamQwQ1Q2eHkyZXRES0NSdHVvOF9ubDhPU2g5SUhxOVp0cnN6djFFQTUyUm1BVks3YkF1Qnl5WDExVVl6RmE3dXlhX01qd1pmcGltOEYwX0RJZ2tZVDZZcFJJZXdJU1BOSXJCX3FnN3prZ0VMQklDekRuTEFfblZXaDdoendLVA?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1788525000,
+      "summary_kr": "Samsung Electronics wins 4 IFA 2026 innovation awards; Bespoke AI WindFree Combo takes 2  디지털투데이",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "We Rated the Weird Tech at IFA 2026 to Find the Wackiest Products - CNET",
+      "media": "CNET",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVlWU2wzdkM5MHlRbWU3Y1Fab3lLRnYtS0k1ZS1PYkhDTHozV29aWE1obFItTkgySk5ndDhPczAtbWZHQTNndWxPdXhndjRhOWpwTFQ2MXR5UkVPckUxN1VSckY2Z0ExcHFrUXRRLVp2SmNPQ29rejBUb2hzWVhUajF1Zm0?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1788524280,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Home Depot Drops Appliances Up to 45% Off for Labor Day—Save on LG, Samsung, and More - bobvila.com",
+      "media": "bobvila.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54WC1Ec0kwUEg3dmxRWHNiZTJ0dXRlYmEzSXlFanlVbzFoS0trNW92VE5QT3lxbUF4WlBQZHVjSDhpcGJIcXJDbW1QMjgzdGIxMTRHZUVPdjVmaHpWZHAtd05PREZSalFzdE54MmdTQ1dRX3FlbEg5dlVkQlhrR1k?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1788519600,
+      "summary_kr": "Home Depot Drops Appliances Up to 45% Off for Labor Day—Save on LG, Samsung, and More  bobvila.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Unexplained bad smells in your kitchen? One overlooked appliance might be the source",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/lifestyle/other/unexplained-bad-smells-in-your-kitchen-one-overlooked-appliance-might-be-the-source/ar-AA2bBpzv",
+      "time": "21h ago",
+      "pub_ts": 1788519300,
+      "summary_kr": "If you think you've cleaned everywhere in your kitchen, you might be wrong. This often-neglected appliance is a major trap for dust and grime.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "iRobot Built a Transformer Vacuum That Deploys a Mini-Me to Clean Under Your Couch",
+      "media": "Bing News",
+      "url": "https://au.pcmag.com/robot-vacuums/119705/irobot-built-a-transformer-vacuum-that-deploys-a-mini-me-to-clean-under-your-couch",
+      "time": "22h ago",
+      "pub_ts": 1788518340,
+      "summary_kr": "At IFA, iRobot showcased a wild concept Roomba Duo vacuum that eats spaghetti, washes carpets, and launches a smaller bot to tackle tight spots.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "LG ELECTRONICS HIGHLIGHTS SEVEN HOME APPLIANCES AT IFA 2026",
+      "media": "Bing News",
+      "url": "https://tirto.id/lg-electronics-highlights-seven-home-appliances-at-ifa-2026-hCnL",
+      "time": "23h ago",
+      "pub_ts": 1788513180,
+      "summary_kr": "As routines and lifestyles evolve across Europe, consumers are reassessing how their home appliances support everyday life and fit with the reality of",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Havells Brings Multilingual Agentic AI Voice to its Connected Home Ecosystem, with ElevenLabs - Analytics Insight",
+      "media": "Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM1JlZ3Y0V1hBUVdsSWlNOE5iTS1sUGNGSDNRWGhTeWdHOVVmcTAwM0ZfNEdFUHpsaVhBRFViTnVlTUF0VkY3QkM4QmdYWjVEckg3MUVSd1RaQ0hmZUVKaTd4REJpR0NUcEQ5aGhGalhLZ041bGhGeml5cUxsZXUxZk92YjlnTlJrdVpLX3RpcHZwNTZUNGg3QS1EY0dFMzVKOXRZUjI5YWhrSjBHeFkwT2JNNTlaX2pSOFR4emZSdWJnU1pjMkFRcHFRMURpM2FLNTNzUXFn0gHjAUFVX3lxTE54UEVQX3cySEpFOTNTMUJSd0hvWS1pR2ZoeFZBQ0lyOG5OY2hRTFFId0daM0ZLR0kyU2xBbDRMX2dYMktSc0JHclB1NGkxUnlYS3gtRlZwZnM4LUt3d1lnTXZUWEJJZU5pRmZoQXAxeHU1eEp5MmlneEcyNzZqNjJneVYxQWFtbENXNWhfNVpaNE1SeWg4cVZCZFRXcFBCanBuczFXU01tOTJjRU0taXAyOGZCWC1XblVGR1FscnpqNW1EMGhmUGNqNWtxZFA5Sy1KLTlJNDM2dU9xMU4weDE5b3l3?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1788512581,
+      "summary_kr": "Havells Brings Multilingual Agentic AI Voice to its Connected Home Ecosystem, with ElevenLabs  Analytics Insight",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "“Honestly, Samsung Electronics and LG Electronics are almost too good”...The Strength Emphasized by Germany’s Top Home Appliance Maker - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnTVhDT0FOTUpRSnZmT1hmZ3lLdUJGVTZkU1dyX25GM2ZFMFQ2NVJsMlJ6NEhyZUZMcXNuemNBZm51WWJJZlFIV0lLYXcwclFRd3Aw?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1788512307,
+      "summary_kr": "“Honestly, Samsung Electronics and LG Electronics are almost too good”...The Strength Emphasized by Germany’s Top Home Appliance Maker  매일경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
