@@ -1,0 +1,427 @@
+{
+  "date": "2026-09-06",
+  "date_display": "2026년 09월 06일",
+  "generated_at": "2026-09-06T18:04:47.038306+09:00",
+  "generated_at_display": "2026.09.06 18:04 KST",
+  "category_counts": {
+    "Market Dynamics": 12,
+    "Competitor Analysis": 5,
+    "Samsung DA": 4,
+    "Technology Trend": 6,
+    "Samsung Bespoke": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 28건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 5건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 12건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 12건이 감지됩니다. 주목 기사: Electrolux stock holds steady as latest results shape investor view - AD HOC NEWS. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 5건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 5건 수집. 주요 동향: LG Electronics Targets Big Tech Orders for Humanoid Robot Actuators - 조선일보. 시장 전반 기사 12건, 기술 트렌드 6건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Who Owns Bosch And Where Are The Appliances Made? - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TUFpfaVBFVzZtQmhLRVFXUkI0N2tCLWFGY2lDOTdhemhfSXpCR2syWnVUekdTS0RIaHRoTkNrZzJLOGtzQ01jOWdRVTBhbl90RENxSEJkTmNLWVEteUozNUJ2dHpHVFJVak5KUkFTZkNQbEJHWmV4ZU1UYw?oc=5",
+      "time": "Just now",
+      "pub_ts": 1788683400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics Targets Big Tech Orders for Humanoid Robot Actuators - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa291ZUVMSGxJLXZWSjVxTjhVSG5adlBqVUxyNmRvM1lSRUUyeUhWSUtVNXM1NkRGMlotTWQyb2Z1cnB3cGVyUGFJZnJySDJTZXRkdlNuQllBSzloX2dxZFRGVy1RZm8zRm1aRkF2SzViY2hXSkRVazhUb3dVT3VhWnpDb2RBc2ho?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1788681674,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Electrolux stock holds steady as latest results shape investor view - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDBWbi1iVHNlTHR6aHRSVVl5UWo4ZXVVbzhRaEpjd1Y1WF9kcGJCV3RoRXUxQVdkcXprdWJpVEJkRDdyREYyU2VRUTg2Z1dDU1RDb25VNGxEMzl2bFBZeXZsQzgzSmRicVpuaC1HN3o5ZnNvaEY5VlNoSi1xSUc3eTFmMERkZjdoTkRheFZwNzVzSFY4OFJZcWNyMEllRHEtYXNQWF9kS0tNLWZPUVpfRFBKRENwYzlTUE1jQlZrVTZxWWh6cTRFRVh3?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1788680811,
+      "summary_kr": "Electrolux stock holds steady as latest results shape investor view  AD HOC NEWS",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics targets actuators, B2B appliances as next growth engines - theinvestor.co.kr",
+      "media": "theinvestor.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iQWZiUHVVVzhyVTJWazlSbVEyNV82clpkVHd3Ni03djRxd1hhLXM2RFozeXdYVUl5dk82S3RSUFRVVGRqOE9CeUprV09JV2JFeldjY2dzX2s5Zw?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1788676311,
+      "summary_kr": "LG Electronics targets actuators, B2B appliances as next growth engines  theinvestor.co.kr",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung appliance workers escalate bonus fight with protests, Times Square ad - The Korea Herald",
+      "media": "The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xdHJRTWFPUFpXczRURmFMNktYVlhSMXQtd2NzZmRUaFVyYnpuR09vcEphbFN4a290YnUxclEwSDQxWVF4Sl9jeVQ5YXFaNHIzS1BMSHZVVQ?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1788673981,
+      "summary_kr": "Samsung appliance workers escalate bonus fight with protests, Times Square ad  The Korea Herald",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "I Test Kitchen Gear for a Living—These Are the Life-Altering Kitchen Upgrades I Should Have Made Sooner - EatingWell",
+      "media": "EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSWVQb1pTRU1mR05TWmN1QUVIVUlLZVplVzVGVm8tS3Q4ZnVjN0t6UzNPZ1I1MU5Kc3dqaVZvX3lvSmdKcnNzR2ZBR0hlU19ob0l1WVhZeWp6SHd6Unl3TUtiUW1JQ2RMVXNZRVl6WFc3b1lBUkV3aWNDZzNqNzhVQlZBR2NHaFk?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1788670800,
+      "summary_kr": "I Test Kitchen Gear for a Living—These Are the Life-Altering Kitchen Upgrades I Should Have Made Sooner  EatingWell",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Your Daily Indian Cooking Deserve These Mixer Grinders - News18",
+      "media": "News18",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkZfem1WWFVDd1ZKRFB6UWYxMERaQlNDQ2g1M2tnRG5oQmZOZXJGQ3VYaE9QaGNjUm1GeW1uQUhLNV9mdEhLM2hxN0ZXSXBYTldMS2lCWS1ZVy1xZlJydXVaOUtuWlgyN0ZIRjlGQkt5Vkd2STRZT2tBSlRvUVRmRjdmenBPZEozbi1JTFFINjNSQXdKc2V6MjgzZEpYNEduYmZONtIBqgFBVV95cUxOb2g4TGtIanRTQTZtUU1mRVJ2Q01VRkROQTdUYW9JMXN2MEZ3UGZQRENlYzJJbUg1QkI3UTRpX2t5V1RJTFBJZ29qemxOcWJKYjNjN0UxNDhuLTVKYjFvTlY0WWZWdEgzMnNiNzZJSWI3SWh4SXQ5dU9JQTBoazZaUmZMVDRFdTN2NUxmdF9nX0x0c09rbEYzaWRZczlNRGtpMGlaMmFwdWpSQQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1788661859,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics Expands B2B Push with Robot Joint Actuators; Big Tech Order Talks Set for October - finance.biggo.com",
+      "media": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pT0tEekVnNGZVbXkybGNlaGxUM2p0WktFZkRLSVZudW92dTY3b05OX0toNEpBUFlPQTNOcTQ2X1NlQ0hqN2NkZzZkS3N3WU5CeVpxbGtVOHpsbmxfVGc0RmtTY0lQM3JhaVQyWjVndWxqeVV1SFE?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1788661500,
+      "summary_kr": "LG Electronics Expands B2B Push with Robot Joint Actuators; Big Tech Order Talks Set for October  finance.biggo.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Midea Unveils AI-Powered Smart Home Vision at IFA 2026 in Berlin",
+      "media": "Bing News",
+      "url": "https://www.analyticsinsight.net/news/midea-unveils-ai-powered-smart-home-vision-at-ifa-2026-in-berlin",
+      "time": "7h ago",
+      "pub_ts": 1788657060,
+      "summary_kr": "Midea placed its SMART MASTER AI-powered home ecosystem at the center of its IFA 2026 showcase in Berlin, presenting a vision of connected homes where",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics pursues big tech orders for robot actuators",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-xl/news/other/lg-electronics-pursues-big-tech-orders-for-robot-actuators/ar-AA2bEGQP",
+      "time": "8h ago",
+      "pub_ts": 1788655850,
+      "summary_kr": "LG Electronics has announced it is pursuing global big tech orders for actuators, core components that function as joints and muscles in humanoid robo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Samsung Unveils Three New Built-in Kitchen Appliance Lineups Designed for the Contemporary European Consumer - Samsung Global Newsroom",
+      "media": "Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44OFZvSW0xdlZLNFZ2STE1VXhfWEtkNTE5TmtGU053UDdGQUNIM1psMFBGam5ZT21tLVMtaFhpYW1Wa2hkV3hvRHY3c0ZLWVg2bGFsUzM0dnZ1N3FYdTVwazhQX1BESno1RnYxaWFVNDVDLUVF?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1788653970,
+      "summary_kr": "Samsung Unveils Three New Built-in Kitchen Appliance Lineups Designed for the Contemporary European Consumer  Samsung Global Newsroom",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung shifts IFA strategy, courts buyers in Berlin with private meetings - CHOSUNBIZ - biz.chosun.com",
+      "media": "biz.chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JX28xNkk2TG8tLXkzV09kc1FQZVpweHJ3VGRYTDEwd1hfNmdDY0RDaVFsTjU4REhtQU5uRGpFbGxwZWp4Q2I3WDhrelFjdFNoSmhMWVNtT29pYnJuS1ZqRWg4c0pyY2RmVEFpTFZIREE0ZHl2UUpJMlNn0gGOAUFVX3lxTE1rQzg1by11aXg1WU5oREdITW9UZmFjRG1yYkt6cG5pM1NodzN0UDV3Q3FMYW5ZUEVtREtZLUczTFNmbU9tN2tLRTJCSW5yNEthTVdxeVlWUWN0eWlCb3BGTFNqQmFrZlNaNTRQTXpfZ21wWXh2UDJaNVpvR05TT3I1M0hpWFMtbm5HS1kzY3c?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1788650520,
+      "summary_kr": "Samsung shifts IFA strategy, courts buyers in Berlin with private meetings - CHOSUNBIZ  biz.chosun.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "15 Kitchen Items You Should Only Buy From Walmart - FinanceBuzz",
+      "media": "FinanceBuzz",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pSmxGVHJSZzZLaUIxdG9JTno1dXJreHdsSXhVU1B2ckMzb0pKU3NZM1o2SXVyMDFyY2thTVZmdDNSYmEzMWQzUjQ2aHZFc2ZsbG9ld1lyYmdHWGM0SGlBQ2ZpZ1J4eC02ZERSRHVoUllSSTA?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1788642000,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "TCL expands home appliance lineup with smart washer-dryer solutions",
+      "media": "Bing News",
+      "url": "https://www.manilatimes.net/2026/09/06/tmt-newswire/tcl-expands-home-appliance-lineup-with-smart-washer-dryer-solutions/2419195",
+      "time": "16h ago",
+      "pub_ts": 1788627600,
+      "summary_kr": "LAUNDRY remains a regular part of Filipino household life, but the rainy season can make keeping clothes clean and dry more challenging. Beyond the we",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics eyes big-tech actuator orders, bets on robot parts as next growth engine [IFA 2026]",
+      "media": "Bing News",
+      "url": "https://biz.heraldcorp.com/article/10863815",
+      "time": "16h ago",
+      "pub_ts": 1788627600,
+      "summary_kr": "LG Electronics earlier this year launched LG AXIUM, a robot actuator brand built on six decades of motor and drive-control technology and core compone",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Ooni Halo Core Spiral Mixer Review: 5 Stars - Homes and Gardens",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUFc5ZGZRenpKOENva1hlTVZhcFBFWkdNejctTWpFSU5FV1MyYXdGek05MU5DbWducXJtZkZVNDRFX0FIR2JSMjRKbmNuSGNyYTlpcUR6dFkzX1dtMHZhV2trTUJvSFdZSlJqV1k3SWU1VF9FOGFLM0VfZ0gwcGVPLVBmbk1WZlQwYXppaUpTR3ZLeXM2dFFEdFZR?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1788624000,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Haier stock highlights AI smart home push at IFA 2026 - AD HOC NEWS",
+      "media": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWTZQUWVEM3M4ck8yaW5OVzgxSUNaSlJNazh6T3VzNnl5TnBUeDVLYkRlQnFDVTAwckVIa2YtelNHZ0RFR2RncXNqSU9BMHVreno2ZE1jdFN6VDBEMzAwbHpCUnR2eFR6M3poWDYxeDRidmUwcFgzWkJZc0NFdEtYQXNPdTZmcVZmcVoxTE9nS2s1NllwamRIZGZPcU1CN3lwT0ZHeVRkbG5CODE4OHB0V0Fn?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1788620772,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung's Labor Day appliance sale is live — $1,500 off Bespoke refrigerators, AI washers and dryers, dishwashers, and more - TechRadar",
+      "media": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYWN0dGhjaHhBTzhUN1JJV29xcG54RFJyM2ZUbzRoYWtUWVNzMF95aGgzTGJ4Z3VoUXdPRVZ3OWJBajhRczVrejl5d1NiX0daM3N3NUJMUDNhQWJTQS1mWWw2RXdZQVJ5ZFdTYmgxYVIyLVlSSEQ1elFPbGc5Y28wYWIteDRrYWtwUXpxOG90eUJNbl9KU2x3UnFxdHJDc0x3b0VRbXdZeE55QzZZWDR4WWNkQ1N2V2hLT2lMdFQxSXU0dTVUbHNCLXNqLWo1QjVza21Xb1JZVWwweFE1Z0tKa0R0MjVVVFFWSzQxR1g4djdPQQ?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1788618600,
+      "summary_kr": "Samsung's Labor Day appliance sale is live — $1,500 off Bespoke refrigerators, AI washers and dryers, dishwashers, and more  TechRadar",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "I Track Amazon Sales All Year–30 Worthy Labor Day Deals from Apple, Dyson, Levi's & Le Creuset - Good Housekeeping",
+      "media": "Good Housekeeping",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOTNNVVNfam9tdk1KcHhOVHpwVEtIb0ZzWlJGLUp5alp2MjVYd05nTjhMeWgxT0xnVTNXQ3dqcGZkbEtRWmo4bUFyR01idG1naWtWNEhaSEN0QVlWNV9xX0NVSkRwNjRDQXR5Y19yZ083WnkwMUN1a1RESXR2NUlQanAwMXl1QW84c0YzUEZsbXVwdw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1788617340,
+      "summary_kr": "I Track Amazon Sales All Year–30 Worthy Labor Day Deals from Apple, Dyson, Levi's & Le Creuset  Good Housekeeping",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Haier Showcases AI-Powered Smart Home Ecosystem at IFA 2026 - PR Newswire Canada",
+      "media": "PR Newswire Canada",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTVsTDRBM2FxNlljWjhhSmdqSEZSXzQzUWduZXpUYUJEZDYyM2dlX2pPY2ZrMktYZTBnQTFvdXo5VG91Y2ZFX21tT3Z0b3VDV1NrUXhVQ2hER0ZOMlgyTWt1SENjQk1YRVNxaDdsMm4wOGs5aFZ2OHJHdVhxV2R6bF9mN0p5djdvWkxhck0xTzlDeTlhZjFSMU5KMUxCVkJLcUhZV1Z1eGRXcENqajFzSzFn?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1788616200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The Best Way to Clean Your Dishwasher Gasket, According to Appliance Experts - marthastewart.com",
+      "media": "marthastewart.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tZFVOTnQxNG5kNFBsVXYyZkMzVXVvbXlER3pWazBrS2YtRzFQVXBxOGdkVnNxcTNmcDFnMEEtM1N1cDRHVzZqRm9sYk90Z3pqOXZoZjdNZGktbGhuZ2NUcjhkVDNTNnRRNkNCaGVDWm5CZUQ0U0ZfLQ?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1788613200,
+      "summary_kr": "The Best Way to Clean Your Dishwasher Gasket, According to Appliance Experts  marthastewart.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "[PRNewswire] Experience AI Companion in Everyday Life at IFA 2026 - Yonhap News Agency",
+      "media": "Yonhap News Agency",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tbllwcUNCcmhwN3JpMmd3U1BpQVg3VmdBVzFuX0ZOMUJQT2NVTTVBU18yNXhlVFRXekx2OGVDLS1aMjN1dGJLaEJwS05oYk5rdEp6SlFiRHBkSHJweUR5Vm9vcGpuN3h5VWVoNXp5aEphS3RUdFpyT2VUVE01ZE0?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1788611561,
+      "summary_kr": "[PRNewswire] Experience AI Companion in Everyday Life at IFA 2026  Yonhap News Agency",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "9 Kitchen Appliances Costco Only Sells At Its Business Centers - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTA3d0JkTG1tdTk4ZzMtdlhGaW9fUzZTZG5LRURZNGhSZmNYa2RiQl8yLS1jU29sN0FMSVhzWS1SRklYQmxOSzc3NXF6VDlYZnVDMmRubnJxUV90TVFJZzRueWNkWUo5Sjc5SjNmODV5YnNJdUR4ZG16a1pxY2VUbThsZ0dEckREbW1fMmVBZF82cmZDRzBsdXhxeWxWMllQbW5ndFN3?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1788610500,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Nobody shipped the AI home: Why LG vs Samsung at IFA 2026 is the wrong fight - Gadget Flow",
+      "media": "Gadget Flow",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZnpsbktyR080eVlqTTY0MElEalRCWWlCangwRU0tMjB2aVdXMXljMkxkWWlwS0R5UmMxT1NuZ1ZPU05PMVJ2ckdPTGNJZTdfc0tBQnN5dGpRYzZmSy1GNkRlSFU1bHhiSmtZOTZmaEhvUU1QTUdLN1VoNEpfSjlJSlJTRFYtODJrbDA2cXlRNm9uZVJraDNWOHhEX09UN0ptTkZHWnNub1hFVE0?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1788606824,
+      "summary_kr": "Nobody shipped the AI home: Why LG vs Samsung at IFA 2026 is the wrong fight  Gadget Flow",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "The Refrigerator Brand Customers Rated Above LG And Whirlpool - mashed.com",
+      "media": "mashed.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTC1XbUR6cGdUWTNnb0hENlRsR0t3Q2VhRkdmeWNBMTRWeTktdEZMX2YxSW1VOEdtTjJvOG14aEd0cnRhc0VzSlhMOXpkSXB6eE5zU2lUYjVDOHdCbksxNm9tQWpUbWZEREhpSURRUUxKVEd2LWprbmw2Rm5WeXk2UUg1Sm5FLTB6?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1788606180,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Give Your Cinnamon Rolls A Bakery-Quality Finish With This Kitchen Appliance — It's Not The Oven",
+      "media": "Bing News",
+      "url": "https://www.yahoo.com/lifestyle/articles/cinnamon-rolls-bakery-quality-finish-175500768.html",
+      "time": "22h ago",
+      "pub_ts": 1788605760,
+      "summary_kr": "If your cinnamon rolls feel rather dry, skip the oven and cook them in this appliance. You'll have soft, fluffy, and gooey rolls at the end.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "8 Kitchen Appliance Colors That Dominated The '70s",
+      "media": "Bing News",
+      "url": "https://www.yahoo.com/lifestyle/articles/8-kitchen-appliance-colors-dominated-171700324.html",
+      "time": "22h ago",
+      "pub_ts": 1788603360,
+      "summary_kr": "The appliances you could get in the '70s were far more colorful than the boring steel, black, and white we see today, with these colors popping the mo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "IFA 2026: Looking beyond the smart home with Haier - Euronews.com",
+      "media": "Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlVPY0E0S3JIU1BLanBpUm1ZUkh3d1lsWjhZVWVXUThCbnFPOFVvV1dLM3gzLVRWdFJhdndkNFl5WU9WZDJDU2dLa1BjeDFwNkFGd256ZXR4ZFljTXlQZTZiZ0kybjdaSDlNUDUxUEVCUmdnTGtKbXNwVlY1OWRUM0ZnMFVrTkRsUE5aanFhdFdld3JS?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1788601672,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
