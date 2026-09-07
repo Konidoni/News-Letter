@@ -1,0 +1,341 @@
+{
+  "date": "2026-09-07",
+  "date_display": "2026년 09월 07일",
+  "generated_at": "2026-09-07T18:51:29.864600+09:00",
+  "generated_at_display": "2026.09.07 18:51 KST",
+  "category_counts": {
+    "Technology Trend": 1,
+    "Market Dynamics": 15,
+    "Samsung DA": 2,
+    "Samsung Bespoke": 2,
+    "Competitor Analysis": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 3건 감지",
+      "desc": "오늘 수집된 22건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: Should You Buy a Robot Vacuum Right Now? Here's What the FCC Ban Means for You - PCMag. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: Haier Unveils AI Smart Home Ecosystem At Berlin Expo - streamlinefeed.co.ke. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: Should You Buy a Robot Vacuum Right Now? Here's What the FCC Ban Means for You - PCMag. 시장 전반 기사 15건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Technology Trend",
+      "title": "Haier Unveils AI Smart Home Ecosystem At Berlin Expo - streamlinefeed.co.ke",
+      "media": "streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHN2RnlFOU80eW9WdU5QOEFBODNNaEZuWXI3RDFwZGtRQ2FuSmhuRTRaWjk3c1ZKREJUYmY4WjUyeDR2V25wSUphNi1OYy1nbDZDR3FldkZCampNejFUUjk5Q21mSEcwcWdablBFc3lDdzZOZkVrejdNcmw2WlJqMHJvRzJTUDhoVmNzNEVOTQ?oc=5",
+      "time": "Just now",
+      "pub_ts": 1788773254,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Can the new EU rules save you hundreds on broken appliances? Take our poll - Euronews.com",
+      "media": "Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjhBbEJmYUtGUE80MTlCV28yTm55SElEWUJ5eEQ2N3NOeV9NLUVJVjhocWhpWDR1Y19La045WlRjMTFzd1ZSdnpKWlphVzBxMWNRZ0JxMWt3UzllUVhZQ2VqSzhhTzF3X1Z4SVpaWEJUSElhSXdVdEduZGhUYTRacWh1N1VTcFVwclBDMzA3andEeHBGc1ZQa1RsajRwcml0UGNlQy1DdEQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1788769226,
+      "summary_kr": "Can the new EU rules save you hundreds on broken appliances? Take our poll  Euronews.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Right to Repair Movement Grows as IFA Showcases Repairable Devices - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWxPYXhYUWxJZ2hLcVpHX210UFo2TE5DWEpqYW9XTVN4bHdJZ051czg3aFlwdlZHTVFNTWFtd0sycUF0VzFuYWpHM2d2cVZCSVdHdWYtMERhNzVMdFJZclFXQmNfMGcyT0Njd2JLWmFzNEFhcmtaVVo0cjZpOHRWWlVmNEpGWURK?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1788766296,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Grab Your Cart: Here Are 50+ CNET-Tested Labor Day Deals You Don’t Want to Miss - CNET",
+      "media": "CNET",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uaHdtR0tMUWFYYkcwNGpuQlRjdlI0MkFTdlZCclVfZlJEaVRIMWhjQUc0aUlzQjBNajBpWGRVek82bGUzTWxZby1CUzNaWUZrc1I0LTVjYVN3RHRWUzhZaHJjdzhodjYwZzhF?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1788766080,
+      "summary_kr": "Grab Your Cart: Here Are 50+ CNET-Tested Labor Day Deals You Don’t Want to Miss  CNET",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "These Amazon Labor Day Deals Are Still in Stock, but They Won’t Last Long - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPelUxOUhfNzB6N0llZDRna3VzemQ1MnhjbjZRZGVjR2RyVkJ5WjNhTHY3U1ZNRHIzSGt2cVhwQkF0d2RDNGdvSUlpQjVZYlRSVGJRd3JJd2tQNGROY1F0RjJSMmdZNU43Tk5kbnpjR0pTUkRaRzFoZ3BCS3hUdmJqc0xZcjJ6Q3c?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1788759000,
+      "summary_kr": "These Amazon Labor Day Deals Are Still in Stock, but They Won’t Last Long  Allrecipes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Tizen 10 Brings Fresh AI Experiences to Older Refrigerators and Laundry Appliances - SammyGuru",
+      "media": "SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUE8zTzBWZkc0RzE2SHpPaEVMNmpGNHRWaGdHX09OTUJzb3piRzNKYTF0ZHh3LUlxN0xFMmxYZWxFTjBuNGhJdExQS0tINjJCck9UVmpQTlpVTlQ0SnVkSk1SNXllVEhpR19wRjhIemM3WVFOQVk4VFJscENiTWRib3dhXzUzMmEtSExBaGdrQXBiREdZNDJNU1Q1VzZDREs2cGpNSGhPeDB0dEtTR2VvNEQ1dw?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1788758516,
+      "summary_kr": "Samsung Tizen 10 Brings Fresh AI Experiences to Older Refrigerators and Laundry Appliances  SammyGuru",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "ELLE HOME Launches in Germany: Star Glory to Showcase Designer Home Appliances at IFA 2026 - Basic Tutorials",
+      "media": "Basic Tutorials",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORlpOR2JhZFYyaVRhVmhLTXZOY0trbVIzdWZFcU1VVUZUb1JnVm55VExDYms1NmRnX3ItUWdRbmJ0dHZ0dWZJa0djaWFhclhDWm53N2ZHVURaS0FjdEltT21kcERPWkpmNzlkdnVOeDE0VW94MkxHQ2RqY1pxNVBJblpqTUhMeV9aLUdrTm9KQzdxXy1rRmN1QzZBRXlfbW9nZENOUzZQVUtBcWhiTm9TU1l4OVNaNzBVX3ZYaFMxQ3c?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1788750467,
+      "summary_kr": "ELLE HOME Launches in Germany: Star Glory to Showcase Designer Home Appliances at IFA 2026  Basic Tutorials",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Pushes Gemini AI to Older Smart Fridges - The Tech Buzz",
+      "media": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeW82SkxhQ0M3VzVsWTQ4R3RuM29mcDJzRVFoQ204amZnOVRLSzFSTlNLWlYzdWZYUVNwNUxVeVpXOHhRRHNCRFZhaGt6dTVXUlpVTTQ2cW5WaXNITzF2azFUQzR1cFpxcWg0cEZaaGx4cTF2R1NIYmNtUWphZWZoTDF6RVlyS0E?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1788746700,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Should You Buy a Robot Vacuum Right Now? Here's What the FCC Ban Means for You - PCMag",
+      "media": "PCMag",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVFQyQkUtbWV6MndIdnUya25CM20tZjVUdUdWcjdZTVl1UVdDTEw4Ry1iTG8zTFVXYVBKbERnY2xtNkFHWFgyempBOWFHdEtObU90Nnp6dWExWXI2WXRBWTdXd2lZWG5fXzdjS2NuTHE0ejdwUE1sNERVcjVDZjF1OEhNOTdmWThqamh2M1NERzU1dEFTNl9DNVU3T0N6c24w?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1788746403,
+      "summary_kr": "Should You Buy a Robot Vacuum Right Now? Here's What the FCC Ban Means for You  PCMag",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Midea Showcases SpaceMaster Oven with 350℃ Cooking and Instant Heating Technologies at IFA 2026 - media-outreach.com",
+      "media": "media-outreach.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNY1JxNk9DWVl0V0cwSFZmb0FnU2JSTF9xY1FzRjVWTFc3VlNRM3p6eWZfUnJaTDhLV1NFcm1OVldXSEQtVWU4aGVyemppNmc1SHVacVo3UGE2VWlfeUtEbldNMkVJWUtZQURGOUdVSFgzNkZxaEJYTnNrMU10YU4zWEwzeUxLMkszTFJOOXd6VmVHcEt3bU83cjFEbUNHTGg5aGhSc19NOVdicDVsRnI2TG9TQjNySUZfX3otMS0tLUc2RFVubF9NOGljZm9DLU1wSEVmUnRGTWJBTTd2WW1qczhaZ19wck9PU091S3o0VXh3a2dMZnI4?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1788744720,
+      "summary_kr": "Midea Showcases SpaceMaster Oven with 350℃ Cooking and Instant Heating Technologies at IFA 2026  media-outreach.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Midea goes all-in on whole-home AI with SMART MASTER at IFA 2026 - Digital Reviews Network",
+      "media": "Digital Reviews Network",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSGtSUGpjSnNVaFl5Yzl6YXFKVEYxbDlYckYyeUY0ZHBYYlhJaFlPdExpZmx5cHlWQnV1aXdHZ2dDZHV3UFVSd1BpcGx1VW9lbVgydkhpSkRaaElENkNaTWhRVGZCZVlneHFDcm1RYjFxQVlOR1NkNmhENlFvVHdjd3lSWWFUcnpYQVhUSGZUdUI?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1788742139,
+      "summary_kr": "Midea goes all-in on whole-home AI with SMART MASTER at IFA 2026  Digital Reviews Network",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Customers Keep Praising The Reliability Of This Whirlpool-Owned Appliance Brand - Mashed",
+      "media": "Mashed",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNk9rOWVVYkdFWkNhV3Zhak1sOEpLVWcyX3B6TWhTSGxueVYwRkk1WFRUdWdvSW9iME1ZcFlzai02b1JGMXNFNnVEbGp2VjV5dDc4M3N3cGJfbE1Tb21HZkNuRF9OSFFJUVdQSUtKMi1JSm44dXZqQ0F4cWY2VEpPSmpQa3R2ZEt1d3c?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1788735780,
+      "summary_kr": "Customers Keep Praising The Reliability Of This Whirlpool-Owned Appliance Brand  Mashed",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Enhances Long-Term Value of Refrigerators and Laundry Appliances With AI-Focused Software Updates - Samsung Global Newsroom",
+      "media": "Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaS1jaG1EaDJKbTJyNldqNmNkSnN1WFZqVGNXcjlVT3Z4ZHpVZmZKYXBhSXl4UmIwWjVheGsxejNRRzNSbHpvU2NCb2Q0RU0zY3Rmam9HdkZ0LXc2eXkycFZMUHM5TFd2dVZBS0NKMFJyYmNHdnlLeWZlZlJhdmFfOUFPVkhjXzNMUm5Mc29GX0M4ZHRScGtGT1lCcFRFWTFWSl9DZjRETmgtS3B1Y2xOeUEtNEx1a3I3SFVvTXhPbmZfa0ltSmQ3TF9nbjBxWnpEMzJJ?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1788735600,
+      "summary_kr": "Samsung Enhances Long-Term Value of Refrigerators and Laundry Appliances With AI-Focused Software Updates  Samsung Global Newsroom",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Fresh Plant Milk and Tofu From Scratch? Nuvell's Tabletop Kitchen Appliance Does Both: Hands-on at IFA 2026 - Yanko Design",
+      "media": "Yanko Design",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNnFKQ3NPWHVJam92dFJOS2pYc2E5SXcwNXFFalpJU3dOVjJ5cVlMYXg0dXdWbG9EMkdNUkJPbm0yUWtTNlNSUmptSDNGa0d6UG10eHB0M2VqaGRJWWNjNTVlQlRDMWJNcHZMQ2stNG1QN1VDRVk2QXFwQzMyek5vdFBfMzF1cmRoMFdtTm81UnFmeGlLbVF3SDJNZzFnQnJHTksyNjd6SHBKVUtYSVd1TlNZdHhXUGVmaS0zT3hUcEJxaDduaGFzN3BiOTM0aUJTdXlUZ1M0YkRHWGY10gHiAUFVX3lxTE1VTEt2OWdKOG0tLVpLbHA5dVhKYkhSNUJZSWlvSTNTMFNJVk9QTzZ0V2Y0VjVGa2kyQVE5OHhIenpKV2N4OUJMSlg1VkdYei1jSzhJRGZmTk1GRkJ0VUxHWVJKUFdxNWJLT1hfS0JGcHBrTE5XNWs5QTRZWTdlUlBiTVZxRHRLVHl0S0JDd0RVbDlWZHNYeDNoTTZwUmVPNkV4TlF5MF9oNEJHZDQxLTEwX1dVZ28yc0pQbWItQTNVZ3djUHAwbWpEdUdBR2cyX0l2YjU4cnlrRGd4TEdxaGRySWc?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1788730224,
+      "summary_kr": "Fresh Plant Milk and Tofu From Scratch? Nuvell's Tabletop Kitchen Appliance Does Both: Hands-on at IFA 2026  Yanko Design",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The best Walmart Labor Day sales: Epic deals on fall-ready patio furniture, vacuums, kitchen appliances, luggage and more - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeWdZcl82c0xSeXJzWEI5al9sS09VbE1vV2luS0VJZk9WbG5vUnoyTkpqemFoa214Z0JZTE1QNWQ5amplZXdHVlJfb2s4UVpYQ2VOZHROS21zUGpqNVJZa0d4cnlPMTNvekJhX2plMUUwSXdxUE5sbnV3Q0hkamI0LXAzVElsYm5EelZGYXFQSWZMTDlzaVgzNWt1TUYzNEhVei1ZMm5DUElOUkw4R1dfXy1pTFFpQ1ZUNE9TbzQ5U3VGRVhoN2JIS0RKVjFlczRiZEo0cVdGdHo1OXhYTzRNc1VVbVphTjRIMzFmenBnX1c2OU9Ca2ZnZzhLY1pTd19FcVhlcDhmeEdXMElKeHgteGsyX3BMQQ?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1788726700,
+      "summary_kr": "The best Walmart Labor Day sales: Epic deals on fall-ready patio furniture, vacuums, kitchen appliances, luggage and more  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Are Stainless Steel Appliances Going Out Of Style? Designers Weigh In On The Kitchen Trend Debate - Southern Living",
+      "media": "Southern Living",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0x0MFA3REJ4MDJUcUV0ekxsQzVkWXA3LWpYMWtJQ3l2YzZVMkl3V1FHc3RNMjUwbmJPd3h1cnYtRm02TzVYLXpOU1BGZWx6TzRPdWtFUU5qTWRCWF9FdU5oaDZHejJ2UTUzcUlPSEJLVGlLVjlaQ1Z6MklLcXR4bU1ZZGRRRmh1R0h1SmNRWWh0X3c?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1788725400,
+      "summary_kr": "Are Stainless Steel Appliances Going Out Of Style? Designers Weigh In On The Kitchen Trend Debate  Southern Living",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Costco Is Selling a Sleek Appliance From a Fan-Favorite Brand That Brings Retro Charm to Any Kitchen - parade.com",
+      "media": "parade.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTN25ma0taeXRJT3p4c0NUeXA4T25WaHdiZzR3cElhaU03UW9GcW1TVng4U09NUklXQS1xeENNdklYc0pGWkJmWV9EQUlpSlQyRmpTOG40R2pySHlDRC1wZUM4dmFXOFFqN3RxZUlEOEZvU1paaGtGeEkzQzg?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1788725282,
+      "summary_kr": "Costco Is Selling a Sleek Appliance From a Fan-Favorite Brand That Brings Retro Charm to Any Kitchen  parade.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier India revenue crosses $1 billion despite sluggish market - The Economic Times",
+      "media": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWWNzNk4xNFg1RGJGak9zWjJkc0tkcUVybTdzTG80YXgzRW5fdGJYVU5wTjRmY3U4SFpkckxWNFZhWnFaWk5pUmw1NmFXaWlKNlVqT09CMm43OGYxRDViV2lvUEJyN1lpZzNseGxUMUhxeW8wSVV2OGtZTHM4X09OOXpoZXc5ZUdLYjlHcmhkMDQ5d0ZrWWpFdVM0eFllV01VS1FYTXQ2Rm9sU0hJMFZmVGNFT0p0R0pjRHcxZndXY0pjLUROWHRpN3pITnppSmxwSXYyaVR5LTV2amEzNjBrTG8tSdIB4wFBVV95cUxNWWNzNk4xNFg1RGJGak9zWjJkc0tkcUVybTdzTG80YXgzRW5fdGJYVU5wTjRmY3U4SFpkckxWNFZhWnFaWk5pUmw1NmFXaWlKNlVqT09CMm43OGYxRDViV2lvUEJyN1lpZzNseGxUMUhxeW8wSVV2OGtZTHM4X09OOXpoZXc5ZUdLYjlHcmhkMDQ5d0ZrWWpFdVM0eFllV01VS1FYTXQ2Rm9sU0hJMFZmVGNFT0p0R0pjRHcxZndXY0pjLUROWHRpN3pITnppSmxwSXYyaVR5LTV2amEzNjBrTG8tSQ?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1788721020,
+      "summary_kr": "Haier India revenue crosses $1 billion despite sluggish market  The Economic Times",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The 2026 Luxury Kitchen Cabinet Benchmark: What Defines Truly High-End Cabinetry?",
+      "media": "Bing News",
+      "url": "https://www.manilatimes.net/2026/09/07/tmt-newswire/plentisoft/the-2026-luxury-kitchen-cabinet-benchmark-what-defines-truly-high-end-cabinetry/2419601",
+      "time": "16h ago",
+      "pub_ts": 1788714000,
+      "summary_kr": "Truly high-end kitchen cabinetry is not defined by price or appearance alone. In 2026, the stronger benchmark is a complete system: clearly specified",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "KitchenAid Has Dropped Up to 25% Off Bestselling Stand Mixers and More This Labor Day Weekend - CNET",
+      "media": "CNET",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0weDZEQnZHa2t3aU1MazBtc2oteTRlSzd4cWJfM1VyWXk1SFhoMFBUR2RSbHEwck9RWnljcnBaVGZzWW9UUS05VVBjRVlsMk9RWXhVLUxOMGN3akxCbUJ1M3JITFZ3dw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1788708786,
+      "summary_kr": "KitchenAid Has Dropped Up to 25% Off Bestselling Stand Mixers and More This Labor Day Weekend  CNET",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG’s Seven IFA 2026 Appliances Target Real Home Frustrations | LG IFA 2026 - The Gadgeteer",
+      "media": "The Gadgeteer",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOEJGZTdodmFMUjc3NUdKYjlOWDduWVVYaS1wNXZvcVcyXzBaQWR0LWotcm02RVlmU2Jjdm5KN3gxX0lBR0pRcVM1bU5BYXZKQk1IcUpndmFUVlQ3d3poNUVpb09KTmtIcmtyamxZbFN2OEtUbk4ybjJrSU45U3FzdEk1X0Y?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1788699648,
+      "summary_kr": "LG’s Seven IFA 2026 Appliances Target Real Home Frustrations | LG IFA 2026  The Gadgeteer",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The best Labor Day deals on home essentials, bedding, cookware and more fall-ready necessities up to 70% off - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdmJqQ3djQjFNSTQxeHR0TE5sREd1bGRrSjc2UFl3aERneGM2aDU0UkdnN3pmcHI0aVE2Z3R5YTBhNlhZREdfSkFOa3BaLXU1VzYxWmU3ZTlqajRxUnZzOVJSUjBWQldqSTNxNUxEbXRZRUlYUE1IOWdMbHV0OEZGVi1SVlJQdWdCWGxSTEtCX1MxN3I0UFVrdEI3akstQTl5eUF3RU1pOU51Ri1XRFp6VzdhSVppOUZkb0hSVG9WZElNTjRhTFFhTTlvNnV2TGQ3TWEyTzAwVUlROVhfUnM2QXVkcUtpSmNhcVJlb3dWNHNMR1FFNHgycnNBcDRPTG1VLS1zOHp3?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1788698257,
+      "summary_kr": "The best Labor Day deals on home essentials, bedding, cookware and more fall-ready necessities up to 70% off  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
