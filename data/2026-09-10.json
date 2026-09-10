@@ -1,0 +1,343 @@
+{
+  "date": "2026-09-10",
+  "date_display": "2026년 09월 10일",
+  "generated_at": "2026-09-10T18:17:57.084343+09:00",
+  "generated_at_display": "2026.09.10 18:17 KST",
+  "category_counts": {
+    "Market Dynamics": 13,
+    "Competitor Analysis": 6,
+    "Samsung Bespoke": 1,
+    "Technology Trend": 1,
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 22건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 6건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 9건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 9건이 감지됩니다. 주목 기사: Krups GVX231 Expert Burr Coffee Grinder - 17 Grind Settings And 12 Cup Capacity - ad-hoc-news.de. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 6건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 6건 수집. 주요 동향: ZAWYA: Haier Egypt to open refrigerator, freezer plant in November - TradingView. 시장 전반 기사 13건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "I got a first look at Ooni’s Halo Core spiral mixer: Three things I love and one thing I don’t - tomsguide.com",
+      "media": "tomsguide.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRm9ERjV1b3lIeHJXS0xEM0VWeXh4ajlaZDl6SGJMZGhBTGxCbWdYaTFRV3h2a3hvbG8ySndhdVFQc3N3cFZDQV80T242eWFfaC1ocWtwdHRCVjlvajJpYTNKV1lyQlBaYjBhNTRuZF9FNUkyVV9xZllSUi1kWlJoNjJvOHpONGdFczZLOEprYm9wcGxwcVNzT05SUHpFdzU4T2lmRHBXUVZMeExKWVE5ZFZ3ZGtHTThXVlBoWGowR0VDSmttSzRQM3pLR0lXVTNyQjBqZQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1789027200,
+      "summary_kr": "I got a first look at Ooni’s Halo Core spiral mixer: Three things I love and one thing I don’t  tomsguide.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Krups GVX231 Expert Burr Coffee Grinder - 17 Grind Settings And 12 Cup Capacity - ad-hoc-news.de",
+      "media": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHRRaVg3OG92NnNkaHJkcXNvZUtBNHVlcEJVMDRCNEV0THlIb044UGxOTXRLaVVaNV9NanF0Uzlqb21MWHo1ME9hcmNYTGljaXY1SXYwOFBONy1qSzluNm45RnVRaGEwd0FIZ0ZfN2QxaHRGd0F1Z3BoRTdySGlPSmVyaHFQQUN0cGhSb1l2SU9VRGVNMUJFVXJfSmUxcFFzeVc2UmVSYVBtM1BUUG40VHpnekVNTkFneDdjV2FlQWdxUQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1789024841,
+      "summary_kr": "Krups GVX231 Expert Burr Coffee Grinder - 17 Grind Settings And 12 Cup Capacity  ad-hoc-news.de",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "ZAWYA: Haier Egypt to open refrigerator, freezer plant in November - TradingView",
+      "media": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2xtNTJBTjBUU2xSWGVWZS1GRjhYaGIwVGZrN2ZScTdQV2R6LUwwTzBTVE1tSjVDanVfSl9TR2wtSm5BOHozNHVhcDhHTWhoV3k5a0x1WFRBZ1RMNHhkWVVMaVpRNXd3c2g2bjJrR1dkVDA4ZS1idVhIR3dOZU1VMXVTYXkxUjljRlprSUpmM1JzcUc0TUV4aHlMc2pPd1VHRUxhdjhoRlVSb0xRa0c5TGludUM0MEtBdm5OYmZNOWhrVkNtQWdUdFFYVzdtZFVMa3NUYS1Taw?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1789018620,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "MasterChef India fame Jyoti Vishnani reveals how to build an Indian kitchen under ₹10,000 | Hindustan Times - hindustantimes.com",
+      "media": "hindustantimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZ2t6SEtNNERKb2JTOGxJaHFiQ2I4ejk1OExaYnZUS0hNM1E2YVVRWGJmZHQtU1lmeFFSNkFYX3hpTC1yN3JIckRCRkkxY3dMdmswUDJUMHlIdUxQeUZ1M1MtSnJKcW1SWlBhZW56SUR2aVdKeUpJTlo0NWN6Q3drMHRQTzBDRUYwTzdkNlZGdXA2SEFTMDF4MGZYLXlscU5Penk2NWNrZS1semc2ZEg0Z2dOVWJDWXNwazMtRHpVZmxhMUVSUTFZT2c0N1RSd1VYVVU3ejlQeXJzZDFvRHUxOXBsaXMtZVNtUURPZEZlLUpBWU3SAfgBQVVfeXFMTnpkdWpKYzBKMTJwek1KcXZWS3dGNmpHb3ZwMXdJZVVsWXA3SUdaWVd1aWdTWGw3MUNOV2phWXF0c1RtcGt3X0pob2ZWeTZkMndqY2RmaWR0eWRyYXBicFZ5NXctY0k4RVBhTTVMZ0NGb0JpQ3pFLTQzVXdQTFE1Rks5VnlFRFpibEtCRnZIVXNJZnBGUTJfUW9pRVh6b0haZnVZc1A0NWlKcTY5UDRWcG1wMHFaaWhVelJvNjk3aDZ1SEFzNE4wZ05GZ0x3d2s3TjhwR2JvaVNfS1hVNExiM29NeVJMMzREc3NtaW15OWRiYS01UEYxaUU?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1789014637,
+      "summary_kr": "MasterChef India fame Jyoti Vishnani reveals how to build an Indian kitchen under ₹10,000 | Hindustan Times  hindustantimes.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Refresh your home routine and wellbeing this spring",
+      "media": "Bing News",
+      "url": "https://www.citizen.co.za/benoni-city-times/news-headlines/2026/09/10/refresh-your-home-routine-and-wellbeing-this-spring/",
+      "time": "7h ago",
+      "pub_ts": 1789004520,
+      "summary_kr": "Samsung’s Blue Tag sale offers an opportunity to begin that next chapter with technology designed to make everyday living simpler, smarter and more en",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "[Report] Selling Experience, Not Just Products: LG's Strategy to Capture the European Premium Appliance Market - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmWDJFSXVCbU9nODFqbFRSWkttUUtVR1RMTjZ1cEcwaDVyOHRiZWVZS1F3a2dLcnBrN00tLVhUVjNqdFYzZWk5ZTBHdXVYZngzUDV4dFQ1Xy1IdWQ5ZFJoeFZ3Vmo?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1789002000,
+      "summary_kr": "[Report] Selling Experience, Not Just Products: LG's Strategy to Capture the European Premium Appliance Market  아시아경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics turns European store into a full-size home, and sales follow - 헤럴드경제",
+      "media": "헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Sd25FeVhob1hzanFVVGpVVG5BSldnZklMZ0R4YWdPbjlMaEYwTzNNUHNEZ29Rek12X3doY1lRekJ0cXpURUVCZ1Azc0NWeFp4V0F4MndPQQ?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1789002000,
+      "summary_kr": "LG Electronics turns European store into a full-size home, and sales follow  헤럴드경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "IFA 2026 New Hard Tech Trends: Everything You Need to Know – 10 Specific Questions Beyond Basic AI Implementation - 36 Kr",
+      "media": "36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BbEY1cjkzbFhHd3lSMzNVYlpqdlNDdVRaV1hxVVVpMHpIcFZJelVmOThUQmc1N1pIdmlKazVPSW84dGFTLWhjeU16MEdOT1g4SVRr?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1789001438,
+      "summary_kr": "IFA 2026 New Hard Tech Trends: Everything You Need to Know – 10 Specific Questions Beyond Basic AI Implementation  36 Kr",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Metropolitan Appliance to Make Eastside Debut - 425magazine.com",
+      "media": "425magazine.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRjd6ckx1b2R0d2d0SXJVOUx0WDFyMWxCZE82Y1V1RmV4UE9LUWctVTB2LTM4Y0kyVmJyTDZNNnJFY0tYVnF5b2RtWkMzVkNaV0RxUFI3bzRqbFpZd3RRY1dJSE41dDluWkZER3B0ejBjbWp6WWRhSDRmMmFtaTlWWFNORnpibnRBNEE1c3JYeGxXU2ZrRWdRTHpUSjg0elR6QzV0S25UeE82YTNUdVZTaC04WFo3V18wVDdsbWN3?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1788995640,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Metropolitan Appliance to Make Eastside Debut - MyNorthwest.com",
+      "media": "MyNorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnhJeGZNbW1nMjRXZlF5ZXI0NERQMGp1VWNGeUk1elJ3MVNBbi11aFVMWmxZc2ozeHV6YnVidW5JOGNodXJ5aGVQWHVsaWRkZGJUVTkxSk5NYk8zSmZrX05wcTFHNTh1NHNwa2loWmdOSnNBYnlVVGhyajl5NGdobmh5T3BsNENuMnVaVUpaZGs?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1788995640,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics expands European space solutions beyond appliances",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-xl/news/other/lg-electronics-expands-european-space-solutions-beyond-appliances/ar-AA2bVo72",
+      "time": "11h ago",
+      "pub_ts": 1788991727,
+      "summary_kr": "On September 7 (local time), at the electronics store “MediaMarkt Tech Village” in Rotterdam, the Netherlands, LG Electronics’ approximately 73㎡ (22-p",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "5 Multitasking Kitchen Items From QVC That Will Save You Time, Space, and Money - Homes and Gardens",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObERVRE1wcld3bmcwc1h0WmgxQ0x4ekJ1R0xmTFVDSzJrMFlBT0YtRUpSMFZNbjVkbmxpSVZUM2puZTM2TW54S0tXbDdaa29GSVY2ZC1hTzBrQkdLYi00ay1sQ2xoR216QlpVMUItNmRvdmN0Z0NZX1gyalRGRU5UcWtkLVd6WkZ5TmNGb0FtQW1weGVtZFpNTHhNV0I2a2NIMElwaXFB?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1788987986,
+      "summary_kr": "5 Multitasking Kitchen Items From QVC That Will Save You Time, Space, and Money  Homes and Gardens",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "These Savings of Up to $1,212 on Vacuums From Ecovacs, Dyson, iRobot and More Will Blow You Away - CNET",
+      "media": "CNET",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZGxZT2JiNEZTLTJDbmF2NHNZaUtpSTY2Tmczd3BuUWtQZXhtblVrMG5jVDlCNURiYUV2bEZTVFBFNEZTZ2xEVDZIV1FSMGxYM1JQYkN0X09WZzFYVTJ1eVlsd2xsM0U?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1788976680,
+      "summary_kr": "These Savings of Up to $1,212 on Vacuums From Ecovacs, Dyson, iRobot and More Will Blow You Away  CNET",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "GE Appliances named one of Fast Company’s Best Workplaces for Innovators - The Lane Report",
+      "media": "The Lane Report",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak15REZQaGNRTjZCU2RrazFEZ19LVUJDS2FkWWMwcTFTTDNTSDhfNkFzUlpaRl9hTndxZFlQYzJndUhBVUJiLWZvS1E4Mkd1SlVpRnpuRnhxVTg0c3FNajFwYWs5Zm1SMlN1WEhWTjFZdDFXeEY5UjBtWi1UbzhzY1NJYXJyOHV0X3NMQ2RBd3JwT3RkYzhuRlhiZWpORUw2c3d0cm5sWG5YaHB5d2YwLTFXdk0?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1788973949,
+      "summary_kr": "GE Appliances named one of Fast Company’s Best Workplaces for Innovators  The Lane Report",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "MacKenzie-Childs Expands Its Kitchen Line With Three New Appliances - forbes.com",
+      "media": "forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaTFYS21VdjM5b1plVXVFTUFBX0kxWjM4cEpTcFM3eFlETlBMMzJpQllRR3N6MnEtRWtoY2JHQXpaMXZXNGh6OEItd0k0RkJaM3lPcF9mb2hxQllYb3pCdm9nMDFPTjBiTWFwUm9ZdzNhNWtBbmtTaFhWWGRROERrRW11dV9jdW9oOThnVW1IbUdkZkJ4VFBBYkVDT243WG9aSW5GYVAybVQ4SEk?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1788973856,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "GE Appliances Named to ‘2026 Best Workplace for Innovators’ - RVBusiness",
+      "media": "RVBusiness",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPam5iTE1YaWQwZzU1VzJpY1dNZ3FzN3R5WXlyczFYQ0lvZWVrZFp1UW82cWUzdVI2S3UxOHdCVlp2ZEhtV0JpczcyNjdRSVJYS2JjTmhweUpFcEdZZXRPOHFZRGtYSWl0V1h0RUVKbm44aDBocWJ3QWxhaVlXYW5xWE9aNEdLVnpNME80S0wwdEJYUGhnVXV2WnRiRlBtcEc5VlFzUFVGWmVibHpsTnZZZnpjTlNzcFE1OHRHSXo3MW5oUGZLcTR1aFJHbFNlT2xoTDZTUHNPTzQ3aTZSSzM2a1hFZmt3eHItV2NJVlZIUTJoZWVuT0xlTFFOemVFX0I4MTR2OFFxXy1VU2lQOUdB?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1788967475,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Curtis Lands Kenmore Appliance License for North America - HomePage News",
+      "media": "HomePage News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamd0cHlxWEExS2lxQUNvcTdvLUNBNGdBOHhpSEZNVGx0bkFzTzRCcGJqZkFnaHQtb3A3Q002a1plNmw1YklCb3RiZGZMUUhwNFh3S3Z5bGJoOThhMGxDQ3Zhc3hWekpVdU5Nb3B1bFhFM1VKUG4wY09ka1JOZ1JhQ2hYUjRLRVptakpkTXlkSmNUei04TzU5TnVuZy0xMEppZ0l3?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1788966992,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sharp Takes the Court as Official Kitchen Appliance Sponsor of Select Carvana PPA Tour Events - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVmFoVWRnNjIzQkhERXFSa1p1QlRMZ2Q4ODVteURjSWhqR2VGR1k2b2tvUEFWMVpqNUVta3U5bU9ZanJsaFI5ZE9QT0ozX3VTWmFQRGdYMWc3WGhzRHVjaGw4NjdIeHZZdUpMMGdaS3pjS0NEQmxQNEl6MFR4TzhuS0xSUUVkZjk3NkVnekw4RlR1YTdGTFlqU28xT0F6TWNySHlCZ0NnZzV5ZGpveWlxcU9qekI0RDBPUzFqUkVQcW8xYW5BSXFjX05DMFZ5Uk1KNGsydkpXb3FURkU0RUQzUFdmcw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1788965880,
+      "summary_kr": "Sharp Takes the Court as Official Kitchen Appliance Sponsor of Select Carvana PPA Tour Events  PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics unveils new appliances at IFA 2026 - UnGeek",
+      "media": "UnGeek",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGRTeXJaeXFWUkh3ZFNVemxUV0tkczRsVmRDc1ZmV3ZVVldUSjJCSmxheU8weEpLOEZIVElZa184YWdBaUtyTGlQZDJfdTBxbzhlUTlJUEpDSHcySGo4SlVpQ2c2OXRjbGlkeUpkcVBRczFXbGlOcmlObHFydnA5RDNBUG1WMUU?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1788958266,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "4 features making your kitchen look dated in 2026, according to design pros - Ideal Home",
+      "media": "Ideal Home",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFF2TFFiTXg1ME1rQ2RuaUlvN3ZxcjdCZ0p5MVNxOE81YVh3RHdJa3pfUkVVUzNlWVpHNmlRUlYtQ21ycjgtUDhQNVE3dk1fMV9LaUF3Wk1YcmhncWxJRnN0cDVTR3hWVkFYcG83QTRQQTBKeTcycTdVdDlRWFRJajhhNlczLUs3YUNsZXFBQXdNdHZMYTk1cw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1788954000,
+      "summary_kr": "4 features making your kitchen look dated in 2026, according to design pros  Ideal Home",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Michelle Vito gets into the home mood at Haier x Abenson’s ‘Home of Possibilities’ launch - LionhearTV",
+      "media": "LionhearTV",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14YTdLcF9ZcEJ1TzNEdW1yaGJTM2s0ZXhUOFY0eEhNWndhWTByS0J3RkNpTWFLdjY4X1JBTkpJNDZfeTB1YkNONGg3Z0JQWmtGSWs3YnROd2RpVlIwaXRYbUZuVnJyWVVKMHNPSngzbWg?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1788953092,
+      "summary_kr": "Michelle Vito gets into the home mood at Haier x Abenson’s ‘Home of Possibilities’ launch  LionhearTV",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Showcases New Washers with Flat Design at IFA 2026 - Samsung Global Newsroom",
+      "media": "Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUJBVVlWeGlVMnhMem9CTENYamVMc29wZS1SQnNBX0VFamFGYWExam1LTk5nMGlCSUstOXB6T3FZZ005QmdBT19FTWN5MzlfN0sxVDJ6SFpiNFBmc2pxWDRVLWNUNnE3X0FLakJHbzZ2anJYZ282QUpZM2NHNmFSaFU3SHIxS3kyQnhEandYaw?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1788948019,
+      "summary_kr": "Samsung Showcases New Washers with Flat Design at IFA 2026  Samsung Global Newsroom",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
