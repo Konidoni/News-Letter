@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-12",
+  "date_display": "2026년 09월 12일",
+  "generated_at": "2026-09-12T17:56:56.426640+09:00",
+  "generated_at_display": "2026.09.12 17:56 KST",
+  "category_counts": {
+    "Market Dynamics": 10,
+    "Technology Trend": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 11건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: MacKenzie-Childs Just Dropped New Appliances in Its Iconic Courtly Check—and We Want Them All - Taste of Home. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 6건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: Tale Of Nigerian kitchen evolution - The Guardian Nigeria News. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 10건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Tale Of Nigerian kitchen evolution - The Guardian Nigeria News",
+      "media": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5Q0RIMTgwNlZzS1JQcDJka2VQVXM4QUdfLU1uMUNDSGNDc2kzRmVMXzZoemplWXZsYzdlb1dLOXRPcGo4c1dER0RuMTRYV0Zsa0NXOUpDWVV2U0RBYkxJUGU4Y0dhRU5DSEg1SA?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1789182858,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The Curator: 8 viral kitchen appliances that make weeknight meals easier - National - Global News",
+      "media": "Global News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLU1DQ1dFVXJVZ0RabzBvS0lRMEVRSUhuNlV0aXZmUlZLbkJGaUVTMTQxblVvTFVTMlliN1QxYk5VSUt0V1JhdmgyYUQzVmdwUXBKVk9UWnV4bUt4MVd0UlBQdDBBRHE4T1pEdEFVTXBvQktwY0lXUVpnZjBqaVhoR1hqbWhrc1BCSHRmTi1Hd0RDUlFQRmIwc3ZjSjRpcGNESjZKTHln?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1789167626,
+      "summary_kr": "The Curator: 8 viral kitchen appliances that make weeknight meals easier - National  Global News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Midea’s SpaceMaster oven brings pizzeria heat into the kitchen - Techlicious",
+      "media": "Techlicious",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUZHSzQyOXg1SDVMU3NHXy0wWWpzT2U2QWVZVjJJbHVQV2p0QThQNjM3WDFsbHEyN1VBakp2UHUtWWpPaFd4Sjhnak1XUWw5UEhid0ltN1lNV1RtN2Flbm94cXQ0a0F3d3kxa3ZLUGU1d1R3V0NTSUk0UzVHSDJCRUVvSE9UaHZXckw5d1lGT0hBVFBFVjYwSENB?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1789156483,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "You can still shop these robot vacuums — and they’re up to $450 off - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xN041QVcxdmx6TFMxOE1PWnAtalluR21HdkZuZVdrR09IMkRENkh5SHBlWGt2SXktZk40clpJVWJpM19uZ0pVU1VTem5LMm1yYnNLcUUtVXJFd1dyN0F1SEFEdHpqbm9DUVlyVE5wWUNSWm52Wk5KS0UtQjk5VXc?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1789155420,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "MacKenzie-Childs Just Dropped New Appliances in Its Iconic Courtly Check—and We Want Them All - Taste of Home",
+      "media": "Taste of Home",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZk83d3VzUEt6MlpjYmpIUURwMHY2U0dpSmg3cDNCRFBKT0U0bkdkV0Ffa0hXZHFhaWE5SUFkZHFTQUExTHFEX0hZMURSVkpaRV9KSWtPVVBFWi1zeHZFU3RlWWpzV2lFMV9lWWlLcEFObDU1dG8yYVdZYVVFdjB6T3RsTFg?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1789153515,
+      "summary_kr": "MacKenzie-Childs Just Dropped New Appliances in Its Iconic Courtly Check—and We Want Them All  Taste of Home",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Curtis Lands Kenmore Appliance License - License Global",
+      "media": "License Global",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS1pZSG81MjE5WlJsTktCWjNPMUNnd094VkR0aHdjOWZJcU40bDFHdEo0QUlxZGRCeDFUNXQ4MUFqV2R1RU1Db2tDWllNN3ZhSGVWTU1TUFU5bkhhLVVsX3Y1Q1AwYlphV3lRdG1HVDM3MWpqeTdKcFNqSEZETFZ1ZFUzb09HQjc4N2wtSmRnaG80TnA5SU5QZ2Q5S0lNLTYtUlYwMmhGRXZ6X25nbl9YaWpWNzFZMGtyYVFyNEg1YWJBb0ZRTmZCZ0JPVlcwb0luajV2MTEwRHdhWGxxSXc?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1789153385,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "MacKenzie-Childs Just Released 3 Beautiful Appliances - HGTV",
+      "media": "HGTV",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMl90MmZWSEFDME1HQ3YwV0V0b19tSFlJZkRsZnd0Z3RMbnVua3BianhWWDExbnRYTVN3dVdIWGdfVlVoMUlxMnAtVEVJS3UxcUFrN19uZkNmb0ZDUFhIdE0zWkZ5Q3VERGhnZWlzLVM3WHhoM1otMmhqczc1SzVJSzNtQnFyc1F1cW9sUGZvTnZUQ2pfOFE?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1789142969,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "ASKO at IFA 2026: Precision Matters - markets.businessinsider.com",
+      "media": "markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZjF6Y25zUDVDVVNVTFo3bWJiNmJEeHFZS25MdWw0SHl0eUtIaE1GNkIxX2QzQ0w0WndubkdaanN2aDh6bjhON3hiSjJTOFNxTjZ4Z1RtbjZGTDh6TExUNnJGNVo5azA4Zzc1WVZLM2VRWFpnd2M4akZ3TVptOERqMHdSdC1GbVllTXdjRm8xUjhERUNYWlV5Qg?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1789132226,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Haier Smart Home Co.,Ltd.: Release according to Article 50 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution - TradingView",
+      "media": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOSUY5dTQ1bThxX3pCdWRfMWt2M19sQmY0NkdUUFB4aUFzV2hlaU9aVFZMTUpYX2o0OFcwaW1ERlRXWVF3OWd1TkcyUVFfQkc0enlhMmZRRTU0akRQVVNvc3UtT3BzNzh2enFhUFpFTmg4WkVrVGRheTIwNmJTYnIzRUlLX0Faai1mODZlUVJDUzFFVHJLanc1U3RWY2ZrRkJjX1JXZWUwZUc3Ymg4SXBQZGR5SkFKbkJNWVV5WlRCMHBDd2FYaXRkaGhvRjlmWFlHclhqZDJnTG5vUDdlUlRINmltd0RocXU2cU14ZFBBZE8yTHBRMEo0OEFVMFZTZlBBbkdKbkloM1ltUUdiWEgtUWVTY2tVaXEwdkxBSklyRTBfRGJmMlhVZURn?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1789128511,
+      "summary_kr": "Haier Smart Home Co.,Ltd.: Release according to Article 50 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribut",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "ASKO at IFA 2026: Precision Matters - Yahoo Finance UK",
+      "media": "Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZS03cFd5MURkTk9jaEdrVGVjZjl3cXVqNVdGRWI3elJtQmljcWptMUx4ZXBxQ1dYQ3p1cFgxWWUxaGRrd1h5SFQtWWpCSGE3clFpRHJKNWRqNEhFbDE0TjlycjJzOUFXeFozU0ZpLVZjcUVPLUs2YUlkaUlnYTFITjlncEN0QjA?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1789127820,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "10 Home Appliance Brands That Are Owned By Midea - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LXzRxai0wWW5UckZJSE91Sjh0OXExUXBCdDFuVXNrQTJFSlBTRDdDbm9yaUoxUXpDZWVOWE9TdTdVQURSZTRHQWlpSEl3Y05jNFNOOEdnTlNxVGFsbW9tLXJQVTctS2REbV9kd2tUV0RKOExKd0g4dUZIUQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1789122600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
