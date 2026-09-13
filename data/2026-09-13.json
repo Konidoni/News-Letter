@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-13",
+  "date_display": "2026년 09월 13일",
+  "generated_at": "2026-09-13T18:54:04.280542+09:00",
+  "generated_at_display": "2026.09.13 18:54 KST",
+  "category_counts": {
+    "Samsung Bespoke": 1,
+    "Competitor Analysis": 3,
+    "Market Dynamics": 4,
+    "Technology Trend": 3
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 3건 감지",
+      "desc": "오늘 수집된 11건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: Chinese Appliance Makers Turn to Robots, B2B Amid Domestic Decline - 조선일보. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 3건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 3건이 감지됩니다. 주목 기사: LG Electronics Named Official TV and Appliance Partner of Emmy Awards - Seoul Economic Daily. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: LG Electronics Named Official TV and Appliance Partner of Emmy Awards - Seoul Economic Daily. 시장 전반 기사 4건, 기술 트렌드 3건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Showcases AI Kitchen Lineup at Chef-Led Cooking Show - Seoul Economic Daily",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjFoTklDcEdFZnJOSlgtTndiYUdkV1M0UE9WakV1MGcyOUpvNFVMa2ZIQ0R3SXpUNmJqSURRZGV0eXA1bjhjeXhJN0NuVXhJN2RKSDlrZWdYRVhkWVlSeWFENXp3V205dzdQak8yNEMzS2VNVHhRel9RLUZfY0dfWHJtV0FGcTl4NFhLemxkWlVwZkZzMWtBRzU0UGJ4MkdBWUhLRw?oc=5",
+      "time": "Just now",
+      "pub_ts": 1789290865,
+      "summary_kr": "Samsung Showcases AI Kitchen Lineup at Chef-Led Cooking Show  Seoul Economic Daily",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics Named Official TV and Appliance Partner of Emmy Awards - Seoul Economic Daily",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczBhOGM2SWpETzRSbVhOVUVEU3MwMTdGc3lVTlRUbWNKUXBxTGpzQ2tqZFVlZ0NRV2xmU1NsYjZKMlIwQ2dVSUF6WHRhMkUzdnBkRF96OTU2anFfdTBBWm1tSTliU3VPM1pMMWhtdE9ZMUdfTjhrcTd4RXNTY1VWbUVPSlpXRDNmXzQ0Sk5vNDg0dkdicGFBdGF2cGRVd190?oc=5",
+      "time": "Just now",
+      "pub_ts": 1789290386,
+      "summary_kr": "LG Electronics Named Official TV and Appliance Partner of Emmy Awards  Seoul Economic Daily",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics Named Official TV and Appliance Partner of the Emmy Awards in the US - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00WnFSd0pZMGV3MFNNUjVVWnZnZmE4aGswa0x4cGxXbU1hWHR1MzFZeUFtOXcxSFhUTU1TUi1tVnJMR0tjdW1JdE5vM19OVS1lOS1YNldQaWtXSmtQTHZNZVNPLWx6U1MzRFlUODR3NEY3RTVTLTVUaA?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1789261852,
+      "summary_kr": "LG Electronics Named Official TV and Appliance Partner of the Emmy Awards in the US  아시아경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Chinese Appliance Makers Turn to Robots, B2B Amid Domestic Decline - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWpzeGZQNGx4VlBOSDNJcEtTenJBcGV2UmltM19LbXVkNU13SXpEcDU2d3NxZ0doV1dwRVdrbWt1aFJhMFhJR0JBWS1OakRkb3U1MzNReEN6QXFNaDN5NUNvaDdlQjZJOE1lSlpKNWRhTC02OEY5a2hFNmlCQURRcHlSQVNLc2cx?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1789254904,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Remove tough oven glass stains using 2 kitchen staples that 'cut through grease' - Liverpool Echo",
+      "media": "Liverpool Echo",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1FzeXpQMGlreWZEZDlQVlh5QlZ1eFB2UDVxd2QtZGlHNGlLYldGa25LWmpybEZ2ZnVBOThXWTJ5M1lhejR3ZmNuTUp1ODFXOXRHODdGS2FwRWpWdVBjTjVxWmo1dkhQM2R3aGVNb2pyLTZVVHRIcDYySUJla0ZnSjEtcXDSAYoBQVVfeXFMTmYwVVczVWw4dGFDOTB4YjRwbkdrdFluQ3RLVm1nNklvM21VT0VGaDY5eWdxT2xjZmUxa01FOWx6RVdaQlpXc09INGtHOGw4VFE3a0IxZUpNN1NYb1hHM3RLWUtnMmpBbFRQTjlFNHh2Y2M5ZndKZVoybTZTMEtGUGw0VkVHWHdtVzJR?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1789254540,
+      "summary_kr": "Remove tough oven glass stains using 2 kitchen staples that 'cut through grease'  Liverpool Echo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "The Appliance as an Agent: Haier’s €13 Billion Bet on the Smart Home - CryptoRank",
+      "media": "CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXlwRG8xZDBRQ0hZbUZmV3U4NWw2YXRIS3pBV3V4S0ZYd0ZwejRqbGFtOTVtWUNOWDVNcTdRVDM4VDhwZHVNOUotQnAtbW1LUlR6MTl3WnNYY0tpXzMtZk05RnBjZk5TS0ZjWEVzTDBxTHhIRWlVWmpsdVN4MHoyLVplT0NVVTVlcWU0LUxPWUhfSFFTSm1PN1NlcWRtcDc3Q3pZXzN0VQ?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1789247056,
+      "summary_kr": "The Appliance as an Agent: Haier’s €13 Billion Bet on the Smart Home  CryptoRank",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics highlights seven home appliances at IFA 2026 - Daily Post Nigeria",
+      "media": "Daily Post Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUZlVVk4TVAwV2ZURjBQR1VGVWZPYjJKZ2NLM1NSd1NhaVh1TkhXQmZ1UnJrYjY3Y2F6U2d1Ukp5bWpMdG9MVnRUV0J6RnpwLWJSS280VmIwQmlHenRDaXprRVF1WTJsMjZzOFVUSXNwUFZKX0ljaWx4bHI3UnFXTWhoOXh4N1lIcmtmbm83QjhzcXEzTThN?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1789241695,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Whirlpool Vs LG Dishwashers: How Do These Popular Brands Compare? - Tasting Table",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMzZwaHY3eTd2WmxBSGcxY1FFZTZtWUVvUnlhTGVhV1Q3NFpDVTR2T2FNdnBheERmQkVWbzV4X0JwTjVPVGFnRnNyalA2cXdjNTZ1eUFNTkM4UXZxeHBMdGw0dzQtbkI4ZFhWcTRYLVRmMUJxeEE2OWZjTjBsS1ZQTk9nR2ZfZw?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1789230600,
+      "summary_kr": "Whirlpool Vs LG Dishwashers: How Do These Popular Brands Compare?  Tasting Table",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Chinese home appliance industry shifts to robotics, B2B amid domestic slump",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-xl/money/general/chinese-home-appliance-industry-shifts-to-robotics-b2b-amid-domestic-slump/ar-AA2c5YqV",
+      "time": "17h ago",
+      "pub_ts": 1789228800,
+      "summary_kr": "The growth formula of the Chinese home appliance industry, which has relied on a population of 1.4 billion, is faltering. As traditional markets like",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Online Retailer LM Electronics Extends Warranted Appliance Delivery to Bangladesh's District Towns - EIN Presswire",
+      "media": "EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUDJmTGJtTVoyNjA3T3I1NDF3WFdESDJ1QTBPVTNzcWVlOThielAtMm0xRkNWZDVHQUhTUVRZRE1sRFl2cVVjMk5rVko1QXk1OEdhZVRVNng0SzNaLUprN3pXNkxyVVZESzgxSHBpeXQzamw1WlhsMWduV0hJTTJaZjZZblVfZGZhTDFXNml1d0Uwei03ZkZRbFMxVGh0ZjkycktDRVotX1gtT1BMSTlMSDJQdU1FYjRhbTkyRTdNSHBQUFpKYTBTbENDWG53TE83b0dRZVY0MUdOTHBUY3c?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1789222500,
+      "summary_kr": "Online Retailer LM Electronics Extends Warranted Appliance Delivery to Bangladesh's District Towns  EIN Presswire",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Xiaomi expands home appliance lineup with immersive TVs and smarter Mijia Washers",
+      "media": "Bing News",
+      "url": "https://manilastandard.net/tech/314791507/xiaomi-expands-home-appliance-lineup-with-immersive-tvs-and-smarter-mijia-washers.html",
+      "time": "20h ago",
+      "pub_ts": 1789220280,
+      "summary_kr": "Xiaomi continues to expand its smart home ecosystem with the launch of its latest home appliances, bringing together immersive entertainment and smart",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
