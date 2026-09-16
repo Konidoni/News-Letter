@@ -1,0 +1,310 @@
+{
+  "date": "2026-09-16",
+  "date_display": "2026년 09월 16일",
+  "generated_at": "2026-09-16T18:36:26.563830+09:00",
+  "generated_at_display": "2026.09.16 18:36 KST",
+  "category_counts": {
+    "Market Dynamics": 16,
+    "Samsung DA": 3,
+    "Samsung Bespoke": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 20건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 8건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: I Kept Setting Off My Sensitive Smoke Alarm Nearly Every Time I Cooked — Until I Tried This Genius Gadget - foodandwine.com. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 16건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "I Kept Setting Off My Sensitive Smoke Alarm Nearly Every Time I Cooked — Until I Tried This Genius Gadget - foodandwine.com",
+      "media": "foodandwine.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd3lnRVZUdTU3c3l6b3BuVHhHZDVya0M1cjV6WHIyQ1JUcjRpc1h3dWJsRTlqRjdlbHozZkh6VEF6TlRmYTBaaFdUZ21WVXZsLUVoLTVLaXFOUUdBQ3hTcDlnaUVkMzdZeFdreEo0eXo3Y2ZRS2NnTlB0MW5ILWt2d3Y5Z1cxTXhWRUE?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1789547400,
+      "summary_kr": "I Kept Setting Off My Sensitive Smoke Alarm Nearly Every Time I Cooked — Until I Tried This Genius Gadget  foodandwine.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Hurry! Walmart Is Clearing Inventory on Rubbermaid, OXO, Pyrex, and More Top Kitchen Gear—From 44 Cents Apiece - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56T2p2TDhIRlp0UmxpR3ZVMlJoUHJXZ2Z0NzFPVUZ4Qk5LWEY1aERPelJiN3l4M2llRjhFd29mVGxrUkZmNVVjQ0Z4cjZkRnVaOHl2RWNheG8yRFNQZ21mbm5OaElqWk9lSVU5dU5lckpFdFRZaHNDZXk3VUpEMDA?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1789540200,
+      "summary_kr": "Hurry! Walmart Is Clearing Inventory on Rubbermaid, OXO, Pyrex, and More Top Kitchen Gear—From 44 Cents Apiece  Allrecipes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "[Report] Turning On the AC Heats Up Hot Water... 'Electrification of Heating' Put to the Test in a Jeju Home - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zdUdUcFNpNEswc3lBT2thQ2hlTFhsOGpMb0R6b3RRUnZ4ZUYwUnEzNFNTbko4Q2RMczdvdlBvVm1GNHpMWnRzZExreUFod1FFeXU0RFRacVpRcXpFQ1JqbFFYTzg?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1789524000,
+      "summary_kr": "[Report] Turning On the AC Heats Up Hot Water... 'Electrification of Heating' Put to the Test in a Jeju Home  아시아경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Showcases Heat Pump, HVAC Lineup at Busan Climate Expo - Seoul Economic Daily",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWhrWFJ2VmViU0h3RDVhcjdSVHFjdWk5LWtOeTN4ZWh2M21uZFdFU2MwTmtFTXN5R2FCNmxyb1F2bXhWYXVVZHhjMGYyNDAyZFdiSkJ6N0t0LWJPSmJWc29WTVZybTZqalVnS1hZZ0dPNnBLSnNackJ5RFh1SlhzQnluS1ZKZ2dyYTl3VHZYc0hCSHlWSW5oeXhydXViTEk?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1789523150,
+      "summary_kr": "Samsung Showcases Heat Pump, HVAC Lineup at Busan Climate Expo  Seoul Economic Daily",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung, LG compete on heat pumps at climate industry expo as heating electrification speeds up - 디지털투데이",
+      "media": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRmE1RkhSZVRPQzhlVUVYM0Fhd2N0T2N3OWdFVDFCMnNrUnJ1QUxkM2xKRnBER1Zrb3A4Si1RT2dieHVIMUxzN1JtRWxCejFBVGg5NngtTTY5Mi1UeGkxM1JmT0tpUUQ0WUlXbUQtN2txMnE3WF9YdVphZ1NHbVctZ1dEWUlvVzM2RGlzcTB2RUpKVFJjZklCZ0xBcVVmb2hNZmJHbEVldjZaNGlybDRmTGxTS0NRVUxnSjJnNlJ6M3VVelVuWE5VMnNSWU9FLWluYkwxd0xKdw?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1789520400,
+      "summary_kr": "Samsung, LG compete on heat pumps at climate industry expo as heating electrification speeds up  디지털투데이",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "I Flew to Berlin to Find the Best New Kitchen Tech — Here Are 10 Finds to Keep on Your Radar - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjlaQU83N3B2aVI5TU5VM3YwZVJHMS1HR2J4LXNieVFlWXJtRmx1RGRfMnV0RENZMFpaRWNIaHZmaFF3ek51VFRvNTFwaG1DR2wyelJLby1TVlN3ckhXdzk3amU5SHNGNlNYLUhKeUlXdVlVOWxuUmtQcFAzWTlJVzZfb2FLMm1CbWwtTEFrSER3eWxFdWpaTTl2YmtZaGZoUVE?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1789516800,
+      "summary_kr": "I Flew to Berlin to Find the Best New Kitchen Tech — Here Are 10 Finds to Keep on Your Radar  Yahoo",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "TSMC May Help Samsung in Custom HBM Production - SammyGuru",
+      "media": "SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pdk0zS055UGMwT1dERXR1MXVWbDM0TGtndENsVWNoVEdqYWxBZnBweTNhS21OMjBmSFBoTU94MXpUR1RXRFlaQ1FOVi04OHNjMUNlTW1XaGh1LUE4MFN3MlRZNktNUzFJTnpLQnFRWW5NX3oyYmxnTQ?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1789507282,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Drew Barrymore’s ‘Gorgeous’ New Chocolate Brown Kitchen Collection Makes Any Countertop Look Fall-Ready - parade.com",
+      "media": "parade.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZTVRY2xoV1JxdFRLOWRDejhnQkFyWWh4ckFPV0tNMHNEVVZ4ZFBsSENjdVZnSnpoTzBvNVl3VmNrUW1XREdMQXQzV3hYbFgzQXRydWJueW5pVGpJNU1NZzdUVVo1X2VYVXlXU1gyczFYclJPdEZEYzhMVS1TZVZMNlJzaTEyN1Q4ejV5aVk5RXdPaS1FVnVqZHRRejZDdw?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1789506000,
+      "summary_kr": "Drew Barrymore’s ‘Gorgeous’ New Chocolate Brown Kitchen Collection Makes Any Countertop Look Fall-Ready  parade.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "5 holiday kitchen essentials you can find at Costco this month - AL.com",
+      "media": "AL.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzAzcjdaZUZCeVpDb1hTUWhvYjVhRk44RGVjVGpjQ2V6c2tESHk3S2ZyclhVX29FZnpIdzNCVVVMTGh2ZG9ZTWRNNG0tRHluZHFZZi13eG0zeGI1UVNEaDlsVFRheGpKZzF3WTBZQlVqaDVQY3ZPd0RpVmZEOEJZY1JYcmZkdWpyb0NhZ2d0dWRNeUdBMXpNTzVreW9kZ2c40gG0AUFVX3lxTE9JWF9URlItczY2UUJTbS1DeVJLcHhRdUkyWE4tbjNfZ0tLMVNuZTVWWGlCTFUtRU85T0Y1NXlaVHJ2TXZRTGcwLW9aWW84ckx0OFg3WmZnM1RScklfdnRFYXVOTUozZFNxeDd3dGxxcGJiS3lmTGpGVWYyOEEwamRyYV9qMkVKNXRfTmsxSlVLX0pqRm1uaDFxLXh6REVranFWLXlLT1IwZ2VYN1lyYldhUFNBOA?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1789502340,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "3 Best Vacuum Sealers, Tested and Reviewed - Consumer Reports",
+      "media": "Consumer Reports",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZFR0X1NybkF4aHlVNkZNcEFLSnFVbEdleXhITmUyc2g3WlhhMXl3aGw3WjNkSGdyUXJBVGFLOXJzS0ZoZ2hUOXNPSnEtMmdTdm5Id1JOTDFfQWE4SDdfNXBwY1dtRUdabDVQVTJ0VlItOU5aWlFUVlU4MjVteWYzR2NtTGxKZlg4SHhadzF5WU9QbDY5?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1789499444,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Curtis International Enters Exclusive Licensing Agreement with Kenmore to Expand Appliance Portfolio Across North America - Total Licensing",
+      "media": "Total Licensing",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeUhWdG9wU3RieXpNdHY3ZVg0MzFoVEt6OEJIRXkzekxUVFRsa2tfTjhnZDdIU09LVEVFSnVGMVBueUhtWWluWTdOVG5OYnlkb3BSVDZRMFQ1LUl0b0VfeXdObFVNeEV3NHpqWmc3dkZRV0JkR2x2c3FUbFdYUXNiWFZIci16WlptWHY5ZFV3eE5UeUJjNEFLdDdmLTVzN1ZKTFAwV1pxZEtZdzBYNzlQNTN6X0pXT0phU1cwUmFvSjh4LWRGYW5rSjQyWHNvMUMtU1dYREhFZDRuLURrdFpBb2xFeU9tWkNf?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1789494599,
+      "summary_kr": "Curtis International Enters Exclusive Licensing Agreement with Kenmore to Expand Appliance Portfolio Across North America  Total Licensing",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "5 Small Kitchen Appliance Brands That Are Actually Owned By A Much Larger Company - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNblcwN1RsajlOZHBXVGJjUlVyOVNuTl8xbG9zREd4dlVNNU5JSFE5V0xCdUQ5V3FvYUNNaUltaDV5SzZ3c0piYTNReHhNeWVOdjVyTm9UTUhNTHlORWUyOHVBa3dEdHhlNU85MUF0VzRBajd2ckRORHJ0b0xlSjZ0bnNUUlp1NVVXN0o5S1FDY0xwYndrVk9ISkhBYlNpMEV6R05HMEp3?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1789489800,
+      "summary_kr": "5 Small Kitchen Appliance Brands That Are Actually Owned By A Much Larger Company  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The 7 best food prep appliances, ranked by Consumer Reports - qz.com",
+      "media": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JejFrY005a254dmxSU0ItS2lYY1c4TFFhYWZFRTlXX1U4d0NGTnZXaUxGTDZ5dFdGSDR1ZmkzSzVpbFRpM0NHMUhYSFhsVHk2dDBWeUhDVnRrNTBncFV1a19mRUlZQ1g5OGxyaGt3?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1789489423,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Which Dishwasher Brand Is Considered The Most Reliable In 2026? - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM1UtTGhuY0dMR3MyeV9FVExPaE1hNnFESG1tYUVXLURkelhfcW10QXpwRHlFY2pZMjZkR0JDMDBFTC16eWJ4ZElvNWFENHRJQm5lVHZDcWR1YU5rSFo5b1h6SnZoRmRXLXIzSlRhc0FVbi1KUU1KeEJ5SENIeVRWYTBR?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1789488900,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Love Sonic ice? Here's the top ice makers for you - qz.com",
+      "media": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmZ3FzWTRBbWlNVEVGeHd5Y1dfa1c0cEgweXhQeGhaN0NBRDhVcGZYZWZxRWczTDFFY1EtTHRHVXp6c194MDh1MFdUUkMteHF2MWRZLThTMXdYUHFod0xkek04dk0?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1789487644,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "KitchenAid's new mixer lights up the counter. Only five matching ranges exist. - Stock Titan",
+      "media": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWm9taHI0YjhEVE1NbUtlQWpibW9YLVVleHpHUi1oNzBmZHE0M1ZyMHFYTFF4aS16bFNyQnNKSk1JVVlxdkpBR3A5T2xPaGJ2ZnRVb2tFbExjRDFuRXZvT0FqN3VsVkd1aVpJRGg5N185eHI4Sll1RmdabFEwdnZQejA4M29jbU9HM0tnb2xiWjh3OFZSQ2sybG5oMjBlMkphaEJsZl9qdW13RTU4ZVZjOGdGWQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1789473794,
+      "summary_kr": "KitchenAid's new mixer lights up the counter. Only five matching ranges exist.  Stock Titan",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "KitchenAid’s Iconic Stand Mixer Just Got a Striking New Look for 2026 - marthastewart.com",
+      "media": "marthastewart.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORVhtaUNNb3pEQnhKa0cxY3ZFU1c4NzRtV3NfaElya1A0S2pERGpRYW0tVWZmZVQ5M3lUVE5KeGg3OVAxOVNkeHAyZ1dFNFdNVV9UbGRRSWpZcXl0ZHQxQmxESW8tMUlTREYxR05zczhWbUF5Sm1WLTU0ZDlYOHZZUGxUaFFuRkE?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1789473775,
+      "summary_kr": "KitchenAid’s Iconic Stand Mixer Just Got a Striking New Look for 2026  marthastewart.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "KitchenAid Just Released a Beautiful, French-Inspired Stand Mixer - HGTV",
+      "media": "HGTV",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczVEM3BLV0hVX3A1QlFteEIyLVE3SldWX25yV2otZko3R05tLWFmUkxQNk9zTUFIMG8tMTJjenlFb0x3X3dabWdYTUF6NmV4X28yTEw1VENkVHNQQVlXN0xabTZIa0FlSFNCYkRXWlJfRElDX3otWHRnZGt5RUlSeVdKZURCYkwxdkJQSTRVdzhYQ0NUYVdB?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1789473600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "KitchenAid just unveiled its latest Design Series stand mixer, and its glowing, jewel-like glass bowl took my breath away - techradar.com",
+      "media": "techradar.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNR2R1VkM0Ymt2MndmMlJFMGNHcEYzWjZZNjVzS2lBSTk0RmxpY3dhdWxHWGx6S05zdDN6Z0QzTWJxdkxNaUE3eTUtOHEwN21MMEtPTUlod3JjQy1uUEFycUpsTjhtNzFieXZXeV9Oa0p3Yms3ZjdNRkIxUnYwYks2Qmd6UDUyQVBpd1JWZkwtWUZreTFYVFhRZ0hSM0JUUFlpVW1FMEpYT3lDY01JdHY0ZllzekdvcktIZzhyNmQ0Y3dEQW1HSHZ0elFRMEpCaWRtWGRIdjIzaTAtbTEyeDlkS3ZlcnRLU1VPeWZXY3ZvaE1iTGVMSW1mNFFxOA?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1789473600,
+      "summary_kr": "KitchenAid just unveiled its latest Design Series stand mixer, and its glowing, jewel-like glass bowl took my breath away  techradar.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "From cooktops to wall ovens, 18 kitchen picks tested by Consumer Reports - qz.com",
+      "media": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41SXJXVDhLMnVVM29fUk5aZmZmMDFFeWtjYlU0QjlTSTNPM3FlN0QyeHM2Q0kxQWhDc0ZwNTdrRW9SZmh5RGhPcjF0Zkh5YzFXS0duWlRraTk4UVY0enc4Mmh2Tm13UQ?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1789466897,
+      "summary_kr": "From cooktops to wall ovens, 18 kitchen picks tested by Consumer Reports  qz.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
