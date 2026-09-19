@@ -1,0 +1,369 @@
+{
+  "date": "2026-09-19",
+  "date_display": "2026년 09월 19일",
+  "generated_at": "2026-09-19T18:05:39.431582+09:00",
+  "generated_at_display": "2026.09.19 18:05 KST",
+  "category_counts": {
+    "Market Dynamics": 9,
+    "Technology Trend": 5,
+    "Samsung Bespoke": 9,
+    "Competitor Analysis": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 24건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: Samsung Redefines Laundry with New A-70% & 13 kg Bespoke AI Washers at IFA 2026 - Samsung Global Newsroom. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 12건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 12건이 감지됩니다. 주목 기사: Samsung Brings Gemini AI to Family Hub Fridge, Launches New Bespoke ACs in India. 삼성 Bespoke 9건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: Haier Scores Big: Appliance Giant Becomes Global Partner of the UEFA Champions League - TechnoSports Media Group. 시장 전반 기사 9건, 기술 트렌드 5건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Kitchen Appliances Brand Wonderchef Targets Rs 600 Cr Sales in India - indianretailer.com",
+      "media": "indianretailer.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEd4MkhSMklmUmMycTRQQjI4VUxlMkJ4NjRrMEVIbDlQR01EWXBzUl9wSVpZREUxckxYRGVlM0Z1el82bFZYMmN1c2ZsYTdxYW1GTnJtblBnQXdfNElNLVg1UVB1d0RjNEZxMG9VV1prR2phMDVaZklnVDFyRzRSQ0FiWUtyTHNTYkQ1ejhSQXJxOTgwcHl5V3o1N1FsaTBEMlhv?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1789797289,
+      "summary_kr": "Kitchen Appliances Brand Wonderchef Targets Rs 600 Cr Sales in India  indianretailer.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "[Echo Show Diary] The SwitchBot Hub 2 has arrived at our home! Unboxing and setup",
+      "media": "Bing News",
+      "url": "https://note.com/bkun2025/n/n987c0bd0ad9b?hl=en",
+      "time": "7h ago",
+      "pub_ts": 1789783440,
+      "summary_kr": "A slightly small box arrived from Amazon. Before I even opened it, my family said to me: \"Buying more toys again?\" ……No, no, this time it's a proper s",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung’s 2026 Bespoke AI appliances bring Gemini, smarter cooling and connected home features",
+      "media": "Bing News",
+      "url": "https://www.gizmochina.com/2026/09/19/samsung-2026-bespoke-ai-appliances-gemini-smartthings-india/",
+      "time": "8h ago",
+      "pub_ts": 1789777800,
+      "summary_kr": "Samsung is bringing its 2026 Bespoke AI appliance lineup to India with a stronger focus on connected living and personalized experiences. The range co",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Brings Gemini AI to Family Hub Fridge, Launches New Bespoke ACs in India",
+      "media": "Bing News",
+      "url": "https://www.analyticsinsight.net/news/samsung-brings-gemini-ai-to-family-hub-fridge-launches-new-bespoke-acs-in-india",
+      "time": "10h ago",
+      "pub_ts": 1789772280,
+      "summary_kr": "Samsung expanded its AI-powered home appliance portfolio in India with its 2026 Bespoke AI lineup. The company unveiled the new range during ‘The Brie",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Launches 2026 Bespoke AI Appliances in India With Gemini-Powered Family Hub Refrigerator - MySmartPrice",
+      "media": "MySmartPrice",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZl95NEg4NFlSUXNuR29GLS1wZnFyd2VIM3ZyUnVPbHhfUVFKQWVrUGJmQUtJc1dEM1hWcXVYZnZsRWcxMm16amw4UndIZEhReUl6NHlKaEg1UEhrdmJhVlRYUkRrTlhPeG11dnFVUlMyTjNMa0NVM2N0Rjh6bGxSUFhEcnVja0k0dXh0b2lKQ3hlR0FqXzZKclRBWTBjRHhNNnFZOHVtMGtBV0dvUmtLVVljQkdlV19PLWh2dlRFdWFndURmLUM1S1VOZVBvWlB3WjN3TUJZRXkwV3JHa2Q4aW9aNGRLYUdNRzVzTUEzY9IB9AFBVV95cUxONXF1TnJUYjJseWNVVW5uUWI0SUM1Wm1qbmtkV1FoUTZDWDhpZ2NYV25fb3N5WktoaUI3QTM2OG9VSE9GS2JNSzRENjk0bkRPQVFsYmVOQXpPdzBLWmk3S09paFJ5eUNpUi1BVEhQU3FweUFKQU50N2Rsd29RTm1ZbmJHeGhPMkpiYTctLVlVcWljNlcxTDhXRnBMV3ppTHBjUWxId3NwbkxIeGNrajdEM2xoVjFtVldoWGNnZFdBUWhKVHZZUlZOMzA5REo1QzFfczEycURaNHRYSEFqNUZ1NWRrNGRxTGd4QkNjVGVla2xWam1l?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1789766526,
+      "summary_kr": "Samsung Launches 2026 Bespoke AI Appliances in India With Gemini-Powered Family Hub Refrigerator  MySmartPrice",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Drew Barrymore's kitchen line has a new color that makes any countertop look more expensive - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWVJLOXJpcDVrUzlOalJBeW8zSWRtLUo1R0FLbFI1WDdUc2dqazNUeTZINGVndm5CTEU1S3RMM3AyREN2MFpybl96WG53LXNDZ1FaTUFobENkR0hoVFFub0VTaHlraFN6Vmxldy1uSFJXbUN1ckRzUkRic0E3c25jVmdNalVpSkxnMnp3M1NyMHR1MG0wM3NubHk3bUVFcXVKaVo4NWs1dWpvOVh0OXF0OEp3TUlrN2pfSkJWTXNqblEzN29VRmpMTEZ3WnM0Z1lVSm1YUlhqTHRmUUl5c3cyT0paYkp1RUFQTEFqdzE0WnNkdw?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1789764924,
+      "summary_kr": "Drew Barrymore's kitchen line has a new color that makes any countertop look more expensive  Yahoo",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "How long does your food last in the fridge during a power outage? Experts weigh in - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQk5WMWdqYnNCSU1kUEZTME1FTnNHWXRjc0tqaU1zN29qdWYzUG5WekRqQjZqVndncm8tUzRzOWpzMmxvN0l1MUtpUnUwMk1BMzVpem0zQlFkMXE1LW1PdUpESXpURVg2MWN1LWFjREZwZm1FZGphUlQ2SXdCbEpVag?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1789764005,
+      "summary_kr": "How long does your food last in the fridge during a power outage? Experts weigh in  NBC News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Walmart's top weekend deals: Score deep discounts on fall style, kitchen appliances, tech must-haves and more - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU2laclh5VDVYdjdrR0Y3dF9RdjgyTE8tOHdtMF9BdDFvMHFnRE1sZzg1N3RoaF9KcHd1bFZQLUVJRVpjcGlmRjRXcjJINGcwT0ctaDNIc3oxd3dEdkkweGFNTDJXdVZWVHBQanlGUkpoTy1raDRURzVJLTd3UEt1OGpXZjd4VkR3S0FpZDBCdWJVaERxekdVMGh4ckdnT3NSX0tSb0xKZ3BMWE1PTGJrdUduWmxqMGZVZkJTQWlxdnNOYzlCalJ1SU9DdTNsRXFSeG1LdzVXbVVBNFdsbGFLTjU5TXBCVzBnXzJWQUM3azVodTg?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1789757792,
+      "summary_kr": "Walmart's top weekend deals: Score deep discounts on fall style, kitchen appliances, tech must-haves and more  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "We Tested a Dozen Standalone Freezers, and These Are the 5 We'd Put in Our Homes - Good Housekeeping",
+      "media": "Good Housekeeping",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yT3FpZkdCT1V5MWVtc1h2bWUyckxhQWVKTkR2R3pCX014Z3lnM2pBUWJSNjNEVHdzWnZxUkdFOHpMVHVvM19mSk5aOFBISXV2MGtEcVgyendGcl9abmNvZ20zOFhlWnlvWG5BRG1oZGlMZTl2ZmFR?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1789747315,
+      "summary_kr": "We Tested a Dozen Standalone Freezers, and These Are the 5 We'd Put in Our Homes  Good Housekeeping",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "How To Clean Stove Drip Pans So They Look Brand-New Again - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2g2SGVlZExlQzJGZTJBSVhtbl96Z1JHX3NKX08tMjZ6aW5UYnZYOTZreU5LSWNLSkxTeTdPLTMyVkw2N2FOVUNpX0ZWcWRtUmdHNm9oRjlFWTlNRlBKNnFNeEZLaXJCWkRITUloUDJaX1JCUUNlV0dtYVJDa3ZlbDlvQXh2VWcwdEE?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1789746900,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Is your smart home spying on you? - ClickOnDetroit",
+      "media": "ClickOnDetroit",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHZ2U2pvNTc2NGR3OGVEWnA5dTNheFdWUVpwYW9XcE90RS14dWpreDY4VUVMOTVxRjJESkNlNXl2MWNmbWVUQmFNOVdhUTNPZWFaNXc4bDFMSHdrMFlIdndaTkluQ3YyQmtnTm1adGV4dDRsZHlzMm5xY0NVOWxWUzZ3dFhON1VwQ3RuV2tDMA?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1789744024,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Smart home appliances can come with security risks, Consumer Reports warns - ClickOnDetroit",
+      "media": "ClickOnDetroit",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd1BqdHI5dmxyTFh5cmFUZVJLWGZCVThvR2FpeGhWLTZiUk1CX1pvTGVXM1J6WWZBeHVDcGltMFBoOHJMZG1ZUzUwS05RTm41Rl9ob2FHSEg2R0VhRG9wRkFmQXdOZXFmY3BDN2xTVFFKTUg2R0VmQ01sVlJvRVA4aUVtbElRYkl6cmFoT3JZdWZ2bTlraV9rUEpnMENUa1d5Vl95UFU4WjJyYi15V2o2dVlnOEs3RE9TX3JJeFFhUmVVZ09wbHc?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1789742434,
+      "summary_kr": "Smart home appliances can come with security risks, Consumer Reports warns  ClickOnDetroit",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Drew Barrymore just added a trendy Chocolate Brown color to her Beautiful Kitchen Collection - pennlive.com",
+      "media": "pennlive.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZS1lQUJ3RjdDT1k0ckYtTGpfTXFLME5kUHo2OEJ4OERGTFd1TTJGOFVGV0Y0RTNBRXkxaThoWkplMWVFUFotY2p0Y3AwRUhxUFpBazh2amNITUp1cloyZEFMWTdDc2RhSEpqWmp3a0l4VnJ4dE5TLTFFdXl4X2tYRUlTT0QwcTRnbHdWS1lUb0kxTW1jWlFEUG5vRTg5di1hdi1hZDNqNFJHQmtQRnRWaWd1N3ZlTm5Hd3ZqN0JuRVRvYlR2eHVzeDhUckkyY01EV2dSR1Q1b1MyMS1Edmc?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1789740060,
+      "summary_kr": "Drew Barrymore just added a trendy Chocolate Brown color to her Beautiful Kitchen Collection  pennlive.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Product Pick of the Week: Samsung Introduces Bespoke Microwave - Builder Magazine",
+      "media": "Builder Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWC15YUg5ODBEYjJxbzNhNHY5TUtSS0pzby1hWFVteGhZVmpPdmtQTmxjSmg4c2RHVno3TXhsWDRuR0VybzYwSlJvZGo5THUtcW5CYTRaVUxycFBKWUQxaGRoRVJ1VVJvTGlNU1VsdHVLR2ZQb3d3U2dnQUVuZDNYYmhRUk9zclBNMzZMR3huTy1odDZXMnZ3ZW5ibmdRcUhBVHdJd0FQd09lNDlhT0xtUFdn?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1789739627,
+      "summary_kr": "Product Pick of the Week: Samsung Introduces Bespoke Microwave  Builder Magazine",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Nordic’s new multi-protocol SoC targets smart home, asset trackers - Electronics360",
+      "media": "Electronics360",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmJSMTRYN2c4T0ZTNnJaMzJPUUFhSDUzY2lrVGpsRnA2bjZzWGxtSzJlcDZWbk40UHExLVg5b3lqQ1lqaUhYUGZOUFZvREZfSVdoVHllbU4xZzlEUXpHbGxxSG5fNUdBS01DZ3hsTHhPNWQyVzRHWGx3Q3lvZGFvSlZZWXAtaHduZk9tejZUeFRiVHZwVS01MUNvcmV5T01ZUHlSaVpwUnZYcXdNdUlESFZCWVl0MEVO?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1789738782,
+      "summary_kr": "Nordic’s new multi-protocol SoC targets smart home, asset trackers  Electronics360",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung launches 2026 range of Bespoke AI appliances: Price in India, features and all details - The Times of India",
+      "media": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWS1Oem4zOThKek50NjZGSktjSEFhWU56Mm9JUFhjQW04YjlYelFFck1naE05aTE3eGJETjFGX2hoWW55dnIxNUhmZDBEcTEyV1R4S3NpOGZmakEwNEtwM0NQZjBuSUVmWEYwVXY3ZDMyQ1d2dGF4VWNiMWdVYm9pdUFKTHpsZXBmSW00UlM1T0luOE9ZU2Z2SWgwT0hjNUs1ZnY1YTFuLWxoUjQzMHlUS0xYUFF2RWk3SzZYOENKUjVQeVVNNEI2WWVmSmRPNm04Ni1vN051aUJoWXA0cTZMZEtUcFduTXBHNXFDLWx6ajREemhjaUtETTM0b2ZIX3drUlV4TUtDONIBjAJBVV95cUxNMTlHc3pFdmxpWjcxRk9WaGJPeFBwYlNCWWZhd2dPSVBKYlBPdnJPMGdOU2NObEkwd0lLUExUWktTNVA1SjF2bDlXNHQzNXpuTFNpcHpZbTJzY0ZQWDlXOUZ5RkxyTHk5azVhTzYyWjJ1Y0RvcW5NQklDZFNrNkxoNHRydVRnaEp6RlpJVXNOQkNaV3dCN09CbG5fbnJIWl9UZW9ac2RIUW9oMk1LcERHbk82bnJvRlYxRjVGQmNTeUtublAxb0tDTGM3Z1ZScHRrOWtjN1BhWHE1YjFCOTY0eWtCamktcnRSUUpYMkY5UE03bDdhbE1oMlgyNnVLaGs5b0hyMF91M2pDZWxG?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1789738380,
+      "summary_kr": "Samsung launches 2026 range of Bespoke AI appliances: Price in India, features and all details  The Times of India",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier Scores Big: Appliance Giant Becomes Global Partner of the UEFA Champions League - TechnoSports Media Group",
+      "media": "TechnoSports Media Group",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ha2RyckFjQVNfbFFUMkE1bEpuYXJsRV9tNkRESTFVM1MwSzV0OEhZNXRRbzQxZ3VwVmpYNVNYTHdlMlplOGZrQlNlVzFUeWpPWk5MckFyLUFwSzNhbWQtd3pyR1NJYzR0LU1TNUZhN0cyc1ZNVE9r?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1789738275,
+      "summary_kr": "Haier Scores Big: Appliance Giant Becomes Global Partner of the UEFA Champions League  TechnoSports Media Group",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung India Launches 2026 Range of Bespoke AI Appliances Designed to be Your True Home Companion - IT Voice Media Pvt. Ltd.",
+      "media": "IT Voice Media Pvt. Ltd.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY0UwYU84UG9JcjZmaWk5cUM4a21jSEFyVTRkNVc5VFE1YlBsNnJRUEl5RUxHN0Q4SE0tRnFxNGNZNWtPLUhJb0pFb0dTc3FPNGoyaXlhNE1PM05uZFZqUTJnMVpxLTJGNlFERjFKRnFjSlhBTHpPSW5iR2NvTWZOdElZb3NWb18xelpsZWo3MWJaVll2NERYNnBUdHZvcF9aZ0I3YkEzV1ZpbTg0RkZSSGVVbXlhQjNjSnNoREhB?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1789734893,
+      "summary_kr": "Samsung India Launches 2026 Range of Bespoke AI Appliances Designed to be Your True Home Companion  IT Voice Media Pvt. Ltd.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "MacKenzie-Childs Finally Gave Its Iconic Check Tea Kettle an Electric Glow-Up, and It’s 35% Off Right Now - Real Simple",
+      "media": "Real Simple",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWUlsWUw5QmRQa29MX0hQZmJrT0JWMnJkZHF6RzFxdUU1ZFQyUDNnZG5HTUk2RV9vVmxfTWU4SEU1NzZmT0xEWHZ3T0tqZnJiMXpndy15bnJ0RTRyNGdidzkybDZCQVZrbERIYTRwckJlREFLT0xzVnIyRVVySVBKajhDYlowb1hBV1ZSOEZSQ1BDVURfQmt1MFhiTQ?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1789734600,
+      "summary_kr": "MacKenzie-Childs Finally Gave Its Iconic Check Tea Kettle an Electric Glow-Up, and It’s 35% Off Right Now  Real Simple",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "A tiny 11x11cm mini PC runs my entire media center and smart home for less than one prebuilt NAS",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/technology/hardware-and-devices/a-tiny-11x11cm-mini-pc-runs-my-entire-media-center-and-smart-home-for-less-than-one-prebuilt-nas/ar-AA2cxXbN",
+      "time": "21h ago",
+      "pub_ts": 1789731016,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Launches 2026 Bespoke AI Appliances in India to Transform Your Home Into a Genius Assistant - Gizbot",
+      "media": "Gizbot",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1lPemJSS0l3bFB4ODl1TWpjaS0wUUh0V2lrVS1fZElCWHJYalVuQUJndFViQmY3SWpCX09vTkRtN01SRkptUnNGcjVheHBCV2JXdWJzaG9haWxQYWdxRlMwZ0RJN1ZBSEIwUXp4TVd5T2RIejhOTzBLd3RpRy14aUp4MEkycnhTM0dGbG1KSXRhejdFUnB3NFNIMS1oMndvM1lFTmMwX0ZOUExqNmRfcU1LYmhwdks4Y1o5YmhtLUptRk84eTRBU3d0djVGbXc3azJHZEtfU0VhQ3B3N0E?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1789730420,
+      "summary_kr": "Samsung Launches 2026 Bespoke AI Appliances in India to Transform Your Home Into a Genius Assistant  Gizbot",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Redefines Laundry with New A-70% & 13 kg Bespoke AI Washers at IFA 2026 - Samsung Global Newsroom",
+      "media": "Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeWh2RWYxZXdwUkY2akpadktsSzVnV05SVjQ4LW9QLW9XWnBwaFNIblF1aXBkaWtxTTRWWUxwYVZWT2NSX0R0Q3R2bHM4SEE2QXF5RXVTSGRleGNjOERxNy1rV2tCaV9lOWtlSGJ0RjFWek5FQS1zZVhSc0JueGdrY3BDa2t3V2pfaUctZ2NEYlVWY3haM0hwZWZ0QnZuWUNPMm5EMmZ4VQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1789728867,
+      "summary_kr": "Samsung Redefines Laundry with New A-70% & 13 kg Bespoke AI Washers at IFA 2026  Samsung Global Newsroom",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Bespoke AI 2026 Range Brings Google Gemini to Your Fridge and Smarter Cooling to Your Home - Gogi Tech",
+      "media": "Gogi Tech",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeTVfeUtfUENkclQydVNHSkZOcnJ1QWFTcGJwdURwUmwtTHBPcDhkMGljVXFlaFpKWnNJTkRqME83RUlIV1FPRG45UHpwcU0xckRObVdpNlJPYVliRHNMQTZDMXM5S0R0ZlhBNnBaSGtVRFNjYXZoWG5DQkRNeDhkVktGV05zaWo3bkRBNlNpZ1FBMnNZYmF0d0pNeUdQZll4aURHWmtFREN4azRrYlIxaUxjb0c3Z2VibVFGVVRpTG_SAcYBQVVfeXFMTko0TjZlY0RXQXJZVWYzTS1BZVFZdlJfZms3N3ZXbmM5dW9tZHpLN2c4MHpsUXNteU8wLTJ1eS1fRFdnd18xOWJRRGlVOWhOdWlwY1NaVUpvU3hfTjNaRDlUQ3VRa0dXUTdxR2Z0eFdjV2dFcGthalJVLVZoR3pEaldqS2NxRVhmLXRYYWw2X3MyakZPTE5kcjl2UExLQlFKdUxxYjZCM1lpZFdIbG40dHpDdEF0N1pqZWxuRWNlTW1OaU55SE5B?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1789725820,
+      "summary_kr": "Samsung Bespoke AI 2026 Range Brings Google Gemini to Your Fridge and Smarter Cooling to Your Home  Gogi Tech",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Fire and Metal Rebrands to Fire and Metal Outdoor Kitchens, Expanding into Full Backyard and Outdoor Kitchen Construction with a New San José Design Campus",
+      "media": "Bing News",
+      "url": "https://finance.yahoo.com/small-business/articles/fire-metal-rebrands-fire-metal-161500484.html",
+      "time": "23h ago",
+      "pub_ts": 1789722900,
+      "summary_kr": "SAN JOSE, CA / ACCESS Newswire / September 18, 2026 / Fire and Metal, Inc. (formerly Sparkle Grill Cleaning of the Bay Area, LLC), the Bay Area's trus",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
