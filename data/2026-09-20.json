@@ -1,0 +1,272 @@
+{
+  "date": "2026-09-20",
+  "date_display": "2026년 09월 20일",
+  "generated_at": "2026-09-20T18:31:59.587059+09:00",
+  "generated_at_display": "2026.09.20 18:31 KST",
+  "category_counts": {
+    "Samsung DA": 6,
+    "Market Dynamics": 8,
+    "Competitor Analysis": 1,
+    "Samsung Bespoke": 1,
+    "Technology Trend": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 17건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: Aldi는 쇼핑객에게 하나의 주방 가전 제품이 바나나가 갈변하는 것을 막는 데 도움이 될 것이라고 말합니다 - Yahoo News UK. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 6건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 6건이 감지됩니다. 주목 기사: 삼성: 인도 AI 가전 시장 9배 성장 - Rediff MoneyWiz. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG, 아프리카 메뉴용 장비 공개 - 중앙일보. 시장 전반 기사 8건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Samsung DA",
+      "title": "인도의 젊은 소비자들이 삼성의 AI 기기에 큰 힘을 실어주고 있습니다 - The Economic Times",
+      "media": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPekttOWljVm5LMWM3bUZnZFR0d1daSlFQWWJsdUo0dEJnLWxadEwxS3VaZ3hkWW1YOVpKVDk3MVJESG9XdU9FVkY1d0V3UzRIdHUxR2lFbzhtZUxfdEZvVHZjQXFIRHZmNXg2aW5aTHJZeFR6SFJaSmNlRWhqdW9GQXlvOE05d0s3TVVOZTRUWDQ4QnQ5ZXB1U2pVTUZ0aUNpbFIwWXMzdlJWVkFobzhsU2tqanhSaHFKVUl4ZTZFS0lhSlRoOWd2M2dqNVZ0aGxHTU5UWXIzRFI5U0Y3S1RYR0Z4ZUYxeUw0ZVVwdk1rNGE4Rk3SAfMBQVVfeXFMT3pLbTlpY1ZuSzFjN21GZ2RUdHdXWkpRUFlibHVKNHRCZy1sWnRMMUt1Wmd4ZFltWDlaSlQ5NzFSREhvV3VPRVZGNXdFd1M0SHR1MUdpRW84bWVMX3RGb1R2Y0FxSER2ZjV4NmluWkxyWXhUekhSWkpjZUVoanVvRkF5bzhNOXdLN01VTmU0VFg0OEJ0OWVwdVNqVU1GdGlDaWxSMFlzM3ZSVlZBaG84bFNramp4UmhxSlVJeGU2RUtJYUpUaDlndjNnajVWdGhsR01OVFlyM0RSOVNGN0tUWEdGeGVGMXlMNGVVcHZNazRhOEZN?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1789891500,
+      "summary_kr": "인도의 젊은 소비자들이 삼성의 AI 기기에 큰 힘을 실어주고 있습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성: 인도 AI 가전 시장 9배 성장 - Rediff MoneyWiz",
+      "media": "Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2NHNm1TUERMeXBiNkNfcEtiQTBWaDQ4d0R5SG0zOHhqRF94UGlNM2ZsX2JzbUJnWWxaMHpYZ0lSdHVfX1hHOERnSGZDWmtOSU82bTdXWDNJRTdCWkxIVl9ldlZ3ZXBBM2FueEdVWnc3eTRNWlVGLUw1ZXVSMFI0SnEzQ0VjRmllQmV0ZXJXa3pRLVFwTE1UTnR2ZWUwSmRxSEJOUtIBqgFBVV95cUxPZm45THhfaXlmRHAtaVJGbDNleUpxdDMxVU01STVaT09hTDRvcEhlTGVPdl9oMV9rLTRZYWZYR0RCSXRLS20xLXlKSm9rZU9aT3hTcW5zR3FldHlXNDZLemJRZU9BMjZseW9WY25BX3FiUGt1X2VaV2pfcHJiTWFGQ18xSEg2d1d5RHN1V3dBNUFNWWFnZU5IajFBVVpOYWF0MkdlWjNoZFMtUQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1789890402,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "인도가 핵심 AI 시장으로 부상함에 따라 서남아시아에서 삼성의 커넥티드 가전제품이 9배나 급증했습니다.",
+      "media": "Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMVpyd0FZUWFUdmdQMWFIekc3S1JrYnV1WGluRTdWRnNzcHVXOGdEN0dmYllZR0xPM21iUjZwVDJBdUxfTEdORUYyUjRDdmRJVm5Wd1A2Q2dZMUZRUkJUd0s0Qy0tYXNiN2NuQ3hnR0l6ZUlJa1BldEhzNlpaVkNRZjBvVWVtSEFSUC1SNndHNXgtRGluN2pVVVRYUmlKN2locmoyX2htS253dTd1dms1TVFnZzNYQTV1WEkydmVaZjRQLTN6S0lGeHp5TWZqM2dreXc4SEo0YkVCM0F6eWlQWlNGclJ5LVhsUXhMWUNOeHrSAfYBQVVfeXFMTVVva2UyZGN1cFpnQ01CR3ZrMHVOT0dobmlmTklqNllSZXM2Yzd5NTlQV2NKTGRxQm1BaTB2Wldob0JyVTRzX29fWXl2VU4zSkdWV2VhM2k4cVlvV1BPLVpJTG8wcW1ZdFZwYVFRLUtqYkVRdG1xV2J3aWcyeGVDTkx0T1haSldDLXd6b09fZGtfQ2xPVDBrVklfZjI0QTg3TzV2N2xZeUFuTXVaRlZGNlJ3MExONndMRkZFaWV3Y3dlZGRSWGU1V2FaekF3RUl2YkcxeVlRZXVUcE9zdURiTlJzaVJaRGlVZFdFSjV6RHpqd0kzZWNB?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1789889109,
+      "summary_kr": "인도가 주요 AI 시장으로 부상함에 따라 서남아시아에서 삼성의 커넥티드 가전 제품이 9배나 증가했습니다.  Moneycontrol.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성네팔, '스마트 업그레이드 가르마, 럭키 서프라이즈 차다마' 캠페인 론칭 - Ratopati",
+      "media": "Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUTE5Q2o1UjZUdGJ0cjdNTnZTaUZnS2lyUWZaR1pPNmc4Z01EVzNRN241Z0VWc1lVXzBYTEJkTldJQnFYX2l0UUxUSlZJUi0xd3NiNGpQazRRZS1oWFFyMUJPVmx1cnVWYTdzZHJMYjFoa1YzMzkwN3lmQTRXdjNVb2pXa3IwN2tFWl96QzFocFhQcjdjd1JhQl9yNWNqT1h6TnVYaFJRV2hNNlRqeHJoNzZGLVc5bTJKN1ZDRS1sbHhDQUtieXBlaTlreDNlVjlfYVNKZg?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1789884649,
+      "summary_kr": "삼성네팔, '스마트 업그레이드 가르마, 럭키 서프라이즈 차다마' 캠페인 론칭",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "엄청나게 유용하고 엄청나게 저렴한 65가지 괴상한 것들 - inkl.com",
+      "media": "inkl.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQUtORThPaTJMbmFDSlNWRDNaSjJRXzlLbUp2bDYxVzJTcnRPaHJkYkFlb005Nk9nZW5MczBkRFlOOWdHMFg4dnRKb3lLMjZkTE5Xbm5BQ0U1WDZxTWlMa1AtaEhPbHlfT1B3ZUdpS1k2YUF1V3RHbXJvYi1iX19CdFhhNndCellEajk4S21ydzZFQQ?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1789884169,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전자상거래 장벽 허물어지면서 가전제품 쇼핑객 온라인으로 이동 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWG12dlVQa0U5Y2k0VE9RdnhObjhTSVlaRTV4ZDBIMDZXMlQ1bkpscXlMZVNZdTZzdUF0bnBWYU1JLXRpRkhtX183dnJOTGtWZTlsLW1RY2pMMElQdkFTV0drR0g2OWk4dlJaWUtvcnNMTXpXTTFwbFQycVByN0NkZmlhQ3lTWldyM0xhU3ItTV9hSnpsV0xOMzFxLWF1SVhKOFE?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1789871345,
+      "summary_kr": "전자상거래 장벽이 무너지면서 가전제품 쇼핑객 온라인으로 이동 서울경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG, 아프리카 메뉴용 장비 공개 - 중앙일보",
+      "media": "The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wdXNyRTdleEdraU1Ldk1GQTdPTS1UTlQ2cV9maUwwTjNXUm9aTElkTjk3MUR0N18xeXgyT3FSZnhBbUtGUTRvOGx1ZWZ4VUl1RF92aUVCS3BhMXZvV1B4LUlYZGFiY2xscFFpMktlXzRLYjR4WWgw0gF8QVVfeXFMTW5IMlc0QW1WSGhraVJGT05UaW9lZ1NkTUhSVlRzWENXdGlEMy1HWVVMNFc0SV9keGdOWW9vWlhXcVlHVWlYMXNocDhIVGRMZERsaVlpcy14aV9xeE9QTHZQYmxDXzE1dEItWVhpdDFxTnFSZ3k2UHgxa0E0Tg?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1789866573,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Gadget Weekly: Asus Vivobook 14 Flip, Oppo K14 Lite 등 - Deccan Herald",
+      "media": "Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1R2a3E4Zmh5VWpjYXpaZE43ZnRETnA0cUY2WGktVWNDRWIzUDgzMUZHVlFTZ0JFUGwzZnBvNVN1RTdobHdXcmlzcVBrNmxDSE1qcl9TZ0Rzd2VTZGYtOG9sWmlnVEhpUFhMdUo2X0pYRmZFb25nLVF2XzQxZ21GVngzN0Fja2RhNURqRDV2Ml9lRXEyN1VZR3VqUm0yZFRESDV0elJ5ME9vdw?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1789864260,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG, 두 개의 팔, 10개의 손가락, AI를 갖춘 가사 로봇 개발: CLOiD가 세탁, 요리, 가전제품을 다루며 가사 노동 감소 시대를 열다 - CPG Click 석유 및 가스",
+      "media": "CPG Click Oil and Gas",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQnRyaTkyZ0FsdG9wa210RTZWcWJLb25rekNVMVBjbnc0RG1pRTVrQmdmUDRCZThnOUVaVmVkT1AtYjZHWTdvbk9remFCSTFjZERadVJtNXQ3dUJQZ0twdHg2TlVXeHpyanJ6TnRxcEJOTVhZTWl6NWVrWVdqU0lNYTJJY0pGUldEeWEwei1hc1ROUVZ6MXQ0ZWVxbUJQNjNZSjN4bDYxZjROZkNzRnZldmI3ZTBBNnVvemlxTE5VaFVMYzRHbFdjWFJieEt0djRaRU1VU1plQm4xSnhTbVFHeTVVLUFLZGw2XzlKVnJ0cG5qTjNpTGFCTk42elBVR2pGeGZXOFItVEM?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1789859100,
+      "summary_kr": "LG, 두 개의 팔, 10개의 손가락, 집안일용 AI 로봇 개발: CLOiD가 세탁, 요리, 가전제품을 다루며 Redu의 새로운 시대를 열다",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "슬로우 쿠커가 가을에 다시 돌아오는 9가지 이유 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONi1UYVY4SnlYWWY2ZG4tM19CNms2SDJySzloaGxqc3RDWDNYREZqLVBuVGQyeHBsZ0VFOWpNWjkteTBvUGp3WVpxckYta1JENlNtQkxOaHZLZm5HQnc2dHdUbmtfbnRuSU5hSklnSGN6WkZ5ZE01S00yQ0l6MGJ3LUQwTU5waTNQb2VWWWdCNnA?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1789858800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "투자자들이 주목해야 할 관세 압력에 직면한 3가지 미국 가전제품 주식 - Simplywall.st",
+      "media": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaG91bGdScG56aTFEVWEyaXhaTERkeWV5S1k0NUFCcFFobm13RUU1SE5VUDRsYUthS3hOZ3ZyX1NzN1dCT0VFMmQ5VXIwMF9NSC1qSGFTLXVfcUZIcTd3NThrTG0wX0RBRTlCaGxYZGp4UTNKSGY5N194eE12ZjVIZVdJUHZVRFl0eHRHZDZvWXdkWW5aa3dFMlJCbmVUcHo3dVBGQUprazhhQjRpMVFYM21sSlA5VzllVW1ibFFwRzVpcHpzTWJUaUpFdjlfUdIB0wFBVV95cUxNeUdrUTQzQWh2T2R2b3I4cTRnbjduR3Y0dmFub3lXNk16Zi1Ud3RYTUxlbHpfY05CVFVMUm9VcUVUaERhY3BMV3FZY0ZTcjN0RHJDb3JQT1Z5ay1hWVFVbzREZEdERGt0YkJHMFowQTIwNTdJdk1ocGpJTm5SMmF2TG1ZSXRKTjhFSUVwbGdUU2xnSkFxVnJGQUNCSmhGQTgtTElPR0tTQWg2dlZmdjltNlF1TjNYSkg5aDhfRDJBS0ZHalg3V194UThwYkltNFBmZmpJ?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1789850026,
+      "summary_kr": "투자자들이 주목해야 할 관세 압력에 직면한 3가지 미국 가전제품 주식",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "스토브를 대체할 가전제품: 로봇은 카메라를 사용하여 음식을 관찰하고, 열을 제어하고, 자동으로 저어주고, 사용자가 주방에서 나가는 동안 1,000가지 이상의 요리법을 준비합니다. - CPG Click 석유 및 가스",
+      "media": "CPG Click Oil and Gas",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZFZIWGRYWW1nd1AzZTJQUEs1VDVNMUxqczZqR0VOXzVzVXNrLTZLRlQyaUdaWGJYNnFhZXJzQkczeE9PcXRiYkRhQnZ5QUwyT2g5bHdYVjIxaklIM1UtbnBhQ1VqamtBdVROYlBYRXVKQmw3eVVrOFRRU01fN04xdWs2LTZGN2tVUzNOeUpRWl90d0hNSzFXM2QxNWdkdG91WU5FVnlwS0RZRi1kdGhKV1Q1UlNpUXFQQTRSZmx5ek9pMDE3UndzV0hGbDRmX1Uxc0RIMlRaSHFWZTJpZlN5WU9ZQmN3RTkwMzJxTlZHdFlBUTBOODU4TUFPODZoaVBMT2dpalV6am5pTHo5eTJZ?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1789841100,
+      "summary_kr": "스토브를 대신할 가전: 로봇이 카메라를 사용해 음식을 관찰하고, 열을 제어하고, 자동으로 저어주고, 1,000개 이상의 레시피를 준비합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성: 인도 AI 가전 시장 9배 성장",
+      "media": "Bing News",
+      "url": "https://money.rediff.com/news/market/samsung-india-s-ai-appliance-market-sees-9x-growth/54660120260920",
+      "time": "17h ago",
+      "pub_ts": 1789834320,
+      "summary_kr": "삼성은 인도를 AI 기반 가전제품의 주요 성장 시장으로 보고하며, 젊은 사기꾼들에 의해 연결된 장치가 3년 만에 9배 증가했습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성 스마트 가전 붐, 서남아 점유율 13% 돌파",
+      "media": "Bing News",
+      "url": "https://www.newsbytesapp.com/news/business/samsung-smart-appliances-boom-as-southwest-asia-share-reaches-13/tldr",
+      "time": "17h ago",
+      "pub_ts": 1789834320,
+      "summary_kr": "삼성전자는 인도가 삼성전자의 핵심 시장이 되면서 서남아시아 지역에서 커넥티드 가전제품이 9배 증가했다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "중고품 매장에서 찾아야 할 복고풍 주방 가전 브랜드 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVjNhX0NBR3ozdVFzd1NLSUdmSEpJdkM4RDJzNDFJeU0xM2hPUEptRWpXRzZzOXQ3cHRvcFltbzhyVThkeWp3Rnpkal81TlJnN2ViNWRqZ0JVbGNFQU9KejFFQnllYUk5cmVvS2R2X2N1MmxtcmQzMFFPV2ItajZTcEltQzluRVQ5THZwMTkyVFZtQXZucWRteXM2c2JQWDYweFUzYTJIQl8?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1789825140,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Aldi는 쇼핑객에게 하나의 주방 가전 제품이 바나나가 갈변하는 것을 막는 데 도움이 될 것이라고 말합니다 - Yahoo News UK",
+      "media": "Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04TjF4LTJMWjVyS21maGwzUjZjdHVFa0daUU5FWVpsaDNjSWNTVDhIOU4xTkt6d2d0N3Q0UXdCaFhlZFJycGtQNE1UQk5OWlpmT0UtNnFFeGd6UG9OY29QVVhvNTRxNjFJNEtOdEUzSzJzSWIwNWY5Mi12QU0?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1789825140,
+      "summary_kr": "Aldi는 쇼핑객에게 하나의 주방 가전제품이 바나나가 갈변하는 것을 막는 데 도움이 될 것이라고 말합니다. Yahoo News UK",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "스마트 홈은 죽었다: 스스로 운영하고 싶은 AI 기반 홈에 오신 것을 환영합니다",
+      "media": "Bing News",
+      "url": "https://www.ynetnews.com/tech-and-digital/article/hkugjlofzx",
+      "time": "21h ago",
+      "pub_ts": 1789819560,
+      "summary_kr": "베를린에서 열린 IFA 2026에서 가전업체들은 사물을 인식해 움직이는 진공청소기, 오븐과 조화를 이루는 냉장고, 로봇이 선보이는 등을 선보였다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
