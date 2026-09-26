@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-26",
+  "date_display": "2026년 09월 26일",
+  "generated_at": "2026-09-26T18:38:17.041625+09:00",
+  "generated_at_display": "2026.09.26 18:38 KST",
+  "category_counts": {
+    "Market Dynamics": 7,
+    "Samsung DA": 2,
+    "Samsung Bespoke": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 11건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 3건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 3건이 감지됩니다. 주목 기사: FOTILE Showcases Next-Generation Kitchen Innovations at IDS Vancouver 2026 - PR Newswire Canada. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 7건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "The Sink-Side Upgrade Making My Kitchen Feel More Ordered Ahead of Hosting Season - Homes and Gardens",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTThaQ1JBdGpjUmwzajZudlBzT2k3SzUyY0t1bHljMGlQbmtPRDA3WVgtdW1MZGIySzJwVDV6dlg1UlZBMDUyZkFkN2x3VFdpcnBNYU9oeUtLdl8wTF91YmR3SzhNMXdyTGtESDBZMC1sMlF6T1pPb1RlUG45bUY2eGhxSnNUVnV3b0xQVEJUeDAzNzdpX2pTNU9iN3FWemVjVlRFbUJWZDRERHhhOEE?oc=5",
+      "time": "Just now",
+      "pub_ts": 1790415000,
+      "summary_kr": "The Sink-Side Upgrade Making My Kitchen Feel More Ordered Ahead of Hosting Season  Homes and Gardens",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung bets big on AI-powered homes as connected appliances gain ground in India - Telegraph India",
+      "media": "Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV1BGVm1tQTlXUERpa1pBZ1hfRFRKbE1saG94LXZZUlAyVXFVWF9CSlZpYU1fV2lHdkZKcjZhUHVLUHZ5WXpQWmdReGNEZmljYk0wRzl4aGtxSmJmQnl0MG5yUEFENXF5bllPVFFiNHREZnF5dF9acUtUZVJtMjlkYjNBYmFPZFNkeGl4bXpURTU1U1VLQ3B5U0FZc3Q4VGlkVFVFaWN0WVhPTFIzR0lhaEYzMUJPVkJ2aF9hN3VxN29nVlhBLUJoTC1XVXBQQ2JhSXF3N1JMYlp4aXJGUl8zdzRBUkYyU2RF0gHuAUFVX3lxTFBuTVE2d2g5c3E0c3lGeDdmRGU2QnNnM0ZJSG9ZbDZXN0E2UW9WR0JjMzNWeVRiZTRfQ0N1VXlVenlOb3IxSUdDVDZpZzlaNHl4dXpaX1RWQnlXa3hjWVhxYmI3enJuRXpmQ1FvMjYyREVfbVUyd295NFk2YXZzRTFPSDVPNVpRTkhzQk5EbVYwN0pKT3BVSjUxV1E1Yk9jdVY0OFlMbXJ6Uk1TNjJxd1pVQVJkTGJkU0N3UEs4eTJYSDNSeHZNSDRlazRJbk1oUGxMTTg0UHp6ZW9ZWmdCQl9zcHROZ0FaV1ZpdnczX0E?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1790399201,
+      "summary_kr": "Samsung bets big on AI-powered homes as connected appliances gain ground in India  Telegraph India",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "FOTILE Showcases Next-Generation Kitchen Innovations at IDS Vancouver 2026 - PR Newswire Canada",
+      "media": "PR Newswire Canada",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSW5JWlVuUXdXVFIwWVl1TDlXWGpVb3NWaWg5OUZsejYwWXl1X0VPbEZNRnRObXVwVGxMSjVoaFd2SndiTTJQNzdJRjRIbjNlUzV1d3dmUVo3WDdGTlBORFZNWjR0bl93N0FTdi1tS0FxNmY4ZWhmNFhwUnY4LUJFT0F5amxIcGpRaEpVcF9BaVdENUFCOTJxRmFuSTRWOWJCVjRObWRwR0NYWVhFTmRacXEyTWRQWWJ6VU1vcjRWRHQ2QjVGdXc?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1790380920,
+      "summary_kr": "FOTILE Showcases Next-Generation Kitchen Innovations at IDS Vancouver 2026  PR Newswire Canada",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Is It Time To Ditch Gas Powered Appliances? - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1lqTmVFaXZ1R29UUkJVV1pxRk1BMWxwRGRWdnd3RW5QSk5MSFJ1cEFKSjBsOGxMWEw1LWVfU2Rvd3FZV1NjZmJGUWlKQ1c5SmwyTTgtaUJudnRyc1J3N2Y4YWg2bGxiYTV4QnRfaVltdnBFWlVBTlR1MjNNVS05VW5pZnJPWmFGbHVDVWFfYTlaNXlJSVIwMWVLT1JyRm5RX2hISXZVNVA4eGxQeDJSS09DRQ?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1790369100,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "6 Highly-Rated QVC Appliances That Every Kitchen Needs - Homes and Gardens",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekRvMTVUaXlGUHJOR05BQ0JQMEVLcml6NWZxWjJDQ0UzS2kyT3ZaWmRfbmpPTUV2elFyZWlSYmhMLUR3NnF2N083NXpwS1U3REZad2hNWEtMZy1jNUlVTERtSEE3QVc3RmRRaDMtb3RTN3lWWXdqOFRwWXR1MjBlNFA4XzFucUE4VnRfNFBsVTJfSjIwenpnUjBNcm0?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1790357712,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "10 insider tips from experts: AJ Madison opens a massive 16,000-square-foot Houston showroom packed with live luxury kitchens and major appliance deals - Secret Houston",
+      "media": "Secret Houston",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjbUdlVmQ4QVFWdnBTMVdtejlHUl8xRFh2aFVCZkpxUzM5V2hHa2ZRNURhZkdJdmpGX3ZJWU1EUllBdHBuZUxjU3BQNG5kTU9xZW9RLWhEeHIwQ1VKVWlNSUVsSTduMTZCWEl0djZHZ3gzZG5ad2psUw?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1790344457,
+      "summary_kr": "10 insider tips from experts: AJ Madison opens a massive 16,000-square-foot Houston showroom packed with live luxury kitchens and major appliance deal",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Sharp Brings Kitchen Activation To PPA Tour - CES | Twice",
+      "media": "CES | Twice",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWE5Gb2VySkI0N0czbUplWHR5NFFQUmJpdkd2cXlKWThlSWpwMVhNNlRNWW44RlpDUm5wWllQNGdNM1R6YXVDR1MzbllPY3J3cjVDTV9ITFRVVW1VNUw0Qi1uUVJlZk1tZmxHNnJDZjNnWlpOVzFZR3ZiUUwtVVdwY3o1VHZTU1h3andEcEtxUFVLR2R0NUZZ?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1790341644,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Get Your Time Back with Samsung’s Intelligent Laundry Solutions - Samsung Global Newsroom",
+      "media": "Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYUdqRWtmMW9pODRub0JpQ2VTS1BBUGp1ZDY2azJJZWtuckl1QmJ5cjhhOS0xaFJpTFRrNGJEa25iT25FSjdmTHBvOWxDZ01KaEE4Mjhjd09jcW5LRWpCVXZoWFFWeUViYVlGN3lJcTMyelRWT0hiRGlLNzNZX3k4MTlBUXladEhQSldQN3ZxRmk2N0hU?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1790340667,
+      "summary_kr": "Get Your Time Back with Samsung’s Intelligent Laundry Solutions  Samsung Global Newsroom",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The Dangerous Dishwasher Mistake You Didn’t Know You Were Making - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fMzhrZk16djhZdFpIYTJqVEJSRWxRTEt5bW5OU014dkR0Vi1keFVDNFJ3WUdWcFZYQUU0RVYya2xENXlDWHM1Q1hlMTc5RFZKM2pyanNjRUpPek1WdXdnWkQzMlR5MVBfanpGWVZxUVZWdw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1790337600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung's AI fridges stopped cooling after a botched update in Korea",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/technology/hardware-and-devices/samsung-s-ai-fridges-stopped-cooling-after-a-botched-update-in-korea/ar-AA2cYzjE",
+      "time": "22h ago",
+      "pub_ts": 1790334193,
+      "summary_kr": "A test software update meant for Samsung’s labs went out to some Bespoke AI refrigerators in South Korea on Sept.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Make This Heritage Celebration Weekend Get-Together More Special with Samsung’s Blue Tag Sale - Samsung Global Newsroom",
+      "media": "Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDNsdTZPN0NzcVJVanByeE03bXUwT0l6NzB0LW9KSzhsOUE2VGFCenpGTVlnM1hpX1FSLUFyejJfbThEd1pDQ0puelBDVTc4Vmt0ckNDZTNvQllvRVVOc2F1c29GUnptc2w5bjA3OUE1YWQ1cTYzVF9YMDZhUkp0cW1HMER2eGt3X19qNWFGVlRHSHc2TXBhRlBQQVhHYjBpckljRTRzME9oazNmY2l4OHhmYVRvazRpdUNtVg?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1790329468,
+      "summary_kr": "Make This Heritage Celebration Weekend Get-Together More Special with Samsung’s Blue Tag Sale  Samsung Global Newsroom",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
