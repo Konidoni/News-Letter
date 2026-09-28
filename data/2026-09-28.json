@@ -1,0 +1,371 @@
+{
+  "date": "2026-09-28",
+  "date_display": "2026년 09월 28일",
+  "generated_at": "2026-09-28T20:21:04.513098+09:00",
+  "generated_at_display": "2026.09.28 20:21 KST",
+  "category_counts": {
+    "Market Dynamics": 8,
+    "Samsung DA": 9,
+    "Competitor Analysis": 4,
+    "Technology Trend": 2,
+    "Samsung Bespoke": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 24건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: Samsung Electronics Expands Appliance Subscription to B2B, Targeting Hospitals, Hotels, and Banks in South Korea - finance.biggo.com. 경쟁사 동향 4건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 8건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: LG BRINGS K-LIFESTYLE EXPERIENCES TO HONG KONG THROUGH CULTURAL COLLABORATIONS - PR Newswire. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 4건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 4건 수집. 주요 동향: LG Electronics to hike AC prices by 5-7 per cent from Oct 1 ahead of festive season - The Economic Times. 시장 전반 기사 8건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "LG BRINGS K-LIFESTYLE EXPERIENCES TO HONG KONG THROUGH CULTURAL COLLABORATIONS - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc08zSGdCMUd3MWJ4cDliSGUxZ0kwMUxlZ2NjM0VFLWtJZmJvcThyYzRmZXhYS0tNb2JpSTBIbFVhMXZORTNrZkxVaWdkUTdIcE5oc004RDZRdnZ3b0RQRFNsUTdHQ3duTGtlMVc2WEtPWDFoV3ROS0M0N2V0bGhnNmEtNzNXUWNLeGdfLUZFOXo2bXEySDhPWkpmSkN0NS1pMFMzeEZjaE9TQXBOUWY1M1dSdkVuOWc4SnF0N3Bfemh4MFQ3Z3d2Y2lJdDBqTFRJQ2hVRmt3?oc=5",
+      "time": "Just now",
+      "pub_ts": 1790593020,
+      "summary_kr": "LG BRINGS K-LIFESTYLE EXPERIENCES TO HONG KONG THROUGH CULTURAL COLLABORATIONS  PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Nears 1 Trillion Won in Home Appliance Subscriptions - Seoul Economic Daily",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlpxS0NBdGZZTnk5aUtOTkJYQ2tqYTZ1OXRfV1VkbTVCUmJtZFJZSlJyQURuQUtXSFh0QkhGX3ZTVUd2MVJDVnFrVnByZWhCX0EyeHo4SkpsNlEtemRVSnJhT1htNW0zMFVyUWFWQlVGMWF3NjlCcVo5dWlITGJGVFRvcDd0eFdrTTNMVVdJZWZwNVFtam9sLUVncGdSbkk0S1pCbw?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1790585275,
+      "summary_kr": "Samsung Nears 1 Trillion Won in Home Appliance Subscriptions  Seoul Economic Daily",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Elica: Specialist knowledge counts - kbbreview",
+      "media": "kbbreview",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LdW1LY2FCWmg4NTBxUDF2akw4YkkxR0JjdHhHRVZIWEY3RlJsX0VIOEY3WExnRWVhUzdIWUwxelBHOHdWenkyTERzdXZkZmNSUWlhVldRaEc3ZlM0THZEOHdKVF9EWUlGZzFlZGkzc1BTdFFHeElOanc1XzUtcjQ?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1790578800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Bertazzoni Tackles Induction Power Limits With New Cooker Technology - smarthouse.com.au",
+      "media": "smarthouse.com.au",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTEZrcUZHUmlPOFhXRnlHTmpWRVNSWTZMdlJJcTQzTzZDUmZReVMtZi1Sb0N2T29WZ1Nxcjl0X0VTakpuR1VIVlRQaTE2d2xxTXdIaGpjRi1haUtoU0FyQ2pmeDFIWkNUTFFoelhKOTBDOVpMSm1FMHNXemVZcXhCcGl1ZXpDRFNlQ04ydzhWRGY3NUlLaENsaHJsZm4yN0M0?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1790578500,
+      "summary_kr": "Bertazzoni Tackles Induction Power Limits With New Cooker Technology  smarthouse.com.au",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung revamps Korea appliance subscriptions with AI, expands to B2B - CHOSUNBIZ - Chosunbiz",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5NmV6NHA4Q2RSQ2VTSVVTV1l5VnEyb2lTcVRLdE5XS3M5Q3dycmdJdE1DeWdSR2M2dTVwS2pTbXp3M2xZNkNxSzlSWXV3aU9tNWctTWM4QXRaQ1hFQUc2bVU0VU1HenRiT2MzR21ySGxlV1Z5QmJxSjR30gGOAUFVX3lxTFBWMEZfOThHRjdyeGlEempUNzk3MUYtUjdwQ3Zkcy15WHE5M3ptaGNRczlMV2hpcmxYVEwzcm9BMm9YNFZQc2ZvQkQyTjdSVUNhX2Q3X3lUUi1mT0hyMFptaFdaeW9TRmlKNnk2MmM1eHB3Uk0tLVBySDJlQTF4SEtNOGRPeEkwNHR6WnRsZGc?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1790577240,
+      "summary_kr": "Samsung revamps Korea appliance subscriptions with AI, expands to B2B - CHOSUNBIZ  Chosunbiz",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Electronics expands appliance subscriptions to business customers, citing operating cost shift effect - 디지털투데이",
+      "media": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS0pWeG1vbFVIY05vcERZaHIwY2NuOVY4R0RGZVBVZjZrbURfdnRzZWdDX0JfQW5TVkhBUF8xWVI5elNYSEFxX3BXbFo3UUJoc05XcGtvTXFQeEhwV3dhUEdkdHFEZDQtb19lUzBsWFVZRlI3MTAzV0U3Q0JETFRyck9oamg0RTFleFFrWWl5bEszS1RlUUZtVWZUZTZUYXZPRHh6Z0tPV3E3R21ua0t0dXpMdGlyaDZDcFhWSXgxSldYX3AyeEJXanRaZXBFSVNFTzVXb0FNRF84eVVaRjk0SA?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1790574874,
+      "summary_kr": "Samsung Electronics expands appliance subscriptions to business customers, citing operating cost shift effect  디지털투데이",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "‘Onions costlier, appliance price hikes loom’: Why is PM Modi silent on 'festive fleecing', asks Congress - Telegraph India",
+      "media": "Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdDl4YTNhbTZTN0tYVnVEX2IyZjEwUWVnc2FabmV1OTVWVkktT2E1X3g4MUd0dGc2SHBWRFh1QUFvWXNoY01ZTGFGSkxwNHR6OEZZTnNVQkpQV2MyNFdsR1pUTW82aGIyMGtpRV9LLVNHUXZCNW15RENxM1J3U1I3Um4wV2Nia2huWWp3M2JHTTFDcndWeG1oUGFmaWxoWEtWZnhCT2xYZjRrMlhmWmEzNDdhWU5WVjdrSFU3eDNYQ0lDVnFMUmZianc0TF9fN3UxY2o1aFVFaW9sQXlJT3lKMUxSMURLU1RZaE5mMDRObGo5V0tIbFlOTS15dWHSAYICQVVfeXFMTkxQUXBXMnFkdnRiOEFDdjVzc3VvM1d2c1ZzaVBEWS1MZ2IwQjBFclo4dkF2bXZFYk5PYlN6d0wyWnZidnNCZHVzbUE4bmFmYWVnVnBKaG9BeEpOd2pRbTJMV3NqSmJTb18zZmVyb3RBQmVFNHVMR0o4cDlIaXBkdERjVmRwVGFWb3Z0Z3YwNVR1N1MwWkVrTTl1T2RtNk1wcFpVNWNuZmtMbnlrbHByUnBIUEV6QXZaaUluc0l0cktRaWJYSFN2RmV0VFROV3ZQekJIWW1SOEplRzhKX2xZX0xpYV9XTTFrMTVlSy12bGMwaERQcXgzT2RRWXdzeVpvcjNB?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1790572994,
+      "summary_kr": "‘Onions costlier, appliance price hikes loom’: Why is PM Modi silent on 'festive fleecing', asks Congress  Telegraph India",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Electronics, marking the second anniversary of its AI subscription launch, unveils comprehensive service overhaul… officially enters the B2B market - starnewskorea.com",
+      "media": "starnewskorea.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQl96VmV2NnFvbFd1QmY1bEk5SDdiUXY0dEltSUZRUGpRcXBrWEQzSzRnVm1OY0RqWk1wVHhsRUNObXBNdTBySkU2M1JwNTRxZFZDSWkzU1YySlhyVms0Y1pDTWVkYTFCTnQ4QTN0MUhlbzlESjVPNUVLSWJ0VVZyaEVnUQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1790572850,
+      "summary_kr": "Samsung Electronics, marking the second anniversary of its AI subscription launch, unveils comprehensive service overhaul… officially enters the B2B m",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics to hike AC prices by 5-7 per cent from Oct 1 ahead of festive season - The Economic Times",
+      "media": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWUNYenRYMDFFcDMxTUlLOTcxaTdTS2xueE56aTdyRE9rNXRSMDBLZi11UnNMMnRsTlppUGwxcTg3aXFwVzBHQkk1b2dPam1QdzRXbXJrNzRBOWV3ZmVlNlFHZHRaQmVYN0pYSkExQ2lrU1YtTFNvOHh2dXB0eWdFaWpGUFFIOTZId2R5M25HUzROaFlabHlaWW5qd3NHakZydXFNVUY4MWZXMUFLZG5mMUxELXZvUk9wVm9xb0FTbnVzcUd6V0ZxT3BSU3FnN2JuWnFLQ1EzaGgwT3V5bm40WUdUUFQ3Y2MwOEdQSUdqYVhHbmh4eWF3VFVSNNIBgAJBVV95cUxPS09yUU5JWmptdGVVTFMxaEFZdTlWRlF0VE84cXF5R1kxcElUUFVTX2NzakZpeFE4QjEwN1pGM3p3VFNmMGhCSGtjUVRBNFU0TGdkd240dFdMZEpWVTVQd1dtZDAtdEdBTFBXMzlmLWczSEtfa3Zndzc2QlozMGl3ajJVcnlQWjNNRzVFTjZnQndLUXUtR3EwNERTQTRkMGhoWkQzOUNHN1pPQWcwY2lOSVlsNGtjYkUyOVZtZVBJOFdzVU5rdUNGRUIxRlg5el9EeVNUWUl3eU9rQjRROHhJQUgwZXJWa1djQndMS1UxRzJfazFObS0zSmZqWDFpal8z?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1790572754,
+      "summary_kr": "LG Electronics to hike AC prices by 5-7 per cent from Oct 1 ahead of festive season  The Economic Times",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Takes Appliance Subscriptions Into B2B - Businesskorea",
+      "media": "Businesskorea",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YMXE5OG5WMDQ0Qk1lZHhfeGthS3FaTGxzM3FNbXRWMTJvX21WVS0yVzVoV3FfOUV3aXZBVTNQcWstOXhXRTI4anJLZmZfU3dEeVJyQ1JxWld6NDhTYW1MbllBVlEtbFRLa1MyMDktRjhvMFI5?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1790569310,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "From homes to hospitals, Samsung widens its appliance subscription - Korea JoongAng Daily",
+      "media": "Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTElZZk1NS3pKN3JiOXZLUkZFT19RSDY5NUpBVm1PMEJfcXdKRDVpNXpDX201V0o0N0VEcVVyb0I3X1VvUTF6WXJTaG1PWkFlQW90bS0welROZm9FLVlSTFd5VEhYUWgtdEx0MTAzTEl0QktrcXRwRDdMbXJTdm1qM3hRMFRQd2ZqQ3UtU0gwZDRGaktFNzh5dUMxM0VmSWMwRkR2SkdHZEpTY0lvcnp1b2x0dzNZc08zN1E?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1790566458,
+      "summary_kr": "From homes to hospitals, Samsung widens its appliance subscription  Korea JoongAng Daily",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Electronics Expands Appliance Subscription to B2B, Targeting Hospitals, Hotels, and Banks in South Korea - finance.biggo.com",
+      "media": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13XzloN2NMR0FUSU9RVnJOdldqUkhKVC1VdUp1YXVFX1dpSEs1S1AyM083U19feGgtMGJtRjZUVF9uSFFHcGtmM1h3N0dLbDVSVTExWHZyMjhIU25oZlVnT0JWVDNQSlV5RkU3SG1DOEhMS2RUOWc?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1790564700,
+      "summary_kr": "Samsung Electronics Expands Appliance Subscription to B2B, Targeting Hospitals, Hotels, and Banks in South Korea  finance.biggo.com",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The Luxury Appliance Brand You Might Not Realize Is Owned By LG - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jQ0hmb2dJZnpqd1ZpZ0pJTmpPTWxHbUM4MHBfSGl3Y2R3ZVhzbEhZSnQwOWx4Q1pZNHcyYVQ2b292ZzJzdTVhM0REaHlWa1pRbzcxV05pVEExQzJzLXhGQTZaSEFNaGRJZ3BCRmJvTDNZaXhVeF90eFJBQ3p4Zw?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1790563500,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "3 Appliance Brands That Are Owned By Bosch - Mashed",
+      "media": "Mashed",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84NGhOZnhFT0ZuVldSbUpwdG5uRGlRVEZsUEpBUHlXRlJ2bHZ5OGV0c2lkSGJkZVRIV253a1JuWnp4Zl8wM2RsZzJvMTJvVlhUTk8xcS1GQUVqaURDa2ZhLXdOcnVCOVpMaDJEOGtXVVMySXB4Nkkya3hBUQ?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1790560980,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Electronics Makes Major Shift with 'Samsung AI Subscription'... \"1 Trillion Won in Subscription Revenue Nears, Dominating Market with B2B and Customized Care\" - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRaXkxYTRPR0Izam9yWE93X25IZk1tTWVZUzB0ckcwTEdVUEc0QUs2M3A2VnlJdGQzekEwaEQyd0dobm81UWRQMjVqZjlDTXY0OHN5T0UzVS1SYS1pZDdrUGZRdDQ?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1790560800,
+      "summary_kr": "Samsung Electronics Makes Major Shift with 'Samsung AI Subscription'... \"1 Trillion Won in Subscription Revenue Nears, Dominating Market with B2B and",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "“Do we really need to replace all our appliances at once?” Samsung seeks to turn businesses into regular subscribers - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQZnVnZExGTzlwZ3lmbkJobjFLWUFIbl8xdHdyeGlReldYc0NkMF9uLUNmQlFoVlBoRUF1SERIUWlJMDJManFSaVpicjhBa0IzRzNj?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1790560278,
+      "summary_kr": "“Do we really need to replace all our appliances at once?” Samsung seeks to turn businesses into regular subscribers  매일경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "AI Washing Fatigue Drives Demand for Tangible Benefits - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSERWX2I5UkNqNVdDdnRZVnJQNlpYX1VZa1JpbjNiUmlsOTJUM1U4bHhjYlpVUG9RUWUzMHdwVGNaaHQ1bW9xM3lEVDRrS09JYkI2dGlXaFdTUDJaMDNnNFpwWW95UmJ2bjVxbWdXd05hQlY5Wk5XeTRSUjRKTktjYVZQLWRuaTJI?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1790558892,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "TV and appliance prices set to rise before Diwali: Here is what will get costlier",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-in/news/other/tv-and-appliance-prices-set-to-rise-before-diwali-here-is-what-will-get-costlier/ar-AA2d5XSu",
+      "time": "11h ago",
+      "pub_ts": 1790553180,
+      "summary_kr": "If you are planning to shop in the upcoming festive sale season, know that shopping for televisions and appliances could get more expensive. Some cons",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG, Voltas, Blue Star shares rise, as electronics manufacturers set to increase prices of AC, TV by 5-8 per cent in October",
+      "media": "Bing News",
+      "url": "https://www.zeebiz.com/market-news/news-lg-voltas-blue-star-shares-rise-as-electronics-manufacturers-set-to-increase-prices-of-ac-tv-by-5-8-per-cent-in-october-402950",
+      "time": "11h ago",
+      "pub_ts": 1790551860,
+      "summary_kr": "Since January, air conditioner prices have risen by an estimated 12-18 per cent. Washing machines and refrigerators have become 8-12 per cent costlier",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "What happens to home appliances when smart home cloud services end? 3 preparations to check now",
+      "media": "Bing News",
+      "url": "https://note.com/asuraworks/n/ne9896860e032?hl=en",
+      "time": "12h ago",
+      "pub_ts": 1790551140,
+      "summary_kr": "What if you tried to turn on your air conditioner from outside in the morning, but the app remained silent?The appliance itself is on the wall, but th",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "AC price hike: Bosch Home Comfort, Blue Star, Voltas, LG Electronics shares climb; details here",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-in/money/economy/ac-price-hike-bosch-home-comfort-blue-star-voltas-lg-electronics-shares-climb-details-here/ar-AA2d5pTQ",
+      "time": "13h ago",
+      "pub_ts": 1790547236,
+      "summary_kr": "Appliance manufacturers are set to raise prices of air conditioners, LED TVs, washing machines and other consumer durables by 5 per cent to 8 per cent",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung smart fridges stop cooling after faulty update - Mashable SEA",
+      "media": "Mashable SEA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVJsQ3ZuRk94Q19abVpfQXJIYWFkQk5WWXoya2RhOGozcDQ4SWl0azNFTkluNE1DaVBQTkhScThheHlSWTk2NlRUTEl2Y0RBQ2otQ29sQ3JRMk1kRjZNTUYzQUFQTUtOeU1RWjhlbXQ4b3U0RVVhbDh6aUFvLU1odVJCdFItNGlXeEZjLUp0M0RnUlNKcGwxOGNNZVk?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1790527561,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Why You Should Avoid This Whirlpool Induction Cooktop, According To Consumer Reports - Tasting Table",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVGlQdXRNQXZPUnpoUmdFUUJWNGYxTmxtV1p1MlQxOGl3STVlT1d4RjQzQWpPRHhLNzkwdGE0N011eGpUS2dUTFg3bUw2akJndEZabkdWUUJzMFA2VzRBVzlxV1dOUlhMUEtSQ1hBTjd5d195YnZNSUhCRHRRVnk0Vk52SUxQOGFleEdRdnlIaG1rZw?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1790514600,
+      "summary_kr": "Why You Should Avoid This Whirlpool Induction Cooktop, According To Consumer Reports  Tasting Table",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "5 Kitchen Habits That Are Quietly Inflating Your Energy Bill - Real Simple",
+      "media": "Real Simple",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdF9RbGFxNUhhX0QyVGttZDA0SnFHRlJkWUhiR3Noalk1cW5FRFZSS3VCcjNfWHd4VmhyLWE1dm9sbXl6SmtTYjI3Q0NjY0lIV0x5VGp5Y1NMQ2xUN0NKRVRoZDQ2ck5YZWtKeE1Rbmd6RzNEb053dHJpQmRZWHpycW5qaHdrTTA?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1790513700,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
