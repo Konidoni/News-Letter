@@ -1,41 +1,69 @@
 {
   "date": "2026-09-30",
   "date_display": "2026년 09월 30일",
-  "generated_at": "2026-09-30T16:19:14.203614+09:00",
-  "generated_at_display": "2026.09.30 16:19 KST",
+  "generated_at": "2026-09-30T19:50:06.395471+09:00",
+  "generated_at_display": "2026.09.30 19:50 KST",
   "category_counts": {
+    "Market Dynamics": 11,
     "Technology Trend": 2,
-    "Market Dynamics": 9,
+    "Competitor Analysis": 2,
     "Samsung Bespoke": 1,
-    "Samsung DA": 2,
-    "Competitor Analysis": 1
+    "Samsung DA": 3
   },
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
-      "title": "주요 리스크 0건 감지",
-      "desc": "오늘 수집된 15건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 19건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: Haier, Godrej, Blue Star가 가짜 전자 폐기물 재활용 주장을 탐지하지 못했고 인도 공지에 따르면. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 4건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: Samsung Unveils Three New Built-in Kitchen Appliance Lineups Designed for the Contemporary European Consumer - Samsung Global Newsroom. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "title": "시장 기회 8건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: 소비자 가전 스타트업 EDT, 제품 포트폴리오 확장을 위해 240만 달러 조달 - Inc42. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
-      "title": "경쟁사 기사 1건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: Shop the best early vacuums deals for October Prime Day including from Dyson, Shark and more - NBC News. 시장 전반 기사 9건, 기술 트렌드 2건 함께 검토 권장."
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: Haier, Godrej, Blue Star가 가짜 전자 폐기물 재활용 주장을 탐지하지 못했고 인도 공지에 따르면. 시장 전반 기사 11건, 기술 트렌드 2건 함께 검토 권장."
     }
   ],
   "articles": [
     {
+      "category": "Market Dynamics",
+      "title": "소비자 가전 스타트업 EDT, 제품 포트폴리오 확장을 위해 240만 달러 조달 - Inc42",
+      "media": "Inc42",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWXNJSzBneVpwaXJTTzEtd2M3QUE3bnVJdDlGYUNhUjFKNzBidWcxVXdROW43OTZJVkZORjFwT1VMaTFLLWstMnhPMkNmSnBsN3g0STk2QlhlQl9mZUc2N2tDeV9yZjVCeXB6UXk5NWg2UHp5NkJDRmtaN0FsQV8tRy1ZaDMzcWlEa0V0eXh6czQ3VjZCVllVTWFPZF8?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1790759361,
+      "summary_kr": "소비자 가전 스타트업 EDT, 제품 포트폴리오 확장을 위해 240만 달러 조달 Inc42",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon의 9월 말 할인 상품을 찾아보니 최고의 주방용품이 최대 80% 할인되어 있습니다. - 식품 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZktjTTBTSWJRUVBla2FsYXRUY3M3eVhYNWxjMDc5NWphMkxveWFVQ09KTFEzdFA4NUF3TmgzOVlJNkNrZUVxZEhCcE9USlktNG9wdnRUZVJUbzhyaUx1cm1xZ2hHNk9lc2RTMjRFLTJlWTgydTdEanNSOHN5aEhCTDAtTQ?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1790754300,
+      "summary_kr": "Amazon의 9월 말 할인 상품을 찾아보니 최고의 주방용품이 최대 80% 할인된 음식과 와인을 발견했습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
       "category": "Technology Trend",
-      "title": "Hisense and Gorenje showcase AI appliances and smart home innovations at IFA 2026 - Межа. Новини України.",
+      "title": "Hisense와 Gorenje는 IFA 2026에서 AI 가전제품과 스마트 홈 혁신을 선보입니다. 새로운 모스크바.",
       "media": "Межа. Новини України.",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yMzFqOENQbXllRTdXdTJZWEEteGdoVElDYkxTSlNLNkxVNmZraGVaeGhYYWZhTm5JV2dQcTFubE1lMTJvV01yUGhkY3gxTC1qN2hjOVFJSENRclI4cG1HS0ZjOE1icm5jbGVLSmhCWm1vbVk?oc=5",
-      "time": "Just now",
+      "time": "3h ago",
       "pub_ts": 1790751464,
-      "summary_kr": "Hisense and Gorenje showcase AI appliances and smart home innovations at IFA 2026  Межа. Новини України.",
+      "summary_kr": "Hisense와 Gorenje는 IFA 2026에서 AI 가전제품과 스마트 홈 혁신을 선보입니다. 새로운 모스크바.",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -43,13 +71,28 @@
       ]
     },
     {
+      "category": "Competitor Analysis",
+      "title": "Haier, Godrej, Blue Star가 가짜 전자 폐기물 재활용 주장을 탐지하지 못했고 인도 공지에 따르면",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-in/news/other/haier-godrej-blue-star-failed-to-detect-fake-e-waste-recycling-claims-india-notice-shows/ar-AA2dg1At",
+      "time": "7h ago",
+      "pub_ts": 1790736852,
+      "summary_kr": "인도 세무 당국은 존재하지 않는 전자 폐기물 처리 서비스에 대해 세금 공제를 잘못 청구하는 주요 가전제품 회사를 확인했습니다. 공동",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk",
+        "watch"
+      ]
+    },
+    {
       "category": "Market Dynamics",
-      "title": "Kitchen appliance startup EDT raises $2.4 million in funding led by Sauce VC - The Economic Times",
+      "title": "주방 가전 스타트업 EDT, Sauce VC 주도로 240만 달러 자금 조달 - The Economic Times",
       "media": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeF9sbnFaalY0MkRqc1JibWxjdGtiY25zeDBZT2ZNdkRnN3JpSGJJX2h3aG05c2VqdS1MNHl6X3dYZnFxVmstT1JSaUp3Ukh2UjRpam1rdkpQMlpCUXkzOVNoelVZbHFwRXpyRnYtMWlXTzd6TFNYUWg5Q3c0REpBa04wRGRnYV9WbEFyV25wbU9WdlN1OVJWXzBsdGh2T3BDendCN053enhkYWJ6Y1RVNm12NHo2RnlaLTZxWjRlUXRZQXNjM2lFekNnUlVMbnJiWWFmQmRjWXMyek3SAeABQVVfeXFMTlVTYWl2d011NHdscVg0SWZEc1oycWN1bEFicGVEUmNMOENIX1N5NktZRTJIcURuMExtSm1jb0doa3FSeENvblFCS2gzd2pSMnBIZHJJS054Q2xvNXdpalVKZ2FxWTN0LVV2ZUpRbmw2bjZ5Rk1oR2xJRWs3VjAtWkgtSFVLNFhiS3FiRS05VE5iOVZDNFNlY3pIcFZ4LTViME9lODBtdzJTQVFIblZoSTFCMGJvTmg2WkJGbDByeXZnM2RKOXhxQ2oyc2ZPQTItRlpNX0paUGxmY0NqbVJtTkU?oc=5",
-      "time": "6h ago",
+      "time": "10h ago",
       "pub_ts": 1790728200,
-      "summary_kr": "Kitchen appliance startup EDT raises $2.4 million in funding led by Sauce VC  The Economic Times",
+      "summary_kr": "주방 가전 스타트업 EDT, Sauce VC의 주도로 240만 달러 자금 조달 The Economic Times",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -58,12 +101,12 @@
     },
     {
       "category": "Samsung Bespoke",
-      "title": "Samsung tops nine KCSI sectors in South Korea, led by TVs and phones - CHOSUNBIZ - Chosunbiz",
+      "title": "삼성, TV·휴대폰 앞세워 KCSI 9개 부문 1위 - CHOSUNBIZ - 조선비즈",
       "media": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zWHhvUE1tX0hMQzBCYklySHdkc2cyUEhGS09aZjJLamNBeEhsR3ZmTzU3VWh2Mm5hRjVNMkMwd0xmTGNtam80Zm9mYVdzLWNRMlBocGtoeUlFYjMxelY4VVJJdVIwblF3SlRXMWdmMnpVRWdzejRnVWx30gGOAUFVX3lxTE4zN0hHNUk3aFlGUHY2Z05NTGlrOGtWQXVQUEpmSmNmT0wxMi0zbHMzZ25jUjFrT3JxZEpuTHJ5ZzBSYjgyb28xMDdwR29HZXNLdVZSR25GWTNlWTVkZ0Zsb1o0ZnBuay1lYkJUNWhJQ0M5SmVwYURYMDZLNUluZUl0ajVLRDdwc2xXNFdORXc?oc=5",
-      "time": "6h ago",
+      "time": "10h ago",
       "pub_ts": 1790727660,
-      "summary_kr": "Samsung tops nine KCSI sectors in South Korea, led by TVs and phones - CHOSUNBIZ  Chosunbiz",
+      "summary_kr": "삼성, TV·휴대폰 앞세워 국내 KCSI 9개 부문 1위 - CHOSUNBIZ 조선비즈",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -72,12 +115,12 @@
     },
     {
       "category": "Samsung DA",
-      "title": "Not Samsung Or GE: This Brand Tops JD Power's 2026 Appliance Satisfaction Study For Top-Load Washers - Yahoo",
+      "title": "삼성도 GE도 아니다: 이 브랜드는 JD Power의 2026년 탑로드 세탁기 기기 만족도 조사에서 1위를 차지했습니다. - Yahoo",
       "media": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZTFDTnVFbFNOaDZnNmdidUZZenB6NnRiZmdsaUlEU3RFaUh3MXB2X0FkcmxwWE15VjE4SFBmX1JRRTVWR0JvWmN5MXpDOFpKN0JaemJpR1FIYU5KS1F5VEdxRHozdFlxVi1HV2F5VE5yc2VXWHNjZFRmWXZ4UG9mWXVqN1pvaU55QlZDazVrNWc2NkduOGxpajUyTUJtN244aTVVN1FUbk4?oc=5",
-      "time": "7h ago",
+      "time": "11h ago",
       "pub_ts": 1790725500,
-      "summary_kr": "Not Samsung Or GE: This Brand Tops JD Power's 2026 Appliance Satisfaction Study For Top-Load Washers  Yahoo",
+      "summary_kr": "삼성이나 GE가 아님: 이 브랜드는 JD Power의 2026년 탑로드 세탁기 기기 만족도 조사에서 1위를 차지했습니다. Yahoo",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -86,10 +129,10 @@
     },
     {
       "category": "Samsung DA",
-      "title": "Samsung Refrigerators Stall from Software Update Error - 조선일보",
-      "media": "조선일보",
+      "title": "삼성냉장고, 소프트웨어 업데이트 오류로 작동불가 - chosun.com",
+      "media": "chosun.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQV84NmdZRmVIV1RaQ0p3Y2J3SnZYT05qWWNJa0FtQWtzV0w4R3pManMwNjFsWExSWWFUTkdnSWFhV3lhRkFlQjVSc2FmWktZTzh0T0s1RGtOU2ltZXRyYVNER05Ib1hJUlNLSUNTdkZDRGhvcWhjM083M0hVZjRQWDN1aS13TXZL?oc=5",
-      "time": "8h ago",
+      "time": "11h ago",
       "pub_ts": 1790723758,
       "summary_kr": "",
       "strategic_implications": "",
@@ -100,12 +143,26 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Samsung Unveils Three New Built-in Kitchen Appliance Lineups Designed for the Contemporary European Consumer - Samsung Global Newsroom",
+      "title": "월마트 딜 데이(Walmart Deal Days)에 앞서 쇼핑할 수 있는 최고의 초기 월마트 딜 - NBC 뉴스",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2FDZkFUY2YxOUF4c0ptd29GdFBURVpocmY0NG55MlpCZzJzZFNKTWJ4ZDJuSUpKQktBMmttME05NEQwUDhNWWREa1JLMXh2V0VoOEsteUNPM0lFempOR2hZRkdzNElFWlBqMDFRTTRUVmUybFAwT3c5RG5NOWxmWF8wZUdPTzQ2SGRNWEpR?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1790720543,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "삼성전자, 유럽 소비자를 위한 빌트인 주방가전 신제품 3종 공개 - Samsung Newsroom Korea",
       "media": "Samsung Global Newsroom",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SazZlVUE4eDBZLWpMLWJOWmsxczVHSFJCMmh4eDB3RlU0STFEQUdfSHNRak0wS3M0aWs4MVUxQTB0T0pjU2ZsTWtwRDZ4REFHZlA0VnMyWm8zMmdzVER5UmF1N1paZEtPaFhnNE5vWGs2RjZ1?oc=5",
-      "time": "10h ago",
+      "time": "13h ago",
       "pub_ts": 1790716719,
-      "summary_kr": "Samsung Unveils Three New Built-in Kitchen Appliance Lineups Designed for the Contemporary European Consumer  Samsung Global Newsroom",
+      "summary_kr": "삼성, 현대 유럽 소비자를 위해 설계된 새로운 빌트인 주방 가전 라인업 3종 공개 삼성 글로벌 뉴스룸",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -114,12 +171,12 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Ina Garten Can’t Stop Using KitchenAid’s Smart New Rice Cooker — and Now I’m in Love With It, Too - Food & Wine",
+      "title": "Ina Garten은 KitchenAid의 스마트한 새 밥솥 사용을 멈출 수가 없습니다. 그리고 이제 저도 이 밥솥과 사랑에 빠졌습니다. - Food & Wine",
       "media": "Food & Wine",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlZXUUo2YzY3MDQwTFlQUHNmOGlQWkd1dFJid0p5ZHdPSVVsYWFHUl9Gb25NWEJVcDE4ZXN6Qmc5Nzl4NDl1NVJPckxES2dlV09OamEwNVlfRUNoS3pNRHB6Z2xNM080ekZPOVhRbnFWZVFQVXdQQVR0Nm5VZWtVN2M1bmlhTmpROTBaMU9xVGVuMk05bFE0?oc=5",
-      "time": "10h ago",
+      "time": "13h ago",
       "pub_ts": 1790715600,
-      "summary_kr": "Ina Garten Can’t Stop Using KitchenAid’s Smart New Rice Cooker — and Now I’m in Love With It, Too  Food & Wine",
+      "summary_kr": "Ina Garten은 KitchenAid의 스마트한 새 밥솥 사용을 멈출 수 없습니다. 그리고 이제는 저도 이 밥솥을 좋아합니다.  음식과 와인",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -128,12 +185,12 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "I Ditched My Slow Cooker After Nearly a Decade — This Popular Appliance Is WAY More Versatile (and on Sale!) - AOL.com",
+      "title": "나는 거의 10년 만에 슬로우 쿠커를 버렸습니다. 이 인기 있는 가전제품은 훨씬 더 다용도가 높아졌습니다(세일 중입니다!) - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQzNXMzhSRTNXMHVCb1hDaGNpX0Z1eTdrcnI5SGNUQ2szXzNlUE1IcUxVVHpVQ2ZwVFBkQnp4bUREVmxGMXhEbHpJWjN5R0I5VmpwTGdhLWptNjA3Z2hwY0o1ZlBpZzVob1A4SS1qME1LQ3dFVnFZLTVzZnI0bW1oOU9ZWQ?oc=5",
-      "time": "11h ago",
+      "time": "15h ago",
       "pub_ts": 1790711100,
-      "summary_kr": "I Ditched My Slow Cooker After Nearly a Decade — This Popular Appliance Is WAY More Versatile (and on Sale!)  AOL.com",
+      "summary_kr": "나는 거의 10년 만에 슬로우 쿠커를 버렸습니다. 이 인기 있는 가전제품은 훨씬 더 다용도가 높아졌습니다(세일 중입니다!)  AOL.com",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -142,12 +199,12 @@
     },
     {
       "category": "Competitor Analysis",
-      "title": "Shop the best early vacuums deals for October Prime Day including from Dyson, Shark and more - NBC News",
+      "title": "Dyson, Shark 등을 포함한 10월 Prime Day 최고의 초기 진공청소기 상품을 쇼핑하세요 - NBC News",
       "media": "NBC News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbUowVm1UWWMwR0gwOVo1NUVvdFp3X3FGQ1BsdTdSaFR2aWZ4dWhqSVNpbzZVdlZHVEllaWNHV2k0NXdXRkpLSmpMNnh1UFdkRklKYlhDdkJXbEV5dmw0T3BtT3lYVVhEOGlaX2JuSEw5X0NvQUlVTlhuNnVZZEtSbVBmU1BEanhmSVQ3WkU5MA?oc=5",
-      "time": "13h ago",
+      "time": "16h ago",
       "pub_ts": 1790704515,
-      "summary_kr": "Shop the best early vacuums deals for October Prime Day including from Dyson, Shark and more  NBC News",
+      "summary_kr": "Dyson, Shark 등을 포함하여 10월 Prime Day에 가장 좋은 초기 진공 청소기 상품을 쇼핑하세요  NBC 뉴스",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -157,12 +214,12 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Amazon is already discounting 21 best-selling kitchen appliances ahead of Prime Day — save up to 42% now - Tom's Guide",
+      "title": "Amazon은 Prime Day를 앞두고 이미 21개의 베스트셀러 주방 가전 제품을 할인하고 있습니다. 지금 최대 42% 할인을 받으세요 - Tom's Guide",
       "media": "Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZU9kdUF6YldkRnlhajNFWEVZdW5tSzR2aU1XQ2VPNEpzSnlMOU1jWmFLZk03M3hWTHg1c0JIVFVDSEdHTHl0VkVWM3ZGMU5hWXVjQnJ4OU5xRU92a3Q3R0xFUkcySjV6OFFOZE1IWVdMNFpfWUxDUEhvMFFkUFBYSDdwY1RMSzEyMUVVVWhXOGJ3TENpbGNNMGM5MVJkckdXSGw1RmtIY0tCNTlYYkhMcFJCSFRjNmtVa2xnT085YlpmSTVIcm1WNFNwRWVhcDJLdjFWNmk3bmFQTThKZE4xMm5R?oc=5",
-      "time": "14h ago",
+      "time": "18h ago",
       "pub_ts": 1790699978,
-      "summary_kr": "Amazon is already discounting 21 best-selling kitchen appliances ahead of Prime Day — save up to 42% now  Tom's Guide",
+      "summary_kr": "Amazon은 Prime Day를 앞두고 이미 21개의 베스트셀러 주방 가전 제품을 할인하고 있습니다. 지금 최대 42% 할인  Tom's Guide",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -171,12 +228,12 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Shopping for a Grill Online? Here Are the Top 4 QVC Options That Home Editors Recommend - homesandgardens.com",
-      "media": "homesandgardens.com",
+      "title": "온라인으로 그릴을 쇼핑하시나요? 홈 편집자가 추천하는 상위 4가지 QVC 옵션은 다음과 같습니다. - 주택 및 정원",
+      "media": "Homes and Gardens",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMmdISU01M1ZzcXUwRE9Ealg4LTVSc0tXdHB0NURCdmhWUVFvMENNLVlUU0puOFk5TzNVQUxRdmdGRjlFa3F2U0VJMm13b1ZCSVVRRHBQaGY0RFJOSE9zem42MnB4Y1piNWNsUjRYSVpad2p6X0YzZ29EVEtYYmx6RmNEYlh3RWJNalpfUHhJeXotQjNS?oc=5",
-      "time": "15h ago",
+      "time": "18h ago",
       "pub_ts": 1790697029,
-      "summary_kr": "Shopping for a Grill Online? Here Are the Top 4 QVC Options That Home Editors Recommend  homesandgardens.com",
+      "summary_kr": "온라인으로 그릴을 쇼핑하시나요? 홈 편집자가 집과 정원을 추천하는 상위 4가지 QVC 옵션은 다음과 같습니다.",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -185,12 +242,12 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "This popular vacuum from Shark cleans carpet, wood and more — it’s also more than $100 off - NBC News",
+      "title": "Shark의 이 인기 있는 진공청소기는 카펫, 목재 등을 청소합니다. 또한 $100 이상 할인됩니다 - NBC News",
       "media": "NBC News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeDdjaU1xazAzZzZfOENBQ0l5bWVzUWtDQ2pvb0tYcW43OGRPNmlIdTc0QWNab09leGVaTVlwT19mWnB5Z0luYUlSTF9LT3F4SDd4QWhkSk9tdTFXS2tsWXhETHFtRWVaTS1Ic1ZYOFNOZHR4OUpTalRRVGc1RnVMcEozcm9KUkdkSzgzUnI2WDI1VU84WGlIOHd3?oc=5",
-      "time": "16h ago",
+      "time": "19h ago",
       "pub_ts": 1790694424,
-      "summary_kr": "This popular vacuum from Shark cleans carpet, wood and more — it’s also more than $100 off  NBC News",
+      "summary_kr": "Shark의 이 인기 있는 진공청소기는 카펫, 목재 등을 청소합니다. 또한 $100 이상 할인됩니다  NBC News",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -198,25 +255,11 @@
       ]
     },
     {
-      "category": "Market Dynamics",
-      "title": "Planning to replace your old mixer grinder? These five discounted options are worth a closer look - TradingView",
-      "media": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMm9GTm85ZDVVcV9qUzR6QUczd19DNXdjS1FLMG5QQlJuY2ZrbWRYQVJ0YkV4QUVPNVJSTWRybXlrRFBWbmtIeHF3MGExUVIzWm9uekMxTUMtakdKb040WmdTN0xhZTA2LURJMUZhSXpJeTVKV05uWDViQVh2R2NHTUdFS1BHQWFUaTZMQnZJN3BJV2lHb0lMUTRTdHh2ZFJoWktKWng0VHVfYjFxYk1SLVRpeWZoU3YzZ0VfVXRqYmJ5OHY4SkFONmdSZUtvVkNHc1d1a1hNNmwxQzJScGNRdEVUbHUxVkhn?oc=5",
-      "time": "17h ago",
-      "pub_ts": 1790690880,
-      "summary_kr": "Planning to replace your old mixer grinder? These five discounted options are worth a closer look  TradingView",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "watch"
-      ]
-    },
-    {
       "category": "Technology Trend",
-      "title": "HSB turns smart appliance data into home insurance leads - Coverager",
+      "title": "HSB는 스마트 가전 데이터를 주택 보험 리드로 전환합니다 - Coverager",
       "media": "Coverager",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGlGNzUxZWh0aDR2Nm8wQzRKQlpuN1Y2TUFKd3dRQnpXbmlZU3VpczJwTEs2TzVQbHMyR1NkOWYzczB3ek5WbjJmdUNlRkhXbFRwTldyTHoyQWE5MnZNQ1Z2WjhlanF2cnZHblB3RjFIU1RneWI4dDBEaG1zdktSZkFvQVZNUQ?oc=5",
-      "time": "18h ago",
+      "time": "21h ago",
       "pub_ts": 1790687069,
       "summary_kr": "",
       "strategic_implications": "",
@@ -227,14 +270,28 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "KitchenAid's cordless sealer can seal over 500 two-quart plastic zipper bags on a full charge. - Stock Titan",
-      "media": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPanBWSUtWWERQRWpraTZkNTk3a25ucXpma2JGNk15SHJRREhRTUJ1VVFZNTc5Y09hNlBNc21Idm1vb0RXaTFvM2pIcjhsU3pTZXJYaUY2UUMxcVpwS1BQTmNrdFpzYWtVNXgwWERUd2R4ZzlWU0NldEZ1MmVpU3JXUlgwQnZVVVMxTlRaZFJqLVNIZ3JVWGs1Mndmc3RwS3pRVDZJNG9JOXFnZjRqVm9VcHNMdTFjdnBLMjAwSQ?oc=5",
-      "time": "19h ago",
-      "pub_ts": 1790683749,
-      "summary_kr": "KitchenAid's cordless sealer can seal over 500 two-quart plastic zipper bags on a full charge.  Stock Titan",
+      "title": "KitchenAid 브랜드, 신선 식품 준비 및 보존을 위한 새로운 혁신으로 무선 조리대 가전 시스템 확장 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdWF6QzN5QTVkOHBhY0U1QlR6bm1pbnp3NFhqZkVPRE9VU3VzUUhPT184MTV3Sy1RTHFMeTVIaUJCdVlocEd4NlAxSUxBS1JKZFU3Q2lIaXFSR3lsVGt1dWtjejdrSGxIelAwU1NEdDF4Tjl0TVU1a3J4SnNPZkl3VmxGWUd6SGlfdkw0WU1HeVY1dnlXSkszZE52SHQ2b3NtdmpXQTNZSVpmSFBIaTlxVk9FOUhYd3h1alhXaUIxRy13NmFtRmxsWi0tWmNEc2R3NVlHM1p4bEE5SUNZSHJNdm5YenJRTmtTdnhLQXN2eHNhOGo3cGxESzZHb3hDV2duLWdOVHFDeHpOQQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1790683200,
+      "summary_kr": "KitchenAid 브랜드, 신선 식품 준비 및 보존을 위한 새로운 혁신으로 무선 조리대 가전 시스템 확장 PR Newswire",
       "strategic_implications": "",
-      "impact": 3,
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성의 커넥티드 리빙(Connected Living) 로드쇼가 이번 주말 Sarit Mall에서 막을 내립니다. - tech-ish.com",
+      "media": "tech-ish.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSUxsajNHMnpaNmktemVkdGJvS0VTNk0wVVNQSFNSTG04N09yTFJYWmlTQlJOS0dya1A2Yi03SE9ud0NDTWw1bWhVZ3JGOUJmdUs3NnRraGtyV1BwU21IY2hMYl9OOXNMN3E4N3ZLSkt0TC1UYnRsME4ySjBQUkhYRGVKZU92SW85aG80LXJBX3pvUUFyek5vZVRjZ3VBNUh2?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1790680051,
+      "summary_kr": "삼성의 커넥티드 리빙 로드쇼가 이번 주말 Sarit Mall에서 종료됩니다  tech-ish.com",
+      "strategic_implications": "",
+      "impact": 4,
       "tags": [
         "watch"
       ]
