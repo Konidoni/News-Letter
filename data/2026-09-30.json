@@ -1,0 +1,243 @@
+{
+  "date": "2026-09-30",
+  "date_display": "2026년 09월 30일",
+  "generated_at": "2026-09-30T16:19:14.203614+09:00",
+  "generated_at_display": "2026.09.30 16:19 KST",
+  "category_counts": {
+    "Technology Trend": 2,
+    "Market Dynamics": 9,
+    "Samsung Bespoke": 1,
+    "Samsung DA": 2,
+    "Competitor Analysis": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 15건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: Samsung Unveils Three New Built-in Kitchen Appliance Lineups Designed for the Contemporary European Consumer - Samsung Global Newsroom. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: Shop the best early vacuums deals for October Prime Day including from Dyson, Shark and more - NBC News. 시장 전반 기사 9건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Technology Trend",
+      "title": "Hisense and Gorenje showcase AI appliances and smart home innovations at IFA 2026 - Межа. Новини України.",
+      "media": "Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yMzFqOENQbXllRTdXdTJZWEEteGdoVElDYkxTSlNLNkxVNmZraGVaeGhYYWZhTm5JV2dQcTFubE1lMTJvV01yUGhkY3gxTC1qN2hjOVFJSENRclI4cG1HS0ZjOE1icm5jbGVLSmhCWm1vbVk?oc=5",
+      "time": "Just now",
+      "pub_ts": 1790751464,
+      "summary_kr": "Hisense and Gorenje showcase AI appliances and smart home innovations at IFA 2026  Межа. Новини України.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Kitchen appliance startup EDT raises $2.4 million in funding led by Sauce VC - The Economic Times",
+      "media": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeF9sbnFaalY0MkRqc1JibWxjdGtiY25zeDBZT2ZNdkRnN3JpSGJJX2h3aG05c2VqdS1MNHl6X3dYZnFxVmstT1JSaUp3Ukh2UjRpam1rdkpQMlpCUXkzOVNoelVZbHFwRXpyRnYtMWlXTzd6TFNYUWg5Q3c0REpBa04wRGRnYV9WbEFyV25wbU9WdlN1OVJWXzBsdGh2T3BDendCN053enhkYWJ6Y1RVNm12NHo2RnlaLTZxWjRlUXRZQXNjM2lFekNnUlVMbnJiWWFmQmRjWXMyek3SAeABQVVfeXFMTlVTYWl2d011NHdscVg0SWZEc1oycWN1bEFicGVEUmNMOENIX1N5NktZRTJIcURuMExtSm1jb0doa3FSeENvblFCS2gzd2pSMnBIZHJJS054Q2xvNXdpalVKZ2FxWTN0LVV2ZUpRbmw2bjZ5Rk1oR2xJRWs3VjAtWkgtSFVLNFhiS3FiRS05VE5iOVZDNFNlY3pIcFZ4LTViME9lODBtdzJTQVFIblZoSTFCMGJvTmg2WkJGbDByeXZnM2RKOXhxQ2oyc2ZPQTItRlpNX0paUGxmY0NqbVJtTkU?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1790728200,
+      "summary_kr": "Kitchen appliance startup EDT raises $2.4 million in funding led by Sauce VC  The Economic Times",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung tops nine KCSI sectors in South Korea, led by TVs and phones - CHOSUNBIZ - Chosunbiz",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zWHhvUE1tX0hMQzBCYklySHdkc2cyUEhGS09aZjJLamNBeEhsR3ZmTzU3VWh2Mm5hRjVNMkMwd0xmTGNtam80Zm9mYVdzLWNRMlBocGtoeUlFYjMxelY4VVJJdVIwblF3SlRXMWdmMnpVRWdzejRnVWx30gGOAUFVX3lxTE4zN0hHNUk3aFlGUHY2Z05NTGlrOGtWQXVQUEpmSmNmT0wxMi0zbHMzZ25jUjFrT3JxZEpuTHJ5ZzBSYjgyb28xMDdwR29HZXNLdVZSR25GWTNlWTVkZ0Zsb1o0ZnBuay1lYkJUNWhJQ0M5SmVwYURYMDZLNUluZUl0ajVLRDdwc2xXNFdORXc?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1790727660,
+      "summary_kr": "Samsung tops nine KCSI sectors in South Korea, led by TVs and phones - CHOSUNBIZ  Chosunbiz",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Not Samsung Or GE: This Brand Tops JD Power's 2026 Appliance Satisfaction Study For Top-Load Washers - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZTFDTnVFbFNOaDZnNmdidUZZenB6NnRiZmdsaUlEU3RFaUh3MXB2X0FkcmxwWE15VjE4SFBmX1JRRTVWR0JvWmN5MXpDOFpKN0JaemJpR1FIYU5KS1F5VEdxRHozdFlxVi1HV2F5VE5yc2VXWHNjZFRmWXZ4UG9mWXVqN1pvaU55QlZDazVrNWc2NkduOGxpajUyTUJtN244aTVVN1FUbk4?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1790725500,
+      "summary_kr": "Not Samsung Or GE: This Brand Tops JD Power's 2026 Appliance Satisfaction Study For Top-Load Washers  Yahoo",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Refrigerators Stall from Software Update Error - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQV84NmdZRmVIV1RaQ0p3Y2J3SnZYT05qWWNJa0FtQWtzV0w4R3pManMwNjFsWExSWWFUTkdnSWFhV3lhRkFlQjVSc2FmWktZTzh0T0s1RGtOU2ltZXRyYVNER05Ib1hJUlNLSUNTdkZDRGhvcWhjM083M0hVZjRQWDN1aS13TXZL?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1790723758,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Samsung Unveils Three New Built-in Kitchen Appliance Lineups Designed for the Contemporary European Consumer - Samsung Global Newsroom",
+      "media": "Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SazZlVUE4eDBZLWpMLWJOWmsxczVHSFJCMmh4eDB3RlU0STFEQUdfSHNRak0wS3M0aWs4MVUxQTB0T0pjU2ZsTWtwRDZ4REFHZlA0VnMyWm8zMmdzVER5UmF1N1paZEtPaFhnNE5vWGs2RjZ1?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1790716719,
+      "summary_kr": "Samsung Unveils Three New Built-in Kitchen Appliance Lineups Designed for the Contemporary European Consumer  Samsung Global Newsroom",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Ina Garten Can’t Stop Using KitchenAid’s Smart New Rice Cooker — and Now I’m in Love With It, Too - Food & Wine",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlZXUUo2YzY3MDQwTFlQUHNmOGlQWkd1dFJid0p5ZHdPSVVsYWFHUl9Gb25NWEJVcDE4ZXN6Qmc5Nzl4NDl1NVJPckxES2dlV09OamEwNVlfRUNoS3pNRHB6Z2xNM080ekZPOVhRbnFWZVFQVXdQQVR0Nm5VZWtVN2M1bmlhTmpROTBaMU9xVGVuMk05bFE0?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1790715600,
+      "summary_kr": "Ina Garten Can’t Stop Using KitchenAid’s Smart New Rice Cooker — and Now I’m in Love With It, Too  Food & Wine",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "I Ditched My Slow Cooker After Nearly a Decade — This Popular Appliance Is WAY More Versatile (and on Sale!) - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQzNXMzhSRTNXMHVCb1hDaGNpX0Z1eTdrcnI5SGNUQ2szXzNlUE1IcUxVVHpVQ2ZwVFBkQnp4bUREVmxGMXhEbHpJWjN5R0I5VmpwTGdhLWptNjA3Z2hwY0o1ZlBpZzVob1A4SS1qME1LQ3dFVnFZLTVzZnI0bW1oOU9ZWQ?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1790711100,
+      "summary_kr": "I Ditched My Slow Cooker After Nearly a Decade — This Popular Appliance Is WAY More Versatile (and on Sale!)  AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Shop the best early vacuums deals for October Prime Day including from Dyson, Shark and more - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbUowVm1UWWMwR0gwOVo1NUVvdFp3X3FGQ1BsdTdSaFR2aWZ4dWhqSVNpbzZVdlZHVEllaWNHV2k0NXdXRkpLSmpMNnh1UFdkRklKYlhDdkJXbEV5dmw0T3BtT3lYVVhEOGlaX2JuSEw5X0NvQUlVTlhuNnVZZEtSbVBmU1BEanhmSVQ3WkU5MA?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1790704515,
+      "summary_kr": "Shop the best early vacuums deals for October Prime Day including from Dyson, Shark and more  NBC News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon is already discounting 21 best-selling kitchen appliances ahead of Prime Day — save up to 42% now - Tom's Guide",
+      "media": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZU9kdUF6YldkRnlhajNFWEVZdW5tSzR2aU1XQ2VPNEpzSnlMOU1jWmFLZk03M3hWTHg1c0JIVFVDSEdHTHl0VkVWM3ZGMU5hWXVjQnJ4OU5xRU92a3Q3R0xFUkcySjV6OFFOZE1IWVdMNFpfWUxDUEhvMFFkUFBYSDdwY1RMSzEyMUVVVWhXOGJ3TENpbGNNMGM5MVJkckdXSGw1RmtIY0tCNTlYYkhMcFJCSFRjNmtVa2xnT085YlpmSTVIcm1WNFNwRWVhcDJLdjFWNmk3bmFQTThKZE4xMm5R?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1790699978,
+      "summary_kr": "Amazon is already discounting 21 best-selling kitchen appliances ahead of Prime Day — save up to 42% now  Tom's Guide",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Shopping for a Grill Online? Here Are the Top 4 QVC Options That Home Editors Recommend - homesandgardens.com",
+      "media": "homesandgardens.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMmdISU01M1ZzcXUwRE9Ealg4LTVSc0tXdHB0NURCdmhWUVFvMENNLVlUU0puOFk5TzNVQUxRdmdGRjlFa3F2U0VJMm13b1ZCSVVRRHBQaGY0RFJOSE9zem42MnB4Y1piNWNsUjRYSVpad2p6X0YzZ29EVEtYYmx6RmNEYlh3RWJNalpfUHhJeXotQjNS?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1790697029,
+      "summary_kr": "Shopping for a Grill Online? Here Are the Top 4 QVC Options That Home Editors Recommend  homesandgardens.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "This popular vacuum from Shark cleans carpet, wood and more — it’s also more than $100 off - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeDdjaU1xazAzZzZfOENBQ0l5bWVzUWtDQ2pvb0tYcW43OGRPNmlIdTc0QWNab09leGVaTVlwT19mWnB5Z0luYUlSTF9LT3F4SDd4QWhkSk9tdTFXS2tsWXhETHFtRWVaTS1Ic1ZYOFNOZHR4OUpTalRRVGc1RnVMcEozcm9KUkdkSzgzUnI2WDI1VU84WGlIOHd3?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1790694424,
+      "summary_kr": "This popular vacuum from Shark cleans carpet, wood and more — it’s also more than $100 off  NBC News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Planning to replace your old mixer grinder? These five discounted options are worth a closer look - TradingView",
+      "media": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMm9GTm85ZDVVcV9qUzR6QUczd19DNXdjS1FLMG5QQlJuY2ZrbWRYQVJ0YkV4QUVPNVJSTWRybXlrRFBWbmtIeHF3MGExUVIzWm9uekMxTUMtakdKb040WmdTN0xhZTA2LURJMUZhSXpJeTVKV05uWDViQVh2R2NHTUdFS1BHQWFUaTZMQnZJN3BJV2lHb0lMUTRTdHh2ZFJoWktKWng0VHVfYjFxYk1SLVRpeWZoU3YzZ0VfVXRqYmJ5OHY4SkFONmdSZUtvVkNHc1d1a1hNNmwxQzJScGNRdEVUbHUxVkhn?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1790690880,
+      "summary_kr": "Planning to replace your old mixer grinder? These five discounted options are worth a closer look  TradingView",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "HSB turns smart appliance data into home insurance leads - Coverager",
+      "media": "Coverager",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGlGNzUxZWh0aDR2Nm8wQzRKQlpuN1Y2TUFKd3dRQnpXbmlZU3VpczJwTEs2TzVQbHMyR1NkOWYzczB3ek5WbjJmdUNlRkhXbFRwTldyTHoyQWE5MnZNQ1Z2WjhlanF2cnZHblB3RjFIU1RneWI4dDBEaG1zdktSZkFvQVZNUQ?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1790687069,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "KitchenAid's cordless sealer can seal over 500 two-quart plastic zipper bags on a full charge. - Stock Titan",
+      "media": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPanBWSUtWWERQRWpraTZkNTk3a25ucXpma2JGNk15SHJRREhRTUJ1VVFZNTc5Y09hNlBNc21Idm1vb0RXaTFvM2pIcjhsU3pTZXJYaUY2UUMxcVpwS1BQTmNrdFpzYWtVNXgwWERUd2R4ZzlWU0NldEZ1MmVpU3JXUlgwQnZVVVMxTlRaZFJqLVNIZ3JVWGs1Mndmc3RwS3pRVDZJNG9JOXFnZjRqVm9VcHNMdTFjdnBLMjAwSQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1790683749,
+      "summary_kr": "KitchenAid's cordless sealer can seal over 500 two-quart plastic zipper bags on a full charge.  Stock Titan",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
