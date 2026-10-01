@@ -1,29 +1,28 @@
 {
   "date": "2026-10-01",
   "date_display": "2026년 10월 01일",
-  "generated_at": "2026-10-01T17:14:03.529033+09:00",
-  "generated_at_display": "2026.10.01 17:14 KST",
+  "generated_at": "2026-10-01T20:16:49.146843+09:00",
+  "generated_at_display": "2026.10.01 20:16 KST",
   "category_counts": {
     "Market Dynamics": 13,
     "Samsung DA": 1,
-    "Technology Trend": 1,
-    "Competitor Analysis": 1
+    "Technology Trend": 1
   },
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
-      "title": "주요 리스크 2건 감지",
-      "desc": "오늘 수집된 16건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: 빌트인 가전제품과 디자이너 주방: 기능이 새로운 럭셔리인 이유 - Finehomesandliving.com. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 15건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: 빌트인 가전제품과 디자이너 주방: 기능이 새로운 럭셔리인 이유 - Finehomesandliving.com. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
-      "title": "시장 기회 9건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 9건이 감지됩니다. 주목 기사: Kylie Kelce는 설거지를 '파워워시'하는 것을 좋아합니다. 이 1달러 해킹으로 식기세척기에 먼지가 묻지 않고 작업이 원활하게 유지됩니다. - Food & Wine. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "title": "시장 기회 8건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: Kylie Kelce는 설거지를 '파워워시'하는 것을 좋아합니다. 이 1달러 해킹으로 식기세척기에 먼지가 묻지 않고 작업이 원활하게 유지됩니다. - Food & Wine. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
-      "title": "경쟁사 기사 1건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: 독점: Haier, Godrej, Blue Star가 가짜 전자 폐기물 재활용 주장을 탐지하지 못했고 인도 공지가 표시됨 - Reuters. 시장 전반 기사 13건, 기술 트렌드 1건 함께 검토 권장."
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 13건, 기술 트렌드 1건 함께 검토 권장."
     }
   ],
   "articles": [
@@ -32,7 +31,7 @@
       "title": "Kylie Kelce는 설거지를 '파워워시'하는 것을 좋아합니다. 이 1달러 해킹으로 식기세척기에 먼지가 묻지 않고 작업이 원활하게 유지됩니다. - Food & Wine",
       "media": "Food & Wine",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORjhiakdYRnBkMHR1VDh0YTV0SXc5b3JSMkhMZFJDMGdDRjJ4Z09ZMTA4c05KUHpFaXpjelcyY3VvdjhRNEFacTlkU0pkVUFlWndaWnc3MC0zci10dVctLVdQejI1VjJxUGVFZE9LNTg4TWhhZjlwcnBQbXl6NlR6cg?oc=5",
-      "time": "Just now",
+      "time": "3h ago",
       "pub_ts": 1790840700,
       "summary_kr": "Kylie Kelce는 설거지를 '파워워시'하는 것을 좋아합니다. 이 1달러 해킹으로 식기세척기에 오물이 묻지 않고 제대로 작동할 수 있습니다.  음식 및 와인",
       "strategic_implications": "",
@@ -43,12 +42,12 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "한국 유통업체, 수리 및 관리 서비스로 경쟁 전환 - 서울경제",
-      "media": "Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGIzaTdXZWNic3lZQ2huTUEyeE5hUVhYOTdUY2Y0WXVCcVBfc0FFYmNmQXdrQ1h1cUtMemZ3MlNqSkN2ZVlDZmhRUEljdzNRaFM4YTROT004dUdyTmVuTHI4YXBUNXF5Mmx6RFE3a1NEc2hBWkl2djF4UDhERENGQTZzMEpoaEtVa2xNek1Ea3ZDc2FmVFplT3Z3TQ?oc=5",
-      "time": "1h ago",
-      "pub_ts": 1790836882,
-      "summary_kr": "한국 소매업체, 수리 및 관리 서비스로 경쟁 전환  서울경제",
+      "title": "Collette Dinnigan이 자신의 시드니 집을 위해 디자인하고 있는 야외 주방 - Homes To Love",
+      "media": "Homes To Love",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONG1MVmlzdzBpOUZzM29tUjZpNkRzMFRneklVUnJmSjMtS1VtYjh4SnB5RVVwQTJMR01LSF9OeEpVdWJZYUNYanpqZUt3QU5keHJwQUlvQVBFdW1rcnJCWFE1OElKU3RudnFuVnpBWXI3eG9XRjI2SHNUWFNCZ3N5THFBZHNPeXpmY3hsRXJRZkhTaE90b052S2lTZzQtQQ?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1790838953,
+      "summary_kr": "콜레트 디니건(Colette Dinnigan)이 자신의 시드니 집을 위해 디자인하고 있는 야외 주방",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -57,10 +56,24 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "롯데하이마트가 중고가전 34종에 대해 수리비를 지원하는 서비스를 시작했다. - 매일경제",
+      "title": "TECNO 창고 세일에서는 S$199부터 내장형 오븐, S$130부터 쿠커 호브 등을 제공합니다. - Great Deals Singapore",
+      "media": "Great Deals Singapore",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oZXdDaldtT2xSaTNlXzhfeXczclZrRG5XMGtkYndDWFltaEtWMHpWN20wREp3RHptVVNDMkxfUU05ZTVCR0FsNVdlcmRVb00tSDNwa25JajBycTVnbkVGUmx1N01LM3BtVVd6d3g4X25ZaDVpV1FjUE9Za3BMTEk?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1790838394,
+      "summary_kr": "TECNO 창고 세일에서는 S$199부터 내장형 오븐, S$130부터 쿠커 호브 등 제공  Great Deals Singapore",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "롯데하이마트가 중고가전 34종에 대해 수리비를 지원하는 서비스를 시작했다.. - 매일경제",
       "media": "매일경제",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1veWM2RG9BZVU4cHh1TW85d1lKbnNfZ0ZJZkxyeEdSX1ZiTXJ5UjJIT1dxYlNLZVJ5UkE5M2V5S0g4eXFtVVpieFo3WkdtQXdnV3Vz?oc=5",
-      "time": "6h ago",
+      "time": "9h ago",
       "pub_ts": 1790820562,
       "summary_kr": "롯데하이마트가 중고가전 34종에 대해 수리비를 지원하는 서비스를 시작했다..  매일경제",
       "strategic_implications": "",
@@ -74,7 +87,7 @@
       "title": "Whirlpool Corp. 캠페인, 획기적인 기념일 기념 - 주방 및 욕실 디자인 뉴스",
       "media": "Kitchen & Bath Design News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTUtCUUlSMmZNel9LWnZNMmpDc0NSWnVUNkRERFd5ZGNlRmdMd2JWRTllUEZ6NkR5REtSRHBsbWZrYS1kZFcxUUxHd0tMQklhZ21IVGdqcFFVZlJiZl9LR04wVjF4QTNfTlFSQnpWRFo0U1EteVZ5LXk4aWQzVVQ0REkxT3hLbTFTMmIyWU1JbG9VQQ?oc=5",
-      "time": "10h ago",
+      "time": "13h ago",
       "pub_ts": 1790804316,
       "summary_kr": "Whirlpool Corp. 캠페인, 획기적인 기념일과 연계 주방 및 욕실 디자인 뉴스",
       "strategic_implications": "",
@@ -88,7 +101,7 @@
       "title": "가전제품 유통업체, 구매 발표 - 주방 및 욕실 디자인 뉴스",
       "media": "Kitchen & Bath Design News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZS1TZXJiTWtoYUhtZjBSWjFqQUlZUl92eDdsekNTRWw3WFJuQ2J6MGcxV2hfc1o3ZzRhNEZhTTNXaWR5X1loWmFETzJMeDliMmIycE95LVNWOFBUTzdRSHFnd0FFOERuNlpkaWFSa2MtMGNRWHRzeXY1UzlmTU45Tw?oc=5",
-      "time": "10h ago",
+      "time": "13h ago",
       "pub_ts": 1790804013,
       "summary_kr": "",
       "strategic_implications": "",
@@ -102,7 +115,7 @@
       "title": "독립형 또는 일체형: 어떤 가전제품이 주방에 더 적합합니까?",
       "media": "Bing News",
       "url": "https://www.msn.com/en-in/news/other/freestanding-or-integrated-which-appliance-is-more-suitable-for-the-kitchen/ar-AA2djARh",
-      "time": "10h ago",
+      "time": "14h ago",
       "pub_ts": 1790803006,
       "summary_kr": "주방가전을 구매할 때 단순히 기능과 가격만 고려하기에는 부족합니다. 통합형 기기와 독립형 기기 중에서 선택하는 것은 매우 중요합니다.",
       "strategic_implications": "",
@@ -116,7 +129,7 @@
       "title": "/C O R R E C T I O N -- Cuisinart/ - StreetInsider",
       "media": "StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVnk0Y1R6V19qM05velZqV3RzOUx1TVJIMlBRWmRtTE90WnRoVEZOU0ZWWmZ3UzdFS09ma1k4U05VQVRDOEx6UGRkOF9CWHJVRTBydlhSQnYyR0dQbVd6UjVjVWdzNEc3RzVfRUdsRXY3RVhlZk45NXRjX2JVOXEwSDBWaGZMUTU3SzBOWnJUMG4?oc=5",
-      "time": "11h ago",
+      "time": "14h ago",
       "pub_ts": 1790801316,
       "summary_kr": "",
       "strategic_implications": "",
@@ -130,7 +143,7 @@
       "title": "실내 난방기 및 전원 스트립이나 연장 코드에 연결하면 안되는 기타 것들 - Yahoo",
       "media": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUW5CUFRJa2tHemJZbzQ4SC11VUZDeDc5TWk0ZUkwcUhnWEpVc3dfcXFQRUEyNDlpTnpMX0toV09HNF9TXy1yYW53OTJZVVVyTUJUVTBwcFgxNXlfNHpFWlVfamYzX1JHZUxSQnJhTWVrQ2ZIc3gxSTFNNW1QaGhUNno4ejRNX0pJRVI0aWtEUHJBN1dD?oc=5",
-      "time": "12h ago",
+      "time": "15h ago",
       "pub_ts": 1790799240,
       "summary_kr": "난방기 및 기타 전원 스트립이나 연장 코드에 연결하면 안 되는 것들  Yahoo",
       "strategic_implications": "",
@@ -144,7 +157,7 @@
       "title": "JennAir®와 Cosentino®, 새로운 Dekton 패널 컬렉션으로 차세대 통합 주방 시대 출시 - PR Newswire",
       "media": "PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMDBraGJpZEV4MURGbWxnZk0ySlFEQklRT2pJRXc5WVRwblhIVWxpcmFDV2JDTEdHUkJJWXJ1T0h3QkxvWkgxQzhzeEJTUmhYNW5WY3E0VnlEbWxIaFFfZTlQN05FVVk3dmdEWFRCeGVpTkFRUFVMV24yWHk5TWdndlZMUVEyWW9OWWJROGZ2TE02R1d5M1VINDgwS0RJdmVPWEdYaHhxcG90b0hyTGVZal95YUNCbl9YRE8ydEhpOFlEUUtRQjdseDhFSGd2Y3RraGhQSmh6ZFlRWFVST1EybjZ1dw?oc=5",
-      "time": "12h ago",
+      "time": "15h ago",
       "pub_ts": 1790796840,
       "summary_kr": "JennAir®와 Cosentino®, 새로운 Dekton 패널 컬렉션으로 차세대 통합 주방 시대 출시 PR Newswire",
       "strategic_implications": "",
@@ -158,7 +171,7 @@
       "title": "빌트인 가전제품과 디자이너 주방: 기능이 새로운 럭셔리인 이유 - Finehomesandliving.com",
       "media": "finehomesandliving.com",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVHZUQ3lsMGhkWWlObzY2dDQyVm01OGdkOW5wX0R3ajB2UzhwWkJLZ1pmbkNGcXp4R2gzZ3pEZ2VhdHZfNF9ReWIzdHQ5SFp6LXhmZXN4ZUxDMnI4RnRZWnY5Q2gxNnFnbTBWci0yNUphcWZDMTNkWkp0emk4NjJ1bXpzMUgwVHhuSmw5RmxzR1Q3UVZGMFRoTWdsQ1lYRjBLNklkbXh4MzJmWENEeFVTV3FLbzRkR3dSWHVDd1U2S08tX3NZRVJsc2Z0M0xDLTNCRjBLRnE0RDVDZW01NVNDYXJzdkNWcWY2Uzk4YzJHcm1xcUdIcjdSVUpIT0ZEdw?oc=5",
-      "time": "14h ago",
+      "time": "17h ago",
       "pub_ts": 1790789460,
       "summary_kr": "빌트인 가전제품과 디자이너 주방: 기능이 새로운 럭셔리인 이유 Finehomesandliving.com",
       "strategic_implications": "",
@@ -173,7 +186,7 @@
       "title": "Breville은 Spiral Luxe Brewer로 자동 푸어오버 스트림에 진입했습니다. - Roast Magazine의 일일 커피 뉴스",
       "media": "Daily Coffee News by Roast Magazine",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTl3T0hILVlIRjlVbGtwX3VlVTlFLW9IQmptT19VN3JsTFUyR0l6NlVXeExCY0dmd0I4bEtDSFJZeU9HYkRDUkVIcXNObnRZdnNHN2FVT2lDcHd1RFJqUGE1WGh0STRXS2pfenRVSU1LMkZxUWRGbF91clFDWkJQa3d1Y3dYRlVLaEg0TEhid1RfZnNGY2RKWURmUktodW4wWmtlQ09tS1JlSDdPeEFCalY2cw?oc=5",
-      "time": "16h ago",
+      "time": "19h ago",
       "pub_ts": 1790782691,
       "summary_kr": "Breville은 Spiral Luxe Brewer로 자동 푸어오버 스트림에 진입했습니다. Roast Magazine의 일일 커피 뉴스",
       "strategic_implications": "",
@@ -187,7 +200,7 @@
       "title": "삼성 스마트 냉장고의 소프트웨어 업데이트는 언제까지 받을 수 있나요? - 슬래시기어",
       "media": "SlashGear",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRTRRNWpoQzJuNjY1SEIyT2JaX1ptUkQ3U1NjYUV4bnM0Wk44TzNPTGdhVWlRbEhHb3hJS2hSNnBLVFpIMm81LTRwbDdGYXcxNGRmdlFLZXk4enlJc0didEMxejdNNUlxX2M0bm0wSXJWelVKMWw5YmFuRkgxOV9RY3pXWGp1UlZQUHdCMXBGSUd1SExRVFZrM1hFX0I?oc=5",
-      "time": "17h ago",
+      "time": "20h ago",
       "pub_ts": 1790779500,
       "summary_kr": "",
       "strategic_implications": "",
@@ -198,10 +211,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "2026년 실제로 구매할 가치가 있는 7가지 새로운 스마트 가전 - bgr.com",
+      "title": "2026년 실제로 구입할 가치가 있는 7가지 새로운 스마트 가전 - bgr.com",
       "media": "bgr.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwSGVmM2FnZm9NZlBvcVNrQVN1NzNUNnRHdF9KZFFFSFA2b0p5a0JiS2tweXNyUVROT0p0U0tNU0dfNXhSRy1XU3FfTnE2SlM1VlBVdGdWT2poM3FiakRvOFViWjNsdk5vN2VwX0ZNOA?oc=5",
-      "time": "18h ago",
+      "time": "21h ago",
       "pub_ts": 1790776920,
       "summary_kr": "",
       "strategic_implications": "",
@@ -215,41 +228,12 @@
       "title": "중국 하이얼 스마트홈, A주 22억9000만 위안 환매, 총자본금의 1.177% - Finance.biggo.com",
       "media": "finance.biggo.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9paFRaYzFLemdmVkV2bDJ3Nzl2Y0FPNXpQak5Mbi1WZ19SOVRMaUM3bVFJSUwzVkJaR0pmanhZMEhObUJsT2FVd0lmMzItWXRwclZRTXloSUFVUFotNHhDT2duN2llcDVRNnY3bmxKbUg2ZzZ0elE?oc=5",
-      "time": "18h ago",
+      "time": "21h ago",
       "pub_ts": 1790775300,
       "summary_kr": "중국 하이얼 스마트 홈, 총 자본금의 1.177%에 해당하는 22억9000만 위안의 A주 매입  finance.biggo.com",
       "strategic_implications": "",
       "impact": 5,
       "tags": [
-        "watch"
-      ]
-    },
-    {
-      "category": "Market Dynamics",
-      "title": "EDT, 가전제품 포트폴리오 확장 및 미용 기기 진출을 위해 240만 달러 조달 - cxodigitalpulse.com",
-      "media": "cxodigitalpulse.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNk5jdkpuV3U1ZUxObkEySDY4WGEzX0FGUm5HUzF6VExLM08zNk1FWXFPUzBDYVZlM0FnMWVLajZZNXUwOXE4ZHZYdm95eG1JeDE5NXQ3dm1QTGVtd0pocklNQWl1WG5LWHExRnpFcTJKdkZBbnk3aktReDJHdXBITzhXTWF4TGprY3p5Mnl5NTNIWTgya0tyVjVZcmdIaHNybGU2RzcyNkd1VnNaMmVz?oc=5",
-      "time": "19h ago",
-      "pub_ts": 1790772399,
-      "summary_kr": "EDT, 가전제품 포트폴리오 확장 및 미용 기기 진출을 위해 240만 달러 조달 cxodigitalpulse.com",
-      "strategic_implications": "",
-      "impact": 4,
-      "tags": [
-        "opp"
-      ]
-    },
-    {
-      "category": "Competitor Analysis",
-      "title": "독점: Haier, Godrej, Blue Star가 가짜 전자 폐기물 재활용 주장을 탐지하지 못했고 인도 공지가 표시됨 - Reuters",
-      "media": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYlB6RmhlNDdjOXZTeGhMWlB3ZEt2RExtQVJ3ZkdSQ2hQMEVNYnBkTDJHcVRVX2M1T2pXNFMyYm55bjlBZXhzdVlhYko4MG1nY3VKRDZrMEtCWXdRYzh5ZWktV3puSktPY0xTRjV2MTF4dTNuY2UySTNZQ29KN3RMYW13WDR6elZSSGQyRWFDcURCdW9iMlNUME5jMnZJV01XejVpZnpPTko3bnBnT1NJSTlVNjFBR1lLWGEzODdNdnRncTVCSmc?oc=5",
-      "time": "22h ago",
-      "pub_ts": 1790761383,
-      "summary_kr": "독점: Haier, Godrej, Blue Star가 가짜 전자 폐기물 재활용 주장을 탐지하지 못했고 인도 통지에 따르면  Reuters",
-      "strategic_implications": "",
-      "impact": 3,
-      "tags": [
-        "risk",
         "watch"
       ]
     }
