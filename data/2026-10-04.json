@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-04",
+  "date_display": "2026년 10월 04일",
+  "generated_at": "2026-10-04T19:49:30.532362+09:00",
+  "generated_at_display": "2026.10.04 19:49 KST",
+  "category_counts": {
+    "Market Dynamics": 5,
+    "Samsung DA": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 7건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 0건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 0건이 감지됩니다. 주목 기사: —. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 5건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "The Affordable Appliance Brand That's Owned By Whirlpool - Mashed",
+      "media": "Mashed",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRi1KZXczdEI4Mlc0Z0ZjbG1qVFlvemhfSFJwVmlKeUJKbDhpVGpZNGxXOXNTZXMtbTJRNFVGbFJXY1hRRm5EWWhTekltWVJlNUVTSWxtUlRUYk53dzdSMDJabWpsMHBnQnhHX3VhbTJWSVFLVkVCa2lzaTJQbmdZbUJpQ0tLNzI3M2Uw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1791104580,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "The Luxury Appliance Brand You Might Not Realize Is Owned By Samsung - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmVXallLYk1ZTkFTb0ZPOFdYVFJUZHJsbVBMc192WlhWbGdjVy1mdmZ4S1o0a1J6VVRGYU9GSVlSbkIxblJ5ejRZOWIzRVdxeVM5NTNuVDY1eVhRVS12eGV5T1FvNVpWOGRVR0RsaUpldHlsWEtOMW8zb093SElNWU1BZTR3cE0?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1791078300,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Crock-tober starts early with a major discount on this 7-quart Crock-Pot slow cooker - USA Today",
+      "media": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU243S19kRGNJSDlWaVJwWjctRTlreG05RG96SXp6NnpBcllZQzREODJkeWlPd01vbXZaeV93S3J4TFJOYzV2R3RSNndPQS05cENKbGNILWhIX0J5ck02dThWNG43b2pYTi0yQjdUWjh1aG9Yc09JZlJ5TEJWUmlIeXdIaXp3R3cyTWY3eHNfWFFNQkdSX0M1VnJJQ2owMmVBWnRXLWtmSDVSR1Zl?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1791065820,
+      "summary_kr": "Crock-tober starts early with a major discount on this 7-quart Crock-Pot slow cooker  USA Today",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "How Long Do Samsung Smart Appliances Get Software Support? - bgr.com",
+      "media": "bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZk5MVzcyUndQOXpmSWhndjZhLXAwTTZOQXlVVFdpWWNvak9MNkFjQ1FGNmVfTl92a0ZtNUl4Q3VIbzVTU3JyTnJOYjA4UFh1SktEcDVKMXBrTXBaVmN5cE5hZUNnUjhmNUI1cEpKU0s0eENrRHp5U1N2dUg1amVSbmVXWWs4SG9Ud1FN?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1791041520,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Not Home Depot: This Big Box Store Tops JD Power's 2026 Appliance Satisfaction Study",
+      "media": "Bing News",
+      "url": "https://www.slashgear.com/2270776/best-place-to-buy-appliances-jd-power-appliance-retailer-satisfaction-study/",
+      "time": "21h ago",
+      "pub_ts": 1791035100,
+      "summary_kr": "JD Power's 2026 U.S. Appliance Satisfaction Study sees Best Buy go from third to first in retailer rankings, swapping places with Home Depot.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Hadjikyriakos & Sons Sets Out Revisions to Its Main Product Ranges and Support - Carroll County Mirror-Democrat",
+      "media": "Carroll County Mirror-Democrat",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWTNNM1BER1plbDZCT0RHWGVFQ0JzeENObTQzTDlhLVhvZDFuZy1qTkZHWWFqaURGVUdWMVp3VjV0U1F6X1pWRlNia0huZG5JQTR5RjhHbm54enNGUHV6UW1VZnA4eERONWc1N25ESG1uNzNxdGlPci1reUhWMXFxTGdQaGY2YUk5d19VTGpqT3FTN1IyTnFkYk40bERRTEVuNllySVpVR0pJcW10clBJMzZyU3ZwZ2c?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1791027055,
+      "summary_kr": "Hadjikyriakos & Sons Sets Out Revisions to Its Main Product Ranges and Support  Carroll County Mirror-Democrat",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The iconic kitchen appliance brand that's owned by Whirlpool",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/other/the-iconic-kitchen-appliance-brand-thats-owned-by-whirlpool/ar-AA2duUgV",
+      "time": "23h ago",
+      "pub_ts": 1791026220,
+      "summary_kr": "We're not being dramatic when we say this iconic brand, owned by Whirlpool, crafts an essential countertop appliance that belongs in every kitchen.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
