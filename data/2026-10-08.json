@@ -1,0 +1,511 @@
+{
+  "date": "2026-10-08",
+  "date_display": "2026년 10월 08일",
+  "generated_at": "2026-10-08T20:42:17.522697+09:00",
+  "generated_at_display": "2026.10.08 20:42 KST",
+  "category_counts": {
+    "Technology Trend": 3,
+    "Market Dynamics": 16,
+    "Competitor Analysis": 7,
+    "Samsung DA": 4,
+    "Samsung Bespoke": 4
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 34건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: Prime Day에 대한 Walmart의 답변은 진공청소기 가격을 최대 73%까지 낮추는 것입니다. Shark, Bissell, Tineco 등을 할인받으세요 - BobVila.com. 경쟁사 동향 7건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 10건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 10건이 감지됩니다. 주목 기사: Apple은 LG가 새로운 스마트 홈 장치를 구축하는 데 도움을 준 것으로 알려졌습니다 - Trusted Reviews. 삼성 Bespoke 4건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 7건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 7건 수집. 주요 동향: SM 몰 오브 아시아에서 LG 홈 솔루션 전시 - Gadget Pilipinas. 시장 전반 기사 16건, 기술 트렌드 3건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Technology Trend",
+      "title": "컨슈머 리포트: 당신의 스마트 홈이 당신을 감시하고 있나요? - WSLS",
+      "media": "WSLS",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTDhndmpRMmo1akktRXM3T056SGVzamNDaGthejlfOVB2NTFtSEhQRlFtbmpFek0yV1FDanhBTGQydThNQWxTWUJVYlVwbW1uWEMyTlZSWWZqbzZjMl8wWktvNkJ1U1N3OV9KQ1N1NG5ONlFqYkxlQVdObXJBZHY4Y0wyVUZBeXRVdWZTRXVaM0JPbklFSFVORQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1791455673,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Apple은 LG가 새로운 스마트 홈 장치를 구축하는 데 도움을 준 것으로 알려졌습니다 - Trusted Reviews",
+      "media": "Trusted Reviews",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdVEyQ0UycGpiQ3pnREZDSlpvMHl2aTVZVTlYNHN5bW5hSGF2QklxdjdRR3FaVGpLYWNsb3BFV0U4Z0hYczRkcDdZM0VaTC1kZDIwcTEtSnBuNmNPS1Nsb3hCSFh2LVdRSElqVkpsZFdmc0FhdnpEY3Brb3VGcjZqeG5XRFZfc2dtam5heUdfWmFBanpMMWNrYldyb0dfX1g5b3VB?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1791453905,
+      "summary_kr": "Apple은 LG가 이러한 새로운 스마트 홈 장치를 구축하는 데 도움을 주고 있는 것으로 알려졌습니다.  Trusted Reviews",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "80년대에는 모두가 소유하고 있었지만 오늘날에도 여전히 강세를 보이고 있는 주방 가전입니다. - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeEdwVzZDTnVHdmREcEpORl90dDFjWXUzUi1UMEJteG1jd1J1ZFVUTURET2lsZWMxZjVDX3dJNGp1UVRPWGltY1Eyby1DZ0VETFZfWW9VemFKeTRDenRVQnhOSkRJX0QtaW41TlFsUGw1OVpuVGdVRTczcFd1WFFnQjVlT00yZWlZVWcySTZuSGY0cngyd2NINkRjdVpCdU9Tdmow?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1791451800,
+      "summary_kr": "80년대에는 모두가 소유하고 있었지만 오늘날에도 여전히 강세를 보이고 있는 주방 가전입니다. Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "SM 몰 오브 아시아에서 LG 홈 솔루션 전시 - Gadget Pilipinas",
+      "media": "Gadget Pilipinas",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SSXlSSHFUQlotdHBFVUlOa1lucnVlOWlpeWd5YldWRkNqRjdQR1BNeEVZdFpoTVB0LUlFMjllUDBoRjl5azhzVUlUM0QzZkFrd0taaDIxMG1LZ1pIMFFTbFhuUk53M0ZiS1FGbVZYMGFlT2ozeTBoVUktSHRvUQ?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1791451624,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 최초 분기 이익 100조원 돌파 - The Investor",
+      "media": "The Investor",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pRjNoYjdRT0VoNi13NXlLcDVOY2YycURPeFQ5cWhYQS1vNWI5b1hQSW5Vd3R4VUtMU3l5Y1RMMjN2eWtLLWRlbnlKTFJuX0RVYnc0YzRQLUpFdw?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1791442568,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2025년 소비자 가전 산업을 형성하는 주요 동향 - 독립 신문 나이지리아",
+      "media": "Independent Newspaper Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZktucDRPSUVydFZURzdwckpqdzhqeno0TERMSDdxVzFBaVhUWXZIRFdGNFl2LXV2N0ItdjQ0NkhWcVY0N3BKRjZVNVVsUTZJZFlWLTBnVnd0ckJ5ZmpwdUVWc0w4TmhQQ3hNUWlHdzgweVpGeDBuR2M1NzE2dmJyV1kwM195bTRjQU8w?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1791437399,
+      "summary_kr": "2025년 소비자 가전 산업을 형성하는 주요 동향  독립 신문 나이지리아",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "줄리아 차일드와 스탠드 믹서 - CBC",
+      "media": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtNUFKZWdKemJMYVl0QzdhVlVNcEtjVlRJdk55bF9FMXZ6S3Nxc2VRc1p5blFkSFFtcU1QZWJOQ2dobGUzcUhNNlBTZUJCck52UlE?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1791433605,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 2026년 '삼성 위크' 발표 갤럭시 스마트폰, 노트북, TV, 에어컨 등 최대 60% 할인 혜택 제공",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-in/news/other/samsung-announces-samsung-week-2026-offers-up-to-60-discount-on-galaxy-smartphones-laptops-tvs-acs-and-more/ar-AA2dOaTf",
+      "time": "9h ago",
+      "pub_ts": 1791426120,
+      "summary_kr": "Samsung Week 2026에서는 다양한 제품을 31%~60% 할인된 가격으로 선보입니다. 소비자는 최대 Rs 25,000 캐시백과 강화된 보증을 이용할 수 있습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "오늘 밤 세일이 끝나기 전에 다이슨(Dyson), 샤크(Shark) 등 10월 프라임 데이 최고의 진공청소기를 쇼핑하세요 - NBC 뉴스",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUcxc0M5eURzNGpVMFJ4T1ZaeU9tNFpvWGdkWXVMcG1RYW5zbXloSHo1X25QYTRIdUZUUllLSXZuczF6WG1GLThfTEtoMlBCVHNhYnBOdWNlS2o3Q2wxOFRrWWhhNXJUbVNTLUNQVm9TTV93bFZwZ1ktVzZ3ZV9DU0RsN1MzV3B1dEluNVdzRQ?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1791425520,
+      "summary_kr": "오늘 밤 세일이 끝나기 전에 다이슨, 샤크 등 10월 프라임 데이 최고의 진공청소기를 쇼핑하세요.  NBC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "새로운 진공청소기를 생각하시나요? Dyson, Shark 등의 10월 Prime Day 진공청소기 세일 상품을 쇼핑하세요 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNFN6Ul9QNVU4S0Vqa2cxUlZ5SEpjWGJJSHNSVFJkZjdBd0V6eDJaYjhXOUd6b29KYndnYl9Rd096TjNIZU0yVkY3WjNVcUk5Tl85R2V1YXlsRm92bDVoZVRHaWtwdldjb0wydnVaaHVBNDFZdlpXRHZFQWlpUFlzSS03dmR6SjFpTXRlbDUwVU5NcTJQVXltRzVtRHR2N05CVmxKQ1k3SThmaUZrNmZlZGZDdFNtUDE4NjdLTE1yQUZycHRWeFlIZXJSRFJvLVpnWkEyLU9VTHlLZGY5ZHdBY3ptdy14ellNbEE0SHlBQUNBZ3dXbFNRbg?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1791415519,
+      "summary_kr": "새로운 진공청소기를 생각하시나요? Dyson, Shark 등의 10월 Prime Day 진공청소기 세일 상품을 쇼핑하세요.  Yahoo",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "'따뜻한 미니멀리즘'은 진부한 디자인일 수 있지만 드류 베리모어의 '초콜릿' 라인은 풍부한 중립이 항상 패셔너블하다는 것을 증명합니다.",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTEVNU2g1VjFUXzRMdmJ0TTB1bTFSMnJUV2QxVXRzakt0dWw5Z21USXNEREtPMEliQWoyTzI3Qjh3YmFZUG1Yc1JyaEFLWU1uRjNGaTZ6Tm5yc1hzaE13OHhYUnprUjhmWkMzclFXZGtNXzVJTG9SVUFkalR0RkREVjRIVkg1VW9Rb09tRzExeklpNGZGZ0E?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1791414000,
+      "summary_kr": "'따뜻한 미니멀리즘'은 진부한 디자인일 수 있지만 드류 베리모어(Drew Barrymore)의 '초콜릿' 라인은 풍부한 중립이 항상 집과 정원에 패셔너블하다는 것을 증명합니다",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소비자 보고서에 따르면 전기레인지 브랜드가 가장 높은 자가 청소 점수를 획득했습니다 - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdWlHbURndXIzQmVORklsVzcxZEdPRVA2NGU4ZWNyYXEzMlpmUlBwUHU5X0toeDJWdDh3S19hT0dWSDhqU1F3RzVWazgyNjFPd0tTWGtEbmF3Z3R0QmNTQ2NYOXlLdU9WazFVSnAtZE54SndDMVBVRDVEM2UyQnJFbE82WG9UTlhSNmdXS2tERGdfOHktNlRpQ2RNOHVUS0I1SlhZRg?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1791413100,
+      "summary_kr": "소비자 보고서에 따르면 전기레인지 브랜드가 가장 높은 자가 청소 점수를 획득했습니다.  SlashGear",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "10월 프라임데이는 여전히 강세를 보이고 있습니다. 놓치고 싶지 않은 주방 특가 34개를 찾았습니다 - CNN",
+      "media": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUNiMHFGT3dyajBRMkFfV3lyZUZOc2JHOXE4UGktQlQtRC1peGFFQUZtcmFKenZ2V1l2RVYtZU1FZVREOEhKUUJqTXJLRnVQbVFtWlJSdGtKbHVmc2VCVnFRemNldmstV3QxQmYtV2NUUk5lMG04TEl6MzhhNzFfdk9udHV0cFppUlRNOVY0U2FjUQ?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1791410619,
+      "summary_kr": "10월 프라임데이는 여전히 강세를 보이고 있습니다. 놓치고 싶지 않은 주방 특가 34개를 찾았습니다.  CNN",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성은 Apple과 LG가 연결된 홈을 목표로 SmartThings의 싸움을 준비합니다 - ChannelNews.com.au",
+      "media": "ChannelNews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSktIOHpNUVlvZnJhQUl6YmRFNml4c2ZCMkNzZU9ZMzVIZUVCNFBaX29ocnpkTmxGWnFQVThfRWM5NGpPUjFfOWhEdDZSVDJyYzdtNVpfVHFnVWd1S29BRTM1XzJSTVBWWVZVSmVYc2RmdkRDMVpqeWxmVWkyMjRNLTZGeWVpbjdGYTI1ZjJ1MGstc09SS3pFUUpENEs2NlVjSkp0U0hrR3JEQkk?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1791410104,
+      "summary_kr": "Apple과 LG가 커넥티드 홈을 목표로 함에 따라 Samsung은 SmartThings의 싸움을 준비합니다. ChannelNews.com.au",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Apple, LG와 협력하여 스마트 홈 푸시에서 Google, Amazon 및 Samsung을 제압 - ChannelNews.com.au",
+      "media": "ChannelNews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ2NYTzdCc0pQVWFtTWNUcU4ybGRfSC1DaG14X1ZDUVcybGE5QlBuckVBQXRNd2w3YzAwY3dkSXVGU0h4TlVrbkZoTjZidXBhajhmN1BRNmV3cU5VWEpuQ0ZtVGQtYUpxMXZoRW9ETlBCRDBUY3dNdHJ0TENsUjhCRFdmbHd1aHVrWGpwWDlVYmg4UzZKbFVBWUpwRFNleVZoVkg2cV9QQmtTelE?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1791407639,
+      "summary_kr": "Apple, LG와 협력하여 스마트 홈 푸시에서 Google, Amazon 및 Samsung에 도전 -ChannelNews.com.au",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "RTA 야외 생활 2026년 비용 연구 결과 주택 소유자가 야외 주방에 18% 더 많은 비용을 지출하는 것으로 나타났습니다 - Daily Tribune News",
+      "media": "The Daily Tribune News",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMVJXRXplbmIzcXBRSjAwZXI2alZRZHN1RG0tb0tHMVVsRTBUZUEwdm1HRktTbUxacGdVQnp4VVFYMUtXTkttWnk1U0dZOEFJQlJuSFJkOGJsbjBNU3VxQWdwZHlJSUZfNGNCajZrSGo2VW0zQjEwLU1WUHQxNkZmWk1jZVpXREhybl83X0ZpR0VTeGJJTEoxVHdiTXhULU5FRW5ndmI1MHByUGJwVENGbVJqbXRVMWR4OFMwSEktNW04UXk0OGpVM191ck0zTkozeGsyLTU4Tk5DWGVsdzJuRTh6Y2plYmJqVEo2VzQwZ0Q0YWtNTmozOENZMFZBQVg0UXcyUEYzbjlHSmp6dEpNekc5LUxoUWlwdlQtWF85dkNSY0RQR1E?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1791407220,
+      "summary_kr": "RTA 야외 생활 2026년 비용 연구 결과 주택 소유자가 야외 주방에 18% 더 많은 비용을 지출하는 것으로 나타났습니다.  데일리 트리뷴 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "상업용 주방에서 천연가스나 프로판을 사용하면 작업자가 대기 오염과 위험한 열에 노출됩니다 - Phys.org",
+      "media": "Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qWkRGbkc1VUlxb2ZIbDV2ZjNDb1E2M3ZkaHRCMVdBTlpXZU54QzUyZGhfTnZMeXVnZm9mem12MDRUdE1wTnM4Z1dVWXJlbzdBXzBYWTVEUGFrTDVkVFhCWUN3SUNaZW0zeDhET0pPWWVyNS14ZHNZT2lqOFA1QWs?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1791404413,
+      "summary_kr": "상업용 주방에서 천연가스나 프로판을 사용하면 작업자가 대기 오염과 위험한 열에 노출됩니다.  Phys.org",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "새로운 주방, 새로운 나 - 새 집의 요리 공간을 업그레이드하기 위해 구매하는 Amazon Prime Day 특가입니다 - TechRadar",
+      "media": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeXAtcVNfY21aZzF6a0YyYmtiQkdJd0hZQWhHSUE3WTliTW9wVnc1Z1M5bW4xOTRuSXpOZVZTbDZqZHhnLTItNFB2WklUX3RuQkhDTFBmV3FsN0ROV2pSalg5djhHektRNHQ0Y3ZEUDNVVnY4Nk9lOUpPRkFTZExHVHJza3ZIUnRVQjVmNmt5WWk2UDN6RlNRYm5nTUF6SGtUQmhVUUN3bEVHSTVyeEZtclpfalpLTkg2SGVGdzMyZjhiN285LU1IVkFoSzhhVWpzamR3TFBHLXp3UVp2S2pkV0tPRVNiUQ?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1791399600,
+      "summary_kr": "새로운 주방, 새로운 나 - 새 집의 요리 공간을 업그레이드하기 위해 구매하는 Amazon Prime Day 특가입니다.  TechRadar",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "실제로 사용할 계획이라면 한 번 살펴볼 가치가 있는 10가지 주방 도구 - The Gadgeteer",
+      "media": "The Gadgeteer",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FMHd1WGtIaUhsRm4zLWY1YmlGem5sRGZ3eDVHam1NLXloTTE1OGNXNlpkV1hiMFAxSHhKQWk0WUFzOVp5d0RGWVFwNFE0N2xhLTVPVzhOVHVqdnhLdU5vUE9jZlpqdEdwTVRWb0I1SkZXOEhmZ2RrUS1qLTc2UQ?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1791399600,
+      "summary_kr": "실제로 사용할 경우 한 번 살펴볼 가치가 있는 10가지 주방 도구",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "월마트 캐나다(Walmart Canada)의 대규모 세일은 여전히 ​​강세를 보이고 있으며 쇼핑객들은 삼성 이어버드, TV, 가구, 주방 가전제품 등을 100달러 절약할 수 있습니다. - Yahoo Lifestyle Canada",
+      "media": "Yahoo Lifestyle Canada",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxON2owMnRBVk1BY19sX3RCcVlyTEVVN3Nhb2NWZ1NBV0JOTllNLXQ3bzNKci1BdmNMQ3ZESEwyZWNHaVFMeWZJN3FCcXFqeWJZS2d3V1FQRzNyQVVwU05vR3V4SHQ2Vk9paDZIdkFBTDQyTktLVmlaTW4yRXNEUzVOR1JLQTFKN2c5dWtuMXRoREI3VHRBRkFSblhYRzd6XzZnTjV1R19sdmlBQ2RsLVJpVlNCZTIzV3B0bTc3MWlIUjBmVDB5VmVCeEIxblY4bU4tUW9zcnRzajhzMWVrYmo1d3BVRlNUTHA1U3VRdEJJVlZ1TFhnLWtVMVU5clUtdEVVaTlJSFcyRms4Zw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1791394401,
+      "summary_kr": "Walmart Canada의 대규모 세일은 여전히 ​​강세를 보이고 있으며 쇼핑객은 Samsung 이어버드, TV, 가구, 주방 가전제품 등을 100달러 절약할 수 있습니다.  Yahoo",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자 3분기 이익 예상치 하회. 주가 하락 - KED Global",
+      "media": "KED Global",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPdWY0RzQyaHFjZ1psWVFFQldqWDl0ZnM1YWluNVlKbFFhN1QycEJtcjRBbDNReW5zam9uUklGbnhHY1YzYWNRX3FxOXctLVpKV0NoNVlZaGRHemFuX3B4VUxHcU80a3FWYmFv?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1791393289,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Amazon October Prime Day의 30가지 최고의 진공청소 상품은 최대 70% 할인됩니다 - People.com",
+      "media": "People.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTNEN2pkRUxQZzlRUDdXa1ZpR09VVlZHaXRiWHA1M1JoVDFoT1hzN205aTNaQnNmOEN1ckJXb0MyaHIzVTZNcnJibVNJcEo3TnJhN2RzWFFHMlVORDF4ck9yaS1GUVE2Q0wzb1RqQmpvOUItLWZEWFJfX2l3dUoxVw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1791393180,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "인도에서 Samsung Week 2026 세일 시작: 갤럭시 휴대폰, 태블릿 등 최대 60% 할인",
+      "media": "Bing News",
+      "url": "https://in.mashable.com/tech/114718/samsung-week-2026-sale-in-india-goes-live-get-up-to-60-off-on-galaxy-phones-tablets-and-more",
+      "time": "18h ago",
+      "pub_ts": 1791392400,
+      "summary_kr": "Samsung Week 2026은 Galaxy Z Fold8 Ultra, Z Fold8, Z Flip8, S26 Ultra 및 S26을 포함한 일부 Galaxy 스마트폰에 대해 최대 34% 할인을 제공합니다. 고객",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "모든 주요 전기 주전자 브랜드, 최악 대 최고 순위 - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXdRck85V0RvTXlYdEhLbHdGQVlNYkRhNi1rUzZaREZ6OGdtaVFrQkZXYmg5S1NVWVVWQTVocnZmcGw0Y29jQjZ0Q3lYS0NpbU1ncWw2dF9URE5IVENObDJuS3FFcHhKQkQxdHZmcnMzWGtaRFlWeU9yWHNoTkExWjVVLVlycTVJQ1QtYWo2RQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1791390600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자 인도, 가전제품과 가전제품에 대한 '신뢰 축하' 디왈리 행사 발표",
+      "media": "Bing News",
+      "url": "https://www.equitybulls.com/category.php?id=376521",
+      "time": "19h ago",
+      "pub_ts": 1791390240,
+      "summary_kr": "LG전자 인도법인은 오늘 독점적인 제안과 신뢰를 통해 더욱 밝은 디왈리를 축하하기 위해 디왈리 캠페인 \"Celebration of Trust\"를 발표했습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 Walmart에서 구입할 최고의 조리대 가전제품 5가지 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1lBZ3ZmbDZTUVhydUZUeGZNYlltYVYtcmVIU3RsMGpsMkxYMjZHVG1oTGJfc3VISHdYR0FXOGwteE5oVEQ2QmVQaGoyNDhwUWNIb084ZGtjb0E5YTdUWDJRSFlGckVfS0RIR1hqdzl6S0JiZVJnNGRnU3NRNGsxZXhfVQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1791388800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "콘크리트 분지 색상 - 주방 및 욕실 디자인 뉴스",
+      "media": "Kitchen & Bath Design News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91WjBvaDBsSDhzR3p2dTNtMEZrbjN5TFZ6U196Y1ZwR19jSHVkOEpwaERnZ2lCcnJUc3RSaGFab09BQmwzckh5Rm0xeXVJSGViczNnVU9TTGJJN1kyaGFfNmJHbW5HMGEzOWR0UG1rZ0JVTEtvcHhtaEhYcw?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1791386861,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Whirlpool(NYSE:WHR)이 NYSE 종합 부문에 집중하는 이유는 무엇입니까? - 칼킨미디어",
+      "media": "Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeE5lRkVWSlRhTjc1bllMbGswb2R5U2h0TUZYai1zUHRBclFRWjM2aDdtRVF2TGlXdTF5blhVN2YzNC00VFp0UTdSMlFIR012V0hNX1QzZVRrUUtWYzRsV2x1Z1luQVUxeTFFRlhnTmtFYjRVazZLT1BMYzN4R1BDZjBidDk2XzNQS2d6MWxhOVYwcmpVSFZCRUVNVXgwdw?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1791386520,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "\"보이지 않는 주방\" 트렌드는 현재 어디에나 있으며 디자이너들은 이것이 계속될 것이라고 말합니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZU9VbjNiUmZnLWJuOUo2UWtRNS1SUThST2k1bV9pSkxtZ3BBNGphNlE4MzIxbG9WQlFoYjhOYlF6OVZ0LUpqY3Z0Z2xLbi1VSGxIMnNhVklUdUdNWTRwNmswX084Wi1ST0ZOTU5fYnZETV9vVEd6YWlHR0FPa2t5RTU0MVZ2UDFlMHU5WlRFYy1SQTJ5bDN4ZE1QS2loc2RzX25zRVVvQm9zUDRfVFY2Zm1nV1lIcmc5Y3c?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1791383400,
+      "summary_kr": "\"보이지 않는 주방\" 트렌드는 현재 어디에나 있으며 디자이너들은 이것이 계속 유지될 것이라고 말합니다. Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Anthropic의 맞춤형 AI 칩은 삼성의 2nm 공정을 기반으로 구축될 수 있습니다 - SammyGuru",
+      "media": "SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjhseS1NNXJqRjJ5QlBqN3hPbU5naGNkd3ZHQURoXzViTXFvQXU1NUJra3g2LTJCcElWb01PV2lwMzF6aWN0emNTcE1ZYl95cERtRXZ3a3h6RmdFVWkwZDU4Uzhia1dVdThORWJWY2daQlktQ1ZyZC12NEZoTzZ4WVB5ZTZJTFZqcEszOUZBdw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1791381204,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Prime Day에 대한 Walmart의 답변은 진공청소기 가격을 최대 73%까지 낮추는 것입니다. Shark, Bissell, Tineco 등을 할인받으세요 - BobVila.com",
+      "media": "BobVila.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5RDBnc0ZhNkJYTEVpbEw2d0YyN2RadFVqbTNtQnNMTjRzT1VjTV96MXRpelk4Y0lZQlJsY3NuRjRWOEdPMU1BM21FMkQ4YUxmVGhMOTRlOTJEcUVGa1g4TldKLVVlczhjejgyNUY4U3dVMU9pTFpiNk1KVQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1791379800,
+      "summary_kr": "Prime Day에 대한 Walmart의 답변은 진공청소기 가격을 최대 73% 인하하는 것입니다. Shark, Bissell, Tineco 등을 할인받으세요.  BobVila.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk",
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "프라임 빅 딜 데이(Prime Big Deal Days) 동안 최고의 가정 및 주방 거래",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/other/the-best-home-and-kitchen-deals-during-prime-big-deal-days/ar-AA2dF5ty",
+      "time": "23h ago",
+      "pub_ts": 1791376641,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Week 2026: Galaxy 기기, TV 및 가전제품 최대 60% 할인 - FoneArena.com",
+      "media": "FoneArena.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lVEZvNEVIb1A5QXJhMjh2MWxLTmRUa2tmVEVXN3hHT2x6TFVtQVQ3elo1akVmelA4WXJxNEszY0NYZllJYy1xbFFxNUp6S0ZzSnZsZnQ0YlcyNWR3TlZJeUVwWkhfU1NxYWxFMm12SGpSS01J0gF6QVVfeXFMTmhyempCSC1rVllSa3NYVjlJQXRmNFRLUF94aHFUM3RmVThWXzAtNnRKZHBwb0ROcFI1emFtdG9VVWUzR0d2eGtnV0FzYnJ6b1ExRUVDbHBoRmtuZUc1bTBCd1c2cEFNNk5hVkVRSEpXbVdzNlVQemRCSEE?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1791375778,
+      "summary_kr": "Samsung Week 2026: Galaxy 기기, TV 및 가전제품 최대 60% 할인  FoneArena.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Coleman Appliance는 다음 주방 가전제품을 구입하기 전에 여기에서 시작하라고 말합니다 - LakeExpo.com",
+      "media": "LakeExpo.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN0doYkJXUVo2Tm9HdDVXVUNSWmFqdEJQa0IySDJ2Sm55VWRxT1o0UmZMcjNEbEVNdVNLZ01fLVR3UDVDeXV1RXM3R1kyUDctZG9scS0zSGN2ZnFUUlZZbTA0VWFTM2VPOFFfYVo0aXFNUkZ2RTVIcnk2M1pKcVV5akFYVWpvSkk1TkVCNTBvWEpxQjRBdlBNRHBUbEJ1MkZuRzE1b1lsdmxqbGtlNGUwbmlqaWlxV1pZbUtQM3dXVDlPbEU0NE92eHBPQ3RRMEhQZXpsTDVFOVJVY2tsYWo2YTlzZ1JJZklSaUlqanBkeXVlaE0wcVE?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1791374400,
+      "summary_kr": "Coleman Appliance는 다음 주방 가전제품을 구입하기 전에 여기에서 시작하라고 말합니다.  LakeExpo.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
