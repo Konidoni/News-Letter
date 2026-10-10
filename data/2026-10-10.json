@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-10",
+  "date_display": "2026년 10월 10일",
+  "generated_at": "2026-10-10T19:53:21.766493+09:00",
+  "generated_at_display": "2026.10.10 19:53 KST",
+  "category_counts": {
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 1건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 0건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 0건이 감지됩니다. 주목 기사: —. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 0건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Samsung DA",
+      "title": "전자·가전업체, 삼중 위협 속 구조개편으로 기회 노린다",
+      "media": "Bing News",
+      "url": "https://biz.heraldcorp.com/article/10898106",
+      "time": "8h ago",
+      "pub_ts": 1791598260,
+      "summary_kr": "LG전자가 올해 3분기까지 사상 처음으로 누적 영업이익 4조원을 돌파했다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
