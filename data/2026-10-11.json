@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-11",
+  "date_display": "2026년 10월 11일",
+  "generated_at": "2026-10-11T20:07:54.782041+09:00",
+  "generated_at_display": "2026.10.11 20:07 KST",
+  "category_counts": {
+    "Market Dynamics": 9,
+    "Samsung DA": 1,
+    "Competitor Analysis": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 11건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 7건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: LG 시그니처, 美 진출 10주년…프리미엄 가전 시장 공략 위해 제품 라인업·판매망 확대 - 매일경제. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG 시그니처 라인업 확대, AI로 북미 프리미엄 공략 가속화 - CHOSUNBIZ - 조선비즈. 시장 전반 기사 9건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "LG 시그니처, 美 진출 10주년…프리미엄 가전 시장 공략 위해 제품 라인업·판매망 확대 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vb1g2YzFkd0pwM0MyMDZkd25qOHhvU0Z0anQtS2tQZkJzMk41VlJkZmZma2hHeDM0bWhJVEp5S0t0SEdFc05WdXVRZ3lhRGRycU1V?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1791697645,
+      "summary_kr": "LG 시그니처, 美 진출 10주년…프리미엄 가전 시장 공략 위해 제품 라인업·판매망 확대",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG전자, 시그니처 10주년 맞아 미국 프리미엄 가전사업 확대 - 인베스터",
+      "media": "The Investor",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kYlZ5UHpMa2dsUUJoYVctU1VfQktMX1o0ZkJaVklKY0E1UzFFelB5Q0lJa3UwejlJNmpxdWFjNXdZRUIxV3RpU25LTW1nb0thRndNYzlQMF9Sdw?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1791695015,
+      "summary_kr": "LG전자, 10년 만에 시그니처로 미국 프리미엄 가전 확대 추진",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG 우즈 뉴욕 엘리트, 美 빌트인 푸시 10년차 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSFZORkM1WjZ2NTdVbEVYejJOZ3pXNzBCS3BpSzFMWk9yQ0NPU1V3cW16eHBpMjZkcXBvRkozMXY3RGdrOHVjWGVEa2ZJOGFRNlZscFRZQndHRlJMMmpTYXptNGZvM1VUWjBqRTZ6bnk1QXlBQUM3RUgwRlRoYXRkSzNLX015RkF6bEJmSHdfOUY0QjdpVy1Qc2ZpOU8tOWs3RFYzSXJB?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1791690800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Amazon Great Indian Festival 2026: 세탁기, 냉장고 등 최고의 가전제품 거래",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-in/news/other/amazon-great-indian-festival-2026-best-home-appliance-deals-like-washing-machines-refrigerators-and-more/ar-AA2e0ks6",
+      "time": "7h ago",
+      "pub_ts": 1791689401,
+      "summary_kr": "Amazon Great Indian Festival 2026에서는 인도의 다양한 크고 작은 가전제품을 할인된 가격으로 나열했습니다. 세탁기를 구매하실 수 있으며,",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG전자, 미국 프리미엄 진출 확대 - LG 시그니처 라인업 10주년 맞아 10개 카테고리로 확대 - BigGo Finance",
+      "media": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwUDAyTTBmMzE4NkVUQ0Y2S3NwcFlaenpnYzFYQWhfYnMwNV8zLVZqSUF4MEdYcU15MndFM0d6RzV1d1BIQ0IxazlUWmtLLWROaHplWGRmMk5FeVpOZ1NMdF80SFZFVmZraFdtZGZkV0RhMldqZnc?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1791685500,
+      "summary_kr": "LG전자, 미국 프리미엄 푸시 확대 — LG 시그니처 라인업 10주년 맞아 10개 카테고리로 확대 BigGo Finance",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG전자, 북미 시그니처 프리미엄 가전 10주년 기념 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdTNhUWczVWVqbXAwVFVKNUpFR2RYaVNtdFllbEJqN21ZUEd1VTYtT2tkZTBGT0R5alk1R1BCY3VYUlloYU5LcEtVY3d4MXN0SFk2NzFWSWVfSXcwNWVTalQ0cXBrUXRKMGN3NlhTUEZoZTIwX2ZpOEhkVE00Mm1WNFBuc1Nyc0xvcWVPMHhMRm02OGpwLUd3?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1791682770,
+      "summary_kr": "LG전자, 북미 시그니처 프리미엄 가전 10주년 기념 서울경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG 시그니처 라인업 확대, AI로 북미 프리미엄 공략 가속화 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FMXZ4YU43NFFSWE1KVlo5a1djZlZ6c3NzWE54RVlUVHJON0NPN0NraVNvQmF4NUVTRzk0QlZRSzZ6TXdiZDloZ2ZveDFlSUF5R0FJamY0TXl4RWpLVEFFb0I5SWJERG9xWGFaQWVGWkZwVVJveXg5VnFR0gGOAUFVX3lxTE93YS01anBqMU02OVVsc1dfUzZiQnloemdkenBSREwtdmtuc1Z1WVpNeU40R1Q4dXEtMkJDOEs0d293LXVMcXd5MzJ0MnhzbDd1NjZrRF9JMF9lemNsbk1oaW5NNG9nWE9FOU1qZ3U5TEJaWnVyVnBScTZlRmt5YS1DMnpwRXp0TktpVWpYWHc?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1791680400,
+      "summary_kr": "LG 시그니처 라인업 확대, AI로 북미 프리미엄 추진 가속화 - CHOSUNBIZ 조선비즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG 시그니처 가전, 구겐하임에서 예술과 기능 융합 - 조선일보",
+      "media": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONzA1Q3dUMnFfeHhmOXNSb2N6U0o3Y3lKejc0TklaOUctZHljdUxaWjdhLXBUS1RmSUo4ZGZ3X3pmYllHUUd1NUk4RGNFSy04b2RrVTNSWjVLTDRDNW1fZERheHdvM3IzQXN5eG8zU2o0QnlRamxNelZYZ0cxMDBZZVpfZVRySTlGejJ3Vy1B?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1791676807,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "할리우드 악수를 원하시나요? IKEA의 새로운 크림과 파스텔 핑크 베이크웨어 라인으로 주방에 스타 베이커의 모습을 더해보세요 - TechRadar",
+      "media": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSU9uaUxsbHp3TFJhdkFMaTF1bjhEcU9oZ2VNVjJwbHU5bVh4dEpSWEtUUUJ1ZGl3TnNtMF8waWVnb1NySnd3T1ZHMUppMkJ5dTBoX0dMRE8yVy0zQnRxU2lEVnVKUklnUTZvVzdwX1Fka2FWR2RsQWxyLU5hTXNvWlN3eFFMaEdTZ1NPWC11VmhqVXFSSWpVUmY1RkFCTmlxNU5qckllYlhjSkVKamNIaG41UmVGUnZvTFdPZEEwdzVnTU56c0ExVVlTdnpKSnREWGtEdDZMNUxMdkdOZUMwSXBqN0VXd0dfWk5URmlUdTlhUzdKdlZRUG1WWHVORjZXQzFFMm5CSWh6Rzg?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1791655200,
+      "summary_kr": "할리우드 악수를 원하시나요? IKEA의 새로운 크림 및 파스텔 핑크 베이크웨어 라인으로 주방에 스타 제빵사 느낌을 더해보세요. TechRadar",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 작은 7달러짜리 장치로 인해 무거운 주방 가전제품이 조리대 위로 미끄러지듯 움직입니다 - CNN",
+      "media": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lUS01SGwxWTg3TGtUVk4zblBsblczYnF1U0piZFdRUWNKSHgxUzlQODBSVWJkZkVJVXBDSEtRNGd5RzBuNlNyUmQzNzVsOHk4OEJUUGZoUGpsOV9BNGJlYVNUUWlvVHZSLUE?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1791637200,
+      "summary_kr": "이 작은 7달러짜리 장치 덕분에 무거운 주방 가전제품이 조리대 위에서 미끄러지듯 움직입니다.  CNN",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Crompton, Rs 2,700에 InstaNourish Pro 다목적 주전자 출시 - The Times of India",
+      "media": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQejdIWWJTcl8zNmV6RW1xczVXdnlpUV9weVczZFhIcHhuZ056blVxWnNuZWVNOEpTZ0haeGRWOVBuU1dSNHMtVnJfM0tZVXEyZDg4UWZNNV9kdzRzSlppMXZaUFFTN09WbkJUdm9ZSE9Ba2ozQmExaXJ0Zl9mV1NmRFdCNHZwemltUHNHdkZaWXlNMUxETDNKVE5xMXpjNWFSdTUtSThsRUxwYjFXU0JTbG9SeWxJLVdCYzA3QkZVQkMxVk9FbGpkWGNMZHU3SHBsYktaeU1NcDlSUW96cmhPWEN2Mk3SAeoBQVVfeXFMTVEtd3RnQkhJVnpqUGdsR2JZTmhYTWE0eklBYzE1MTdyNGYyaWJnU2RnbU1qN29RcV9pWS11eVNhblJBd2s0dm9lX0o4YWFJSWdmNEttZ182RDVLT05vZmFnUVlSNGRvaTRUdVBreEFBZlQ3dXl4V0lYVjJTaElQbFVzXzJKa2RaQ1JHY01MZHZDSk1WOGlNRzczQl9wRjhXY1ZlRk95b0tCLXhwSGdZT3JkM3U0ZDhRTnI4aWUxMEpmMVBFbGphQlh0TVQwV3FtVTVJQTFhN3dMVFNvbUZTZ2MtRjlwOTE2b1dB?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1791633600,
+      "summary_kr": "Crompton, Rs 2,700에 InstaNourish Pro 다목적 주전자 출시 The Times of India",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
