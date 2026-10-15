@@ -1,0 +1,631 @@
+{
+  "date": "2026-10-15",
+  "date_display": "2026년 10월 15일",
+  "generated_at": "2026-10-15T18:31:44.971535+09:00",
+  "generated_at_display": "2026.10.15 18:31 KST",
+  "category_counts": {
+    "Competitor Analysis": 15,
+    "Market Dynamics": 14,
+    "Samsung DA": 8,
+    "Samsung Bespoke": 4,
+    "Technology Trend": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 42건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 15건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 21건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 21건이 감지됩니다. 주목 기사: Smeg의 새로운 MultiGrill은 철판, 토스트 메이커, BBQ가 하나로 통합된 최고의 조리대 기기입니다. - T3. 삼성 Bespoke 4건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 15건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 15건 수집. 주요 동향: 하이얼, M3 세탁기, 미니 LED TV, 온수기를 갖춘 인도 최초의 5도어 냉장고 출시 - My Mobile India. 시장 전반 기사 14건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼, M3 세탁기, 미니 LED TV, 온수기를 갖춘 인도 최초의 5도어 냉장고 출시 - My Mobile India",
+      "media": "My Mobile India",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMVBnRWl4aUl5V3FXU3A4bDQtQzU2RFVqVUp3czNobFdLTE45UVF6NGtPZllCQkJOX2lHd05yREtBZmtNY3FUeEwweFlDU3AwS19HRFlicHRoeEpvWUppQU1WN2c4a1VqWDJfaFFVUXpOczdDMXllX29zdG15bFdiRV9oM3lVOFBKVFpMY2kwZXJuRGhNSW1xQzVlSjR0dWNYZzRUVHVBWDBMLWZsWjJOUG45anBTLWt4VmtRMk5TN0tQY3pjblNLcllR?oc=5",
+      "time": "Just now",
+      "pub_ts": 1792053339,
+      "summary_kr": "하이얼, M3 세탁기, 미니 LED TV 및 온수기를 갖춘 인도 최초의 5도어 냉장고 출시  My Mobile India",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Smeg의 새로운 MultiGrill은 철판, 토스트 메이커, BBQ가 하나로 통합된 최고의 조리대 기기입니다. - T3",
+      "media": "T3",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV0txbzBqdUpZdUFSWk9BOGE4ZWRsQmNNRmhaNkN0S2laNnJTZ09fM3BkckF2RDlsREZJeE81Qmh1T3BIdzQ1ZHBTTV9NWDFTbWEyQ0JiLVRBX1BvUkg3SjV6SVl1blNSam9HMlFpeW41UXEtSXVSYjZBMWF6eURBSWNJWVJMT1IwdkFKSFJZSGJUazdkQVlEZWwwRmRHRTN2UHJOUE0wZWY4NEVFSkJlNW1jaGVIOWZJd3hrNm1mcHpOeGlZVUJsRW41c0xrZ0FfTndiV2pB?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1792051200,
+      "summary_kr": "Smeg의 새로운 MultiGrill은 철판, 토스트 메이커, BBQ가 하나로 통합된 최고의 조리대 기기입니다.  T3",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Lavazza의 최신 출시는 낭비 없는 포드 머신의 편리함을 약속합니다 - Ideal Home",
+      "media": "Ideal Home",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdzVhdU9tOExFc2cwR3lpQl9KX3E5VlB4UnRjZGx4S3BoMVlROHFQd2MwSG9CbjNIVWdCSUkwTXc1TzhhWmlqNVdXM0ZIU0NDTU5vOHlNc0EtQ1p2dFdqOXhTQ0V2MTdQdUdBdlY0Rk8xcHRiS21WNTZDVS1XdXlKSUw5Z1VjcWxBS1BrTA?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1792051200,
+      "summary_kr": "Lavazza의 최신 출시는 낭비 없는 포드 머신의 편리함을 약속합니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Aldi의 Ambiano 브랜드에 대해 알아야 할 사항 - Yahoo News UK",
+      "media": "Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83WjRBSHFzTmFfQzZNVWt1LVQ1MzNNNTlqbEJfaVZBN3VQWDRIVmFYY3k0RDV0UHV5SGtoNllxU2dqYUhGanlIQTQzN3VOM2ZZMFFWZ2ZBWmFtM3Fwc25vaTEyeW5HazZSdkNDTEFFbktXUQ?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1792044180,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier 5도어 내장 냉장고, 미니 LED TV, Halo Chimney 등 출시: 가격, 가용성 - News18",
+      "media": "News18",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcmhLZWdXM0Jjc3dGTUhRYWotZERZMGhGSzNrbFB6dGZQa3RDLWsxVnp5dlBGbjhrZnR3MloyZHFGeGhsOU5mY2NXSnNTLWh0VUhiY3Bjd2ZoRXo4M3JadURkaU5ndWhxSXhrT0NraGpCNEp4a2VIT0xwaXJwZEJ2V3Z3TWJYV3czMDlWQ1lsY3YwQTRyX05JMklWODRCdDVRZExLR1lBbE5CVUhGNkZRX2k5Zy1mQ2ZqWDFsTmxTV2t5a0pucTZTNjI1N0ZYSnMtMmNVMW15OHdNOHZKbDRNQm9CTTFFTUXSAewBQVVfeXFMUEd1Vkh3bTZvTEtKQlhMQ1F1bWNOWmFCeHFWN29mbnRVY2tTeklRUWF6WGkyOGVYLUQxRmxucE81M29VZWVUYlp6U1ZXb2JhZlVBLXEyRHBtYzZ5YXJFNTBoOW9PQjVocUpyU19RdTZheGo1amg2YVpQOHdZNDI2N2NDWWs4eUVxQzBGWXJFeU1MVEZ1d0p4NXlRZTFWdDZSR1FGb1R0UlBSMGI3a2JWR3pmcDdrTTFlR19LRXJKSW5KZVdpVE5oUUV1T0RlY21Xa2lWQ1BqVmtlM25nTlI2U3dDUTU5bEJtUVFsNy0?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1792042401,
+      "summary_kr": "Haier 5도어 내장 냉장고, 미니 LED TV, Halo Chimney 등 출시: 가격, 가용성  News18",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "MIDEA, 공간과 돈을 절약하는 가전제품으로 Xpress Hub 투어 시작 - Inquirer Technology",
+      "media": "Inquirer Technology",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWTdyajBCc3duUjdFcE5GQi0wemRpRFJvQzdxRHlGVnQwOGNHSG5xWDJOaU9tZTJkRTNoQ0tCdlVHWjJIZ194UXhsb2VHUTlCRGZRU2ZFdGVkSkc4aWUtVURlR1pxVTcwcWh3dTEzU29CclRqaEVGTEZfUEVEclJPRnhDTzFDU1lmRmJwWTdQWjA2ZTZ0QU1JTHVVZ181VVc5cU9ULVBYZXk0cVNZcHJGOdIBtgFBVV95cUxQbzBFRlRySjF0UmxSMUFYZmtyZEJlRzNuLVNkaW82aGNpa3BFM2dPemdOU292S2NfcU9XcDVEZGVNcUFwQWNkbDRTWGMwQUFfc1dFREtfM1V1Rkp6dkR3aXNWakVsWlZUWGhUckdRWXFKSjVaUEFPc2dxOFFSUmNMQ1Npa083UURZa1pwWV9yRXFGeDExMG1ucDN2RERjX01JaGp4RTNEaWQyNUZFWm5XUkZGam5kdw?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1792041900,
+      "summary_kr": "MIDEA, 공간과 비용을 절약하는 가전제품으로 Xpress Hub 투어 시작  Inquirer Technology",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자가 베트남 시장에서 가전제품 AI '경쟁'을 강화한다. -베트남.vn",
+      "media": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUV1THNFUllIeWNpNnBrNlc5VC1WV0JtOUlFMkR5bGZXOTBLVFZ6WDgzYVk5dG84aXVVNG1OcWNuWENMX0FzRkJaOWFzZVJIVXg0Q1ZEM2N6RDhKZ0R3Y0RtS3M4dnlaOGdMTkpGbVVSWW1TU29sdWZZMHMzZjRvZzdPaDcyeklGbXVYWGY0VUJnRm04VVFwb2w4RFNvODk5OFJF?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1792037554,
+      "summary_kr": "삼성전자가 베트남 시장에서 가전제품 AI '경쟁'을 강화한다.  베트남.vn",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, AI 가전·HVAC 동남아 사업 확대 - BigGo Finance",
+      "media": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1MVlVSzN5MHhqRjFoeWszdlRobUNEclhuUHAwdE0teEJocWs3UkVkNExBZkVFa1g3bXAzeUxpVUN0SHlKbTNqQk1YNHdkcm05MjBwRWNOVVNTUmczczFtQWNsV3dIcXdIWVFxak5JRjdVVGpYS3c?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1792034700,
+      "summary_kr": "삼성전자, 동남아 AI 가전·공조사업 확대 빅고파이낸스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성이 동남아시아 기업을 위해 선보인 3가지 상용 솔루션 - SoyaCincau",
+      "media": "SoyaCincau",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXN3VzZ4SFdCNTlQSU5oUFlYWXFOTUdjSkdqbEplX3pjSTFnZEhxa0d1aUFmbE9kczRpWWV6X214SldVT3dBZURsaG9JSWtheVI4ZjdaTlVsVmJXLUhhVFFXS01NUkU0LWxfZWE0N0dsZm1XQzFoZWY1YWRXRTlhQjNRSHItdFhwelAtZDJNTjRVWFE5?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1792032064,
+      "summary_kr": "삼성이 동남아시아 기업을 위해 선보인 3가지 상용 솔루션은 다음과 같습니다. SoyaCincau",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 동남아 AI가전·공조제품 매출 20% 이상 성장 - CHOSUNBIZ - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcWNhSER6Rm9FMVk1V1U4ZHFMdng5cmNfbi1VcFlnMUhUZE5UYTg3TjlEMGNTOXpVSUx5dXpUTEU0NUFMaWFGRmp2alRPdE9Ja2stYTRFYmtGamx0N3pHY3NXaFVNZ1lTbWNpTVlzTUxkbUJnVkhPSkJ2T1FuNU9jb0dYQk1scUJBTXVOZHNB0gGOAUFVX3lxTE5xY2FIRHpGb0UxWTVXVThkcUx2eDlyY19uLVVwWWcxSFRkTlRhODdOOUQwY1M5elVJTHl1elRMRTQ1QUxpYUZGanZqVE90T0lray1hNEVia0ZqbHQ3ekdjc1doVU1nWVNtY2lNWXNNTGRtQmdWSE9KQnZPUW41T2NvR1hCTWxxQkFNdU5kc0E?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1792031400,
+      "summary_kr": "삼성전자, 동남아 AI가전·공조제품 매출 20% 이상 성장 - CHOSUNBIZ 조선비즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방가전업체 쿠첸이 야외활동을 즐기는 소비자와 접점을 넓혔다. - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42ZTNFZTlleGZiZldnZ0NJX3FxSDg0YW05dGxUQUlBSGtZWGxOUWhMUk9BcVFTc21uOGNWb09aenAzenFpb29hcEpST3NScmZIMWc?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1792027821,
+      "summary_kr": "주방가전업체 쿠첸이 야외 활동을 즐기는 소비자와 접점을 확대했다..  매일경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "미국산 주방가전 브랜드 5가지 - 매쉬(Mashed)",
+      "media": "Mashed",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkWU1haHFhX2YwZUdia3ZTTnhNQ2p4dUtTVno4MVJKNk8yMjVzSE5Tbnp4SDdyYjNySnpIbzFnUjNhWGlFWThiMzdPOXI1SnFaU2x4SEk2a2I1N0dBVnF0SWJvS0ttV1BORTQwYnhxcw?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1792026180,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG전자, 새로운 25인치 모델로 세면대 라인업 확대 - 대만 뉴스",
+      "media": "Taiwan News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1eEthdFpEZWNzLWZ5WjdFUXVTbHNteDU2dlEzUGZmZHVYR3VhdVFaQXpZanVjdTNjdkpoSS0xWk15a1ZNZXBYVFliZ1V5b09Bcm1WckpQMHQ?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1792026000,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 하노이 'The Brief'에서 2027년형 에어컨 선보이고 차세대 AI 가전 공개 - TechNave",
+      "media": "TechNave",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUx2NGhpWW9vYUhiXzVISTZ4Nkg2dWo2Y1ZybVVTS1hjSWhBemgyLTBlT3ZqX1VsalJRRW9abXRZcnhsV2pGLXpfN3daMGlSU1NZcnVjZExnX0hjQkZNcE4tM3JGWmIydml4RXFXRWNPUDlsa1loamNManZYaWRWU1g1LVNCalc3Qk5IWm5HckpPUVE4MWhMb1Jfbl9yUVVKcHJscTVoVDdTaWxYTzNpSG5va3lneG9XSjdTTC1tNDJLT3V6UnpoNFJTTU4?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1792025829,
+      "summary_kr": "삼성, 하노이 'The Brief'에서 2027년형 에어컨 선보이고 차세대 AI 가전 공개 TechNave",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 동남아 가전 기술 세미나 개최, AI 홈 및 HVAC 선보여 - 디지털투데이",
+      "media": "디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX1EzRjc5THg0ZDhpdHFZODFoM0Z4VVdlNW1xVm80blB3QzNmTEtvODdWcGpOU2dia2FUMTRhbnQ5UHBBd1NmWUZfUEdrcXdRUzVmWDF3YWJ2dzRkVzJLRk42Y0JzNVdXbG1qMWpraS0yTnBRVWVTV2N4aTZ6SFdRaWstNmdWcW1RZjVrMW1ZdEQ4OGJ5dkwxVGRubjJxM2hXRVNQYmM0U0I5eVFMbWdpcTB2QmdCaTBValFqSC1SSlMwWlBfQWRiWlhOZHFFSzVNOWJ3?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1792023435,
+      "summary_kr": "삼성전자, 동남아시아 가전 기술 세미나 개최, AI 홈과 HVAC 선보여 디지털투데이",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성은 마침내 4억 7천만 명의 사용자를 따라잡기 위해 SmartThings 앱을 재설계했습니다. - HardwareZone Singapore",
+      "media": "HardwareZone Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSkVhRENoU3hoNXE0c2hLZi1PNmpHcnpJd3k1eDFQLTFRcHgxNHZiZkIzLXkyS056dnNnWmFWUnRwa21WcDlNTGxlaWUxeGxXSTBlOFhsMW1TWFBUSW1JVnVTOG1wajF3RXlZamdULWtodFhxVm5jaC15MWFXS1hGVVRMdHBBREtOTXVaWmxzZWVndGVyTWt1ckVmMHQ3Rlp5ZXM3NWJFTENkX3l0dFc4LVB3QXFHNnlXTHNZeWJfLTdHLW5OU3ZfRDBB?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1792022710,
+      "summary_kr": "삼성은 마침내 4억 7천만 명의 사용자를 따라잡기 위해 SmartThings 앱을 재설계했습니다.  HardwareZone Singapore",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 동남아 공략 위해 베트남서 가전기술 세미나 개최 - 헤럴드경제",
+      "media": "헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUTVdWQmVDOVp1aENqQVZ2dGFDel9QcmIyMTZjUy1COGF3RU1INzlpWFozbnN3eHpjWk5CU2hMNGNvNEt4TjQ4SjJSNmFaVmdtbXVvbzBVNA?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1792022678,
+      "summary_kr": "삼성전자, 동남아 공략 위해 베트남에서 가전기술세미나 개최",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 동남아시아와 오세아니아에 AI 기반 가정 및 기업용 최신 디지털 가전 선보여 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMXpIV0ZFejAtQ2drd0RhVTVqNFJrZUI4VGIxRjVLb29teGxSamROUExEU3YwZzdiMmpJWmNROVpqWFBkZmlnUzVZbDFzNUI4X0FMajBad0lNbjdYWWVwM3c2ZWFKYVFHQ01hdEZaWm5kc3NQYndieGZMVjRabGZZWkNKRVR6MUNEYmktZGlrTXA0SVV6dmRkcmFXNUtFTUhLMzJ0NGVxZjVYUjVtOHlPUXB4OFhnOUJWTklXYWdiVjJoVVhxMXo1YkFSakFlVlVv?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1792021073,
+      "summary_kr": "삼성, 동남아시아 및 오세아니아 지역에 가정용 및 기업용 최신 AI 기반 디지털 가전 선보여  samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "더 건강한 삶: AI 기반 가전제품이 일상의 웰빙을 지원하는 방법 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVN4UkxFMkxMZmJ3Vk5sSlBJaGZJNVkzaXJYRlY3Szl6bGVScFBaeDNzdFlLWWh1alJ6YzBZTFRlUmdEVXRORTdfOE1mcUpyQVpmSldISU5LWUhLUWw2R29VaGpRWWxFNDJ2UHJGbVpHbmp5dk1aOFlKZWNNcUF5NUlFbXQyOU5sWUdaV182Wktha0hPaWhjV21pTS04X0lEM1pFLVJmZDhTZw?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1792018989,
+      "summary_kr": "더 건강한 삶: AI 기반 가전제품이 일상의 웰빙을 지원하는 방법  samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "AI가 곧 \"스마트\" 가전제품을 해킹할 수 있을까요? - 98.5 KYGO",
+      "media": "98.5 KYGO",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yZjkxc1RQamdXQUdta2hwUlVLeGZ0NGxRbGJfdzBpaXRrWnE1RHUyazF3aF90cGhHbW5tb2dkS2lLZUZLdUlPVkpwQkJFZTVvUDFfNVlPSUhZZWt6UXRPZzRUUjVYZnVMSzFLWENtZ2g?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1792011072,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 주방 기기는 해커의 새로운 표적입니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmdWNUljYjNuQ09kUjN5ZXB3OU03ZVppTjVuaUR5WVh2SWJmZFN0QUdzMTBzWjZwclVJc3N2dlpUeFk5RGYzVG9HM2hfei1sQ1FuZVBIcUtrRHh6QmU0YnhjajRhWlZCRHN6UlBpQ2dkVENZQVZLR0hVcW8yRHFrTHZHVHlhNHpL?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1792006804,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "표준 TV 및 가전제품 기념일 세일 기간 동안 한 달 내내 특가를 즐겨보세요 - KGW",
+      "media": "KGW",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcnNTb0E5QnJxSjVaNmhtV0s1NGNvdnIxQUhHSmJ1czZMWmtFZmMzc1N6NjB6NV9mNVMxeDgxRjlSSWNlRURLN1U0c2JVM1BoZXNib1YyLXVKVzBya1RmU3BGTTUzMnRBR3kxNTR2bXRiWVJ6WTFsQ0FDQmdCQmU0V0RfWENld2lvU2cwSy0zbWhGUHpoZzkxNXYzLW9hVkJ1WWZ3ZkdZcHF5X0xfYmZjcE1aTUo3UzE5VFdwbHRiM05wRVpyN05oS1NFcm1TMFZWUHdWaXJJRFhrVWNRQ291M3JCVUQyUEJwbDNBSDJ1QmtTcUpsaklfYURNQXQ?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1792004940,
+      "summary_kr": "표준 TV 및 가전제품 기념일 세일 기간 동안 한 달 내내 특가를 즐겨보세요  KGW",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 2026년 브리핑에서 AI 지원 가전제품 선보여",
+      "media": "Bing News",
+      "url": "https://www.lowyat.net/2026/407353/samsung-showcases-ai-home-appliances/",
+      "time": "14h ago",
+      "pub_ts": 1792003740,
+      "summary_kr": "삼성전자는 베트남 하노이에서 2026년 더 브리프(The Brief) 행사를 열고 AI 기반 기능을 갖춘 가전제품을 선보였습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "최고의 주방 캐비닛 트렌드: 웜 뉴트럴과 전체 오버레이 디자인이 장악합니다 - cristinaiglesias.com",
+      "media": "cristinaiglesias.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjJza0NzUm1ERkdfT0xBZ1FCZjdhX1Z1VVVCQ2V1RWhRb2ItLW42ZE12dUZBdkxOcmJKdkkwQm04TXhRSVZ4bzFsOTFvWWlCbGFJWFNrQU0xSWpXVDV0YXdtY2RsQU9wemVyRF84OGkzdWhRaGhMUktLYi15Z013MU1zcmtJWmFTUXNaLUR1UENIaU5TWmUyTWViNlFLQXNjMXJ6X0hHb0d2TTByZm0xYUZiOA?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1792002373,
+      "summary_kr": "최고의 주방 캐비닛 트렌드: 웜 뉴트럴과 전체 오버레이 디자인이 장악하고 있습니다. cristinaiglesias.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Midea America, 업계 최초의 STRAWash™ 식기세척기 출시 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXhtUGU0X1NhWGlZX0ItZjlFTUlFYzF4V0dkZXlHMXg4MzhERUJIcXlQMWMzejJlSFVldkFRNVdFcHc1MWMwWWd1Yl80VG1DS21OcFY2TnV5R2h5RzE2UWo2eUpneVFrWHlmTmIxZzRtTnVVa1JVS2wtM0hUSHVoOVVoYWtvWHJqMkRmemxQcmRoYzZ4SnI4UjU3RklfemFmMjFLWlI0bkFxelhGbzl6SlVtMA?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1791998280,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier In-Vista 5도어 냉장고, 인도에서 ₹2,59,990의 가격으로 출시 - MySmartPrice",
+      "media": "MySmartPrice",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdFcyVDFBQlhUcThyLWZtYUZkcUtjRmowSUZnOHZPQmx6cHRLMWFicUtxWmZrRldOOTJKal81MlRBUDc0TGVTckdkTV9mSEpsYjZyMFNJeEhTRlk4WE03aG1rZ21reW5YTHpDRkRiYi1YTlZVR0x3dlNmTTJGZHVIM1hnenFNcmQxVzE0U1hBVVMxYW03WFNYb0pZNlBGZzVXbXZMWDl2WEF4NmE3SzFGVWt4Y29tVXRtZmRoU29qVUFaMGN0QmR1QXV5aElScVNkRGFRcDRXcFlJd9IB3wFBVV95cUxQVTM3MjFPYi1FcDhtR2FSNVV4bE1lbVRfMzNMQWZvMWRqMEExM1NOTy0tb2JuWEhxYy1DeFloY0xPcllaNEpnamFMcTBYZFYzam53dnd3czdkSXBsOG9WVDVHVUtPdWZnX2FlQW5lMmZDM2xSWmdMRURfM1VqRXZzeDE4UEY2TlB5bnlMaEFFSlFucm92aGlPX2RPOWRQRHdKS0lrbllsV3h2R0p3RmdOR1pQakpDWHBleUF0czljdVJ3cmstbG9Qd3FKZzFlbEJIczZiZkk1WHZOaGJHeEJF?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1791997714,
+      "summary_kr": "Haier In-Vista 5도어 냉장고, 인도에서 ₹2,59,990의 가격으로 출시  MySmartPrice",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성 스마트 냉장고, 클라우드 AI로 식품 라벨 판독 - SoyaCincau",
+      "media": "SoyaCincau",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkxvOFVIckV4anRPTHV4NnRzWXZCRUdfM0NyZWdZdUFCVEtDbDlPcXczZnVNdFRTQjFacURaMHZKUDFhWWl6Vloxc3AyRk53OV93VmI5LW9EUWlhWHUzTG9BaHlWeG5yVTlUVmVoU2JNUkItN21qNlpWMWdfb3NwUmdXdw?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1791994389,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier Appliances India, 프리미엄 수요로 40% 축제 성장 목표 - BusinessLine",
+      "media": "BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUUxLT19Eckx1S2lBZXZXSDNBb2pKbFRkQlUtVFdUTlQ2d1I1X1YzY3lxbEJSN29MNnpsa09tOEpHTWRMcGROVDFnc0djZnQtck44NldjTGJVMk1DY0RkLTdMcUNoYXJyaHZmMlJ6U2pEUkdlZnpzVmV0NW9lTVA3Rk9zTE9GVU55VUVXbmRPdGJBaWxkbjFObnVYVzlwa0t2UzIyYjZCYnM0NndHcHBfNmIxeTZsNEhhZFRhWFNWbE5PM2ozRkJHel9YMmNXcnpqVDAyR0lETFRCNk9VS2lqcmFFdXPSAesBQVVfeXFMTUYta2VOOWxCY0xaQmhKSGh6TFZZcnQyZXhxdXdOOXdWN0JIZkVOWXNjMll2ZlBEX1BDR1VvOGVmWnpOTmZkTVpqXzROSXp3a01VQ0ZYdGNBYmFNaU5MYjU4UkRqNDNuTGRMQjFUQU5pQXdIc2Yzb3JYS0dOSG1jUnVXRFpzSm9JR2FqNWpwYkVMLW5Nb0s1V0tybmVBZ1NBd1VQaGdxYUs1MG4wQTAyUVRVVUJLLVBRY1FWMl9wSGpmVGRlQWY0bUMtYVBFcWItazNIZHBiUGw1NDVyUGpBQ1cyYXpmdGNwSE9Lcw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1791990667,
+      "summary_kr": "Haier Appliances India, 프리미엄 수요로 40% 축제 성장 목표",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼, 새로운 냉장고, 세탁기, TV로 프리미엄 홈 라인업 확장 - Editorji",
+      "media": "Editorji",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd1JKTmVSc3ZLUmIxN3lTbTFrMlFKd3N2elliNzdwNjdNaGFiVFJmQmcyamp0YzVZcnVhWVlUS3JNSUY4aTNwUkdTeDkzQVR5SnV2blF2SWpCTkJJT3BtS1FKdC1pODFtaGFCS3UxVl8yaW1wNU5LZ1pDRXJlTmd1aGlQN0J1dE9fSnp4UGJvRG9EUnhpNnZQRnBaY1FEdDhhUnZJVWhRQXRVdjFZMnZ4bmxFVi1lM2tQOURNN9IBwgFBVV95cUxNVC1HYU52MlBhMzhKQVhnNWg2SS1RSzZORlNGLWQ3MElNYS1PYlNIN2tuM2RnZ2dRbUYwNUpldWszVTBFcFR6MHBDbzBGdDdRWEgxNkdPeHBoVzJwUHhuMnI2aGJhaEFPWlFLSHRLRmNQOVdvdG5HRnVYaHl5UE0wUVUyaTlLZUt5LVhBWllRYl9KaDYtUENfdTIyaW94ZzZNR1JtRzMtMllLcmpZTTVpRmRXak5jbzVONTNiZE1qMGlKQQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1791988299,
+      "summary_kr": "하이얼, 새로운 냉장고, 세탁기, TV로 프리미엄 홈 라인업 확대",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Festival of Dreams 2026 세일: Croma에서 삼성 65인치 4K 미니 LED TV를 Rs 77,000에 구입할 수 있습니다 - Deccan Herald",
+      "media": "Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZ2p6WElYaXJ3UjRvaUdZM3phd3ZVNUticG5QQlBTSVcxLXdoYlNtLXREWDhPRUx5ZDEzSFpPa2JQaktkclVmbFZfWm41TmZvLWxxSVhTSm9EcWRWUVJwU0xNUDA1b0JJMU9ZSTJRUXpaREI2bFJ5bFV6OUNmcDAzZkd6Q2N4WFd5a3R4VkNSeXdHbFR4QWY2V29RV0thUWJnTXNwM0wyN3drdUF0VEZHR2cxU0xlSkJmTG9sS3VpWFVrZmhmZEdLY2kwSEZmSTJEUDRLTHBxam1XUGYtSTlfWjVxTTdnQQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1791987990,
+      "summary_kr": "Festival of Dreams 2026 세일: Croma  Deccan Herald에서 최저 Rs 77,000에 삼성 65인치 4K 미니 LED TV를 구매할 수 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "디자이너들이 말하는 주방 레이아웃 실수 5가지",
+      "media": "The Spruce",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nZFBTRnNqeW1SZlI5Z1FiVVMzU1JGTUtPSzBYLVNlRURZWHRNMHkwY2gtUEZBMHNHS1pXQVZHWDQxUW1EajBySFJvMlVhc0doR3Q1cFlBUlViNEZERzRsSU5IZjVUY0xfZDM1X1dpcjY2YlBXbDZ3WlhiYnZQQQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1791985080,
+      "summary_kr": "디자이너들은 이 5가지 주방 레이아웃 실수가 실행 취소하기 어렵고 스프루스를 사용하기 어렵다고 말합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼, 인도에서 ₹2.6 Lakh에 새로운 In-Vista 5도어 내장형 냉장고 출시 - Editorji",
+      "media": "Editorji",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ0h6amk3bFhTa0IwMlNWRThaVkxkREJLUGNjZFJueF96anplUlg2X3F1TmFSRllCLXFFTzBrNzRIcXZzNm82VFJxN1FiUThGSHhBWHg5dVhUUmYwMGphYzNzelBKQmR3SEh6YVRxXzU5UlpCMkxDMXYtMzZYaUprbmM0ejJwRm5iNWUtOFF2dVJMUWQ0c25vNkFqbDJYcTFVYmVHeVRwOWlUVmN2MTgtRGF4NTRGOWE4Rk5yelJoQmV6V004dlHSAcsBQVVfeXFMTWtQTGtZQUZaTXdtVmZyT1BiQVNMdXVmYVYwanN5R2I4OWRFa3lINHFwWEhPNnd1VFpDYy1wM3hNM0tvT2xaT25xWjZCcFlBVS1fdGFpSE1QRVpPUlhiX3JhNnZyNkloM0FFSmRocGp2UGhBOWhSZ01FOF8xT0V2cTdnTnp2ajlFNHdGUGNqRzRtUmRSbEhQV1dpd0RHZEUtclgwczNsTUZ6OG1qQVVNWVlyTGFfYVBrYjNLaXFiRlYta252ZTREVDY1UTg?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1791984760,
+      "summary_kr": "하이얼, 인도에서 ₹2.6 Lakh의 새로운 In-Vista 5도어 내장형 냉장고 출시",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG 시그니처, 구겐하임에서 세 가지 가전 컬렉션 공개 - CES | 두 배",
+      "media": "CES | Twice",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWl6N1BVLVBtdjdiTnZPbDBZMy11NnRNcWtkNjRDQ0JDczR0NWVBd2tTaWJlbmlick5VX0NRRmFoM2ViUFB4NlBJUG5GUzlEZFlHVmc1Y0Rib3hCY0QwQmtfMVVwTnV5NmtaaXcySHRhVzc0dzNNNDBPaTNRTUVQaklIUmdnRzdGYTdNR1E3T0xGYkRwQVdVLThpRzNYQjJTWGMtT2FR?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1791983388,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier, 인도에서 In-Vista 5도어 냉장고, M3 세탁기, M96/M80/M70 미니 LED TV 출시 - FoneArena.com",
+      "media": "FoneArena.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzNYX1UtYkhjZ0d2WGR4VzBHT0hqWjBpbFdZajFLcFNETGhoVWJ1Qmo2a3pxcE9MM3VBSGFQMWRkRXF6bGp5OVhFU2dKSGkwbkVvaHM4VFlPMC1jVi03R0ozRzF4aWp4RFNlVHNjbFlETkNwUUZQaFFlQkRzR1FYdERLWmJIbE02YUktVUhsek9mZ0tfdjFlSdIBngFBVV95cUxQbllzNHdidmJpWksyOXBOQjViTVA4UG1hZE92TjQ4dTFOUGdwRmtaMlY1cDJLWWRoS2M0eWxkNzlMclo3Sl9Jd1N2bzBzMDZQZ2p2RFRfVHRsbXpRQldINkNyMjUxQkxERWZrYmRnX3pRb2U0ZFNDN3hXVE9ySDItZlhOdkhmeG8xRUs0dDd3UEZqSmh3ajJvMVRzMURRdw?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1791981608,
+      "summary_kr": "Haier, 인도에서 In-Vista 5도어 냉장고, M3 세탁기, M96/M80/M70 미니 LED TV 출시  FoneArena.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼, 인도에서 삼중드럼 세탁기, 5도어 냉장고, SQD 미니 LED TV 출시: 가격 및 사양 - Digit",
+      "media": "Digit",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMkVkSVNFUUhjOXpwNXZ1ZHFtcHhQaEpTZERjN3FzTHY1QjJSODhlSmFoZVl5UFUwdDdDUVQxay1XbTJNM01OS0J1RS1lNnVMMFdVbDc2SjQtY0lTTWs4UzB2QUt5djluU0Vkak1XZjlHLU52QXYtcnU1WTZXUjZFRHl2Tk9tY2JFdHhISWMzUTZwV3ZxcEpFczNTYk93ZE1JZ1J3Yy1nVC1pVE12NlIzajRFTVpzTnRWcjJuOTUyWU93VkdyYVo2b3JSY1pEZUdnd2pNSzg1UWtGNUNPNk1DclNqSzNyNmdwY1gwUTFB0gH0AUFVX3lxTE1fbk5QMnVYbVBSU1dCcS1GQ194ZTNUOXdJQ3FXazhvMld0d19OSFI1NW1yX3lTY0tHRERWdW04UzdTUTh4S3BYZExNUGtGNzdXNXpYZGlKZXhROGl5ZUFOSmtBQ01SSzZzWTdncFgtUTNCSWk1em9VbUJJc0pYTTM4NGw4cm04T3pYRnlJTVZHRlpwTi1VZlJzc1hiZ2VZbC1MY2ttXzg4MVNtSVJJX09QUjZyYl90UmJHbk5MSjUwc0RKWFVSa3k2eGl0elJ0MGYxdDZfZnNWRGNFMVNJX3hSNG56SGNZUXhuVU9SSzN6cEtWRzM?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1791981060,
+      "summary_kr": "하이얼, 인도에서 트리플 드럼 세탁기, 5도어 냉장고, SQD 미니 LED TV 출시: 가격 및 사양  Digit",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "밀레니얼 세대는 한때 인기 있었던 주방 기능 7가지에 더 이상 관심이 없다고 디자이너들이 말합니다.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/other/millennials-no-longer-care-about-these-7-once-popular-kitchen-features-designers-say/ar-AA2eftuk",
+      "time": "21h ago",
+      "pub_ts": 1791980100,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼, 인도 유일의 5도어 빌트인 냉장고와 3드럼 세탁기 출시 - Gizbot",
+      "media": "Gizbot",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNVdFNDl6R0tMRDV1YWNXS09fMGh0ODRrbW5DU2MwODVrdDAxSm9CQW11eXFlZi1GdzFtU3JpdU1BRm9odWdYZVJ5bnNTcnROMV9peGFaaFNEb3ZCYTdQazJ3MlRtVnc4WVhoZVRUYm5paWdsdVNPZUxGNnZlYlpIMXlrVjVvNVcwY29RWjU0R2tfcVhJMUZVclUxV004ZUdhT1pabzEyaHVTakk1TGFxSmFxQ1BzSWF1TGozUTRRcmxRQkxxenpGYklGbnhPQ3U3?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1791978921,
+      "summary_kr": "하이얼, 인도 유일의 5도어 빌트인 냉장고와 3드럼 세탁기 출시",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier In-Vista 5도어 냉장고와 M3 시리즈 세탁기 인도 출시: 가격, 기능 - Gadgets 360",
+      "media": "Gadgets 360",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSUdhRDVZTlg3YkpVS3RRNnBYRmpqZTJQM19nVDRKa2FSU3hvdlJYcUdhNUtkSnN3RTM0bzRoSl9tc195c1JtZ3dKU1NXTE1FY1FaUzRPZEV6ZkxfSldzNmQwTm5jMkV5VmZOb3V3WEM2dXNjUFRfVGtGaE5tSVFXbkdzdE95ZEo0RHNHclZteWNlWmVaaFZGbVNFRVpvZEVSUWttZWF6eGR1MVZiMlhSbExWaU9hb1NybHdfU1RuTlhHbnVKV1hhcElDZThaVWFvVndoSWF5N01Fa0FFVEtDbGRfaHY4ZW53T3dWWDF1eEZfNVZWUFZFaUJ30gH_AUFVX3lxTE93Wm13ZGpCSk9GWmdhSXRzdFpoaVNrdTVnZHNrQ2dKcndocmdNaWhDNTZzZXNkZzhxbWJDMS1uaGo4VmF6ay1CRndWaWd3ZjZCNU9kd282Q09kTTNhT1p3Z0xrSHFfaFhqYzhqTHZXRkNsbUxFX0ZlZFhHcDdJQjVQc3h0TGZHM2JVWGVlZ2JSRGt0emx3bmlfUWlJR3lIT01KU1d5RlBvdnBXYkpXUEZWaDZNNGI5SnJNbElWMkl2aVpTaGctNmtQWjFUX25PbC1rZEtiMVJ4b2YtajFpSnhhcjRJMTFERWpaUHhXMVlDVVBVS1hMYzFqVXh5bVZPUQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1791977861,
+      "summary_kr": "Haier In-Vista 5도어 냉장고와 M3 시리즈 세탁기 인도 출시: 가격, 기능  Gadgets 360",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "인도 하이얼, 가전제품 부문 2위 목표, 매출 두 배 목표 - Rediff MoneyWiz",
+      "media": "Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNE9lNVAxOXBSa0p6Nnd4dmNsNjg5N2JnSHRUcGM1WTV3dEdVamVfVFdNRjNGaGdWRzI1Wm13cWlEZWh0LVZqVjczM1JIS3RLQkRkV3piYVpXZWppY0NYU0pGeFF3UmlmSXJJVjhEbi1FLVhtcTJxTUQtX3pJcDZaUk1RSHNGam9USE5NRnpwc2tmUWVjUE5fYWZxWGJmOXNhM2xqMkRTa0JsSVph0gGyAUFVX3lxTE9URS1mclBncTRuX0VMQTZ3QnZYcWZCbXE4bGQ4YlhkejB6dldONVQ5dnJqZmpUdEM1cXVYT0wzX2NJRVVmY3FBTjJFNU96ZF9TRng2b0ZDNkdNZEtlZEhJa1Vjc2o1UV8xdnZPMW1rUkZXYTF6WFI2N2M4QjVmcXl3MWJBN3hUeDhZSFo5akJUXzYxcGM4OW9UVjVEdDFIcWV0Mk5uTUNkeW9HY19GUkxvTHc?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1791976839,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼, 프리미엄 냉장고, 세탁기, 미니 LED TV 출시 - IT Voice Media",
+      "media": "IT Voice Media",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTWJvSzZZUk5ESGtOc0R4UkhHZG0wUUg0cWVFbnRiY1pzQ2J2S1NsYy1fT2tWMWhkMmxUQzNDOXVNRVo5blRCVDdXWmVCNHRnekdKZlkydDNIMG1yTWY0amFhNUtQZ01WNzVGZ0lscnNQbUJpZERzTXB6N2JTZkxGSGpOV19aYUlZTC1jQnFuYUhPMXVnMGM4anZERnFiQW1QYmVqSHIzVFJ1NW5nNV9OdUNBU0lzUXRfanNLTGVEaDl4SmxYTXBXYjhHS25RaHdtSmtvWEptNllUOU96b2JVWUpyc2wtbTF6QVpIN1hzYVdEX0hxUVpIWXRhMXJ2SVk0OUE?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1791976650,
+      "summary_kr": "하이얼, 프리미엄 냉장고, 세탁기, 미니 LED TV 출시 IT 음성 미디어",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier, In-Vista 냉장고, M3 세탁기, 미니 LED TV 공개: 가격, 기능 및 가용성 - India TV News",
+      "media": "India TV News",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQkl4ZllTX3gwb3U2QzlibWdmSEZpTGJ5RDJjWFlfQjJCV3g1QzR0U083OU9aUzJZekJNREpYV1I2UGE5RWR1d2pReWx4NE5qbHZoUFYwc21CSlZLbFJpaHFaUTFtNGl4LUhLT2NRZ0N6czhwajVCLUs1S2F0RzFCQUFyNEpVeEhNOEVSRjViQk4xZHRTS1VyUUVCVi16UVA3UG1RN3E1UFZ3VHRfcThqZkZnbnVGY0lRSUVqTWJ5RW1LbDJDdk5WVC1hRVY3Y0VodHQtT3NMMUJ5Nm5IamhCc1BfZkROSlhCZjU4MWxOVU9lTnRPeFRFUTdB0gH_AUFVX3lxTFBEY1B5QlNjZ2dzTXdaU3NHeE41Q1RQUXBMVS1vcEszOUpCaElyci1ON3FYbUZHcFdpeFNoOWx5NFc4YTB4cElDTUdvTjlpeFVRanZFWTdTZndKWHEyS2dOMjd3RzdNYmZhSHI2TldiNmhVV3E5Zk9zMEowQmwtVV9fNlM2eTF5MTA3NXJiWlllazhBRlVzaTRtNkNIV1VjQXhFQndKcm40TGh3dlMwa2JiSW5CN0ZLRWxXTER6OEdNVWl5b2pEd3VNYzRxbFJaT0szUUxZc1NQYmVSMFdCcFNZWmFpTFBtVHJCM3RvdXBZb2E5ZjFQbEJpUGtXMF9oSQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1791974490,
+      "summary_kr": "Haier, In-Vista 냉장고, M3 세탁기, 미니 LED TV 공개: 가격, 기능 및 가용성  인도 TV 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier India, 주요 가전제품 부문에서 2위 자리를 노리고 5년 안에 매출 두 배 목표",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-in/money/general/haier-india-eyes-no-2-position-in-key-appliance-segments-aims-to-double-revenue-in-5-years/ar-AA2edbPt",
+      "time": "23h ago",
+      "pub_ts": 1791971100,
+      "summary_kr": "그레이터 노이다/뉴델리, 10월 14일(PTI) Haier Appliances India는 냉장고, 세탁기, LED TV 분야에서 상위 2개 업체가 되는 것을 목표로 하고 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
