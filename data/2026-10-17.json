@@ -1,0 +1,301 @@
+{
+  "date": "2026-10-17",
+  "date_display": "2026년 10월 17일",
+  "generated_at": "2026-10-17T17:56:34.657051+09:00",
+  "generated_at_display": "2026.10.17 17:56 KST",
+  "category_counts": {
+    "Samsung DA": 4,
+    "Technology Trend": 3,
+    "Market Dynamics": 8,
+    "Competitor Analysis": 3,
+    "Samsung Bespoke": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 19건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 9건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 9건이 감지됩니다. 주목 기사: After years of wanting a KitchenAid mixer, this new model won me over instantly - Yahoo. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: Woot Just Launched a Huge Sale on Vacs From Dyson, Roborock and More With Prices From $20 - CNET. 시장 전반 기사 8건, 기술 트렌드 3건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Week UK Deals 2026: The Best Offers on Galaxy, TVs and Appliances - SammyGuru",
+      "media": "SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jb2NhLWp2WDFUSkNlaUZDTW5GSU5aOXNJeTdHdXh1aHZ5SzNCaWtOaE81YW9Pa3dYN2hPTHM0bmR4UW9lMTZtYUo1OVJyMlNKRHNIV09HZW91bjVraGc?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1792184685,
+      "summary_kr": "Samsung Week UK Deals 2026: The Best Offers on Galaxy, TVs and Appliances  SammyGuru",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Items to get during the Amazon Prime Big Deal Days! Smart home essentials for controlling appliances with your voice and smartphone [Yuturiiro]",
+      "media": "Bing News",
+      "url": "https://note.com/mama_on_the_edge/n/n099053b55007?hl=en",
+      "time": "12h ago",
+      "pub_ts": 1792182540,
+      "summary_kr": "I've been interested in smart home technology for a long time.Are you putting it off because you don't know what to get, or because the setup seems di",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Vail Valley HOME: Efficient kitchen organization - VailDaily.com",
+      "media": "VailDaily.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWdoQUlqNFJVNng5N3FmOVl6RlRIRHhaN3pLVktnRTZoT1VjZTZGWTVjTVZUbFcxaFk0OVRvRlR0MVlIekxfSENKeGtfYnNWWDFya0dRX2p0bTF5WXJtdFhkZWVQMEpma2U4WmYxTHd0WDh6eWV3X1dwd1B0cW9MQ1FPU2RwZ3N5RTlTYTBmdGZmNDlwZWc?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1792180869,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "After years of wanting a KitchenAid mixer, this new model won me over instantly - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLW0xR2FuRy1BbEZEWks1bk53dzRaVVVfZ1J3NENVODZZTTNhV1lEcVItTjhlZkc5azgyVmFPX2hZVzRQMzNtNkloR0E3MXNScFBpWklMVW1IVUVYb0RxVDNwaWRBMjFQUFVtVFprWjlRdTF0enUtZ09VRjludVo2RVRXejk1anhudlRvWUNhRmlldnJ0MXY1aVVyd3I0eHFsVThCWmlxUEVLMlU?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1792177088,
+      "summary_kr": "After years of wanting a KitchenAid mixer, this new model won me over instantly  Yahoo",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "AI-Driven Memory Shortage Spreads to Autos and Appliances — Supply Crunch Seen Lasting Through 2028 - BigGo Finance",
+      "media": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0eG9yUWdaME9fYjJUb3FaQmQxSTRER2RuWG9OOEJocVFjVzZHeDQ3OHJoY19PaGQwUnV0aG5PT2dLNG1pR2xrR0Y1N0dqVjlwRUdVWmJJRDZJZUxBMDFGXzVibGlVZVE5TTEzaEMyS1o1YXRKSmc?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1792173900,
+      "summary_kr": "AI-Driven Memory Shortage Spreads to Autos and Appliances — Supply Crunch Seen Lasting Through 2028  BigGo Finance",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Woot Just Launched a Huge Sale on Vacs From Dyson, Roborock and More With Prices From $20 - CNET",
+      "media": "CNET",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02bGdWWENlRjZjNTY4MjVteF8wdWJJazlzVkZkMXd4VUJWMmdwaHFrZlAyRW9hbXBDVF8yTEpaSmo5U1FVa1RZYzhzeHcteFE2MnhMSXBaMA?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1792166611,
+      "summary_kr": "Woot Just Launched a Huge Sale on Vacs From Dyson, Roborock and More With Prices From $20  CNET",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Soggy Countertops Are a Pain—This $10 Dish-Drying Mat Soaks Up Water and Folds Away - Real Simple",
+      "media": "Real Simple",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOclZRZmhKLXJBenp6d2tDM1BYUHo4VjJJeTBZQnRKeTdaTkNkWmY0eVNhdXJaSEZiVDREaW9kamVCZ0xZaEV5RTg5cEJJeTZUYm00UVhLWmNlZFhMN0ctZ3Z5Wm83OHduSDZuZXdHRFBYU1k3QVYtZFFXdDJ1eVphS1NwZXhqcjJU?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1792166400,
+      "summary_kr": "Soggy Countertops Are a Pain—This $10 Dish-Drying Mat Soaks Up Water and Folds Away  Real Simple",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Product Pick of the Week: Gaggenau Launches Matte Black Induction Cooktop - Builder Magazine",
+      "media": "Builder Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVGlhQkN3MFpfUTRGYnoyQ2wxaUVLWTd4SVBMRzlMQU5OYjdla2hLc05QVjByY1cxZkVLMHY2WVlleWRRSDJfNHkxLUtkQXEtaHpyWjRwNU91SFNVN1lVUkVxMDU2NmdNR0NwUnRtcVlsV2czc1ozaTNmaHhnamFVb0VnME5tNjVDa291NkdiQUE0MDJqaVd1VUhQZUNDcThwcFFpVV9yMWUxUlFLY1daU2ZpazNNNkQ0cDZJbXYyUjQ?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1792161315,
+      "summary_kr": "Product Pick of the Week: Gaggenau Launches Matte Black Induction Cooktop  Builder Magazine",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "No Cluttered Pantries: The 'Invisible' Kitchen Storage Trend Taking Over Homes",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/other/no-cluttered-pantries-the-invisible-kitchen-storage-trend-taking-over-homes/ar-AA2eoEeZ",
+      "time": "18h ago",
+      "pub_ts": 1792161000,
+      "summary_kr": "Popular in luxury homes, the invisible kitchen promises high-end looks in a utilitarian space. Learn about this emerging storage trend and how to capt",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "How Shriro Holdings Ltd. (ASX:SHM) Expands Export Distribution Networks for Proprietary Outdoor Appliances - Kalkine",
+      "media": "Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZjB3aGVKZEdIaUV2UW81bDJwazdzNkdvcU0xbjVudWNrSHQyeUlqcUljaUtxTkdMelp4N2ZvXzB1aDVYQ205RlRnaE1sUW51MFZjajloaGZidHRCd0I1aTFTT0JzZE9PTVdNZXJRNUR2NXFoaktCZmxqVnRIMm9UNndLbS1iT1NjREpGSlJkMkRRMGdEcVpvS1k2czhqdkoxYXctWUlteWpwZkNNT1dBdURIZlhVa2gwM3NQVl9HR1RGcDB0djdSbHlubjFXMHZZSldwRU13?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1792160520,
+      "summary_kr": "How Shriro Holdings Ltd. (ASX:SHM) Expands Export Distribution Networks for Proprietary Outdoor Appliances  Kalkine",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier Appliances India targets 40% festival growth on premium demand - BusinessLine",
+      "media": "BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUUxLT19Eckx1S2lBZXZXSDNBb2pKbFRkQlUtVFdUTlQ2d1I1X1YzY3lxbEJSN29MNnpsa09tOEpHTWRMcGROVDFnc0djZnQtck44NldjTGJVMk1DY0RkLTdMcUNoYXJyaHZmMlJ6U2pEUkdlZnpzVmV0NW9lTVA3Rk9zTE9GVU55VUVXbmRPdGJBaWxkbjFObnVYVzlwa0t2UzIyYjZCYnM0NndHcHBfNmIxeTZsNEhhZFRhWFNWbE5PM2ozRkJHel9YMmNXcnpqVDAyR0lETFRCNk9VS2lqcmFFdXPSAesBQVVfeXFMTUYta2VOOWxCY0xaQmhKSGh6TFZZcnQyZXhxdXdOOXdWN0JIZkVOWXNjMll2ZlBEX1BDR1VvOGVmWnpOTmZkTVpqXzROSXp3a01VQ0ZYdGNBYmFNaU5MYjU4UkRqNDNuTGRMQjFUQU5pQXdIc2Yzb3JYS0dOSG1jUnVXRFpzSm9JR2FqNWpwYkVMLW5Nb0s1V0tybmVBZ1NBd1VQaGdxYUs1MG4wQTAyUVRVVUJLLVBRY1FWMl9wSGpmVGRlQWY0bUMtYVBFcWItazNIZHBiUGw1NDVyUGpBQ1cyYXpmdGNwSE9Lcw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1792159958,
+      "summary_kr": "Haier Appliances India targets 40% festival growth on premium demand  BusinessLine",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Samsung Week 2026: What to Buy and Is It Time to Upgrade? - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUt4Y1hUMUxKV3V5UXFoNHVSdWJsX2hFcmNVbzl5VmRtRmY0RFhzM0FrVWVLZlA4SmZpMGFyUXBjaUstYldpVHpDcWxvWkVxc1M3VGxLVE9kRHdfR0JvN1RISGIwdmJjbGd0Z0pIbmdwQUVpeDlRdzNoelY4MHRPcXBhQWdIcHZuT3RV?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1792159437,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG Electronics, Golden Penny Unveil “Fill Up” Promo to Reward Nigerian Households - Techeconomy",
+      "media": "Techeconomy",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2ZmVHc2M0JvVEUta3JQd1h4Q21zSGI5M2lkczdiemZpWVZiemYyYkFiVHZvSm5YZEx6TFZJdVllaHFVRHdXVUltS3FWRmw2MmtEMVdtcUJ0d2FIR2J5bjFWZjRrc3JScURZZjhzdnJDeXJMRThGcXBfNllRNkRrWTJwOXpQSXdBUHBLbTdCRDdVbGdBcDNPM0NvS0xxd09KNW1F?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1792152221,
+      "summary_kr": "LG Electronics, Golden Penny Unveil “Fill Up” Promo to Reward Nigerian Households  Techeconomy",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Midea Brings a New Home Appliance Shopping Experience to IIoiIo City - Panay News",
+      "media": "Panay News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQTAySzNldFhpMno5WmlxX0NPb0NPV2g5RlJacXhSZmIwOXNsRVMzZURoS0diMDkxWWRrUVdQZEdPZTgzRmpnM2tqZWJKTUZyNDZZSXhKUU9iVXB2dDduVjdtMU5HcTB6QmN5YjNyemdrN0cwZ3hscU1NV0EtMEE4cTlKeGdhZ2FTQ19vRXE1b09KZVRpcUFOYjhEQQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1792149600,
+      "summary_kr": "Midea Brings a New Home Appliance Shopping Experience to IIoiIo City  Panay News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Diwali 2026: Amazon, Panasonic and Samsung announce festive offers on smart home devices and applian - Moneycontrol.com",
+      "media": "Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbXpfNEJVZWdTX1lmckdEWDV3WUo5V2ZQcjRCZC1qcHY4SjNxa0ttV1VtN2NoTFNTQzU5YVRrVHRBSVFrX2d0bXRYT0k1b3hZamtKNWluZGJ1bnllbERjNlZIY2hNWEQ0LXRvUmJFbmRLcXNYWFJ6ZUpPSFE5S3drVmdhbzdnaHdPbXBIcEhGLVZMYjJJT3Bra1JMQ0xYMXp6MWF4UHBVaU9YRnhDVmJ6dlFaZHlDMnJZckdsdmZlcDdGN0JGd0FUUmhBNWdnWWZteUUtNnJGQ3NpTkFCTFNTdUlhZTIzempvbFFNV29wZENjWVY5bHNEYXFmUnBEZ9IBgwJBVV95cUxQZDR0Rks2SEZLWTRRSTBDY2JUTTRSU2FMbW05N29KeGFKdUk2NHAtNjh6WmhjQUtxU2dSSm14bm5rVnlkUi1oWUxLNmJwU1QzX3NadW80c1VaOVpqVjB6XzVaU3lFd0VuNGZOUTc2VHgwbENMdENjOVF6ckJqR1hJX2EtX2MxWjdLSHdvdm1BYmV0Q3E5eW41cnJ3V3ZDMFRkRC1zYzJWenRRQ3RKeGVFV0lmVlVWYVQwRWQ0M1lnNWZBZ0hNSEFIelA2UXZjMVF4UWVVdllUVnpoMnVfQV9iMjJZTy1sZkxhVVVUTGthQ3A5WVZielE2Rm9ERjNZSlRSQUx3?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1792148670,
+      "summary_kr": "Diwali 2026: Amazon, Panasonic and Samsung announce festive offers on smart home devices and applian  Moneycontrol.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Announces Diwali 2026 Offers on Bespoke AI Appliances With Up to Rs 20,000 Cashback - MySmartPrice",
+      "media": "MySmartPrice",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMGRscjdiT2VRankwU2R1REFfcWhWUFRNaGg1a051c0h3YlE2SXVIM3pITDIzZmFkTjZDMUVwMXRpR1lmcGVPazVPTG1nWFVFeHJ6N0FMSE5FWkFEM1AxTHExQ0EwZjlMdTFzSVZsQ0ROWUlzMlUwSDhJOGtGUlloWWpFRDQtVlJlbl9sQUhsVS15ZmpKY1J0MGZubVB2cldMNFBLLVdTdFRQejhXNG0wY3RKTEhJSUFIZTVFM0NkN0ZTNGVSVHZLVHRHZGJlOTlMMVZ1U2JoTnlkbUxOdzVwX1RrNlZPODDSAewBQVVfeXFMUFU1MnRiOGNKQWRzNDZWSTVDUlpyN19ZdlhBVld2ekFtV2FtYkNvbWFCenZhaVlZRWp0NWVXTkd4UHp5QWJ3OGMwdFAtcFBDWkVINzh6TEdpRmZhcW9GYUttN1FsV29zZFFSck8zMUl6Tndlc3hrODhGdnJsSGp2WjVwVGpDRFRoME05VlNQNnd4UXoySkhfcE5UTUQzUlhhdGRPOTI1ZWpqWTZJWHdJcGJwYkc1UjlvdDVLNVBEV0lTTExFbHVnLWkxekFTaVZ4TVE1Y0JWZlRZcWxqQ3B1Z19UMXBJTnVUVWRGYi0?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1792148491,
+      "summary_kr": "Samsung Announces Diwali 2026 Offers on Bespoke AI Appliances With Up to Rs 20,000 Cashback  MySmartPrice",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Haier Smart Home Co., Ltd.: Release according to Article 50 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution - TradingView",
+      "media": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQNnV6OURRQWJ5eEZnbFo4YW9yOWZBN2dsR3NoLTAwc3hwNXc4TnR1dmNVSzJYR0c5TVF0cjJEWE1EWXhENzVCa19LMlR4NzBIRk5PYlBHUzFZNC1UREpNQ2hpbzZvV2xXNTRVd2lCSzNGVkRiZ01VVkVwT0k2UUoyYVhzU2tERnl1aExlREhEUjdRZnRFdkVTa3llNU9TWnRUVmtQX1YzTFNXQk9zbklkTTJLY3piRnkyMGpNVVBzanhJazZKQkFfTjBrai1CbjNQTWh1VTdQckNxMTRGZGhlbTdaaFJCZlFlY0IxWWVQR21nYXlhZ2puVVZmekJ2MFZLNmFvRDA2RkpQZXpxMDZlV1dUSmtYenFUV0VKNmpKUXJObDl6eE80aWVn?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1792148471,
+      "summary_kr": "Haier Smart Home Co., Ltd.: Release according to Article 50 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribu",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "POWTEK Group Showcases Heating Solutions and Kitchen Appliances at the 140th Canton Fair - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd0tJNjZXMnhMNHlHRnJUQU1TOTJfYzM0OFp1ZUtDdVlqVnFWWkFlZ3pNUDhrM1dEd3A5amFLaEdnenVkdjNuR3lQZ0cxY3VRMFBXU2lGT0tUeXZ1WXUzNWpaUkd3LVJGVFFqVF9JNWlxNU0zRmdUempzblc1TWNPMmZNbjdqdUt4dzJHbUxvQmhIdVBVMW5DV3k0bGJ6Z2pyQWtlaVl4c1JwNDEzemxpZ1NZWWdGc0RyZExteEFDZVFBcXRmcUE3RW91X3hLSHU5bFVMcEo5cENxMHBt?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1792147320,
+      "summary_kr": "POWTEK Group Showcases Heating Solutions and Kitchen Appliances at the 140th Canton Fair  PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "USA Cabinet Store Cary Applies NKBA 2027 Kitchen Trends to Existing Layouts",
+      "media": "Bing News",
+      "url": "https://www.usatoday.com/press-release/story/51160/usa-cabinet-store-cary-applies-nkba-2027-kitchen-trends-to-existing-layouts/",
+      "time": "23h ago",
+      "pub_ts": 1792141140,
+      "summary_kr": "Cary,NC - October 16, 2026 - PRESSADVANTAGE - USA Cabinet Store is helping homeowners across the Research Triangle ...",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
