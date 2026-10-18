@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-18",
+  "date_display": "2026년 10월 18일",
+  "generated_at": "2026-10-18T18:15:05.211732+09:00",
+  "generated_at_display": "2026.10.18 18:15 KST",
+  "category_counts": {
+    "Market Dynamics": 8,
+    "Technology Trend": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 9건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 1건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 1건이 감지됩니다. 주목 기사: 전 Dyson India MD Ankit Jain, 프리미엄 가전 스타트업 Foundry 설립 - 인사이트. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 8건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "밥솥을 넘어 소형 가전업체, 틈새시장 노린다 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbS1SeF9keXFRaHRHVnNtNkN6ZjdrRDV3a1BVN2FWQ011bVZEN1JZNlUwZnl3OU9GYlFYMnNDcGI4SnhxcHhOLVctZU4xYWxLMHVsck01VUVMYzJURHpIZmxBTXpKWlJ2cDZXZ0xUd0Z1NngtLTNPbWlKZ0w4Yks2NHc0SklRZ3h0Vi12dDFfR2Zxd1hpMS1MZE13NGdGdw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1792308929,
+      "summary_kr": "밥솥을 넘어서: 소형 가전업체, 틈새시장 노린다 서울경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "더 나은 기기를 위해 팬을 버린다면 쇠고기 스튜는 믿을 수 없을 정도로 부드러워질 것입니다 - Wales Online",
+      "media": "Wales Online",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNakR2Z3NtcWZTenFaMDZIUEdkc0xNa18tUExOQXI2SFdhMll5Rmo3NFBaWHduU3hXWmRuNlVocUduS193WG1hMVBISVFibm4wTDE3MXZycnhxbGlUQ29PN0UtcDBWcHQ1X3JYUkRmNXZNR2lOZ1Y1Rk5URXRHUXJUczdQY05QOFFUbmhKMjRn0gGTAUFVX3lxTFAwdmpHTEFaRlNyczJoamRBZENRVVBaUXBFUGM2X0RYTDNWNGZNcmNBZEhZR3JDeWpYa0lEQzg4U3ptcHVZOEtWOFUwbWhJanFvOGpIODJqVmtrSDI1UHYtbTVscnVPdWVBVGdDS0UxOUxGbVVFUm5IYmdqYkd3Ml9kaDFINFhoSVgyV2V3a3hhS1R5MA?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1792292940,
+      "summary_kr": "더 나은 가전제품을 위해 팬을 버리면 쇠고기 스튜가 엄청나게 부드러워집니다.  Wales Online",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "커플이 주방을 디자인한 116년 된 냉장고, 무게가 1,000파운드가 넘는다(독점) - People.com",
+      "media": "People.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMDBRT0NFdEItSUZMcE9zUllBdkJ3TUczNkxRLThTelZ6RGZDQ3doektQVk1VaGhRZXgyRncxTWR1VENWYWQweURmSWxtNzU5UEI0b3VzcjlKZmhjTkNaTFVTX0xMNlY4RmFWLUhpUGJvSGxHOXNnNktlajdKd1dIcFZWVVdsdW9VYVpaaTJtcHA?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1792272540,
+      "summary_kr": "커플이 주방을 디자인한 116년 된 냉장고, 무게가 1,000파운드가 넘음(독점)  People.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "홈디포에 주방 가전제품을 반납하면 어떻게 되나요? - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEpzeU5nczFmMVhjTU5LVGhLY3lHektDWDRUUFB4M1d4bUZZdUdZbFJxc1B6Qnpmd1RoU3ZrSkdnbHkyWG1jYkpRMmNSSm1meXlKZGNMaGV1aDFaclZfRzZ5Q3V2dXhxb0RzcG5RNHAxRW14YWw3bW5sYWY4eXczQ3J2SkI3TnRyY0E?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1792262340,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전문가가 말하는 즉시 구매자의 관심을 끌 수 있는 주방 기능 6가지 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSHQ1RkJreEdtOUNWd1g4dDNPM045bkVRTmtlRjA1Qzk0RUI3SmlfMl9XbVVKNW5MVmJNZVZjc0RscGZNdjFVN2RsdUYtdV9SU1FUcUlTWDkxa3kzQ3pXbldyblFRZUtheHA5LUMtUDkzTFBOeGItbGNJRFFTejJMWVdnM0Z2Y2hZZ3hOQXVMUkxRMUk?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1792257300,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LG 주방가전 제조사는 어디인가요? - 으깬",
+      "media": "Mashed",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGTzlQTl9STEdRZ2dPSjVwUm9CYmtwT0VNUVBQNXdTc211T2tqZlZLdV93R2IxTi0tLU81WVFyekdtcWJCVzgzS1k5ejdhcXVYSFBRclRwNjhqNWJGcks1eFVBcm5XNmticzh0S1psSQ?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1792249380,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "부부는 116년 된 냉장고를 중심으로 주방 전체를 디자인했으며, 1,000파운드를 운반하는 데 6,000달러 이상을 썼다고 합니다. 가전제품(전용)",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/food-and-drink/recipes/couple-designs-entire-kitchen-around-116-year-old-fridge-say-they-spent-over-6k-transporting-the-1-000-lb-appliance-exclusive/ar-AA2esoon",
+      "time": "18h ago",
+      "pub_ts": 1792247340,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전 Dyson India MD Ankit Jain, 프리미엄 가전 스타트업 Foundry 설립 - 인사이트",
+      "media": "Indian Startup News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVZMd3dhalFsblhrWjdmSmVoRVhMSzFFUjJ2ejF3UVZndUNkLWc4S3hJQ1AxVWlrcW1FNTd2MTk3MHVLZy1aYkRnOFdZMHdVQzZQaW9acHM2OGdJMGpINm5QUVh0ZXhVcVNaVlRDVURSMnZ5NFotWDJWTnJvNlhRWlJOa0VHbWEweGpyNXB5dkFQUldJdVhmdG1Wb0hsNC03alBVY2t2ZVlXTU45M2x4dkFzMnB5ZGE0dEc3ZWNMckthc21WQjI40gHHAUFVX3lxTE1RVkx3d2FqUWxuWGtaN2ZKZWhFWExLMUVSMnZ6MXdRVmd1Q2QtZzhLeElDUDFVaWtxbUU1N3YxOTcwdUtnLVpiRGc4V1kwd1VDNlBpb1pwczY4Z0kwakg2blBRWHRleFVxU1pWVENVRFIydnk0Wi1YMlZOcm82WFFaUk5rRUdtYTB4anI1cHl2QVBSV0l1WGZ0bVZvSGw0LTdqUFVja3ZlWVdNTjkzbHh2QXMycHlkYTR0RzdlY0xyS2FzbVZCMjg?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1792240834,
+      "summary_kr": "전 Dyson India MD Ankit Jain, 프리미엄 가전 스타트업 Foundry 출시 인도 스타트업 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "스마트 홈에 자체 DNS를 제공하고 마침내 개인 정보 보호 설정이 이를 방해하지 못하도록 차단했습니다.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/other/i-gave-my-smart-home-its-own-dns-and-finally-stopped-my-privacy-settings-from-breaking-it/ar-AA2esDtY",
+      "time": "22h ago",
+      "pub_ts": 1792233017,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
