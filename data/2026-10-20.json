@@ -1,53 +1,68 @@
 {
   "date": "2026-10-20",
   "date_display": "2026년 10월 20일",
-  "generated_at": "2026-10-20T17:48:26.950084+09:00",
-  "generated_at_display": "2026.10.20 17:48 KST",
+  "generated_at": "2026-10-20T18:44:09.247488+09:00",
+  "generated_at_display": "2026.10.20 18:44 KST",
   "category_counts": {
     "Market Dynamics": 9,
+    "Competitor Analysis": 2,
     "Samsung DA": 4,
     "Samsung Bespoke": 5,
-    "Technology Trend": 2,
-    "Competitor Analysis": 1
+    "Technology Trend": 2
   },
   "takeaways": [
     {
       "trend_label": "🔴 리스크 모니터링",
       "title": "주요 리스크 1건 감지",
-      "desc": "오늘 수집된 21건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: 뜨거운 물 없이 세탁 비용을 절감하는 삼성 AI 세탁기: 자동화된 주기를 설정하는 방법과 표준 모델을 능가하는 이유 - cristinaiglesias.com. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+      "desc": "오늘 수집된 22건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: Samsung’s AI washing machine cuts laundry bills without hot water: how to set its automated cycles and why it beats standard models - cristinaiglesias.com. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
     },
     {
       "trend_label": "🟢 기회 신호",
       "title": "시장 기회 7건 포착",
-      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: Xetra 개장 전 하이얼 주가 2.24유로: 가전제품 그룹 21.74% 급증 - ad-hoc-news.de. 삼성 Bespoke 5건, Jet Bot 0건 커버리지 확인 바랍니다."
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: Haier stock at EUR 2.24 ahead of the Xetra open: appliance group surges 21.74 percent - ad-hoc-news.de. 삼성 Bespoke 5건, Jet Bot 0건 커버리지 확인 바랍니다."
     },
     {
       "trend_label": "🟡 경쟁사 동향",
-      "title": "경쟁사 기사 1건",
-      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: LG전자, 68년 가전혁신 역사를 담은 160초 영상 뉴욕 타임스퀘어 공개 - BigGo Finance. 시장 전반 기사 9건, 기술 트렌드 2건 함께 검토 권장."
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: Haier stock at EUR 2.24 ahead of the Xetra open: appliance group surges 21.74 percent - ad-hoc-news.de. 시장 전반 기사 9건, 기술 트렌드 2건 함께 검토 권장."
     }
   ],
   "articles": [
     {
       "category": "Market Dynamics",
-      "title": "Xetra 개장 전 하이얼 주가 2.24유로: 가전제품 그룹 21.74% 급증 - ad-hoc-news.de",
+      "title": "A Michigan couple bought a 116-year-old, 1,000-pound refrigerator for $4,995 on Facebook Marketplace; aft - The Times of India",
+      "media": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNNGxsOG43M1ZUVHNkc3VGejJhbVBoYnJOVEJvRE40U2ZXWmpPUjZPUldyeWFTa19DTDdmVjlhZ1RFM3RLb3pCcWo3bUw3VVNteVF1ZXlxYXdWaVBsVHAzNHRiU0JVSWVzdmpObnNnVlpOdXJiSTE0N203b0c2MjJra1lOVG0tbVJUc2laeDFvRTFRYWdzNVJUSG56dGZNYnp3Q2pPSHBPdEg0c1YtM1JXdExrcmNMMFc2Y3pYZHNvdXRaVGdkZnlYWjkxRWJQdkN1SmlwNXdCVERVUUlLTlhYNWp6QkV5dXNfdTF3RmpXY0tpN19PaFFFbDRjbGtTSWJOQnpLT0t3NzdwWWdQaWYzaVFSOEhSNVJ5WDhOYjhQQktQOTZYRDVDVVZuRlNqLXYwQ05icXg3UXBMdlBNaWxSbW5iRUt0TUZwWEJDTnVISl8yWmQ0cDRqa0d0YWV1UWNlcEZ1MTZxaTNhbmlyVmRJbUQ3RW1WbFF0a25McXU5VjNPakltdUVzSXR1VC1BcWtJSnfSAZcDQVVfeXFMT2IzMTdTY3loZnQtc1hOYkRWTDFiQXlVd2Z4MmhaaVprUU9wMkM3cWZlUWc2MHcwdVRnaHRhMFQ5bDBLLWJDMXllX2xPWng2a2pkM0xkMzV0QVlYN1NBQ0RRbHNKTC1UZ2I1Vi05cWlCT1RsYnRyUGVrRHZfSlYtNEZvTFdXUElXdEZDZVpnc0tlVGRrWFRrMzlBc2xMZFhVSUwwTVNRWjZOWXZaNFozT3J5eEMtQW4wMVoxN0dha3QzaHo5Sm1FdkdIWGJMOW9yYUoyX2dNLWRTUU9FaThJQ1cwWmJIcjctSjdhNGljQXZoOFRya0VibG5RcTVkV2pDUDhBVzJSTWh2bFhhMXFMemtfNHgxbUlzX0ZIazhlZHhpNURUbXY4RHdhdl9RQTllWXg1cGNmZUJXcmpGdWU3Ry03eElnRFdyb2phNm1TR01VSGZSS3RKUUp5RjZxd0IzZXY5ejV3R2RfXzJGT09icGVkMy01aWlyd2U0S3hZSE05ZlJmc2U5SUFxN0pNUkxtTTBneEwwZ00?oc=5",
+      "time": "Just now",
+      "pub_ts": 1792488480,
+      "summary_kr": "A Michigan couple bought a 116-year-old, 1,000-pound refrigerator for $4,995 on Facebook Marketplace; aft  The Times of India",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier stock at EUR 2.24 ahead of the Xetra open: appliance group surges 21.74 percent - ad-hoc-news.de",
       "media": "ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWWo3V091aUdmMWtxRWlxTFV4RmFSdERHWkhJLU9mdWl2cnBtNVdiMWFJcjVNaFFxeW13MUtVRDI1NnlWclhQcWQ3VWd3OFhRajJoTGtYZm1Yb2NyMjRCejB4Nkl1OVZQVnJ5Z3E1MGpHcTMxYlNxWXAxMTBrem9PejI3YXV0MFRTR1JGcWVHaUV1UFQyQ3lRZ0JEeXYyMTZYMWVrd0J3Z1F6RGtzdW4xOTVrSEpEREZmdWM3SHNEeHpUUTV1Y0pnMVVDeDZtSE9JUUlwOGxlcXIzQQ?oc=5",
-      "time": "2h ago",
+      "time": "3h ago",
       "pub_ts": 1792476610,
-      "summary_kr": "Xetra 개장 전 하이얼 주가 2.24유로: 가전제품 그룹 21.74% 급등 ad-hoc-news.de",
+      "summary_kr": "Haier stock at EUR 2.24 ahead of the Xetra open: appliance group surges 21.74 percent  ad-hoc-news.de",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
-        "opp"
+        "opp",
+        "watch"
       ]
     },
     {
       "category": "Market Dynamics",
-      "title": "스마트 주방에서는 무엇을 요리하나요? - Inc42",
+      "title": "What’s Cooking In Smart Kitchens? - Inc42",
       "media": "Inc42",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13ZDRpdlZCS0NsSDdrTlBzampqM1BYR2ZjUlUtaE5VVkFucFVrSldZRm90ZUt5dTdrdldFTGFiRTB4RnI3S2U5V3QwSjRUMHpZX0VYVFMxaFF0R0JiaUJhUEk2bWRyTFp3eHlj?oc=5",
-      "time": "3h ago",
+      "time": "4h ago",
       "pub_ts": 1792474232,
       "summary_kr": "",
       "strategic_implications": "",
@@ -58,12 +73,12 @@
     },
     {
       "category": "Samsung DA",
-      "title": "삼성 파인더 어워드(Samsung Finder Awards): 호주 소비자들이 어떻게 더 스마트하게 쇼핑하는지 자세히 살펴보기 - samsung.com",
+      "title": "Samsung Finder Awards: a closer look at how Australian consumers are shopping smarter - samsung.com",
       "media": "samsung.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNE9tQ19ob25CQzZsV0JOa0JxMUNnQzlVY0xzNEVDcUhyanJDLWQ4R2pJWUZ3RDMxVU1NSFk3clFEQXctNEo0b3VEMkw3TUF2YWlYMW5maUI1eUlaV2JpNURJTlQzQU1VN0lvM2VMQXdpSFgxWHJ6VTR4QlVfMWlFdGdKb2dpM1o0NzlvRmhLVmdMWjhzclphd3RneU5TajFwTzlwVTdVMktyd3o1ZkFPVHVB?oc=5",
-      "time": "3h ago",
+      "time": "4h ago",
       "pub_ts": 1792472910,
-      "summary_kr": "삼성 파인더 어워드(Samsung Finder Awards): 호주 소비자가 어떻게 더욱 스마트하게 쇼핑하는지 자세히 살펴보기  samsung.com",
+      "summary_kr": "Samsung Finder Awards: a closer look at how Australian consumers are shopping smarter  samsung.com",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -72,10 +87,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Rawsons Appliances, Loewe 파트너십으로 TV로 확장 - 가전제품 소매업체",
+      "title": "Rawsons Appliances expands into TVs with Loewe partnership - Appliance Retailer",
       "media": "Appliance Retailer",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdXRndUFZYUlCektrSFFCYXhrdEc2YW1rUVJoVEJhVUZrNm8wbmRqMURzRWVuems4ZTVSUndvZ2ktclZIQk85dU9QSUFVemRURExLeUtVbXBXZm1zZDJac0F2MHVLR0NRLWRtY2tmVk55Q1A0enMzSjE4b25IMjZzeFZuZXc2QlctZXRiajdTU2lhN295Rzk3N1BfU2Y?oc=5",
-      "time": "5h ago",
+      "time": "6h ago",
       "pub_ts": 1792466125,
       "summary_kr": "",
       "strategic_implications": "",
@@ -86,10 +101,10 @@
     },
     {
       "category": "Samsung DA",
-      "title": "삼성의 스마트 홈 생태계에는 중요한 부분이 빠졌습니다 - SamMobile",
+      "title": "A critical piece is missing from Samsung's smart home ecosystem - SamMobile",
       "media": "SamMobile",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1pXdnNuUld4QVVTWmhUSW9oOFJ2VXI3N0xEbUNhb3hMQ1lOZUlMZFNGcmZEWE5QeG1pOUpTTWFiZ0tBZVFoaHptam1HbndycVRpZDNkYnJtbDNXaTFmRy1zWlpiZl85clVRMVU4LXFoOWZUalVTc3JWa0t6dkRxdXRDNmtpVXdmcVF4V3Rid1M?oc=5",
-      "time": "6h ago",
+      "time": "7h ago",
       "pub_ts": 1792461600,
       "summary_kr": "",
       "strategic_implications": "",
@@ -100,10 +115,10 @@
     },
     {
       "category": "Samsung Bespoke",
-      "title": "삼성, 'The Brief' 투어로 AI 가전제품 글로벌화 - The Tech Buzz",
+      "title": "Samsung Takes AI Home Appliances Global With 'The Brief' Tour - The Tech Buzz",
       "media": "The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMndOWlZHZktVSXFEcW5zeDI3bm9vRDE3QW1fMjJCVjBZN2E5UHdnU1ZsZURGMUFsUEEyZTlyRm1HLXRkVnNlS3ItNjFFQWFJb3paZWpyRlV1RUhFMERDUVctZmt5UTdCUV9qZmc3a1BFcmNYQzNBTkFkanZvX1JUcXV5Ynh3TTRzYlZtbzFFMmgzUkZNR1BN?oc=5",
-      "time": "7h ago",
+      "time": "8h ago",
       "pub_ts": 1792460160,
       "summary_kr": "",
       "strategic_implications": "",
@@ -114,12 +129,12 @@
     },
     {
       "category": "Samsung DA",
-      "title": "삼성전자, 국내 99개 중소기업에 126개 기술 무상 이전",
+      "title": "Samsung transfers 126 technologies free of charge to 99 smaller Korean firms",
       "media": "Bing News",
       "url": "https://www.digitimes.com/news/a20261020VL201/samsung-mobile-technology-display-iot.html",
-      "time": "7h ago",
+      "time": "8h ago",
       "pub_ts": 1792460040,
-      "summary_kr": "삼성전자가 올해부터 모바일, 디스플레이, 가전 등 126개 기술을 중소기업 99개사에 무상으로 이전했다.",
+      "summary_kr": "Samsung Electronics has transferred 126 of its mobile, display, and home appliance technologies free of charge to 99 small and midsize companies this",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -128,10 +143,10 @@
     },
     {
       "category": "Samsung DA",
-      "title": "삼성·LG, 재난피해 가전제품 무상수리 확대 - 코리아비지와이어",
+      "title": "Samsung and LG Expand Free Appliance Repairs for Disaster Victims - Koreabizwire",
       "media": "Koreabizwire",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFlsUFdRbjV1OEY5Mk5fWnRqaTFLZFJEXzM3SkRFeXFtLVJEd3B3eEhZSTRCTk1VYjBTMnE3OE5ycGJWRUNvWmoyQnZSWHNONmw3TXF3MTVjZEwzQ2xxRnV4V1hfWmxPV0NrUkNMUjRMWXJMV2Z3NEc1QUtoWTM0SUlJa09tTmxPemxwRVRkWlBVNUtYdU1JT3ZJN2M?oc=5",
-      "time": "8h ago",
+      "time": "9h ago",
       "pub_ts": 1792454618,
       "summary_kr": "",
       "strategic_implications": "",
@@ -142,12 +157,12 @@
     },
     {
       "category": "Samsung Bespoke",
-      "title": "모든 가정에 맞춤화된 삼성 'The Brief', AI 기반 가전제품으로 글로벌 진출 - samsung.com",
+      "title": "Tailored for Every Home: Samsung “The Brief” Goes Global With AI-Powered Home Appliances - samsung.com",
       "media": "samsung.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdFlMWWRrNnNHd2lQbzktSl9RdU93NHRmUUF2ZDNpS2g3MlNTaHJYd1NNdTU4R05qYUdkNk9EX0hGa0lvS2hHV3d0NTl6NzRXdGpTNEJrS3ZGOVoya0ZQUDViT19ZRzQ1Tk1VdlA1c25oRzV3Z1U0RnU1UTZrcmRMLVBZR2c2U3hTN2FoOXBfYV8yWVN0eW1HbGlsZUhOa19QaWJTOWsxTlZYSjl5UG50VDVhYVR2ZGZm?oc=5",
-      "time": "9h ago",
+      "time": "10h ago",
       "pub_ts": 1792450831,
-      "summary_kr": "모든 가정에 맞춤화된 삼성 'The Brief', AI 기반 가전제품으로 글로벌 진출   samsung.com",
+      "summary_kr": "Tailored for Every Home: Samsung “The Brief” Goes Global With AI-Powered Home Appliances  samsung.com",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -156,12 +171,12 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Liberty Home Guard 대 American Home Shield: 어느 주택 보증이 승리합니까? - USA 투데이",
+      "title": "Liberty Home Guard vs. American Home Shield: Which home warranty wins? - USA Today",
       "media": "USA Today",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS2VCVnZyTnV4a3ZBZHdQVGxKLU9raG1HSzVfUzZrUWV3WkZYUkpjVnhiWnpMNlNHU2xCbW45blpyMzNEdE5zclpFYkdYQVJlU2ZVWDhPc1haajlhSUI3YjZvdDJCamZVWmQ0YzhCT3JHRFc5b1Z5QVJ0LUNrdGlHUUQ0a0JGRFpTY3c0TnJHM2t5d1p6Ym5pVGNOZDJqNUVJeU5JcWRoOVFUMTVBbVFkUExTVmsycF84R1BZVXFJMTY?oc=5",
-      "time": "11h ago",
+      "time": "12h ago",
       "pub_ts": 1792443420,
-      "summary_kr": "Liberty Home Guard 대 American Home Shield: 어느 주택 보증이 승리합니까?  USA 투데이",
+      "summary_kr": "Liberty Home Guard vs. American Home Shield: Which home warranty wins?  USA Today",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -170,12 +185,12 @@
     },
     {
       "category": "Technology Trend",
-      "title": "Pzena Investment Management 2026년 3분기 주요 보유 종목: Haier 스마트 홈 - 알파 추구",
+      "title": "Pzena Investment Management Q3 2026 Highlighted Holdings: Haier Smart Home - Seeking Alpha",
       "media": "Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM09zcVdxdTNzV0JERlVObV9Uekt4VVNFNzAycEl2V2ZqbG1Tc1pBdkNqVVhhZkFSWUl1R2YxNF9yZEx4MUFqSFZKQTJlUW5jQXdHY1VYV1BJTk5YRUdSOUMteWVtOGF1VEYzaHI2anpQOXktVEktZTZnVXU1QV90NXVvUVVUb19NX0tpc1JhVDItZzNNQzBSMVhUdTdUMGROeW5kbnkzZXRDYl9OZVVwbWN3bkI?oc=5",
-      "time": "14h ago",
+      "time": "15h ago",
       "pub_ts": 1792433940,
-      "summary_kr": "Pzena Investment Management 2026년 3분기 주요 보유 종목: Haier Smart Home  알파 추구",
+      "summary_kr": "Pzena Investment Management Q3 2026 Highlighted Holdings: Haier Smart Home  Seeking Alpha",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -184,12 +199,12 @@
     },
     {
       "category": "Competitor Analysis",
-      "title": "LG전자, 68년 가전혁신 역사를 담은 160초 영상 뉴욕 타임스퀘어 공개 - BigGo Finance",
+      "title": "LG Electronics Airs 160-Second Video on New York's Times Square Chronicling 68 Years of Appliance Innovation - BigGo Finance",
       "media": "BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wTkdRZDFTYzlwYmZZdlRVOFc1RnZNNkJtQkxQeG1LZlFDZ2pOUzZHRjVWRUJVQmhEVzB1UGE1aVB2SWZWYjNXUjZHUlBWTkRtZno3MU0wa3NyaVZTM2I5cG5qbnNhdlZCUWIxcUlJbXRkZU9BYnc?oc=5",
-      "time": "14h ago",
+      "time": "15h ago",
       "pub_ts": 1792433100,
-      "summary_kr": "LG전자, 뉴욕 타임스퀘어에서 68년 가전혁신 역사를 담은 160초 영상 방영 BigGo Finance",
+      "summary_kr": "LG Electronics Airs 160-Second Video on New York's Times Square Chronicling 68 Years of Appliance Innovation  BigGo Finance",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -199,12 +214,12 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Radhi Devlukia는 주방이 신경계를 진정시켜야 한다고 말합니다. 조리대에 있어야 할 것은 다음과 같습니다. - Yahoo",
+      "title": "Radhi Devlukia Says Kitchens Must Calm Your Nervous System – Here's What Belongs on Your Countertops - Yahoo",
       "media": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQVlwcUxKQ0tBRXpPZmJhb3FKZjF0TXZGbVNCd2tyVFlJMUJVaW1HNEpGNVduWXdYcnBZMWJMd3dMZEx5cGhZamRnZzIzNDVYc2x4c3VkQ0h5djE1ckg4SWE3VDJvb0FtaFBaTHlvTEdNNHVlSzdFOVcwa19Sdk1qV1VXUWh4a2VjaTNLbm0xZ0gzNjIyaFNoUGw1bE5INjBWQldWcWJ4SQ?oc=5",
-      "time": "15h ago",
+      "time": "16h ago",
       "pub_ts": 1792431000,
-      "summary_kr": "Radhi Devlukia는 주방이 신경계를 진정시켜야 한다고 말합니다. 조리대에는 다음이 포함됩니다. Yahoo",
+      "summary_kr": "Radhi Devlukia Says Kitchens Must Calm Your Nervous System – Here's What Belongs on Your Countertops  Yahoo",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -213,10 +228,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "당신을 위해 더러운 일을 대신해주는 이 로봇 청소기로 100달러 이상 절약하세요 - NBC News",
+      "title": "Save over $100 on this robot vacuum that does the dirty work for you - NBC News",
       "media": "NBC News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUVEzUUw0VDZxR2dwQ0ptNFdWcTM3a055bDNaNDlXdHB4bDYtUnJDREdqQ2lrejRBT1FTLUVpNVN6OVhNcUlnYUZGOEplTVk5bEhTSTEtZjc1bmRNbktoQWhNUS1zYmRGYWJ0UzFvRnlMLTFMdGtHSDMyY1h0Wmk2UVJKZlZfZjc3VGNWR09DSXoycEp6U3c?oc=5",
-      "time": "15h ago",
+      "time": "16h ago",
       "pub_ts": 1792429125,
       "summary_kr": "",
       "strategic_implications": "",
@@ -227,12 +242,12 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Dave's Appliance & Home, 669 럭셔리의 실제 크기 AR 뷰 추가 - The National Law Review",
+      "title": "Dave's Appliance & Home Adds True-to-Size AR Views of 669 Luxury - The National Law Review",
       "media": "The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTR2bGowN01MbXJFaXNXN2g0blZmczl3b09fYTBQZVB2ajFsVXVHbnlaWVRrNXY4cWNoeW1uYjdtUWtNbWRVa2xZVVczYURFYzRXR3JkSHZub0FlR3JXdjNaVERBd3JTNEotRmxlZE9rY0xRYjAxbmMwVXFadzdLa2wwUktheTlCSmp1UC1CTTZMN2NWbkdaQk45ZDJocjlBSjJSWndoZnBSZw?oc=5",
-      "time": "18h ago",
+      "time": "19h ago",
       "pub_ts": 1792419039,
-      "summary_kr": "Dave's Appliance & Home, 669개의 럭셔리에 대한 실제 크기의 AR 보기 추가 The National Law Review",
+      "summary_kr": "Dave's Appliance & Home Adds True-to-Size AR Views of 669 Luxury  The National Law Review",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -241,10 +256,10 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "수정본이 발견될 때까지 유지되는 'Apocalyptic' 플라이팁 - AOL.com",
+      "title": "'Apocalyptic' fly-tip to stay until fix found - AOL.com",
       "media": "AOL.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WY2dEM2VPSGs1VVF0UU5tTkxkWGd4a21MbmhhS2tJX19NT2VhbXNHMjM1UUFiZXhVdUFyRS1mSkR0MmxKMTFBdGsyZS1mVmt4ak9saVdHRnhZZGZDM0M0NTlPbkFDU24xOVh1Z2V2RDhrRzBuTEY5R1ZBdlkwZjA?oc=5",
-      "time": "21h ago",
+      "time": "22h ago",
       "pub_ts": 1792409510,
       "summary_kr": "",
       "strategic_implications": "",
@@ -255,12 +270,12 @@
     },
     {
       "category": "Samsung Bespoke",
-      "title": "더 건강한 삶: AI 기반 가전제품이 일상의 웰빙을 지원하는 방법 - samsung.com",
+      "title": "Healthier Living: How AI-Powered Home Appliances Can Support Everyday Wellbeing - samsung.com",
       "media": "samsung.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlhPWE1LN09KbUJOMDdWbmFpXzEwUXNfZWVlRGt1SkZ2cUs0MTVMQWZudHFycFVqR3A4cS1aUzFjQVpSU2M3UG1URnFiM0hsQWtPUVU1UEtIWjNnQjR3d2F1THhLcld0T2xtV1diN18xbU5qdWdxMUhRVjNNZnBfWHMxVF9KdlNnRENxRDZqUWxTbGltWmpCSndjVTBPOVlicEViOGxFVWFBUQ?oc=5",
-      "time": "21h ago",
+      "time": "22h ago",
       "pub_ts": 1792408948,
-      "summary_kr": "더 건강한 삶: AI 기반 가전제품이 일상의 웰빙을 지원하는 방법  samsung.com",
+      "summary_kr": "Healthier Living: How AI-Powered Home Appliances Can Support Everyday Wellbeing  samsung.com",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -269,12 +284,12 @@
     },
     {
       "category": "Market Dynamics",
-      "title": "Breville Group (ASX:BRG), 주방 가전 사업이 주목받으며 발전 - Kalkine",
+      "title": "Breville Group (ASX:BRG) Advances as Kitchen Appliance Business Draws Attention - Kalkine",
       "media": "Kalkine",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZThRNWFmN2FsMEt2bnEzS2pna0dySkQ5Z21UcVNNREg2aWZtRnRLQjdKS1dHdUtodlFvUWR5Y1ROOEJvNkVaTnQxUzdMV2xkTkxpOE9hTHRMaXZIN3hzY3Z4bHc2S1JBM2k5MVlOcVNMTzdwUWplbGp4elMtVHU5T3JOOTE3WjRjLWpqeTlaQlA5QThIbl9IVW42YVN3Qy1hZFlBdUVRQUQxMUJkNzVVcDl5QQ?oc=5",
-      "time": "21h ago",
+      "time": "22h ago",
       "pub_ts": 1792407360,
-      "summary_kr": "Breville Group (ASX:BRG), 주방 가전 사업이 주목받으며 발전  Kalkine",
+      "summary_kr": "Breville Group (ASX:BRG) Advances as Kitchen Appliance Business Draws Attention  Kalkine",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -283,12 +298,12 @@
     },
     {
       "category": "Technology Trend",
-      "title": "IEAE 하노이 2026, 스마트 전자제품 트렌드 조명 - 베트남 투자 리뷰 - VIR",
+      "title": "IEAE Hanoi 2026 to spotlight smart electronics trends - Vietnam Investment Review - VIR",
       "media": "Vietnam Investment Review - VIR",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWFQUkthdF9UemlZMXlXLTFzSHh2M1pxZmNQQm5LbjVjMFpxLTlsWWlNajltVTZLWHpIcmNmLXBnR1dpaGxNY2YzX1RoS3FVb1NEQzFENFN5ZjctUUUycFkxZUszd3pDY0kybUZxYk9QUkxfbUV5R2FiVzlid194RktINWFSVVVOcVFCZQ?oc=5",
-      "time": "22h ago",
+      "time": "23h ago",
       "pub_ts": 1792406648,
-      "summary_kr": "IEAE 하노이 2026, 스마트 전자제품 트렌드 조명 베트남 투자 리뷰 - VIR",
+      "summary_kr": "IEAE Hanoi 2026 to spotlight smart electronics trends  Vietnam Investment Review - VIR",
       "strategic_implications": "",
       "impact": 3,
       "tags": [
@@ -297,12 +312,12 @@
     },
     {
       "category": "Samsung Bespoke",
-      "title": "뜨거운 물 없이 세탁 비용을 절감하는 삼성 AI 세탁기: 자동화된 주기를 설정하는 방법과 표준 모델을 능가하는 이유 - cristinaiglesias.com",
+      "title": "Samsung’s AI washing machine cuts laundry bills without hot water: how to set its automated cycles and why it beats standard models - cristinaiglesias.com",
       "media": "cristinaiglesias.com",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNR0x0RDhsdmdheTFNNjAyb0Z3UXFkZHpHQlJUNmVLQjQwdzJNTnVyRVZkb3cxNnpxcUY4UUtWRTl0MGhjb3FCb0xyMzVqc01MWGRVaHRkMDJxVDVSNXctbHhTY2p3eGlsN1pjb1dLcjlXM3M4RVoxN3l0OFY4N0g0UE9VV0hMTTVYM3JxaEdGX0Q2NlRaVmMyMFQtbHl5SUxPOGpiYUhtWlE2MnFCYmV4UC16eFFwUHZiSlhLQzhmOUJvZHJEZHdoRlE3ZlRUMjFBR2lvZVRjZEktZi1WMHlrUkNvRktrMzlhOU9odnVmMTVON1ZZUmtOZTJiMA?oc=5",
-      "time": "22h ago",
+      "time": "23h ago",
       "pub_ts": 1792406331,
-      "summary_kr": "삼성의 AI 세탁기는 뜨거운 물 없이 세탁비를 절감합니다. 자동화된 주기를 설정하는 방법과 표준 모델인 Cristinaiglesias를 능가하는 이유.",
+      "summary_kr": "Samsung’s AI washing machine cuts laundry bills without hot water: how to set its automated cycles and why it beats standard models  cristinaiglesias.",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
@@ -311,12 +326,12 @@
     },
     {
       "category": "Samsung Bespoke",
-      "title": "삼성 AI 세탁기를 테스트해봤습니다. 솔직한 생각은 이렇습니다. - The Independent",
+      "title": "I tested Samsung’s AI washing machine – here are my honest thoughts - The Independent",
       "media": "The Independent",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNjVpRm5XUnh5cVdJSVhXNWdtRDJtTWJaTGdtTEREUjRMTEo1ekQtQmx6dmxIYUtZYlRqbVpZaTFUbzJzZ0k1Wmk1cGxlektWMDFTeUQ2VGdGRlNVeTdVZWtUaG1FYVVWekNLajF4bWpxdm9sbUpDQzMxb1hZWTlnTU54RkVoUE9lRVdPQVVueHA3encwSU5qWE9DMFdydFZBVl9VVm1lcjNUdkYtYzdzNTU2SUllOW15MmFlbk1KUDE3WVZIS2JBOWZlYXo3UGREb0pESkE1aW5SSW1X?oc=5",
-      "time": "22h ago",
+      "time": "23h ago",
       "pub_ts": 1792405680,
-      "summary_kr": "삼성 AI 세탁기를 테스트해봤습니다. 솔직한 생각은 다음과 같습니다.",
+      "summary_kr": "I tested Samsung’s AI washing machine – here are my honest thoughts  The Independent",
       "strategic_implications": "",
       "impact": 4,
       "tags": [
