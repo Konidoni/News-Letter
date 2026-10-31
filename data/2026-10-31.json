@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-31",
+  "date_display": "2026년 10월 31일",
+  "generated_at": "2026-10-31T19:40:20.078940+09:00",
+  "generated_at_display": "2026.10.31 19:40 KST",
+  "category_counts": {
+    "Market Dynamics": 11,
+    "Samsung Bespoke": 1,
+    "Samsung DA": 1,
+    "Technology Trend": 1,
+    "Competitor Analysis": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 15건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: Mice and Pests Love Snacking Behind the Stove — This $5 Hack Keeps Them From Feasting on Crumbs - Food & Wine. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: Haier In-Vista 552L five-door refrigerator goes on sale in India at 259990 rupees with zero-gap built-in fitting - Sportskeeda Tech. 시장 전반 기사 11건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Shoppers Say This 42-Cent Trick Helps Move Their Heavy Stand Mixer With Just ‘A Little Push’—No Lifting Required - Southern Living",
+      "media": "Southern Living",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkJsNHVnZHMwQ0Z2NkoyakQtU1RxR3ZrY01FSV9USGhMNXVtN1hqaVJUbFdTc2QzVUpEYnItVU9ZQnlaTEVVM1JQV2tvMDFndmwtN1c2WllVLWlUc29oajVSdHF1Q0tWME9aTEw2alFRa2hsM2tvQVFZNDZ4RllyNjNiRjJuUGFyQ1cwZHUxRU0xR1hiQW5ycnpUZWtNdUE?oc=5",
+      "time": "Just now",
+      "pub_ts": 1793440800,
+      "summary_kr": "Shoppers Say This 42-Cent Trick Helps Move Their Heavy Stand Mixer With Just ‘A Little Push’—No Lifting Required  Southern Living",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Exclusive: upliance.ai In Talks To Raise Up To $4 Mn For R&D, Global Expansion - Inc42",
+      "media": "Inc42",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGFGYlctVGVLb1hab2dRWHJNbnczOXBtSXpWOUQyNzMwb0t4elhWaE9ubzF2TVpNY0l2cnYyWlBhY1Y2S3lHS1luV2U5MElwUjNJUzRsaFJSMW5FcWZiQUJGRVpvX0o3OUx3cnY1WVNMVkpMWFdxcDB6Rmw4M1RkTXhPMUZMcFBHcG9PaUdXVnFVSXRjSnlTOF9zMmYwTWNCOGc?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1793438565,
+      "summary_kr": "Exclusive: upliance.ai In Talks To Raise Up To $4 Mn For R&D, Global Expansion  Inc42",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Whirlpool Vs KitchenAid: Which Kitchen Appliance Brand Is Better? - Tasting Table",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa3F3WG8tRWNSc243eDF5djB1c3FqbGVZYWp0N1ZncjYtYVc5UWxDT2xGUTVRZlZLMkdhRll5emtyV2dJdkhFTFJSMGVUOUpabXZmekJBeWItX3Y5NUVtUTM3OFgyd2F6NFE0dkV6M19vQ0lzLUFoMFpYWUxRakEzcUpJZUREdw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1793438400,
+      "summary_kr": "Whirlpool Vs KitchenAid: Which Kitchen Appliance Brand Is Better?  Tasting Table",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon Has Some of the Cleverest Home Products You’ll Ever See—We Found 10 Worth Grabbing, All Under $10 - Real Simple",
+      "media": "Real Simple",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0tTaE41TFdfQVdJQ0FVRW9GdTNsaGFtRlRQeDd2clNZSGF3Rjh5a2lzdmIyVjR6YTNwQmpXUkRfSEU4dW1IR2ptOWtXb3FlZHRXRG1pU0hOSmtOVldqaThFUGZNeFcydEdza1JPWlN5M0pGYUk4WWdlNnNwenAtZjFRMWJuZ3l6LUE?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1793437200,
+      "summary_kr": "Amazon Has Some of the Cleverest Home Products You’ll Ever See—We Found 10 Worth Grabbing, All Under $10  Real Simple",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Mice and Pests Love Snacking Behind the Stove — This $5 Hack Keeps Them From Feasting on Crumbs - Food & Wine",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDY4eEVMQ1ctOTlmT3JlR1ZreG1OTDdkQjB6LTVjQjFqcGcySXAzcEdMQWllU1V3bTZmTWxxSUtIUjZwQUI2WVVUX29QTDNTWGNXRkdpRnJXNHgtR1lsQ2hmM2NOZzRjRTNBRFpPOVppVVRJYVI0R2NmY3JSRWtpLXMtWGZTVXJkR19tenpUNnY?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1793430900,
+      "summary_kr": "Mice and Pests Love Snacking Behind the Stove — This $5 Hack Keeps Them From Feasting on Crumbs  Food & Wine",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Elegant Kitchen and Bath Publishes Gas to Induction Kitchen Guide | Press Releases | nbcrightnow.com - Nonstop Local News",
+      "media": "Nonstop Local News",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdVhCbDMzbzlQVUpWZ3o0QnNSWEpQeFIzRWxmQ2VEdUtNUEZWRDV4N3VvdnY3QzI2eGRHbTNHWC1Pc05SOFFMR3RHb3U0NTF3cWw3RDVRMDJfbTFjWjY3ZUVpRm9xLXp5aWdrbjNPVXpZanBnM0lUcDk2S3gyYVpHSVdIcnVkWHhNOVBBTTlYdTl6M3VWU1NTRWV4ZTJFdjVZaHU4Y2U1Wkt1MWprYk1TdmNtT0JOUTk3d0hoaE5BZnZrT2hFaE5oMXlycFJxVUVEZ2NyZ1gwTlR2WERoX05INUdVR1FNSGtzTkZjUlJ6dFFBYmh0R0YxNFFabXM3dEluVDFZLQ?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1793399430,
+      "summary_kr": "Elegant Kitchen and Bath Publishes Gas to Induction Kitchen Guide | Press Releases | nbcrightnow.com  Nonstop Local News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Black Friday 2026: Ready for a Premium Upgrade? - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjFzRk15QS1vN2lQSlNrRjZVeGpKeTBDd0VSakNuZ2lTVEhhTnl1TTBsUm50RzRfc21CN0oxMktoVXBTVWVJR3hoNDlYczBmN2VidUJibzd6TXNPSkxQLURLcU5Wck9maWhJc2txSzBTWlBaY3U2cm01cjZzOGR4S0Z4VUNkZVpq?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1793381455,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "The 'Best Appliance I've Ever Bought' Makes Healthy Cooking 'So Easy And Fast!' - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjlOak1hN1pUMmUxMkJnLUJVVUIwQzVnTUFvNC02a1lra29SWTFCY1d1a2hrejJTWVBOU2stS0ZNZEhTOGI2VWhxTW9oTk1Pa09Ia3UyejZDNncyeld5Smd5SHY1WUx3dE51VFJPa1ZJSk5FamhGNnRscExiRlp6d2FmWEV2X2F1NXFDNmVoTTBSLWQtQnVQYU5zOGVyamhFMXUw?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1793381420,
+      "summary_kr": "The 'Best Appliance I've Ever Bought' Makes Healthy Cooking 'So Easy And Fast!'  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "Beyond the Price Tag: Everyday Value with Samsung Home Appliances - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmMwVjNEOWRQOHkyb3VzNUcwSzdpd1BlX0ZqZlFVRE1VN3Rsa2FRRkVvMVQ2VmJaUkZ4UnJ3cmhOaFBxVWdCeS1nQ3pSR3hERVFGYTYtTzFuazVhc1BBYzYxUTBFNWd6Mng4UlZXNEptS2NHcGxrTl94Wkl2WDB2bjFIUUt4cnJnT2Qtd3JzYzYwcnd4RkZJ?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1793376036,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "What local designers have to say about wet-dry kitchens - The Seattle Times",
+      "media": "The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWo1R3g2UENUMzJmeUwyd2JVSEs3UEZjSldBSXBja0JaTkVRQlRXU2NzdVZ4bUdHZ1IyeUJiVDZzX01lRVRyREp3YmhicmRhcWFfZHRsMFphRjhWbjU5WmJ3eGlpd2FXWExqRmZLcEhqaFZ5SkxaS2xEdUlIWlN6MGJocVpXak0wdnNnN0FpcW1SbUxyNm5LZy1sYnl1VHFmT240?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1793372400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Haier unveils smart appliances and South African growth plans - IOL",
+      "media": "IOL",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnlDc2lGTS1vc3lnS1VYX3FFLUVRbFVmQVNCRzg2NHNIUjZmbnBiS0doOEhaV21sNDhvVkoybHNkQjR5OVlPZDV4ZXdvVEsxdXR5eGdZX0dfcUFiREJRYlVFVnpYakRJRTNyWEt6bVpFaFBIZFVNeEh0VWJPMmRtdWNxOXU4VXFodzJncXMtTjkyTEpRQzM3V0t0ZUlxVHdvNzI5WC1UdEZJR2dQMk5jQUhn?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1793368800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Invisible Induction Cooktops Hide In Plain Sight - CES | Twice",
+      "media": "CES | Twice",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdDNxd1dVZXQ0c1VwYWV0WV9wU2tPN3N6LTZLT0llLUhEc2hDY1owOHhBSm9xZ3BKVHlMeUJEQm5WUDZHMEM2Y1ZuaW0wVkRaOXhyOEdSSWdoaWhUclVlS0lWOFZkOVZiVFBtTmlFUmI4X25HdXBYeXg2bndyUlRVYmlZUWZfclY2WEo0SWcyWHcxbzFQVnJkdVk0YWxoUQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1793366477,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "LAUNCH OF LG LIFE'S GOOD AI HOME AT HARVEY NORMAN MILLENIA WALK FLAGSHIP STORE - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa2plT2xQdW92b1lEd2EtUXNlSFRJUnpXRXVKZkJoZ1NHR0lwSDNtY0ZPdFFGaVJJcEdfLWgzdllVbEs0NGhha0NrSnJqZ29IVkQ0NlY3cGd6Y3hXWFJEdndybUwtWDRLLWppcHNuMWMxSk1zSFdMeG8yRV9UQ3JfSWhSRndXT09DRW9RSjJGRi1UVHV1NlE4c3VuOUlzazhmYzJsLXliVzRTcUhweDNMUl9Fcm9OYngybkhORjczeHpwZF93V0E0RlpHXzFFRjdIMmdJXw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1793366046,
+      "summary_kr": "LAUNCH OF LG LIFE'S GOOD AI HOME AT HARVEY NORMAN MILLENIA WALK FLAGSHIP STORE  PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Walmart pulls popular kitchen appliance after 48 injuries reported - SILive.com",
+      "media": "SILive.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWlpbUFKWE5JUlU2OFdXeTF0QzBhQ1o1MG12ako4Tnpuc3owMHFUN1ZKZTZjd2pPcnpCSDVaSVYtOUE2dkVPSFNfYkc3dTBOWXpheXJaYlVRNUZES2pXdWZtRFlESW5fRTVRY2RrT2MyRERJVGpmYkZ0UG5vX29IYjZTNVBld3B0eHZ6R2hLR3BseEx0aXZCaWJJUTgzM2VJR2ViYml3b0RjZ0lCSm5LZA?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1793365260,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier In-Vista 552L five-door refrigerator goes on sale in India at 259990 rupees with zero-gap built-in fitting - Sportskeeda Tech",
+      "media": "Sportskeeda Tech",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcUtFU3V3R1gxWU9XWk16Yk9Ya21iVS1qTlZ3RkpiNjZiN3pUc0JSUE51ZlBvb2hxRzIwVWdPc25NM21pT2xMa2pzS0s4cWdvbktuSUdZXy1RZUlqalJYUWlMVDNhUk1fQ3lyRldaVXY5WUV6WXhsS2EtTUlwNFJlZzNmODdod1R6MFhKWF9QQXdmN2lmcVJ5WW41dFVWdHBXb2JPTjE3a1FGLWFmQWtoaktrLWoyQ0FLcU5yZEd4Zm5kdy1IbVJNSDUxdm1jVXktakRjWDRaaFk2bklmOUE?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1793364278,
+      "summary_kr": "Haier In-Vista 552L five-door refrigerator goes on sale in India at 259990 rupees with zero-gap built-in fitting  Sportskeeda Tech",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
