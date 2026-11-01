@@ -1,0 +1,298 @@
+{
+  "date": "2026-11-01",
+  "date_display": "2026년 11월 01일",
+  "generated_at": "2026-11-01T20:35:44.943131+09:00",
+  "generated_at_display": "2026.11.01 20:35 KST",
+  "category_counts": {
+    "Competitor Analysis": 4,
+    "Samsung DA": 6,
+    "Market Dynamics": 5,
+    "Technology Trend": 4
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 2건 감지",
+      "desc": "오늘 수집된 19건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: 가장 일반적으로 리콜되는 주방 가전 4가지 - 테이스팅 테이블. 경쟁사 동향 4건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 5건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 5건이 감지됩니다. 주목 기사: 삼성전자, '삼성 크루' 출범…AI 가전 경험 공유 - 뉴스웍스. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 4건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 4건 수집. 주요 동향: LG전자, 컨슈머리포트 2026년 '톱픽' 6개 부문 휩쓸어… 유일한 브랜드 - BigGo Finance. 시장 전반 기사 5건, 기술 트렌드 4건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 컨슈머리포트 2026년 '톱픽' 6개 부문 휩쓸어… 유일한 브랜드 - BigGo Finance",
+      "media": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PN29jUVJaaFNTYTI3RnhZZUxVblN6ZUNOcTl1OVNsM3VRZkZ2VFpVTkZ0NERvRWhqTlVfUWlxQzVfcGtwcklnSFlaYk9kVUpqbFo4cUstRzk2OVRIVWgtVXNoT1AyQzU1OTRBXzhNUDZQMklNVmc?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1793520300,
+      "summary_kr": "LG전자, 컨슈머 리포트 2026년 '탑픽' 6개 부문 휩쓸어… 유일하게 그렇게 한 브랜드 BigGo Finance",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, '삼성 크루' 출범…AI 가전 경험 공유 - 뉴스웍스",
+      "media": "뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vQ3hyTE41LUtEaTFlQlVtQXpBMEszaXY3VEIxRTU0T2VJUVNTaUJCY3Q3dTN1MHVyWUYxeXNXR3NVTGxKTVlsLXJ0dUEtN3Rpb0RlS2ZCNFVFZl9mWFRyN0wtZHJSZUVhTEY0NA?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1793519487,
+      "summary_kr": "삼성전자, '삼성 크루' 출시…AI 가전 경험 공유  뉴스웍스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 컨슈머리포트 2026년 베스트픽 6개 부문 휩쓸어 - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JYlZuWGlnWmpQd1FhYzlJXzZTSVMwR0QwU0l0RVFFdUpOSFkzWU14c3d1a2xKZTVnSDlYdDhPWF9xMVNObGdaMzZoUVdoTkVCeEtmeFAzbE5HRVllQWVqNzNKc2F6WlVRZnlGWWZidWYwcHFNOXdsNE9R0gGOAUFVX3lxTE5pZk1HYjc3VEczLWpHYkxBMU5BeHA1Mmhma2lZUmxWR0JUR2kxSFV1VWhQRzRvNUtTc3ZDdzBQLXNjcXBWN0xaVzRleXNSRVNoQm5NcVRwWHNVdVlUNWNkXzkyclNXa1ZwRHlObUw0THlXZmdDTFdOU1lldzRMblU4VjRfelVvdDdCaTQzUGc?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1793518560,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "“배송부터 케어까지” - 삼성 AI 가전 경험을 공유하는 '삼성 크루' - 파이낸셜뉴스",
+      "media": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Cb09mU0R0NG5tbUJtNkpVYjB5MHU5aFFYQ3ZQWkd6dWRnUUlZbUtBZmZXSElwVlZYMlE3akM5QmdSc0wzT0I1dTJQVWpvQUhhb21Jczhwa3A?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1793502178,
+      "summary_kr": "“배송부터 케어까지” - 삼성 AI 가전 경험을 공유하는 '삼성 크루'  파이낸셜뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "미국 언론, 올해 최고의 가전으로 LG 냉장고, 세탁기 등 - 파이낸셜뉴스",
+      "media": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtQ3drdXQ4REJlMmdSRkxOaWh0am9fYVZiZ050dFB2X3N2OFluQm1uZGx6T3VEQ2hrbTNPanFxSjhkZ2NnRFdQcUZNWFN0TGF6WXA4U2hrS1Q?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1793499536,
+      "summary_kr": "미국 언론사, 올해 최고의 가전제품으로 LG 냉장고, 세탁기 등 선정 파이낸셜뉴스",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG, 냉장고·건조기 美 가전제품 순위 1위 싹쓸이 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnQ4YjN1UVFHT0ZRM0NLcWFxMUFVVHZLc0k3ME52cVVvNmFMVmFiOUN3V2dzMTMwRWktcGlBcWowVmxmeFdSLWFtME94c1cyWEt4YUlGcHl3ZmNsWFVLdlF1OUxiMzRhQUVhNjdNQXZ4NTJaYUhoZW9WVVhweENkNFgzZ2JFUkFGTUp0T0Y0amtWV0pMRGNfQVh2bkg?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1793498147,
+      "summary_kr": "LG, 냉장고·건조기 美 가전제품 순위 1위 싹쓸이 서울경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, AI 가전 크리에이터 프로그램 '삼성 크루' 출시 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPazRLY1NJT2dGNlppSWUyM3k1a1VKQkp6UEtpNHpCLXdRQzEzVmw4dVN3eVIwTHVxWGRxQkdXc294elRrQWVQLTd2QmNxbWdXVWg0RW1KWnVUb2FCNWMwVGZfS3NqZldLUDJibHpXcVJ2Z0xDTlZkY3E2aVpHWEJveXQzWDVWc0xTSHZibTVvRnV4WkRPajI2VDY1U2hPN0RJ?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1793497513,
+      "summary_kr": "삼성, AI 가전 크리에이터 프로그램 '삼성 크루' 출시 서울경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, AI 가전 실사용 콘텐츠 국내 선도 - 삼성크루 출범 - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHd5emJCejFSclVZNkxTZ2xtM2FlUGUxdFJIMlBLQjc0WVVaYVNWUF9KMTFvRFc5dWp0bWlfZWlmNmpVTUhfS2VGOVJ2UEhORnhPbExOa1d4OEJWeklYN0FBd0x4QkNsWUZWU1BSaHZCdm5BMkcxcTVlaG5WRUtVbXgyTWZTV1VWZUhMUlFB0gGOAUFVX3lxTE5Qd3l6YkJ6MVJyVVk2TFNnbG0zYWVQZTF0UkgyUEtCNzRZVVphU1ZQX0oxMW9EVzl1anRtaV9laWY2alVNSF9LZUY5UnZQSE5GeE9sTE5rV3g4QlZ6SVg3QUF3THhCQ2xZRlZTUFJodkJ2bkEyRzFxNWVoblZFS1VteDJNZlNXVVZlSExSUUE?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1793494800,
+      "summary_kr": "삼성, 국내 AI 가전 콘텐츠 실사용 추진 위해 '삼성 크루' 출범 조선비즈",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, AI 가전 홍보 '삼성크루'에 AI 가전 크리에이터 선정 - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DckRRV24tejB0VnBXcHlPY3MzSmtMdlpWWGVfRWlIcmhhNlpnZGxoVnc3aDhjM0dwYXRtN2s5N3VVQVlRYS1rWnJvMzA3NzJrN3hOVmRvMDNwcV9RTmgwcFE2VVE?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1793494800,
+      "summary_kr": "삼성전자, AI 가전 홍보 위해 '삼성크루' AI 가전 크리에이터 선정  아시아경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "가장 일반적으로 리콜되는 주방 가전 4가지 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pU2ROeVJSRVpsWFlSejRqcV9KQVpyNmZjTmdhR1Vac1A0TGNQRDR1T1lKUXRVVVhVTUZ4NjEza0JSeTJqbFFJbTAwa01rT25SQ1I5LUJnWVRZYVFSQVQxa0l2UDRoZ0Z2RnRGWDQ2U09pd1pBWDdjcmhrQVkydkk?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1793481300,
+      "summary_kr": "테이스팅 테이블에서 가장 일반적으로 리콜되는 4가지 주방 가전 제품은 다음과 같습니다.",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "에너지 및 유틸리티 비용을 절약하는 7가지 스마트 홈 업그레이드",
+      "media": "Bing News",
+      "url": "https://www.aol.com/articles/7-smart-home-upgrades-save-224100000.html",
+      "time": "19h ago",
+      "pub_ts": 1793461260,
+      "summary_kr": "온도 조절기, 누출 감지기, 에너지 모니터와 같은 스마트 장치는 에너지 효율성을 개선하여 연간 100~300달러를 절약할 수 있습니다. LED 스마트 조명, 플러그",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "스마트 전구 구매 전 확인해야 할 조명기구, Wi-Fi, 벽면 스위치 4가지 체크포인트",
+      "media": "Bing News",
+      "url": "https://note.com/napon_ikupapa/n/neb3a9f2a7e90?hl=en",
+      "time": "20h ago",
+      "pub_ts": 1793460780,
+      "summary_kr": "스마트폰이나 음성으로 방의 조명을 제어할 수 있는 스마트 전구는 정말 편리해 보이지 않나요?",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "세대: 당신은 가전제품보다 더 똑똑합니까? - 베미지 개척자",
+      "media": "Bemidji Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMVVCZ282T3F5SXNmVGVudzJVQlBMVkozRzBtUEpPQ1VYaVFVTFRVcnNPR1ZKMFFyUTNjTERwbnJmc3M0X3VrSUdJSmVHUGJOUmJaMnZXV0l5SWJzRkZxSTVwc1FnWW9NSXlQSWhvcGhUNE5id0c3cG9OZE5pSlQxZ1UtcnVrZW43cWRIZkFLNVBqcW8?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1793459213,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "하이얼 스마트 홈, 3분기 순이익 전년 대비 12.3% 감소 보고 - Prop News Time",
+      "media": "Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ2NQSjlLT2tnX004RXUzMlhTOW95TTRCU0VLbkF2bUZZRmthMVZweUItQkE4SGt2ZXc1VUoybldXeDlrODhlVV9sU29BUldVQmJqWVlzSVlPcjdHNmNSTk1sNGNId29wMWV5STFVV21Rc0VEbHZ6NTNkeVh3VW1jMUw4T2pMc1FNLWZ0U2puU2l3SVh2d2ZMUnp1ckZxampLai1fMC03ekp6VE5XUmJtV3gwOXBwV2k3NmI5R3dMS0w1WDJBdVZYbkg1MA?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1793455214,
+      "summary_kr": "하이얼 스마트 홈, 3분기 순이익 전년 동기 대비 12.3% 감소 보고  Prop News Time",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "스메그(Smeg)가 궁극의 향수를 불러일으키는 주방 가전제품을 재해석했습니다 - 아이디얼 홈(Ideal Home)",
+      "media": "Ideal Home",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTkMwajVpU0JiNUNTajg5V1VwSmR6aHh3ZWpPR2pOVk9XV0theTlPQi1BNV9aZjM3ZUw0LWdTTnFScWZfWTFvOWtTbU04UThzMTgtd0lwQ1lMNmpKVmlvUnI0VDd0SlZIOExWWjdVY3JpdWdLWXRfRzkxU3RuQ21TSTRISQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1793455200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "얼음이 부족해서 지치셨나요? UAE의 여름을 더 쉽게 만들어 줄 4개의 제빙기 - 걸프 뉴스",
+      "media": "Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQlBsZkZUeDFaS1JjeWQ0SklzaEdhaTVaUHEzWWNpVndkdmhUQmozUDB1Y2tQVnVMQnJNU1BQOTZPVW9wTEplZ2J4bktmRHRFUmlMTFBkSl9Sa19GVFBpWmRUVEI5Y0I3VmpRU0pBMTlRNzFHV2pPeWNSU1lsLWRRTEtqMlRTUEV4QzRwMHdwem5vMW83Qy1HZ09MdURwWENMRExFd0JYUmVmMmQ0T3VYZ0NXdzdTd1BLYzhpZW1aQXRnV2R3RkF1UzVnZ2NjZzRIcFHSAeQBQVVfeXFMTjhYaUotVk5PMmdQVlNhR1gxRzNYc1JrOTByVHRkS3JuNW9La3ZTZ3RETWJVdktEMUxsazkyWHUxbGJZRWhVY21oYldoTDI2UmlmMG9ob09SV3FKN1Flc2trNmxmR0l6MFB5T1hUOUVPRGdWLVY4MDhKY2w4ZjBjazNlSjVNWFpkZGdYcUlLX3FBYjEtZUpRNUdPM1hhVTZrY2daQWtlMTBuZEFuRjJLWnFuQzlKbEVMbGlIX05Pb01zWGs0WklrOUtJSzVKNHd5bkdfeHIxelpPRk5Tc001Q1JpOHl5?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1793451600,
+      "summary_kr": "얼음이 부족해서 지치셨나요? UAE의 여름을 더 쉽게 만들어 줄 4개의 제빙기  Gulf News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "미국 가정의 수백만 개의 전등 스위치는 스마트하게 작동하지 않으며 그 이유는 접시 뒤에 숨겨져 있습니다.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/other/millions-of-light-switches-in-american-homes-can-t-go-smart-and-the-reason-is-hiding-behind-the-plate/ar-AA2gvtt3",
+      "time": "23h ago",
+      "pub_ts": 1793449816,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 11월 가전·모바일 할인·중소기업 특별세일로 소비자 소비 진작 - 더글로벌기빙뉴스",
+      "media": "더글로벌기빙뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qUVRVRXVSRktnOXZFNDRqTWV1bVQ5aFpvSWRxcHhBV3gtU29weVlzX0J1c2xLdW5GUjZzb1pwbEx6Q3gyaUV0QjRwSFg5ZDdnejk1bQ?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1793448660,
+      "summary_kr": "삼성전자, 11월 가전·모바일 할인·중소기업 특별세일로 소비자 소비 부양한다  더글로벌기빙뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "컨슈머 리포트(Consumer Reports)의 최고 평가를 받은 도기 냄비는 슬로우 쿡(Slow Cook) 그 이상을 수행합니다. - 시식 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVDVfNG0xeXlkb1pQa3VRZTRhNzBocE9FeG5KSXpuT2Jad09sbGdHZlhzU3JCZ0ItSjJaUDEtcmVocjhWbzlVdjN2eVZsODRNRDBLOG5GR1RQd1NuM2NOTWcwSjBCWGo3aWs5bDl5Y0xSVFlISC1nTWVvZkZpaEQtVk9FTGU?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1793448000,
+      "summary_kr": "컨슈머 리포트(Consumer Reports)의 최고 평가를 받은 도기 냄비는 단순한 슬로우 쿡 시식 테이블 이상의 역할을 합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
