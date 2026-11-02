@@ -1,0 +1,241 @@
+{
+  "date": "2026-11-02",
+  "date_display": "2026년 11월 02일",
+  "generated_at": "2026-11-02T21:58:57.523060+09:00",
+  "generated_at_display": "2026.11.02 21:58 KST",
+  "category_counts": {
+    "Market Dynamics": 11,
+    "Competitor Analysis": 2,
+    "Samsung DA": 1,
+    "Technology Trend": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 15건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: TV, 가전제품 등을 대폭 절약할 수 있는 전문 매장 11월 블랙 세일이 시작됩니다! - 마이브로드밴드. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: 가전업계에는 경험을 중시하는 홍보풍이 불고 있다. 의 방법입니다. - 매일경제. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: 하이얼, 하이얼 페스티벌 2026에서 할로윈을 맞아 '뱀뱀'과 협력 ​​- Hashtag Legend Hong Kong. 시장 전반 기사 11건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "스마트 냉장고, 보안 카메라, 비디오 초인종, 라우터, 자동차, 온도 조절 장치: 해커가 폭발시킬 수 있는 일상적인 장치 - The Economic Times",
+      "media": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNdmRMa0tNNWJKR0ZOYW5Pcl80dzZuT1I4dlRFci1aZ0VLOHBhUDZQd0ZHTHRjT2VjZEs4aVRXRzdDU01sd0EwbmEwc0c3M1BuR3F0UmdQZmpEVFBlS3pSdkduTW9PaFdKVGdNV19ycEhOLVRlMjRQZXc4Mk1EZ3pLYXJLNmdYczM4NGZHSl9WOWRCS3czVFVoUlZWT3FfeVRpS2VIVFR6TUFwcjBOekpMaDNpby1OcnpqMTZxY1J6YlY4MWFKRkxLSXl2eHA4VnB2N1hUQm9SR1hjcUp5YXZISmcxeE84YUVtOGRKSjd6ZlAzWktZcmtoSGtpSS1CUkxLU2psQ0d4bU4xNFZhLU9idVZMQ3VKRUNSWGNJVDFWaE80OWPSAagCQVVfeXFMTi14ZzBvbEN3VlJZNjZJUHFwaGdrclRLT0h5aGZ6RDFNb3JNejBIZ3R6b0ZINzBza1NHOEJ6cW9DNFlQRjdIZHNSN2c2SEEyVHpIR0pZdVB5d0VFejlqMFVyZHVTSC01X3lKRUl3QVdKNHo1eUl5VXlBRXhocEJDRXI5OWdLNzl0VkRFcWk3NnRZZGJjV2Rjdm5NS0tmb3VjbHNwbFdod05lWk9JaHdXWUkwZ05hQ05SRThBdG1Qd2dhUUZlQlFPU3B3Y1dWWEUtOElHb0Vpb1NUNlY0U0VndWNaNWNxMHhUMU9vR0dZWFZJWXNjVF81VDNVX0JhTkNYM3g0Wk5kWUhrMGtyZ3B3bnV4dHN2VkNXLUJRS0NkR0l1THQwUVozb0w?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1793618064,
+      "summary_kr": "스마트 냉장고, 보안 카메라, 비디오 초인종, 라우터, 자동차, 온도 조절 장치: 해커가 폭발시킬 수 있는 일상적인 장치 The Economic Times",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼, 하이얼 페스티벌 2026에서 할로윈을 맞아 '뱀뱀'과 협력 ​​- Hashtag Legend Hong Kong",
+      "media": "Hashtag Legend Hong Kong",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNkU0Qlk5MUpEQy1zTEhZaHZtdVFYSTg4UWhsLS1RZkpVLVA1dFNWcl96bXlfTF9pQzBkdXNsWlNPTWhxeUwtbmlqTmwzTEktVFJaRnh3aWUxZzYwanpwWVlYaFk3M05wQnVVdjN6MGJJZDBiUDhna0szMThUUnVHdW9n?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1793609283,
+      "summary_kr": "하이얼, 하이얼 페스티벌 2026에서 할로윈을 맞아 '뱀뱀'과 협력  해시태그 레전드 홍콩",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이달의 쇼룸: Gaggenau, Marylebone - kbbreview",
+      "media": "kbbreview",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNW5nZ2huX3BkTDhIU082emVzdDZZVDd6WjFHRnJsLWpPaEVsckxwd2c4dnZNMUprTVVST2pmMkxPcFhrVDU3cVlaYmUxMWh0VUljb1p2Q3NaUlR0TVo1bkRacUh3WlZld0Y5VFlZSnQ1WVpYYmUwaFN3amEzVk1GU3otTGExQmtIWEE?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1793606400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "스마트 홈 기기 시장의 선두 기업: FMI는 2036년까지 4,555억 달러를 예측합니다 - openPR.com",
+      "media": "openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2lYRlJoaTlxMlJIeFB0djdpbXc0Z0V2NVdPZ0hGeDNYcU5qLXZQVFJwbXNMTFJYczltTlNyMFd0MEZIZkVzM3R6MzZ5Wm1KSTdVRnRGcHFDbmtJdWdTWGIybUpZelgtZE41eldmVGc0NHVnRW1ZSWI3RWdFRnVnZnFWRm92d1djR0JSVzBpMXBDU2dlNTdWamlR?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1793605947,
+      "summary_kr": "스마트 홈 기기 시장의 선두 기업: FMI는 2036년까지 4,555억 달러를 예측합니다. openPR.com",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "TV, 가전제품 등을 대폭 절약할 수 있는 전문 매장 11월 블랙 세일이 시작됩니다! - 마이브로드밴드",
+      "media": "MyBroadband",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWnRZQVhjQm1EbEN6TDhBSUJOM3J2LTlZaUJOaUx0TXllajdwMzZaOW9ka2YydDlabWJpUVNsSEU5MGRhR3dGaWRVb0Y5QXd5d0Z5X2YwM3FCNXZDeXVPeUxObmQ2ZkNpRjgzbzJoT2hRd041aGZJQ0c2SGZISGxhamRURDVRbUNVcDU0TzVhV1QyZFdDMHRIeWpoQVZBeU1vazRSMXI3YmEtdGRkSGo1b2dPTjFsMng3LUhMNGJTTVBkcjZIdFA1b3FFNFV5TzN1X3BvMTF5dVg?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1793605642,
+      "summary_kr": "TV, 가전제품 등을 대폭 절약할 수 있는 전문 매장 11월 블랙 세일이 시작됩니다!  마이브로드밴드",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "가전업계에는 경험을 중시하는 홍보풍이 불고 있다. 의 방법입니다. - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkaEtQd3AyS2YtWTVNdmRBODU1azU0dU95S3RQSkhSMkJjSHZ2ZUprWVlQZHNESlhaYk5ZZkRJMERza1NQNFNyTGtvUjEtdDZ6SWc?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1793602555,
+      "summary_kr": "가전업계에는 경험을 중시하는 홍보풍이 불고 있다. 의 방법이다..  매일경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방 가전 제조업체인 Upliance AI, Khosla Ventures 등과 400만 달러 모금 협상 중 - Venture Intelligence News",
+      "media": "Venture Intelligence News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDZwSlhtQ1JiTktBaTZ2d1hjNTdfTXBCNmlkaC15bDhjaW4yY0FTTk9mR0NYVWpGbDQ2MmhhV3JjcF9iNjJCUEt5YUlkOGh5TnFyQnBPd2Z0Y0xGX19RUGplNl92cV94RGdCYnpaYkhVTjM3WmtZUUxfS09lamRSaXRDRWc0aV9YTF9vanZGV0doTlFVS2Z1SFhTNnNBRDVmSnZEN1dNcm14OXcxSDVZU0JEQU10MHZYa05SUHpyU3FHc1gybHYtUVdEYzVTUnFmTzdpYUJB?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1793597050,
+      "summary_kr": "주방용품 제조업체 Upliance AI, Khosla Ventures 등과 400만 달러 모금 논의 중 Venture Intelligence News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "SMEG, 호주에서 다이아몬드 식기세척기 제품군 출시 - SmartHouse",
+      "media": "SmartHouse",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnJsYlpkaWNnb2V6clMwRkV0M0dLeWpnWUZIR0JsZHJHVjg2MDV2VUZwTG1ydDBzOW5jYVM4TC1icHYzbExEZlRTY09PcDZEcG45ZUhncHFJUDhmM0F4OHBWZHhtQ2QtMWFyRUlKclM3anFJS0JxRUZhUVZqekZZYXZmYVlFcFBTR1E?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1793596813,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "부엌에서 가장 더러운 물건 5가지(힌트: 그것은 쓰레기통이 아닙니다) - News.com.au",
+      "media": "News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTG1SV3JEOGVfZXExaXVkaDdvQ21CWk1mVmFwNFpqWXJLWWdoMktXQnkyM1NiTWk4UHVMRDVCTi1UV3pYWEVxY0hEWnlXS3JOdTFvU19lVW5vTllWMGVRTHRQeVNSYm90WnpDcXRtVlZOdGFtU2J1T01vSUdLd1VfWXUyWXV1cGtTdkJpcDM0aDhJcDZpMm5TUmM4YUhGNXVUQlJXSnRhYU5QcU9xMFc4SUIycnpkR1pHVl8yY01zQ0pHbDZQNEY5ZGxVUnliVmEwWFRkdzhhVk5YN2F1a05jV1ZDRHhqMkl5Z1VheFZ5TURXVlVoMnc?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1793588677,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "“냉장고를 뛰어넘는 차세대 신선도 관리 시스템”…LG전자 '궁극의' 냉장고를 살펴보다 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95UmU4ZFRBNGs5OFliRTRmUHg0OXU1OTBhdEctX25Ia1Jwc2dtSV9xOXd2eXBoYUEwcHUxdmJ6Uml3NjdjWU5CRXdCaTBWOW1pZFg0?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1793585862,
+      "summary_kr": "“냉장고를 뛰어넘는 차세대 신선도 관리 시스템”…LG전자 '궁극의' 냉장고 살펴보기  매일경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "T3 at 30: 오늘날의 집을 만든 가장 큰 가전제품과 스마트 트렌드",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/technology/general/t3-at-30-the-biggest-appliance-and-smart-trends-that-have-made-the-home-what-it-is-today/ar-AA2gzHTX",
+      "time": "11h ago",
+      "pub_ts": 1793581200,
+      "summary_kr": "에어프라이어부터 스마트 스피커까지, 지난 30년 동안 가정이 어떻게 발전했는지 살펴보세요.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "천식을 앓고 있는 캘리포니아 주택 소유자는 가스 기기를 무료로 교체하고 태양열 및 배터리를 받습니다.",
+      "media": "The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWZSQnVnckhNN0RjNzZUNlFfS2stZDA1dDNUcU5NZDI1LU4yUE5YSHVGMHJiWW5KWmtfSnJoZDZSZE45dE1MeHFtUGxuTThCRXZ3N3VrT2NHd3NXOVlQOC1zZ0FENTBXbGMwYUpVWmJrMTRhZWZpLXJEaHpxYk9GWnRXVDRudHdXOUs3VVdR?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1793550540,
+      "summary_kr": "천식을 앓고 있는 캘리포니아 주택 소유자는 가스 기기를 무료로 교체하고 태양열 및 배터리도 제공합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Dyson Car+Boat 휴대용 진공청소기 $229.99로 하락 - Technobezz",
+      "media": "Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTBOaXFWRFM0Tm91NmhYQ2ZNX2hPNGhteEItUFJhV2RHamI4TERLc1UxeVRxWnVnV3l4dkdkQ2RIR0phRmpuRlAzTm5KM0ZVT3pUUWNRVUg2VXNxX04xTUV0WWdYOVN4anNkb29pbktZcUZzOFAycUVlaExjTWl1OHRMVXM?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1793546113,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "La Cornue 산맥은 왜 그렇게 비싼가요? - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43SlA0SkdSQ2lLSTdDa1g3OVhERGlEMEN3djRTVWF1Z2pzTDFWTWE5WlREWTZURU00aEpzVjUwc2dEX2R0cGJqWjJvMW9KemhKYmEzVE9yMUJmRGs4TVlzdzFKaW9zYXd5ZW04RHlJUDNlTF9ZR1Rz?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1793545200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년에 구입할 복고풍 냉장고 7대와 건너뛸 5대 - 매일 식사",
+      "media": "Daily Meal",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmREdyNHlzM0RESmdnQXRxRjZKdTBiUWdoSGRqZlBxUlZvMS1yUzR6T25UT21jSlJBVER1MDNucG1pNjVRWnVzRTJZV0hjUUlmTEtyYWxVX3JnLXZZY1lYN3RJeWtZRWtGVTZGV0Y1ODFRdVU?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1793542740,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
