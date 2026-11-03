@@ -1,0 +1,354 @@
+{
+  "date": "2026-11-03",
+  "date_display": "2026년 11월 03일",
+  "generated_at": "2026-11-03T21:31:16.172816+09:00",
+  "generated_at_display": "2026.11.03 21:31 KST",
+  "category_counts": {
+    "Market Dynamics": 19,
+    "Technology Trend": 1,
+    "Competitor Analysis": 3
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 2건 감지",
+      "desc": "오늘 수집된 23건 중 2건이 리스크 신호를 포함합니다. 주요 이슈: 이번 축제 시즌에 기술자를 위한 최고의 디왈리 선물: 소형 공기 청정기부터 초박형 보조 배터리 및 스마트 콘솔까지 - Business Today. 경쟁사 동향 3건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 7건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 7건이 감지됩니다. 주목 기사: CK Home Appliances: 작은 시작부터 30년 간의 사업까지 - Yahoo News UK. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 3건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 3건 수집. 주요 동향: LG전자, 2026년 3분기 실적 발표. 시장 전반 기사 19건, 기술 트렌드 1건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "마살라를 가는 것 이상의 목적으로 믹서 그라인더를 사용합니다: 마살라를 다용도 주방 가전으로 만드는 기능 - Livemint",
+      "media": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQakI1MU5kNUpzcWo1akhpM1BHdlRsaEhOa3R6WjVDc3BOQ2paTVk0Z3VSci1kNzNUY05FQXFzSklRT01wbThjR0tnOF9KT0YzQWFzdkY0Ry1IbVpTVlAxellZX2p3OERVckxDUW1yMXN0TFpvejYzQzh6ZDg3T2pqNVJkTUtGQ1Rxc3ItcDNPRUJIdkhFbU5xMlNtSk9lNUxIcDlRaDRBRE5OVUFsbFVob1lkQXBpSlZyZkNzcnBnTXJpTzZ6YkFVYU5ER2hDNWNvam1DT3ZhRlE4cklHTTUwSVIwTkY4aVAtVEFhb3RRdzduNjM4VEsxNGFnU1hBTnpWLUHSAYcCQVVfeXFMTTZrTmJoRXlmYXdaU2VuVXJpUVl4ZWVrTDdJblNqM1lPd0U1cWluYVFReUZHRjI4MGlaMll2SVVDako2YXBXYXhCNGJQMVhxTUtYNVVFSEgtZTVqYUEtOE43Tklodnd5R3BFZmR6UWc5ai16c1JCS19XZ1pRSEdBcEEzUEppRVQxcEdZOFo5T05pR2p0RENlWVdyZDRhN00wLTdUYTUzYU5BTFgtSUFJMEV0OHZoTlJBY1ZaekVYTFhDMjJsLXVMRVJJN1MxYkZMMHlJaGtib3Y0Nk1hXzFOZW1rc29WMDltZndtZzJxbnZfQjNFR0NXUWpsQUIyekg4R0JVTzR5RjQ?oc=5",
+      "time": "Just now",
+      "pub_ts": 1793707987,
+      "summary_kr": "나는 마살라를 가는 것 이상의 목적으로 믹서 그라인더를 사용합니다: 다용도 주방 가전으로 만드는 기능  Livemint",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "CK Home Appliances: 작은 시작부터 30년 간의 사업까지 - Yahoo News UK",
+      "media": "Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazA1MXRSUzR5anhseG0yT0MxOWFpS0lQMmthU29ZVnJGaEdicW1WQjJGWW1iRWZCUDR2YXFBdmN6dkMzMVVJaWoxZWxCYklVTFhGS2lVNjdxZUFSNUNiSElrSVRWLTlfWmV2eHhGOHR2dlp6LUk0MjVOeWQydDlfdWl4Zw?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1793700000,
+      "summary_kr": "CK Home Appliances: 작은 시작부터 30년 간의 사업 경력  Yahoo News UK",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "{자금 알림} 가전 브랜드 Nuuk Eyes Rs 500 Cr 평가에서 Rs 100 Cr 자금 조달 - 인도 소매업체",
+      "media": "Indian Retailer",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeEsxc1Jpd24xUlVLTjRGMklsZ0hxbU1QUXpQY01Fbl93RHYwM2xEMV90Q2ZvWFRpMmxDRHlfaC1zalFwVXhwMHJuMVNnSi1rc2JOQTdXbzg4UWxsalhQMFg2cktSVGRwTkdhcGxlT0ktT3VJSjU2M0RHRWRHc3htejU2YUZGU0pNOG9ySVVnOW9VRURGRmEzeVJTN3BFWHJPTk5YNVlwREpMWnVER0c3aV9aUmdJbndlelFv?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1793699364,
+      "summary_kr": "{자금 알림} 가전제품 브랜드 Nuuk Eyes Rs 500 Cr 평가에서 Rs 100 Cr 자금 조달  인도 소매업체",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "대형 조리기구 시장 규모, 점유율, 보고서(2025-2035년) – Market.us",
+      "media": "Market.us",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vQnZEdE5sd3pXR2FxNkVBTTJ5bVp0TXJrYWY1Y0FTMUxiVmZzeS1zSGdOQjZfdTQtQkpzRUlfWmU4ZDQ2aHV1UnZRV1dNOXIwWXdVQUU3bmF4RXBla2tYajlHNXVtd00?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1793697201,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "가정용 주방 가전 시장은 3,607억 달러에 달할 것입니다 - openPR.com",
+      "media": "openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWUk1aFhNQmVManRNX05VcHhFYlBQQVZYSUhxZ1lUNUJyN09KOHhXUjZCSmUzUlZwOTJxbC0wNUU2cUJWemlqQ1N3TXFQOVYtajlGVkhGR1hGcnlLb0gzaUVOMnVWWEJqczhMOGVSV2xhQWoxbGV5V3BkWWJCQWZhcUFYeUhab1ctR1JqTDViSTIyMEcyb2ZIbmtSWDJiQQ?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1793689018,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "독점: Nuuk, Wipro Consumer Care Ventures로부터 ₹100 Cr 투자 유치, RPSG ₹500 Cr 평가 - Dailyhunt",
+      "media": "Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRnVocTBRNHhRcTBGLTN2elNiMDl0SG12SklIRFhiMzZmYzR4MlNkdDBYeDNYZlJSRGNEWVJxcnozYmNiQUZ0YTRZNHo5bjI1TWczRnNsblUwTnVrcUgwNE1CMkNpUkoyb1hWMTFTY1R4eFVJWjl5aGtfWkJUWjQwVHlPVjhQRUtCSlF5ZVlKWFB0SGZEOTV6OWFqTzNscHJzUUJPaTBLMi01V0kzVEtpRU52TkVDYkhON1AycnBjX21tX2JBX1E1SThPbHg3b0p0ZXBWdWRhQ3A4QW1IUDJCeGFTTnRCZGRwS0pMQVNwdE9yNUZHZ0FWczBR?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1793684745,
+      "summary_kr": "독점: Nuuk, Wipro Consumer Care Ventures로부터 ₹100 Cr 투자 유치, RPSG ₹500 Cr 평가  Dailyhunt",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "이번 축제 시즌에 기술자를 위한 최고의 디왈리 선물: 소형 공기 청정기부터 초박형 보조 배터리 및 스마트 콘솔까지 - Business Today",
+      "media": "Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbk51WW93V2tGZUozUndzQVp5a2lRd2ZkTVhwQVJVdDlDeHFZN0N5ZzdYbEVJbVdXakRhdm8yS0dVWXg0VW5wWVRZdjRId0V5MjlsLVMxb05PUVRBS29UVUdqQUFnVi1BQ2xlYnJ3SmhzbHNXOXRqeGc1cHQ2SHBSVmNtRloweTl1Mmc0bDNiWTM3d0VzMlpCYTVITkx1bUJ5cGNKQnpOc0FOdlhJX3M5VTVqRGdCR0g3MWlKU0RMb1ZtZ1hLcWJ5YjhEY2d5dlpIa3h1cDVPa1NWTUxZLTJraXZUaTNNTmZSa3dnUlRzZlVra2h5eG9XZ2ZTQm03X03SAYQCQVVfeXFMTzZKRVRlTUY3SlNVdmZhS1JzYkdXNmhFaE5vVkFKY0Q3Y1NZU0ZPWHdzNDZ6cGVNRkpvMTc2cVNYU2Q0SmR0djAxNW5xcW9pQXh2ZDdBTW5CVGdwNGQwTkVPTmtlZVZPTVRqV3Q4WmZNX3hBOEJvblRvM1llR3VucERvd3JENEp5dFNGbnVYQ1RPdTdndVZ2VG5TQ042My1BWlVGTlk2UDBONUROTjBkWnM2Znd6MzJ3STBlajNndmdJdURQUlU2Tl9fWldfRXdSV2ZWbnBCc1dTRnpfcldyeEpIcUxYTGtfV1lPT05lRm1Pa3FzSXlYWHhoSEhvN3ZpQUJjYlo?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1793681913,
+      "summary_kr": "이번 축제 시즌에 기술자를 위한 최고의 디왈리 선물: 소형 공기 청정기부터 초박형 보조 배터리 및 스마트 콘솔까지  Business Today",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 블랙 프라이데이 특가 - 맛",
+      "media": "Taste",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdGdQd090Q1FqZ0VyTTJMWkJJQXVfalBpX0VqYk93cXFxb21mcUszd2JQRkh4dTdlY2lCLXdNV25HUlhVMkFNMFphX1praVp4bzN6U3NMdlcyNWFCcE1nVUxrUnFoMEFJcDhmRDVseFhzeU1OckVSSUh3WmpBVl9xaVZvT2o0T2tmRE5hSV9GVWVFdXdYd0RCYzlWS3YzT2tDQ0Uyd1RQTWN1OFBDaFh5M3ln0gGyAUFVX3lxTFBkRzVYM1hrWVFTWF9jdDEwU3YwMkdibm1BNmJnMzFGZ3M1a1Q4RUVnblRlRE4tWXFGQVJBSGI5UnJiQWdGS2VEajY4cnJjT2JwdTNHTEZJM0lDTTdkbUx0bzhyMGNtNk44TVNXZVM2SGRiYWZzd2ZvOFUwSmxoTHVLRVVIdDVRV1N1TXVLWTAxNUlaOHppQVo5dTZjRnNkVWVqd0JIXzhpWWZ6dTRHMzlLSHc?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1793679557,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 2026년 3분기 실적 발표",
+      "media": "Bing News",
+      "url": "https://www.zawya.com/en/press-release/companies-news/lg-electronics-releases-third-quarter-2026-financial-results-1884089",
+      "time": "10h ago",
+      "pub_ts": 1793670300,
+      "summary_kr": "누적 영업이익은 가전·차량솔루션 사업 성장과 TV사업 호조로 전년 동기 대비 55.9% 증가…",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "KitchenAid의 농가 스타일 스탠드 믹서가 Target에서 휴가 베이킹 시즌에 맞춰 150달러 할인됩니다. - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3RzT3dxMFlURHhpaUo2WUlxckZlNXpJdEk4SHRvMDlBVTdmRUowN3NyNEQ0cFF6dUVJeUpFdldxWWNScVVZZy04cUJkME15ZnM0NlJ2SzZxX1UxMjBvN3hFYkJqWlRNREhENHk3dVJsN3NXMGJPMFByNGlRRUNzSVQzTWFKSTFyZzdiSFlOUXFFdmRHQ0x6QnNpTlRMVmU2TVdjQm1RTXpFbWFkR3c?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1793669760,
+      "summary_kr": "KitchenAid의 농가 스타일 스탠드 믹서가 연휴 베이킹 시즌에 맞춰 Target에서 $150 할인됩니다.  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "SMEG, 호주에서 다이아몬드 식기세척기 제품군 출시 - ChannelNews.com.au",
+      "media": "ChannelNews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOVg2U29tNzlBa0NIUnNRRHRWcU1YRDlSVnpsdVBibnZsT056blU3bnR6c0RJX3IyRllSUE1uMmRoSlE2cURFbUFZeGNQVFVWRkRUSFdGMGg3cGFlUjVpa1lKajJtbmhUZXFJZ3RZWnd1enZMSkx2YURMa3RULUhYbTZQVlRqX2lUbFRr?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1793662774,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "KitchenAid의 프리미엄 스탠드 믹서가 Walmart에서 450달러에서 300달러로 인하되었습니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUWpoNkZfYWtUS2Y1ZEthZ0pOOGV0VHFHX0Y2MzljYUdhNFRBd1JNOHRmV1h6UkVqaktScko2Q3c2UThaWlFXWUpueHE3azU0MnFSVnBzVllTdlJSdF9QRHV5RmcxV05zTjA2eU5kd1cycjlxZG94Uk1GQnQtR0dEemVvcFpMY1pHMkM0d2JwNmVEaWI4eUQ5RnhEOUU3UXVHSEtFcHhZTUM1Wms?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1793662248,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "오래된 보일러 및 용광로에 대한 상위 6가지 주택 보증 계획 - Yonkers Times",
+      "media": "Yonkers Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQy1OdnJaLXd0cnRGN2NqTW9OSW9qV1NFOGl6cHNVZGpCR1BTbVVzNW12bTV4NWYtZ1l0SVdaYW1uZzYtY2h2OWdSUUtXcUR6OHRTYXRRa1RfUEVHUDJ1dU9uZm5Tbk5Qa1FIUF80bVpYa0FYS3V4amplSzg1UXhuWHpWelEwTjdXNnc?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1793660328,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방용품부터 게임까지: Walmart의 베스트 특가에는 최대 $150까지 할인이 포함됩니다! - TAG24 뉴스 USA INC",
+      "media": "TAG24 NEWS USA INC",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFhQSS1hczVSYTg0T1dzbWlReUNJZEFMTVRtblJKLTJmcUQyTzZTTzIzRjBfOFk4SnctNkJDWGxqVDBsRmRidVV2OURRZFdTeHJESFZwaW5xTXNUZFhmUUFPb1BxSjMycXM5OHhlTHl6ay1UeFNGUnIwUUxVTXlpU01pck4yb2hsU3l3c0JwME9EZk1FdzBYZENOWVpFQ3g3M282dGdzbFZhck5oVUEtUUJwRExQUGNjMTZHdjh2cm1RQWfSAcgBQVVfeXFMT2FVeGlKTXI1aFAtMEVPSHhJNndYMjg2VHY3Zkl3cFUxQ0VfSEc5MndPeExzVnV5TTdoX1UzV1JPTDBsSjVvTUNLVktsWWtZSVVBX3FfMnVyQm1ZV2RlZWxBNmItZDZjQ01KZ2lkbmxzV2VNWU1nTEJJMXhKLTk3MVhIYzNzTjNNY3hUdGwzOG1fR3l4QnYyUHNDUW40V0ppTmdjS1dNc3ZKemFqcmEzcFFQTTZoQzMwOW41Nmd3TFN0ZEUxcWppZDE?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1793656020,
+      "summary_kr": "주방용품부터 게임까지: Walmart의 베스트 특가에는 최대 $150까지 할인이 포함됩니다!  TAG24 뉴스 USA INC",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "컨슈머 리포트(Consumer Reports)는 거래가 이미 시작되었다고 말합니다 - WCVB",
+      "media": "WCVB",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeXJWRWd5TmhzblZ4X0d0WmhVbmRGYXRZQnpPRC15eGR5amY4VUJic241SS1VU3NCTUNPZDBYRnRNMW45dHY2SmFNbFNFbkRTTHFvQ2ZtSDQtcFkyczFhajdxcUl0V0VOeDhaZjltQy0zZkZaVGt5MzhVd2Vmb25hWTBSOGtYZnpmVUViZHk1TnYwNkxm?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1793654820,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Amazon은 320달러짜리 iRobot Roomba 로봇 청소기/대걸레를 단 169달러에 판매합니다(10개의 추가 팹 딜 포함) - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR0tIX05JMk5rOFBheFNzU3RCTUhrdjhFZUdWVGE0WVpBSjJBc2NhRk5DVERwUHRwblVsd2xHLXc2cjNyOVE1VDJUaWltWEN5TUczWFRQWUZaZTZLMHkxNFJ3LWgzeWhRQXRxNmI3bHFvQUI2RTZObUdfcUxJWFZlbmNmbXFfTmROeEFoOHJJaWtFeWJfSGR1ZThKaDFQd1FHbUNrZUt6LUo0cmtQUEpNbWtfM1N1aUxiLXg5Q2pvdGdrWDVRWnRvaDZmQkNFZThjNW1mQ1Z1U3l3bklCcnc?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1793654516,
+      "summary_kr": "Amazon은 320달러짜리 iRobot Roomba 로봇 진공청소기/대걸레를 단 169달러에 판매합니다(10개의 추가 팹 딜 포함).  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 주방 리모델링 상위 7가지 트렌드 - USA Today",
+      "media": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUlBVVXItSWp6emJDdk5KbzBwbTIxZDFTUlRmMG1kWWdVVUE3dGtNaWRKLUp6aW1UQ3pWU0pDSXQ5aTI2akdmRlFnOG9nX0JkNlIzTFNfb2FhVWZzV213TzZHWDFEbmVIRmFQMFUta1lteXpmSXRtUXdIZUFveXViaTdZdWthRDNFLVR3?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1793647860,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "애완동물 관리의 번거로움을 덜어주는 5가지 스마트 장치 - 비즈니스 표준",
+      "media": "The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGZ3Y3J5SFdEeG1SX3ZMVURLMnlfdXBEb01PaUh4aWFMMl94emJzZjFpRzhrUFgxclF2ODVlOEFFQ1FyWjRCNkV3RDZSS3FxNDNZcmhvb1lwRDVxSXN0Nl8yYV9sS0ltSlNKUS0yWS1kNjNSTE1yX3dTNV9HNm8wNE0xWXU3ZTlrVVhnZ3paVmJZQQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1793632189,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Curtis International, Kenmore 가전제품 라인업 확장 - CES | 두 배",
+      "media": "CES | Twice",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMU9QbEJ1d3doMU5WYWEwZGExVVkyQ0J3aElCNGpkNXBDb3pwS0ZIVWhHRXRXV3N5YlRmaUVUMkJhZWZfNU1jMlEydzRjSFppdnc4b3c5UWx4YU5MWVVxSUlSQVNoeDlIQl96bENPNWxEVm9YM0pLeTVYcUVYSkZLdFVOZjJJMmtBZkRDUGJNcmVyRjNqME1ZLXJLR2JKakd2QUE?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1793628708,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "ASKO, 스칸디나비아 독창성으로 고급 가전제품 혁신 재정의 - CES | 두 배",
+      "media": "CES | Twice",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeHFqU1Bad2VvWEFYdUJTNFk4dHRuZVk3VXN1a2JlSUdLQUlKSFF6QTNtNHB6cDVzM3FWVTMwY2RycURVOUtXQ1llSGpGSjFDaFg1MjlpWjd3Y0xNb3FyUnk4Q3pQWF9yUHQxUjlHaWx2bGpyZnd3UHJ4dEdEVVlKTUkweldYdzRRM2lmVk8wYmczaTBraWRFd1lIZWt4TDdlbTFiVTRNMDREWk1pWkJucmVxbDJWcHRUVUFB?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1793628107,
+      "summary_kr": "ASKO, 스칸디나비아 독창성으로 고급 가전제품 혁신 재정의 CES | 두 배",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Thermador, 차세대 고급 내장형 Freedom® 신선 식품, 냉동고 및 와인 칼럼 출시 - Morningstar",
+      "media": "Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaHdQbmN5OTNScVdHbjVIOWhMNFJ1NWZRY3Y1bDNyQ3ZiLUZWOXBkMGF1UjljQ19KYXdQcHVyN3ZvY3Z3SkMxZlNFNjlzSjI2VVdjZUU4ZnRmYzRnWmZBdkM3T1RFRHEtaHBESG51akdlOUF1RUdKaFdlS0tCWGN6eEg2Smt6SzZ4eGV1akpDNFgxUWpyMnVlbXhVYkpmNWJSMkFyY0w0YzF3LUZsSklhb0I5S0lfM09zVWxfNF8wR0l4MjFKaWp2SXBjU3ZmcXhLOS13dHZUaVFEQWNoTmVKdnBpY1JEWnRiNm9sZWRUNmJVb2VaU3BRbg?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1793628000,
+      "summary_kr": "Thermador, 차세대 고급 내장형 Freedom® 신선 식품, 냉동고 및 와인 칼럼 출시  Morningstar",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Rotpunkt에서 E.C.A.까지 SEREL: Çarıklıoğlu Yapı, 이스탄불의 주요 주방 및 욕실 브랜드 통합 - EIN Presswire",
+      "media": "EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlVoME1KODRmVExJdzkyazZTRkx5a1lmeW9wTXdnWmdtS3hYRjk5Yy1sdjlERVNFeDhGOEZ5aDB0aFdDNTJoeWpxQngtMVJRZzEyUVJrT0FfRmM1Q2wxcHYxQmxFeGVFbTR6cmhLZEo2U3NhSGI2VnlqYTJPZ0tJSkdjTEhwekJjUzhqbGpBc3VWSk55bGJfQ0ZDVmxrYU1zN1UweE9kdUJPUm1Nc3ZQV0xZQ3EwZzNWTW9LXzJvcEV3VEZmSENJUU5mR1hWWlhfdjFv?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1793625840,
+      "summary_kr": "Rotpunkt에서 E.C.A.까지 SEREL: Çarıklıoğlu Yapı, 이스탄불에서 주요 주방 및 욕실 브랜드 통합 EIN Presswire",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼 스마트 홈 주식회사: 유럽 전역 유통을 목적으로 WpHG [독일 증권 거래법] 50 조에 따른 릴리즈 - TradingView",
+      "media": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOWXpEZjB0bmt3QjJtcDVZcDR4WmtrWVVjQ01NRnhaWHlfaTZ2eFA2SlZPT2RWd2toTEduUHJRM3lheHFjTVhHaU1ud25sZklPZ25DUkd5TENQcW5wRUItUjRIQU1nbjRHZDBTWDJKUnVMY2g4aEE5U1NiRE9wcWFoUjZILWRJdjNLTE9vdktkajBad3lqZTZld2JhLWRISXFxVHBoSk9yUFJWMkJQTGdiMGRnenVXVXdiV2RuMC0wOVduZEdLMjdyekFiRmZvWEtCMUNLeGZiVXJaRGthLTl5YThhMklNRUNzdnRfVEp5SFdBcHJUZGxHaDA3bVU5OFlGU0VaWDMzdjRmdHpRSEhyanJQSEY4TTZsNW8xV0kzdFdVUThDVHpvTU93?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1793624202,
+      "summary_kr": "Haier Smart Home Co., Ltd.: 유럽 전역 배포를 목적으로 WpHG[독일 증권 거래법] 제50조에 따라 출시",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    }
+  ]
+}
