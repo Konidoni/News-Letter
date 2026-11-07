@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-07",
+  "date_display": "2026년 11월 07일",
+  "generated_at": "2026-11-07T20:25:12.047039+09:00",
+  "generated_at_display": "2026.11.07 20:25 KST",
+  "category_counts": {
+    "Market Dynamics": 6,
+    "Technology Trend": 2,
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 9건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 2건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 2건이 감지됩니다. 주목 기사: J.D. Power의 2026년 미국 가전제품 만족도 조사에서 삼성전자가 가장 많은 상을 받은 브랜드로 선정되었습니다. - samsung.com. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 6건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "오븐 커튼은 즉각적으로 컨트리 주방 룩을 연출할 수 있는 사랑스러운 터치입니다. 또한 보기 흉한 가전제품을 가리는 데도 도움이 됩니다. - 이상적인 집",
+      "media": "Ideal Home",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EdC0xSXZnQ2NsUUV3dEFqSGhPLWV4dkFVWGJZRmZxNDV0RC1PYk1vbV9BbVBTTHJzc2pVR1pOelhvZHZveFFXSlNIam52VFg3NzhiQlRMWE5pcUVQZ2FYTC1xUkVUX190eVdz?oc=5",
+      "time": "Just now",
+      "pub_ts": 1794049200,
+      "summary_kr": "오븐 커튼은 즉각적으로 컨트리 주방 룩을 연출할 수 있는 사랑스러운 터치입니다. 또한 보기 흉한 가전제품을 가리는 데도 도움이 됩니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "10달러짜리 스마트 플러그와 홈어시스턴트를 사용하면 오래된 세탁기에 세탁이 완료되면 알려줄 수 있습니다.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/technology/consumer-electronics/a-10-smart-plug-and-home-assistant-can-make-your-old-washer-tell-you-when-the-laundry-is-done/ar-AA2gWVyE",
+      "time": "10h ago",
+      "pub_ts": 1794013980,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "J.D. Power의 2026년 미국 가전제품 만족도 조사에서 삼성전자가 가장 많은 상을 받은 브랜드로 선정되었습니다. - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGdnQ0hYb2p1ZnV3dHpMN2ROSzA0RnRucjNMS2hxODBOeFE2STk5WUZTQk9Yakd6VUVWNUpiVnM0UF94RDlBZ1RPaHFVemNhVl8wSWY5RXBheEs5WG5Va1ZaOEJxbDVjUVlmcTZKVHVtM3BOQWpQOTk5UTltRm51SVVmVnowN1A3SzE3MnBERlVWZ0VoQVBWbVZMcXdBcHpBeHJXRVZCMmdma1lYT3pWbkJn?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1793999654,
+      "summary_kr": "J.D. Power의 2026년 미국 가전제품 만족도 조사에서 삼성이 가장 많은 상을 받은 브랜드입니다.  samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "드류 베리모어(Drew Barrymore)의 주방 가전이 카운터를 돋보이게 할 컬러풀한 변신을 가졌습니다. - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVm40V3J5YUdKQ003R0xPRFRnc01aSWhTbm45UVY2TDJVVkt6YnNGejV0cDRqdFdVaWxLNE1yVnAxZ0ZrZDBOVDVFX0U1Y0EyamE3UVZLaDNDQXd4STZ0QzhBN0x3TE1Oa3lHak40Zk5sUjVSMnhBMkVSelZGbjZ5WEo0c0pPTUpZX2o1NmxZR0s5VEVjakJheWJBaVNBZnRKcDFUWUcxTmt0VFhYdHM1WjdfdExuM3hXemdUOXZZVU9jTDRTR3JqZEpPdEpOYWxsRDFqWDhfU3VxOUNUenQ2N1A3REttb1g3dGdSVklmWTlXSFFtMXZKanJPZS1YUnNZc29CbWRwa2dhU3ZTcU9GRHppRQ?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1793989102,
+      "summary_kr": "드류 베리모어(Drew Barrymore)의 주방 가전이 카운터를 돋보이게 할 컬러풀하게 변신했습니다. Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방이 지루할 필요는 없습니다. 숨기기에는 너무 예쁜 6가지 다채로운 가전제품을 쇼핑해보세요 - The Spruce",
+      "media": "The Spruce",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xYU0xYVQzSmlaa2tHR1BCdENEb1dISndPSV9XbG1hMGthdzh6N0pwV1dxYzA4Nml5bm5NYjJTTDJpVVBpSldoSDNlbzRLbHo1WmlMQ2RKZWZYa3BhN3l3ZWphdG1ra0JmdXpwMU5waG5FRjBaa1k5eXpB?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1793974980,
+      "summary_kr": "주방이 지루할 필요는 없습니다. 가문비나무를 숨기기에는 너무 예쁜 6가지 다채로운 가전제품을 쇼핑하세요.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소방관들이 계속 반복하는 말, 잠자리에 들기 전에 플러그를 뽑아야 하는 주방 가전제품은 이것뿐 - SheKnows",
+      "media": "SheKnows",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTC0xbWstVndDSGNxTm1oYlR0Rm9DNm5XcW1KT1N4OVo2LVZPMFBHcUk4UFZrVGxQd0NuMUt5S3ppY0N4RWNnSV9VSGo4RFFGc0ZEaTVOS3lYUmd1NExERVo4N3gtTFBpMmhua1FobkV3NVZBTWVYMkRtUGRmUVZPRVZrX1p1ek5LSlNEc3VEZkhOS014MmZUaVV2VVJxUQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1793973600,
+      "summary_kr": "소방관들이 계속 반복하는 말, 잠자리에 들기 전에 플러그를 뽑아야 하는 유일한 주방 가전제품",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이번 주말 킬로나에 럭셔리 가전 쇼룸 오픈 - KelownaNow",
+      "media": "KelownaNow",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSS1uVHBRaUNXdXFIUlVhRGhFMklNQzF3R0VWQnc1STdxTGNqb01wcURzZFY1cWFHQ0QtYXVud2xmT0xOT2FjLVRNOHREQTh5bkNvTTM0TkxKeVFMeTlmT3U4ZGUwZmQ3QUhVeWh1a24xZEhxMFFnOXpMU2NwRG94VXRZWU1WSTl2c0E4R1BIRWlLUzlH?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1793971800,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "이번 주말(11월 6~8일) 멍청한 장치를 스마트하게 만드는 3가지 홈어시스턴트 프로젝트",
+      "media": "Bing News",
+      "url": "https://tech.yahoo.com/home/articles/3-home-assistant-projects-dumb-203016062.html",
+      "time": "22h ago",
+      "pub_ts": 1793968200,
+      "summary_kr": "집에는 스마트 기능이 없는 장치가 많이 있을 수 있습니다. 그렇다고 해서 스마트 홈의 일부가 될 수 없다는 의미는 아닙니다. 거기",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "디왈리 수요로 인해 인도 가전제품 시장이 프리미엄 성장 경로에 진입했습니다 - Indian Retailer",
+      "media": "Indian Retailer",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa2dNOUQzQkh4SVJsWlYwVFRFU0ZwZ0w4Y0IzOXZremlpbnhjZzYtaE1zVGxXUGxwV0ppNno4dmZvTWZmbUFNSklLRW56V29vZnRnWDZsNjRLNXFOc1JBNDIwMnVJRzJ2ZE1yaXNDSndYbFBFdEx4cG5CWGppYy13OEs0Sl9KUnIzQVZvaEZFWDNlOHhwSjNWWVBMV0hlZUlpc3Zmd3hUY2FwS25yaktUSjRyTzl0Y0pDYzllMkR1TXlJRndzdmJhVA?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1793964467,
+      "summary_kr": "디왈리 수요로 인해 인도 가전제품 시장이 프리미엄 성장 경로에 진입함  Indian Retailer",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
