@@ -1,0 +1,298 @@
+{
+  "date": "2026-11-10",
+  "date_display": "2026년 11월 10일",
+  "generated_at": "2026-11-10T22:09:16.959148+09:00",
+  "generated_at_display": "2026.11.10 22:09 KST",
+  "category_counts": {
+    "Market Dynamics": 16,
+    "Samsung DA": 1,
+    "Competitor Analysis": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 19건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: 신혼가전 다 여기서 샀다…\"롯데하이마트 목표가 인하\" [eStock 클릭] - 아시아경제. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 11건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 11건이 감지됩니다. 주목 기사: 신혼가전 다 여기서 샀다…\"롯데하이마트 목표가 인하\" [eStock 클릭] - 아시아경제. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: LG 전자 인도: Rs 4,300 cr capex 및 스리 시티 공장에서 20% 이익을 얻을 수 있습니까?. 시장 전반 기사 16건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "저렴한 비용으로 집에 손님을 맞이할 수 있는 최고의 휴가 호스팅 상품 25가지 - Tom's Guide",
+      "media": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVjVRcGFzQjlLVmVYcUpxVzc5RUd0T2J5QTU2anBYRTR4ODliLTlBZ1Zwb21vc3lXdWJrV2dMaUhzUzBhRUFtTGpDcWhRck5jN0lPZGh4STRJM0FjamxweUFmeVI1MWg5MHVBdDJSZnl1U0E1MVE4eHNwcEw3MHhUd29hUEFJUzNtT2xIWElpa0w0NWFBNUU5UGdPUzVrUG5yS195R2tBUVJHSmtlQk9aWXpBa1JDSml3T0U2V2pPU211QUJaNlRLcUtTVUE0ZTZ4cHFSOVVheWp3SFRwZEdR?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1794304800,
+      "summary_kr": "저렴한 비용으로 집에 손님을 맞이할 수 있는 최고의 휴가 호스팅 상품 25가지  톰의 가이드",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "신혼가전 다 여기서 샀다…\"롯데하이마트 목표가 인하\" [eStock 클릭] - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QRUJFZ0hEMXFCUW9IUVEtM20xMTkwNEFlYmZUWXR2MkJKV0VUejhHTzJYQ3JyTmJMRWN0dE5rOFhpa2Q5UHE0X0I1bk5OZms3S0YxOEp0Nlh2STJ5TVFXUFJFamY?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1794302220,
+      "summary_kr": "신혼가전 다 여기서 샀다…\"롯데하이마트 목표주가 인하\" [eStock 클릭]  아시아경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Hisense의 Matthew Glynn이 2027년에 지배할 새로운 기술 트렌드를 밝힙니다 - KBBFocus",
+      "media": "KBBFocus",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdzJzM1VqR1l1U1FIcFo4NmpaSlRyMk05ckF5NVJ4VXRqV0dsOHJPNzBhdUNsNFVSZU96clJJMzVNVnU0V05YSzRMSVZuTTRSNGF0N2NEbngxUmppYk54SHhaODVLTFpWS25qQmgyc1BfT1N2dlhlU1BCM1JmWUJjYzZmeVhmTG12MEtScUJTMmhKQmtWZ1BUZWVUN1IzYWFoUUdWeXVDSVFtNW4zZ1hj?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1794295838,
+      "summary_kr": "Hisense의 Matthew Glynn이 2027년에 지배할 새로운 기술 트렌드를 밝힙니다.  KBBFocus",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "블랙 프라이데이 러시를 극복하세요 — Amazon은 이미 Le Creuset, OXO 등의 상품을 5달러부터 진행하고 있습니다. - 음식 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ090cmJhZTdDekFKXzJlXzFkdGFRckROQVExcmQxS2ZoSFl5V19ESW5YZDlObTdsdHdaWXpGdUJxREdBb0tOb3VYbFpsMW55QjJGZkgyMHRobUZTRDNyNThQbVNwb0YtQ1FHM2VNN3ZLRzJ4Ujl0MlNieFFNaXFYb2F2d2dHQlpxcFA5UWdhOWM3STRBNUE?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1794291000,
+      "summary_kr": "블랙 프라이데이 러시를 극복하세요 — Amazon은 이미 Le Creuset, OXO 등에서 진행 중인 딜을 5달러부터 시작합니다.  음식 및 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 디왈리: 가전제품 판매 급증으로 온라인 주문 금액 8% 상승 - BW Disrupt",
+      "media": "BW Disrupt",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVZGZF9zOVNDd3kyVXB2TTdsLWxiNndHM2lIZzZSUTM2cTZ4TDNEaTFGLXQ1dmU0UEUwZXBmM2JCby1hYWlaMFlhZGhkX2lhdHczMUpkODFxR1ZPUERKSjZDdWdFeW5oT0k3aHNQTGFsYVBCZVpaTGVDX1hTdlFkOG00Y0tCOVFCZFlZZ0lWSVh5dUkyZzJMaGJ2ejJrYndXczREMWlUSjBsYl9xVFE?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1794287503,
+      "summary_kr": "2026년 디왈리: 가전제품 판매 급증으로 BW 중단으로 온라인 주문 가치 8% 상승",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자 베트남, KiN 호텔 그룹과 제휴해 숙박 공간에 AI 가전 체험 제공 - 파이낸셜뉴스",
+      "media": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lNjJZNVA5T3hDSGx6cTlaZDFsVVhtRzFWV2txWmxScUExdkhGVHBoR1VEWmxlRzl1VElhR0hObWJZdjNmN1MxV1dyYmtycjVlZE5BUmZkM2w?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1794280593,
+      "summary_kr": "삼성전자 베트남, KiN 호텔 그룹과 제휴해 숙박 공간에 AI 가전 경험 제공  파이낸셜뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG 전자 인도: Rs 4,300 cr capex 및 스리 시티 공장에서 20% 이익을 얻을 수 있습니까?",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-in/money/economy/lg-electronics-india-can-rs-4-300-cr-capex-sri-city-plant-unlock-20-gains/ar-AA2h7cuy",
+      "time": "11h ago",
+      "pub_ts": 1794275708,
+      "summary_kr": "중개업체는 수출, 프리미엄 제품 및 스리 시티 확장을 이유로 LG전자 인도의 최대 20% 상승 여력을 보고 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Tefal YumMeal 조리기구는 399달러의 가치가 있나요? - 선택",
+      "media": "CHOICE",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWFxZDNNSlpXZ3p1SGUtNUdKdjhZZ3QydjZXQnR3VFRsOS03VnRpV2tVajM0dHd0VnNFMzNMMnFhSjhmY0pLSkdyd3JGQWhKd2V3Z19xaVR1dFZaMXdyVGdmYzZsU0ZjTVJieGhlalRIODdabTZWRE9BMTBYYUdSa3NNY1lGR19XR1dCUy1ZdEw5RUQxd0dHR2hBVUxyUXVqR3FwakJGUGY4eklLT2JoVGhBSVU1NWZDOHM0RE1RZHFPUQ?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1794272546,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Binatone, 가전제품에 대한 블랙 프라이데이 특가 출시 - Punch Newspapers",
+      "media": "Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVdDbW9RNFNuMGdfN0Q5dHhyVkVZWTh2Y3djSF9ROC1uWE5xOXJsLXEzcDhiNk0tT2pQcmtxekZKTDBsT3pHc2xKRzhaTG15a0Z1VGtidUl4QnFpVjMzS1lUbElXT3MyUC05blJLaXZ4WGVqcDBOTUxsa0JtTUpGNE5STlJoSWp6Y1dfVVZVVHVwMmFUZVNwOVU5cUFaMThiaUU4YzB3SGVxZjJhSHJCbUFrd0E?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1794271868,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자 투명 무선 TV, CES 2027 최우수 혁신상 수상",
+      "media": "Bing News",
+      "url": "https://biz.heraldcorp.com/article/10931347",
+      "time": "13h ago",
+      "pub_ts": 1794266580,
+      "summary_kr": "LG전자의 세계 최초 투명 무선 TV 'LG 시그니처 올레드 T'가 아트&테크놀로지 부문 최우수 혁신상을 수상했다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "'Fluffy': 최고의 밥솥 래밍턴 꿀팁 - News.com.au",
+      "media": "News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaGs3eEFIZXFUcW1QTHV3Tms3ZVA2NDh6M2Y3TmNrdHFtNzg0SGRGam9sN2pWNDhEUTMxRXlvNUpWOFZNdWVFZXNtRmlNOWsycDI5eU9oWl92a1ZpX1NKOUh6cWYzTW0yanpHOWRONlBkQ3lrZjBYV2FxOGpzbVliR19EbTVXdXZXdzFEcjZkOU9QUUd5cTNQOHhLLU1HcVE5NzhKUHhfN0drUFNJOE0zbEczNVlFSkZ4LVVkZkJLUTYtbmthbm53UkFtOFRpcUlLdVNQODl1SHpVeDhycHNBam5EbFJIdmlNeVBheVZXaDgxM3JOc0dJ0gH8AUFVX3lxTE1aODlZQVNIUXBfb1pIZ1NQT0wxQzg4SDRBWDA4YXZPc0ZtN2FpNlVKTHZ4UFh2Vkh1WGNQUHRHeHZvamNsT0hOYnFPcFVVR3pWbGFwNzRyanE1Rl9KbFdnVm1BeXY0MmxhQVp6U0NnMXlCSnpvQ2FSb0VYcVBaaU9QbF9QYVhHaENHOFp3a0pKbWlWVFg2UmdRZ3p5amdCNV8zT2hBLW85d2NVb0JMOUZ0eUF0ZldLLTdMTGx3cm9ua09zaER2MG8yUW5YU1dieDFucTRPR290Wllac2ZEWkdjVXl3VTFTRHM5RVE3dzJqQVNnN0s5RG0wcUNCMQ?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1794264352,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "나는 이 무독성 브레빌 가전제품을 매일 사용하고 있으며, 이 가전제품은 내 요리 루틴을 완전히 바꿔 놓았습니다. - EatingWell",
+      "media": "EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXRkRF9nN3JTdVhBX0dSMFRLQ0lKakhBUWxWTlZhXzdrd0dRb3BfODBIU1lNNlM5OWJEOUVOSHQyTjd3YWpPWFpTX3VhWE5BbHNGNG8zcE0xbmdnNENNZ3FiSWs2SkdQeEJnRWljWE4zVTJjcF9UV0dPRldvcUdqME05aUl1Wkp3X0E?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1794263400,
+      "summary_kr": "나는 이 무독성 브레빌 가전제품을 매일 사용하고 있는데, 이 가전제품은 나의 요리 루틴을 완전히 바꿔 놓았습니다.  EatingWell",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "친환경 가전제품 - 주방 및 욕실 디자인 뉴스",
+      "media": "Kitchen & Bath Design News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEeEhBS256WE11S2taSXBER0JFR19ReHNrdmp0NWVIY0U2a0FxMXZvSjJZSXN5eng5VGllelpIVG96NjBFZWFMcmluQW9ZNlJwemFXOHhMcXhRYnlvckNEUnlBMHZ5RVFnWDAzQVgwYlZleWxVZDJsU1l6bXg?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1794261243,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Lowe's, 블랙 프라이데이를 맞아 주요 가전제품 최대 50% 할인 - USA Today",
+      "media": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR2YySDc1UWlNMWZvUU11OHdWVGt5TUYtUE4xQ1lidU9FOGFXMG5NdE8tQzRZajAtX3hkQXE4WnFtVm91bGtEWDFNbDBBSlhwTHVoVGtHbTdTcGlNMm1qdmVzWWhWOWRXU3I0eG12TGRzc25GbHA3TTkydWJYNkhYc2k0QzJLRmRkeS1sVldLRzROWmZuOTE1aEtuQkM3OEc4UjFmTnNlVXJQT2E1TUpiODRrX255UmJhempEUXJxOFNJQQ?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1794252780,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "겨울을 준비하기 위해 지금 가스 기기를 점검하십시오 - Queen City News",
+      "media": "Queen City News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaEtWa2lfLWpsTGg1R0x1OEJ2aFZjOU5sNUFRakdGcURpUkFocU42VTNybWQtTUxzZkVFMThKRE9lREZyNTJLOGJHS2FLZ2U2eWNJVWJaeDAxMEl4X2FPV1ZSak1WaXhEbXhFZW11NTVrckFCTDBLX3RWWGcyOHVSUG1hcW9fdkQ1MDRXMkpRZjlRcW5zSWVsVTlJZGo1TTI3ak1SQjByREx1SC1KQURtUC1YSFJ1NVFHQzYzdllLWXBWSlZOZXhwcHVTWHRNNmw5UUE?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1794249014,
+      "summary_kr": "겨울을 준비하기 위해 지금 가스 기기를 점검한다고 관계자는 말합니다.  Queen City News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "전기 요금을 높이는 12가지 가전제품 - NewsBreak: 지역 뉴스 및 알림",
+      "media": "NewsBreak: Local News & Alerts",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWmhpb3pFUllNZUtKT0R6ak54V3ZSaGhFRmxCa2YyVWRsbGcySmVMeU1ZVnlUWVZ2NHZPWUNVa2o0aVlhWHRXZU53WW9fZTQzWUMtNDQxTkF0dWhUTEhWalZxenVqZlJOc3FuYXFVcXVKWmZ5MjRWNkotVG44OWdhdTRrbm53OW9tY3FVVU5tSGlxVG1qUS1WT0ZUT0xjVTNMZmJyUjlkdjVjTVQxUUZ1TEdMaFpwOVJXRkpuWFpjenNERnRmWHMtaDlFeTQtZnZDMlNXa2x3?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1794239305,
+      "summary_kr": "전기 요금을 많이 낼 수 있는 가전제품 12가지 NewsBreak: 지역 뉴스 및 알림",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Cuisinart, 주방에 자연에서 영감을 받은 색상을 선사하는 다채로운 조리대 가전제품 라인업 공개 - PR Newswire",
+      "media": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa0JBeDBfSC1hYk44bTVmNzFZMUtLVEZGTGVaa1JSRkFIeXd6U0lKd0ZhT0ZseXRPcEhHU25LWTYwbDlpNDJvUmFkQ1UyY2ItRmpDdVpRTmVuMGxkNE1jd09DLV8tU2ZvMXlkVFBSdmw4ZW5mOHNTT1p4eXp5UVZ1S2pPYVdQN2JUWnA4cVdDTTFaZVdxY1BCVkhINTNJcFNjVXo0UG8yQjJkbWJnZHViOHNuRUZXa0dDMWY3eWFxZ3FET3VOU0NUOVp4ZmpOV2h2TWVDNTlzQ3ZUTU1KUnpySy1rUHpIRzVMTnY4YWtmZlk?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1794236400,
+      "summary_kr": "Cuisinart, 주방에 자연에서 영감을 받은 색상을 선사하는 다채로운 조리대 가전제품 라인업 공개 PR Newswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "선물을 위한 Amazon 최고의 기술 기기 및 가전제품 - Mathrubhumi",
+      "media": "Mathrubhumi English",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdkR3S242eTcyYllza0JXdkFtUjhuZ3g0NDBFck1LWkYxcXdmQklMSEQtWXp5YTA3QVMzTXEyMWpDc2MxeXFDdnREeVhJSVUwTnBWWjNTVkJVTUhGZnV1NG5ieXBkZHp6RmxnZmVRRnNZQXJEMFBVVHFwaGp2aGxfZjJlQXk5ZTJJUEVvdtIBkgFBVV95cUxPWFk4N1ljTHExVTQxdkxLS2hvNS1yRnFQUFN5d2d0S3htOVRmbkpqVTVuWFFrZ3pGMjZ4UUdtdFI2a25talRtN2FvZnBIZTQtclh3MkplOFlkb2VZUUpTM3FiREdyRVJtbWhOY0huV3pRbm03azFsazU1SHc5TFJiSzM5Yy01YjA2ZGxVQlc0OVgwQQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1794235594,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "절대 정가로 구매하면 안되는 가전제품 5가지와 더 저렴하게 구입할 수 있는 곳 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PNktGMXRzV3EtaDdCTlczOXl3UnpwTUhrQ21VclNySUdSNEVzZHh0Rmw1MllPQ3VFNFNVaEUyR083bjRMaUg4LVVEbFJ3d2t6WWE1ckhMY09xTV9BemFNVVp0VWlxRjlVNjI5cmV5U0pFSW1xRVM0eHlVcw?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1794232815,
+      "summary_kr": "정가로 구매하면 안 되는 가전제품 5가지와 더 저렴하게 구입할 수 있는 곳 AOL.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
