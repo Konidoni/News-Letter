@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-11",
+  "date_display": "2026년 11월 11일",
+  "generated_at": "2026-11-11T21:18:33.344242+09:00",
+  "generated_at_display": "2026.11.11 21:18 KST",
+  "category_counts": {
+    "Market Dynamics": 11,
+    "Samsung DA": 3,
+    "Samsung Bespoke": 1,
+    "Competitor Analysis": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 17건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 5건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 5건이 감지됩니다. 주목 기사: Amazon 11.11 UAE 거래 2026: 세일이 끝나기 전에 놓치면 후회할 6가지 유혹적인 제안 - 걸프 뉴스. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: LG전자, CES 2027 혁신상 수상 - 모닝스타. 시장 전반 기사 11건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "모든 주방에는 갈아야 할 작은 물건이 수천 개 있는데, 이 5개의 믹서 그라인더를 ₹3,000 미만의 가격으로 사용할 수 있습니다. - Livemint",
+      "media": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUEdCdmdBOGYyVnZUWUJwNnUxOHhoZHk3WkI1M3dHVG5TSUlDdWlRSU1rV2pBemZKRlJtSHlyVFppV2MwN1lGOGlQcUQ2WFFKOUp6M1Z1cEVWM3BDU2dwQ19KUzRLaWFqNnNWUTFyYmtFUjlndXV0QlpyVjFRTTlIeXR0X3lRVEVNcXRmTXNFMy1YcEYzaTRvMnVjd08xejZBSHpPS2ZYT3JWTXpxZlZQWVR3SnRwYzh2UXU5blZnUHpUeE5IX2FSaFhEcnNRMlpPemg0eFZ3eWhKZjlMdjAxYUNHVERtSG12VUwzV21ZMkxOaUhhSHhCZ1VaeXZKTFRJUGZUemRuTEVPZkhS0gGSAkFVX3lxTE1rdkxZZWl4UXMxbkx1TFBLUFg5NE5OZFRrSHNKNGlYZDE3UWVNUjJwcVVNV1FGREgxdnlmUkRzbU0zN2pmbmhKOUVxQUdobXpOOHYxaGNYdDk2Y0kwR2E1cDRwV3N0cWQyUDRaZ0ZUdGVIVVpPRVFucFJBM2ZJMTNQV3N3TVl3YjJGejExZm01YnAyQWdvQ3c5TllIZUhiY0pMd2ZZYjBvazNLV1pCbEhzU2cyUkxVRlllZTVPV3dLV00taGRoVHpkVXJqR1NMalIwMDFPQ3RpSUdjTFFKcFBJcjQ5TktsRlNfNy1XX21kM2RPbTlUa2k2ckxYMUdZTnQySTVOc2ZUV2VWY1pQdXJkYmc?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1794395764,
+      "summary_kr": "모든 주방에는 갈아야 할 작은 물건이 수천 개 있는데, 이 5개의 믹서 그라인더를 사용하면 ₹3,000 미만의 가격으로 사용할 수 있습니다.  Livemint",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon 11.11 UAE 거래 2026: 세일이 끝나기 전에 놓치면 후회할 6가지 유혹적인 제안 - 걸프 뉴스",
+      "media": "Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS0pmNmVxcGR2cDI5UEExUWxKT0VRdnBWcndkY2F2V0RSQ1ZpU2VLdWg4STVrVTRNSENhcXNncVhDY2lwTHJuQUI0OWthRW4xbmJXZlk5MzFXcW5MZ01GbHBIMmVub1hSanFvbmh4RFpMVTFtbXpJZ2NXaEN2bU1IeFlJOElCZHNGN085NTJyTXpvWEUtTWVqZnRVd0ZubTByR0lvdzNhc0lWZDdkdDZROVhoZFlyUkJXNkNLS291aVhaQmtGN21HV0NMcnd3WWc3djJpclVOTdIB6gFBVV95cUxPZ05jWXFJY3pPTVQxaGd2NnZpN19tT210SXhmYnVDLVp2d2Y5QURndTJTTzZKVVJiRnU5VDNCRFVfR256d2ZNenRLTURIZmRYeHdCSWNXV1YzcEFZNXctekd5RTR4cHNNNGFKcGpobFFqSm5xa0k3V2t1eV9FVjNCMmlFNnkzUWpGVF94VVNDSHhWU2VpaFZ0MzVwU0pDb0drcGx3UVFHM0QtV1lWUy1ZaFNzeHRiWXdHYXpib2JremhhZFJfM3FRWTZzRFhZc1A1cXowSDBIMmE1UmhwOVlwQ3JPVUd2RkEtMWc?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1794391102,
+      "summary_kr": "Amazon 11.11 UAE 거래 2026: 판매가 끝나기 전에 놓치면 후회할 6가지 유혹적인 제안  Gulf News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "2026년 삼성 블랙 프라이데이: 중요한 기술로 일상을 업그레이드하세요 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRmU1S2JYOW1ZSS1samltdlYyamwtLW45Ukg4WDZrUUNPYm9RQmdzTTBGV1ZZOUdwRE0zMUpxODdURFpQSGVscnUyaFRYdDd6SExyeTRSYkx2bWRxaHRCR2FlNGhMbmM0czB0c2FjXzhjRGc2VUxfODkzMHp4WDNkMzByUlMxVEZiU1g2VlluQXNIY0s0b25ySWJiZ1AzYTNLMFBIX1VHcw?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1794388594,
+      "summary_kr": "2026년 삼성 블랙 프라이데이: 중요한 기술로 일상을 업그레이드하세요.  samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 다양한 가정 요구에 맞춘 세탁 솔루션 선보여 - My Everyday Tech",
+      "media": "My Everyday Tech",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTVzVG5aczFudXo0c1BnVEhCMy1MN2NxLTExU1VRUWhVNDZBcDB5cDF4dG5fRm1JaC1HVlIzUkdwY0xIa0pNMUQ5UVZLMUU2Qkk1NmxZQnVCUlk2UlRvc053Nnl1WDJZNndhd3dNbU5UWEE5Y0lDa2RuTlFYbmZFbnhzTlFSdHVnMWV4TklHQzYzYU5DWmk3c3p5djZHMzZucTEyYXkxeks4UQ?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1794383359,
+      "summary_kr": "삼성, 다양한 가정 요구에 맞춘 세탁 솔루션 강조 My Everyday Tech",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Zephyr, Alto Wall Custom Hood 출시 - Quantisnow",
+      "media": "Quantisnow",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0dPbUlnRUlnN2kxTE5ZNi0xM0dxWGtLUkR0enFUcktDZ0hFQXlRSHVCUmJOQk5sZUZTamdCdmFnMlNkemNjOEJqQ2FKckdpeGhGQ0trTHJOVlVwaC01cjV2WEFtNWdkaDlmVHU3Ul9OWmlvdUZjSEhlZl9YY0owRk5HdC1ocjdoWS1NLTdGTQ?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1794339676,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "나는 프로 셰프입니다. 일찍 쇼핑하는 블랙 프라이데이 주방 특가입니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekJkVUp5RkJWUDUwNkdMU0RaS3BWc0tPVXVFU2JaM19JNTlKSElneUtmcmpPS2FTYXRfaFpGX041UFBGYS1IdzBtZk9Ka2dya0t3VllSaFpiR3QzYjR2eHhuQkVleUNZcEU5SV84N3YyRnZ6bF9NNGMtZ3hZa0JiQUxhZ2ZKMUNmcUd5eEdyRi1KdURDaTFDcUM0MA?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1794337500,
+      "summary_kr": "저는 프로 셰프입니다. 블랙 프라이데이 주방 할인은 다음과 같습니다. 일찍 쇼핑 중입니다. Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Taiwan Sakura, AI 주방 가전과 정수기 소모품이 쌍둥이 성장 엔진을 형성하면서 첫 3분기 EPS NT$4.78 기록 - BigGo Finance",
+      "media": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwdG84Q3NWWmthVVlKUFRuTmkyLU5wSzhGUWNhWG1Qa2Zueml4THdSWXNGZ3BKY3BOeVZZcnZmaU9hZmJ4X0E0X1JpYTZfekRSbnQ5MmtMZFN5bDl6NGZmcmRvamdJWEdFLXl3RFJmSEcwVVN1ZWc?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1794334500,
+      "summary_kr": "Taiwan Sakura, AI 주방 가전과 정수기 소모품이 쌍둥이 성장 엔진을 형성하면서 첫 3분기 EPS NT$4.78 기록 BigGo Finan",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, CES 2027 혁신상 수상 - 모닝스타",
+      "media": "Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTEhaMnM3bk5VZjgtdVJxZDhVbnl0dE9nSGpVSXNzZWtKNW9VMXRiemFjNWdua1cwWTFLQUFrQm5LWU8zaVd5ekpiSGtDXzBkQWlPTXRxNXBmQ0IzTkg2NkNTekpUOHpsMTc1Q1lxU2tOa2hUQUswUmMwTlQ2ZFN4VjJDbnFnQjBNNEpnVDM5aXNaUUktOFFhTVFaUmpBN05pd2N6dTBqUnRReFJOQUhZcWljQQ?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1794333900,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "오늘의 Amazon 딜: 블랙 프라이데이 전 Amazon 스마트 온도계 약 30% 할인으로 에너지 비용 절감 - CNET",
+      "media": "CNET",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OWnVRcHF4NWtDWHNmNmFSNVdfTkRiRndvd3FXem9OSHNHLXItd3I3eWs1emNrbE1LcXQ5d05kMjhEcGQ1aHRLQTFZeGlKSVVrNHlMbG54VUYzVk9ONm05TTFVeVJyWV9sWE5CM1BWaw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1794331260,
+      "summary_kr": "오늘의 Amazon 딜: 블랙 프라이데이가 시작되기 전에 Amazon 스마트 온도계를 약 30% 할인된 가격으로 에너지 비용을 절감하세요.  CNET",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Google이 선정한 올해 놓쳐서는 안 될 인기 주방 6곳 - Sporked",
+      "media": "Sporked",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tN1EyYXFRb2N5YndXcHRzd2J5b19aNW5UTzFUZFFLN1Z6VFViaDhpcGg5a2Vva2FDM21hU3ZKVGZ6YmgwUjQ3ZHhXcWFta3dyb3ZHbElUTDNTSS1YY0lzT3VzaUhHRXhLM09HYUhIdFlxTXla?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1794330037,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "월마트, Drew Barrymore의 아름다운 10-in-1 멀티쿠커를 최저가로 판매 - NJ.com",
+      "media": "NJ.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnM1OUF6SmVadDJmX2JtUWQyQ0VCMXJHVDBiaTJMTXhhUTFSQWpGUlNkcnRpWm5yRlowRWt4dmdKNFdoS0UzT2VJeExXZWprbFI2SU5XVUxiSzJuRzc4dTM4UHYxUFMwSWhwS3pzVDBtLXlCdXZrV0FDWUctMkU2MWZfRWo1U3JybzVaYm00dUpmdVZzOHpPRjRrY21zeVRualRIaEYzTG1KajVuWGNhNWdHdHpFUVlCQmZIMmVxM1dYeXk0VHFla0Fn0gHeAUFVX3lxTE04R1FXanBTWjlUUkhUeHB0Q0IyS0VBMW53dUJaRm5WdkVBWDBlcnZZVGFNdmhYVURYdXhQVkxiaTVuTUlaeVdwSHAyTWhZc2czQUlUNURpNDZjMDZ1bVc2dkxXMmR0YzV2ZC13MmI1eFl5TlM0d2RsSDRUYnBNNzBjQjRtaThkZVp6a2VnQkRzRUc4MWVGS3NUb1BzSUdhVXR4R0VKaXZka0NZQWxuekdxc3ZvN0Jlc0VEZ2ZYQzJ0cGw3U19tMEQycWstcVFMU3VCdWdZYzQxSTFrM0Fjdw?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1794328020,
+      "summary_kr": "월마트는 Drew Barrymore의 아름다운 10-in-1 멀티쿠커를 최저 판매 가격으로 판매합니다  NJ.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "블랙 프라이데이가 일찍 찾아왔습니다: 공간을 확보할 가치가 있는 삼성 주방 업그레이드 5가지 - 톰의 가이드",
+      "media": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMWF6UDRYRkhMeVoyZTdYd1BTYXFBc1A4T2ZWTjdnbkppMFZJdU4wYS14N2FqdEpWNkVKeWE3RG5rNnQ5SHVTWFp5V3Npa191QkxhOHc4QWM2aW9ubUxGY3JMY3lCU21SRjY4T1pzczZuYWlJbXd6MDVDaGpicW1BM081N1pnTWItOWhDT2M3cm1qcldBZkEtN3pYbHcxU3V0MnJZQWpaYUtweVh3OVJpWFRvNEtwM1gzeUhOR0hHSQ?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1794326758,
+      "summary_kr": "블랙 프라이데이가 일찍 찾아왔습니다: 톰의 가이드를 위한 자리를 마련할 가치가 있는 삼성 주방 업그레이드 5가지",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "블랙 프라이데이를 기다리는 이유는 무엇입니까? 삼성의 초기 세탁 거래는 이미 시작되었습니다 - TechRadar",
+      "media": "TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWUxaGNPaUVhaFdsU05GMUtLT3p3SWxNTklicVBEaDdCWTl2UFpOZm5YSDdCZE9mZGlZd0hHT2Q1WS00Q0NfRHlmUHo0SFF1Yl8xMUhuNVk2amNua2dPbGJPUE1Bcm9HUGlzUkRRTzFFWEFNa2FydmdiWENMTWJWSHh1LXM2cTJOTGlMTUpKdE00cGQ1bi1uNU9pWF9RQUlNcGsxXw?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1794326622,
+      "summary_kr": "블랙 프라이데이를 기다리는 이유는 무엇입니까? 삼성의 초기 세탁 거래는 이미 시작되었습니다  TechRadar",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Select Home Warranty 보고서 추수감사절 가전제품 클레임 전화 급증 - EIN 뉴스",
+      "media": "EIN News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUHd2OW5XdlF5SzgtVW5FMFBZUElhQzRzU2xQc3hNR0J4ejUxUEVwQS13dFE5ZVhUb2lXeXhvRHNjNThXS2I4QWcwd0NaeWZKOHk4U0ZQbU5BdW1waDM5a0k2enlDdVlMcGtzVndxTTVybGRWenQ3X1FKMzRsWmFzNTg5N1g0Wk5nRHpNR21qY1cwZ29XazVDMmFYem1BR2xhXzgyT1hxZU5zUG9lRXNGX3RB?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1794322800,
+      "summary_kr": "일부 주택 보증 보고서 추수감사절 가전제품 클레임 전화 급증  EIN 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "CHEF iQ의 iQ MiniOven과 iQ Sense로 조리대 조리에 새로운 수준의 지능 제공 - CES | 두 배",
+      "media": "CES | Twice",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ2dzMXg4d2ZadWQxWks3UFVlbmY3cTkwZW9icHQtVjBNUEpXZkpzZ2x3VHNsbTBQRWFUZnYtQ0pIeVFOMHI4MjdhdTVaaHZIejRKam9oM3ZWd2g0bl8zMVFaNzFJemN5WHZlWXJNWjEyVnBzbmpBMm5Oa3Jja0Z4Z3M4N2dwVldFNXMtZ3h2R0Qta0F2NUdLRWs2WDFMVXhHSEVsMDdpMFNiTU54YXB2dWxUeWdhbGk0Q19jR05jQ2FqeW5GeWtxZmpuSi1sLXdOSWN4Wg?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1794319673,
+      "summary_kr": "CHEF iQ의 iQ MiniOven 및 iQ Sense로 조리대 요리에 새로운 수준의 지능 제공 CES | 두 배",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "홈포인트, 키미론코(Kimironko)에 하이얼 브랜드 전용 매장인 제4전시실로 르완다 품질 가전제품의 기준을 높임 - KT PRESS -",
+      "media": "KT PRESS -",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWEFTd0E1SmJ4aWdrMHVEaEk2dl9jdGNRZHNoX3AyNTkzZV9Ca0k0MG95TlJEeVAzazZwVHlrWm82cjAxT1JpQ3hFSERUN0dVMW1NTWx6MFZzUXdZTjVXcVhMSVFxZWtzQWZwZVJnQ3RMTXZnV3FlOUtncDA3Q29NNGZSdzUtNWJtaVAyam5MT1dYdFpkbEhqWE51dlZaVDIzb1lyWE1BU04xdTdyVVdkS01yUVphVGV4MkNCYm5OeDNJQ1VtbE9yMzhZUmhiMGxTT25pdWZ6TE9OeV85YW5TYzFCLWpQSjd4X2hn?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1794318245,
+      "summary_kr": "홈포인트, 키미론코에 하이얼 브랜드 전용 매장인 제4전시장을 통해 르완다의 고품질 가전제품에 대한 기준을 높임 KT PRESS -",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 천재적인 수납 솔루션으로 주방 가전제품의 눈에 거슬리는 부분을 숨기세요",
+      "media": "Bing News",
+      "url": "https://shopping.yahoo.com/home-garden/kitchen/articles/hide-eyesore-kitchen-appliances-genius-212500724.html",
+      "time": "22h ago",
+      "pub_ts": 1794317100,
+      "summary_kr": "주방 카운터가 가전제품으로 어지러워지는 것을 원하는 사람은 아무도 없습니다. 하지만 가전제품을 숨길 수 있는 기능적인 방법은 무엇일까요? 기기와 사랑에 빠질 준비를 하세요. g",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
