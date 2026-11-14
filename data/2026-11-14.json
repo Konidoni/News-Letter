@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-14",
+  "date_display": "2026년 11월 14일",
+  "generated_at": "2026-11-14T20:52:42.471468+09:00",
+  "generated_at_display": "2026.11.14 20:52 KST",
+  "category_counts": {
+    "Market Dynamics": 7,
+    "Competitor Analysis": 1,
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 9건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 2건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 2건이 감지됩니다. 주목 기사: 갤럭시 계면활성제, LG전자와 손잡고 친환경 세정 솔루션 개발 - Sahi. 삼성 Bespoke 0건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: 갤럭시 계면활성제, LG전자와 손잡고 친환경 세정 솔루션 개발 - Sahi. 시장 전반 기사 7건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Drew Barrymore의 세련된 주방 가전 제품이 Walmart의 Black Friday Deals 이벤트에서 판매됩니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSlM1djQtYkY1aGxqTnRpTXBralVublJwZThCQW1ZWWxCRlY2WFBvOFBLMEVFaFd0RWl1bHd6bkJxdVNiSDBGNXBrMzBfaER4T0hwNGdqUGRPYnlwdkZUTklubjJTVFBOTnB0cVViTzh3T0VWVW5YWWdFMHhxUkU5aUNaa21aRVg4bm5mOEFFSzgxZzR1VExJc09wYW1OOFZzTnBZMEd4aUtvbUhvMUYxUGowbEFMR1E4UWE2SjZZdzdIUEVuU21DYzMyR04wbU93MkVqNTF3d1VDbU02R25DVjVueVFjUkpLb0NzWFJiZw?oc=5",
+      "time": "Just now",
+      "pub_ts": 1794656492,
+      "summary_kr": "Drew Barrymore의 세련된 주방 가전제품이 Walmart의 Black Friday Deals 이벤트 기간 동안 판매됩니다. Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "KitchenAid 대 Ooni: 두 가지 스탠드 믹서를 모두 테스트했습니다. 여기에 제가 보관하고 있는 것이 있습니다. - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzNycXA2Qlpid0lTbGJyS3BnazRwRzlnVWhyd1VZX2VfbTk3Sk9aanJjR1RrZ1ZzZ3ZuSVpYMm9FdHFfOWZNRkoyNGlwY0VkT09xR18zRnNqSUVRR3VHWGhfUGV5R1h6RmZHbVliaUR4OWozQlVEVTk3SV82WFFIMGprRGg2TG1ZdUt4S0FETFZSLW40T3lURGtVWkM5akVGdU5B?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1794647700,
+      "summary_kr": "KitchenAid 대 Ooni: 두 스탠드 믹서를 모두 테스트했습니다. 여기에 제가 보관하고 있는 것이 있습니다.  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "갤럭시 계면활성제, LG전자와 손잡고 친환경 세정 솔루션 개발 - Sahi",
+      "media": "Sahi",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVmNkbzFBVUh0T3o3TkxTalQ1aXpaei1HbERvX1h1TUxUVWFkQ25xdGo4a0tUZlFsOXdNVDAxYkdmamxUZGtrMHVTelB1eERGemFPWkdkcGk5c1FqX1U3Q0daRnVoeGJWZ2diY2hrMWhGMXZBNkhDaEx6TFBKd3VBbFczWlZBalNzMXh3UE1tXzIxLWFJcndnTG0zSktHOTdCNk4zMVMzd0Rhc0RTSUVTRzRJN3A0TnM?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1794637161,
+      "summary_kr": "갤럭시 계면활성제, LG전자와 손잡고 친환경 세정 솔루션 개발",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방 가전 제조업체 Marssenger, 위성 회사의 시리즈 B 확장 주도 - Dealroom",
+      "media": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTGpDN3U4bklFdGxDTVFnVjk2ck5QZFdmZWM3aW1DV09KUVpIVTJLaDJsSVJpajF3TFVNYlcwNEg4TlZFc25hTmdZUjZMWWttY0dBUG9lWlJlZnMxVW9zb2cwTkU0X01JZmdJQkg5cDRfaW9tVFF0cTN1VDFnal9KanZXS3d2UEFTWW12TVZiZWlDZ2NPMVl0b1dJMnFUejh6QWt1R2dFLXN1LWc5a1JV?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1794605547,
+      "summary_kr": "주방 가전 제조업체인 Marssenger는 위성 회사의 시리즈 B 확장을 이끌고 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "일년 내내 SMEG 세일을 기다려왔는데, 드디어 찾았어요 - AL.com",
+      "media": "AL.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLU85S2lCWWJzNjBUeGxycGVYOGZwVGlQaHVKLVlsUDVGTWEyNVYyWmVvWG9oV2pEOE1mQkFia3NKYUlFQmVRNzM3V3RIUElWUGhidmI1YjQ3NkJYbjVnenhZekVZaEpPWEktREFmTjg2QlZodlBOSURSMzJKWnk5MFFhT05VQURZbk5XMEliWjlFci02TlhaZVVoYzdnSUlNWVpTald2UzkxUdIBvgFBVV95cUxQN1JwUFBNdTltQmZrYlJQVktCalZfQl9iTnBqenVjeUNiVE8xT3lvYU9WVWNpVXFwaE1CSGdDMUdBanE5ZklCQnd1dnE0LXdGcUNpbzQwd1pPTDduV3FPekNlMEgxeTg2bUxyRTRmTkdldmREUzViVmpvYTdNaEJqaVk5dnNCUm8zc1dLUUUwVGhoMHRyZERXZU5ZS1JjcXNNVmRQVmtzOGhvWWZabVNxbHUyZkJiZVliT3BFM2RB?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1794600900,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 공조(HVAC) 시스템 경쟁 치열 미국 데이터센터 냉각업체 모딘(Modine) 인수 논의 - KED글로벌",
+      "media": "KED Global",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ncXl5T19wa1ZhM29RUGZkazd0Y1FEelpSSUhsRzZtMXdvZjZGS1FlenpSb1BlQUNob1pISUNjVzd2RWdNYTFZUlJRdWtiWVVFZF9YS3VHMFdhUUJfc2lid3NBVURwdXpUWGt3STQwZTdSaDhPODdMa1FzRQ?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1794592850,
+      "summary_kr": "HVAC 시스템 경쟁이 과열되는 가운데 삼성, 미국 데이터센터 냉각업체 모딘(Modine) 인수 논의 KED Global",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "돌에서 영감을 받은 도자기 타일 - 주방 및 욕실 디자인 뉴스",
+      "media": "Kitchen & Bath Design News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzBndFp5VTVWVU16aEhWOWt6WmFtY0ljMmZzZmlwZzBFcVlVNmRWMDdqbUstOHdmMDJpSUdjOUR4QXBRWEZrd3NoRWE0Qjc0U2M3bDVjaS1vRjR5aVYySDR5OFkzMU9EeVNhb0t3N0kxRGxSTTRtYjRmYlJLOHdVMEwtNkhrUQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1794587984,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "ZACME, 블랙 프라이데이 거래 발표: 8.4QT 스탠드 믹서에 대한 대규모 할인 - Carroll County Mirror-Democrat",
+      "media": "Carroll County Mirror-Democrat",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMU5wemxpYUxpU0dERjBxZEFaQ2RZQWxaeXFyRE5FZ1BiSG9mUURhQlBab2hHbzRKMmE1VTczX1ByZm9wdUpUWDU3NFRiOUtrXzZGT0QzLUZPUDlKVFdpam1fMHVfbW9CR2p1UHViNUsyUXQzbGlfWERDQWpWU2xnb09vSlVQa0t6dzBiZTBKLXNoSGNxSGJ2U0s0SDVqV0JwMlNzZUplRzZ2S1dxdjhCQlpJb1RFUkk?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1794585540,
+      "summary_kr": "ZACME, 블랙 프라이데이 거래 발표: 8.4QT 스탠드 믹서에 대한 대규모 할인  Carroll County Mirror-Democrat",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "오븐 다섯 개와 닭 일곱 마리? 이 145만 달러 규모의 Little Forest Hills 주택 뒤에는 이야기가 있습니다 - CandysDirt.com",
+      "media": "CandysDirt.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSm1hU3lqVkczVFBtRk50NWZjQ1BkNUxDZDk2OU5zY2ZmR2twSTRRRjN2WVk1S3FJRXFBMm1JOXpQeWJ2SUNLVVQ3RldnZ0tyWVNDQkVMaFJ5NTJsNEFkVGdXZU15X2dhUVkzRXJtV1NfOGRHRlV3b1A0Q0dVVmgySVBGSjRmQVpwWEtVaFBqV2pWSUVyZU1pUUFkYXROVU56d0ViZmFBaXpUaXhDckozVzZEZ2cxc0N4bHJIcUd3bw?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1794571645,
+      "summary_kr": "오븐 다섯 개와 닭 일곱 마리? 145만 달러 규모의 Little Forest Hills 주택 뒤에는 이야기가 있습니다. CandysDirt.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
