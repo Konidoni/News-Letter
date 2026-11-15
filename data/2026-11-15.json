@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-15",
+  "date_display": "2026년 11월 15일",
+  "generated_at": "2026-11-15T21:23:26.502153+09:00",
+  "generated_at_display": "2026.11.15 21:23 KST",
+  "category_counts": {
+    "Market Dynamics": 6,
+    "Samsung DA": 3,
+    "Competitor Analysis": 6,
+    "Samsung Bespoke": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 3건 감지",
+      "desc": "오늘 수집된 16건 중 3건이 리스크 신호를 포함합니다. 주요 이슈: 삼성 TV·가전: 수익원 다변화 전략으로 적자에도 경험 많은 전문가 고용 - 머니투데이. 경쟁사 동향 6건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: 2035년까지 프로그래밍 가능한 전기 주전자 시장: 스마트 홈 통합 및 정밀 양조 드라이브 성장 - 뉴스 및 통계 - IndexBox. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 6건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 6건 수집. 주요 동향: LG 테네시공장, 세탁기 1천만대 돌파 - 코리아헤럴드. 시장 전반 기사 6건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "2035년까지 프로그래밍 가능한 전기 주전자 시장: 스마트 홈 통합 및 정밀 양조 드라이브 성장 - 뉴스 및 통계 - IndexBox",
+      "media": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbVBLbTh3T21TSV9CMVBEQVFQN0ZCVl8wWUdFN2JabU9PWVJhbjFtcVhsVGxWanVVcEl2aS04bzV0VHY5VVQwb09zQnVqUUNFb3lsMGZUanplVWxFd3hYZk5QU3BpV3lHeUNHTVc1MVdmV0dPX0dqY0xldnpsN09sRVhQeDNCekhJX2xFZVEwWjhoT2dxaGl2SXVRQTVaVE8zZ1FGbzE0THBtTkppeDZXSjI0SnVWMGY5Q0d2b0xndnJfOFRJY05OTzVtbl9xQ05vQjNoMjlyS18tbURJ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1794740166,
+      "summary_kr": "2035년까지 프로그래밍 가능한 전기 주전자 시장: 스마트 홈 통합 및 정밀 양조 드라이브 성장 - 뉴스 및 통계  IndexBox",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방 디자이너는 이 9가지 업그레이드가 실제로 삶을 더 쉽게 만들어준다고 말합니다. - Naples Daily News",
+      "media": "Naples Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV0lTSjYzMHJMOE9QTHJ2ZjRVVlFiX1ZVNEFWSHV2NkhacklaMENFOElpbmZRTWRmWnlYTTU2YV9IWkV5SGxIMjkzZi1icWFaZkxGOHVwQTVwNHdLWWh0SEFfX2lpSzB2MDdLMDc1WDFXa05ZbUs1ODlWQ1FuWEVsQ1JYNDFQeUhXemdzVW5tTDQ0WldPeHlIUy1mYW9yVnptd29HT2R3Q0Z3dHN6X2NLSVZhZHQyRE56NEk1eUxla0xncjB1UzlMLWV0U1NhZnFxZld2Yw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1794738600,
+      "summary_kr": "주방 디자이너는 이 9가지 업그레이드가 실제로 삶을 더 쉽게 만들어준다고 말합니다.  Naples Daily News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 3가지 놀라운 주요 물질은 주방에서 가장 은밀한 미세플라스틱 공급원입니다 - 식품 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWFFtY0ZYY3U2dUEwcm0za0s1LUxvWC1UckMwdkdXQnRVc0wybjJBckw0UGJvZDBFNHBueVVpMVdfZkY3MkRUeEp5d1JxR1JlanB2WkRRRzdzX2hpLTJacnRGb1hCejU4TVNJbVNDRlFrU1AzTExKbUFfVlVPUHRmNV9CVEJYM3FtNHc?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1794730500,
+      "summary_kr": "이 3가지 놀라운 주요 물질은 주방에서 가장 은밀한 미세플라스틱 공급원입니다. 음식 및 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성 TV·가전: 수익원 다변화 전략으로 적자에도 경험 많은 전문가 고용 - 머니투데이",
+      "media": "머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05QXZFd0pxa0k1UEhsTWxzbzRKeG0wNVVyM2ZyOFZCN1BtVXlteTJEOTRtYnU1UWVjT2t2V3JKX3E0RHJ2WVhzN1dYT19CeUU0MW03ZVNTSUdMWEdZaTd2T0FEN3JSa3NKYVFQZGFCLWs?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1794729600,
+      "summary_kr": "삼성 TV 및 가전제품: 수익원 다변화를 위한 전략적 움직임으로 적자 속에서도 경험 많은 전문가 채용  머니투데이",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG 테네시공장, 세탁기 1천만대 돌파 - 코리아헤럴드",
+      "media": "The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BdDdDUVprS3Y5SHZFYzByckZYelpYMmFZeGVkb1BLaEJ1aTN5OFpTQnJhS2hVazFsYXBybE1VaWZiQkVqeVZVcTZzeFp2SUNPcHgzX0VoTQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1794720934,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon에는 여러분이 볼 수 있는 가장 영리한 홈 제품이 있습니다. 모두 10달러 미만의 가치가 있는 10가지 제품을 찾았습니다. - 정말 간단합니다.",
+      "media": "Real Simple",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ2x6NTJJMmViRkNOTGRMZldKRUJsZEhuTHF6QXFBVGt3MjAyUVhnWTdJUXlTamVlNTJORkhlVU1UdXdKMHhqcmh6Y3QyandZaFFLMUdtQ2tLSmFvUW5IY3pzQTVlWVNMNE9TZ3ZMTk1hTVNDczdXTURTU091am14QU1nWW15SHpkWVNj?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1794718800,
+      "summary_kr": "Amazon에는 여러분이 볼 수 있는 가장 영리한 홈 제품이 있습니다. 모두 10달러 미만으로 구입할 가치가 있는 10가지 제품을 찾았습니다.  정말 단순합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "롯데하이마트, 삼성가전 가격 12만원 추가 인하 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaEU2bm51UG1OdGRZRDVRZDBuVHNQMkdCSU9tTllRaVAwb2VXM0ktRkVkVkJNbG9NRVM1cXdwRkNlM1hIZFBOVGdYdE91aWk0YWtJb3BXU2lPdTlBblRoZWdGaHhrNk5UWUpWUzRJMy0xdnc4Q18tQmY5aDloanhfeVlTWUlfWG83dXRZdzBKSktfS2s5d3FpZ0tla2licFFtcXQ3MQ?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1794710776,
+      "summary_kr": "롯데하이마트, 삼성 가전 가격 12만원 추가 인하 서울경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자 테네시공장이 1000만대를 돌파했다. 누적 생산 대수 - 코리아타임스",
+      "media": "The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXpMcGthcWdpNG5VNWdHeC1rR2lxSVNLcW9aSFVrY0RmR25NSlVKTGdWWEd2cXl6VlRQMThJc3pQN3B5SzR1VGRGY2wzQ2t6b2pfc000WVpReGR3LTZZMXIwTFJVeUp6bVpsaXdmSGNfM1o2SFZLa2hjclpfV1ZCMHhkU0ZZT2VMZXZaUW9NbWNOT3BTcWVqZ3RYRW5NemhPZjdKbklkTzlFLUtITHBybDBvUlhPWGQzdUdoaW1Db08xWms0V3VzTWZn0gHPAUFVX3lxTE5hanVpaXI0YjFUREsyTWhJNEhyX2tLOHlXZm5qOFVOY01CRVkyTFl6MzBYMjVyczh1NkxwdmNEMkxXZkxnX1lkdy1oZW5ZZUFJblAyUzFfa0JjTHdPU2s4Q0E5S05nYWZ0bG1ta2RBZkQtU0hnazhJSEEwbU5wUmEwdmJEcU1CYll2T0tqUUtSQ0tlNW9maERPZURMVm1MWmk5RFhQSkctMS1fcUh5T2Jha2JsUlZ0NzRuMzVOUXBHV3lWenRVOTZ4a1JyTnFNMA?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1794709262,
+      "summary_kr": "LG전자 테네시공장이 1000만대를 돌파했다. 누적 생산 단위  코리아 타임즈",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 테네시주에서 세탁가전 1천만대 생산, 북미 1위 굳건히 - BigGo Finance",
+      "media": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HNXJqYmVGQ2FnbGhEdUxvRFIySENuSENha0NGMzBTeVc5VEpMT09lZUNVejA3NDQxdW44WmszYUEyeHZJbXo1SGtWSUF2cUJxMXFLY3NVQV9IWVRSN0xMbllNQjNHTUhGX3EyRzJULUN3R3I4Umc?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1794707700,
+      "summary_kr": "LG전자, 테네시주에서 세탁가전 1,000만대 생산하며 북미 1위 확고히 BigGo Finance",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자 미국 테네시공장, 세탁가전 누적 생산량 1천만대 돌파, 북미 시장 리더십 견인 - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qMktaVGgwcGk2NEJ2LWx0dXpfcmdGTVlKYmJ6RmJYOHB0TEZmdjc0TXZlQ01zZVpzR2VDZzdzN0FBNldpWjktVlhZeDA2QkJFN3BadUplVjExVjktUlluYXc1b2s?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1794704485,
+      "summary_kr": "LG전자 미국 테네시공장, 세탁가전 누적 생산량 1,000만대 돌파하며 북미 시장 리더십 견인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "롯데하이마트, 삼성 라이온즈 챔피언십 가전제품 할인, 14개 모델 12만원 추가 할인 - 아시아경제",
+      "media": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXdUdTeC05Rk5hX1pjZFVVSUVSdEJrR2p4ZXM5dGlIRDVpNnZUNGlVNWhvU3ZvM0h2NUpCbTFHUGRsOEN1Sk1YS1A4VFlsYUg1S3dxUWtTT0N5bHU0TS1WX2dBUkM?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1794690000,
+      "summary_kr": "롯데하이마트, 삼성라이온스 챔피언십 가전제품 할인, 14개 모델 12만원 추가 할인  아시아경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 아프리카 소비자를 위한 스마트 홈 혁신으로 일상생활 재정의 - New National Star",
+      "media": "New National Star",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGpPZzBoVnJ4Z0lFY2NEUlY0XzRDUWt1NzUxckFrZ1VZMWZNOFI5NnhtMFItOG5BbFhVSFRyVDZYSVZwcHc4N2RGaWxtd0l1OFpMNDlJWUtEUW5zeVFKNkNGWTRsdmhPR0NtdjdOTXFwb09TcXVVYkNTWEtHM0JuSWNEU3loUlhmWnQyLWVFZU5USWlWMHFnSjNvakFhS2pNajRhb2JDNmtYUDFLSGFDTmt6MGd6SWxYSVZIVGt3?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1794679454,
+      "summary_kr": "LG전자, 아프리카 소비자를 위한 스마트한 홈 혁신으로 일상생활 재정의 뉴 내셔널 스타",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk",
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "리뷰어에 따르면 이 1,000달러짜리 다이슨 로봇 진공청소기는 '흠집 없는' 바닥을 제공합니다. 판매 가격은 300달러 미만입니다.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/other/this-1000-dyson-robot-vacuum-delivers-spotless-floors-according-to-reviewers-it-s-on-sale-for-less-than-300/ar-AA2gWJ3T",
+      "time": "19h ago",
+      "pub_ts": 1794676740,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "One UI 9.5의 맞춤형 위젯이 AI 기반 연락 허브로 바뀔 수 있다 - SammyGuru",
+      "media": "SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kMXF2NXl5S3JHdzV6Znl3M0dzR2JWbGhYbmRwQkk4ZmRteU5YSmdrdk9mYnJfYmZoWlQ0OTdfVDFHZlAwTXZNeVQ3eHdDMW1VcWdfQUZfLXNhbG9BbHVUUjlkQkJSYkZIR3JoczR2SDFEQQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1794676440,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Frigidaire의 복고풍 스타일 냉장고는 작은 공간에 적합합니다. - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSndzNVBLaHA4TkRoeVN2aHY5VDBFVFVaMXhEQ3VCTmJhc3ExTFJpclNmQVo5c1JWTEt5THZlMFZNOFpndEtnWEdrUDMtNmN2ZnktTFBaaUFlVGdxMWhJOGRKMFgzX0dBb0xVS3Z6LU9OSVh6ZjNzb0NNVGNNc2EyTGRQWUZLU3BUWkJwaEFqc2VJZmdULUEya1pRcjBxbnFPRlh4ajFad3pXSVBWVU5KNFlJWFhDQQ?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1794660300,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "소비자들은 10년 안에 수명을 다할 이 고급 가전제품에 속지 말라고 말합니다 - 기본 제품 구매 - 시식 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVlNQUlDcmt0VzBjU21RTEFySlVqeDFnZXhUQ1lWWVN4TmUzNmJ4Q3ZMODBWZ1BRbEFjM0lQRUEzRTAxcGU2S0ZGaFIzeVV3S0xuTm0tbzJCUWlzUnFwdFh6UmJ5bDRCMkJUbWt1SWozUFB3OVNsYThpdkg2d0U0bGdyT3BzQ2wyTjlhc3M0RU4?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1794659400,
+      "summary_kr": "소비자들은 10년 안에 사라질 고급 가전제품에 속지 말라고 말합니다. 기본 시음 테이블을 구입하세요",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
