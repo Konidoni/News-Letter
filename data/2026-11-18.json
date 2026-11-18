@@ -1,0 +1,271 @@
+{
+  "date": "2026-11-18",
+  "date_display": "2026년 11월 18일",
+  "generated_at": "2026-11-18T22:35:09.880006+09:00",
+  "generated_at_display": "2026.11.18 22:35 KST",
+  "category_counts": {
+    "Technology Trend": 5,
+    "Samsung DA": 1,
+    "Samsung Bespoke": 2,
+    "Competitor Analysis": 2,
+    "Market Dynamics": 7
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 17건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 2건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 8건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: LG전자, 아프리카 커넥티드 리빙 성장 동력으로 스마트 가전제품 선정 - 매일경제. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 2건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 2건 수집. 주요 동향: '엄청난 시간 절약': 2-in-1 진공 슬래시 - News.com.au. 시장 전반 기사 7건, 기술 트렌드 5건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Technology Trend",
+      "title": "LG전자, 아프리카 커넥티드 리빙 성장 동력으로 스마트 가전제품 선정 - 매일경제",
+      "media": "DAILY TIMES Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWktMaG1Bak1tMFBQRzBuWkxiQUlkeGluRmhWdHRLR3ZNeVRrbkYyNlN4bDZiSndPY3pVN2VidEw3cmZCTVJQY3hVX3dMVndlSkRPeXcydHhxNDlPWkdkVFdLZU5wZ1JSblNBUWVlX1FwNV9ZZUhMc2RyaXdESUxOSzY3ZnYxRWRrRTNMYVFmN0ZDNXBiYmM0WTlZRmJ2M3poekw4VXpSelk0bXZZNk01akh6R1JYZw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1795001883,
+      "summary_kr": "LG전자, 아프리카 커넥티드 리빙 성장 동력으로 스마트 가전제품 포지셔닝",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성 블랙 프라이데이 딜 2026: 최신 제안은 무엇입니까? - 삼성닷컴",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlBERjNHUVZrR2xnZlhudDIzaGxrYkpWczhxaVpMdkQydlVaYXVmMzI5dGNHRV8yZkJSYkc3RlF6Zm1fTTRvR1pEOGdZZnJrNkFWTE5CNllNcm9KZ2dERnU3VkxrdU0tZ3pyNmhqcXRvUENLUGtRX05rT1k0aTdjMEd6Ykt3Q25zSWRSdWpZWQ?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1794989479,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Xiaomi, 4가지 새로운 가전제품으로 스마트 홈 라인업 확장 - GadgetMatch",
+      "media": "GadgetMatch",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdGdMSVM5RUs4dDlFWUNLb3ZlRElXU29MNEtrbW54S2hQVzdGTzlMaFBQM0NvOGhwcnl6TnQ5MEhqeTRnc09lQVo1NjBrTDNjLV9RTFJ3bUFPeU9EY3JHMG11cHU0LWU3X25NWDBrSW9OMk4wRDg4bHNjV3RYcHU0SnlTNmpNdlRRMG9nbmo3Mk4?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1794987974,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "샤오미(Xiaomi), 글로벌 시장을 위한 최신 스마트 가전제품 공개 - Unbox PH",
+      "media": "Unbox PH",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HLWFfcnZhNmVYZjkzOThlLWtvLU1fRnRmMGhEcXlMR0NCZFowTzR2Wk5pOFZFd1hzQk1jajQ1UWFmbWRjOVlvU2V4QlRxQ0lmYjc0NGZpMllhamd6cDU4S2liM1duT0RQYnlWTVM2TlQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1794986415,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Galaxy AI 유료 구독으로 더 많은 간략한 맞춤형 카드 제공 가능: 보고서 - Gadgets 360",
+      "media": "Gadgets 360",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk5HSUhvVG14Mm5sMkJhR3dmMUtqRmF5X0ZwaFQ3dXVIT1RJZW95TUZiU2hGMHMzWHdTWk1LN1R5OXRjQ1pnUk5mV3FmVGhyZ2V2Z2lyQ19wdENYQ2pESk1mTk12N2N0VGxyd0M1Vk9nbzhWZkZLUUh6S2s1Rk9QWjF2a09GeV80SHlkODEtaXVnMkExS19BY09uczBuXzdLTmlLTmNXR2pJMUxoU1Bmek9wZE15WkXSAbwBQVVfeXFMTVpOM1k5T29na2hNa29tOHA1U1FHWkdfZWVrY1lRaGFIQ3lwNFBoSDZWVEQySEZ0ekl4UW4wT2R0VTlJZXQtZnpLTVl4RW5IaEdaMkZERF9mczRlSVI4am14Z3NZaXJLMkNlUU5rMVFfZmtablFXNm10X2hmOHVMb3FIRmRXdXFZV0haV0RfdnBNbXdNREdNYlVnQXI4bi1TbWlYM3d5SnhET3UxLXlZTEJ1WDE0bmZoaFBqODM?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1794986390,
+      "summary_kr": "Samsung Galaxy AI 유료 구독은 더 많은 간략한 맞춤형 카드를 제공할 수 있습니다: 보고서  Gadgets 360",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "'엄청난 시간 절약': 2-in-1 진공 슬래시 - News.com.au",
+      "media": "News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeTFfUzdWX0QzM1BoZERITE1jbThyVThvcG1kRDNkOHNEekJIQjJZWGNEalZBZExwYWp5ZGwwU2wwenpHcUxQeTlmMWl6bGhtUVRjaEJtSG0wVHpqckhyR0VmTDFqa2czaGdxRmJCLUxvOWZfM19MLVp0QmpVWkx3SlJScGZEZkt1eHdiS19vTHBCQV9jcHVNRDJRcjhlTzhZdUJlQ3g2Wjd6NHNKRFpFQW5IMkR5NHpVU1EzNDZrQ3JKbW9mR3JYb05NRWJaM3AtTmfSAdcBQVVfeXFMUExrN0JHXzNydDZwNlBCSVAwSmc0UC0xdVlSaW1vdk9seGdIMmlQQWV4RVVJcGFCTlhaZG5RRUh0N3ZnMEhEd19UZ2tIX0FpSjJ1Y1lxUTFnekxQWDBjRlYyU2hVdTRvc1JFWWU5RWZwNmZMRFlEeE9VNUFDRU4xalc5ZHBnNWgzXzFlb09yVkdKcWVCcjAzT3Ewa3J1YkVEZlJzYlJjSVg5YjFBNTBaajNWbU55ekdfRm50RFpoYWUxczc3UXVnWmJoeGNFcjJXeHVlcXU5REk?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1794985828,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "추수감사절 전에 오븐을 청소하시나요? 전문가들은 이 실수로 인해 오븐이 작동하지 않을 수도 있다고 말합니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWxieFN3TkNvcGVoUE10aVNBa3ZRUjZyVlNHSk5UTU9HTjVOcFFsRkktR3RUdHNYQ2pELVkzYnowQW15eHMtbU5pUXpBdW85ajhvU042Z3gyMExmQmk5REFNdG53M3RPVVJ4U0cyU3BMYWdFZms5RjRTR0FLcEpoV3dGcG40bjdJS3VQLUlhS3RPOFBsa3A3bHZSNVNXNFZIVWUzTVhSMEg0eEdzeEYtWnpMSVM?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1794974400,
+      "summary_kr": "추수감사절 전에 오븐을 청소하시나요? 전문가들은 이 실수로 인해 오븐이 작동하지 않을 수도 있다고 말합니다. Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Costco 웹사이트의 최고의 소형 가전제품 중 하나가 유용한 요리 업그레이드를 제공합니다 - Mashed",
+      "media": "Mashed",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmlxeWdzQkg1Rms1NEtxRng4LWtYeW5tSUx3WXFqVmpkS0pSRW52cURjRVA0djRPMHFxRnVyNUpYZWVsNXRfbkpmQ0hxa3NuajlYV3drcmZoeTh1MXp4MExKeUd1b3VQaGVaWjQxa3RneDBGMkVUTTlGOUNaOEZXbmFTM244R1I0czR4Vm03amVoSE1aUmRQZlhiazQ?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1794970980,
+      "summary_kr": "코스트코 웹사이트의 최고의 소형 가전제품 중 하나가 유용한 요리 업그레이드를 제공합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 고급 주택을 위한 최고의 야외 조리 기기 - PA의 양조장",
+      "media": "Breweries in PA",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ1R2LXhPaFB5OGg5QllpMS1Cdm5Ebm1yRkhHVGFwSFB3YWItXzVMc2h4MjcySVNEdDdoRWVvM0hDSVFGY3FVdzhNZWxQLVlZdUNtcEVsSmpMam9yU3dYLU5YdlltS0F3NVdsLUpyMGRVTW1lWExRTk5FQUlRZ1dMWF9FRUVZd25wYmc?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1794964431,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Xiaomi Mijia 스마트 가전 출시: 가격 및 사양 - PaidFreeDroid",
+      "media": "PaidFreeDroid",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc0QxYnh6MDctbkJQVmhPTHZPdXZ5Vmk4WnU5YjZkallfbmNxaWJMSDY5YUFCNDNxd2R5WHJDMURpTzFIWDBLZ3hLYjBMdVJrbXljMkxtTnVNWDBKWGMwd0RPb2RabDdnZEdjbGlnQmNhQ1lvT2tTVWpjbWZKbllUYXBhaWZJWlI4TXZqNWpPaktScHczLUlCaHFfUkNSM3cx?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1794956694,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Frigidaire의 900달러짜리 복고풍 냉장고가 Walmart에서 438달러로 추락 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdDdOTUU2czdRU25IRXRwbE5hYUs0b2w1M01vZFZNRnZTZDlVQjlVcE1WSnR5dzgtYXlEWnFvOTd2UkVsNV9ZRzNkZ0VxOEVHU2Zac3BfbHY2ZWp0NGFMd1BuMkpMaFprNDZPSzY5LWJsNkRTRzQzWHY0b3gxaVpyWHBybVVlMTBfUEpwRmJDUHR3UW85VkJ1S1VOVTVxT0JjZk5peG84Z0VtZw?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1794951028,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "Xiaomi, Phl에서 스마트 홈 라인업 확장 - Daily Tribune",
+      "media": "Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JQzhQLWNJd1g5dG1td0toT0YzeHNzMkwzWUcyeGtKUVFUcUFON1djdTJTRkVCQnF5QkVVZVZXVmZVZUlkTTYwTm9RWWM4TWl6UEg0VXpLWFY4U1dWNFB5M21ZRFFKSW9iNVRXdkUzUXRQSjgyZGxKczd1WG1fZw?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1794944868,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Galaxy AI Premium, 이제 더 많은 간략한 맞춤형 카드 잠금 해제 가능 - SammyGuru",
+      "media": "SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM1FPd1RsUGlzN2VWUTVHNmwtM1J6RlpOSTRkc3Y0Ql9ROXJPZmZVRndfX212NmI5Yl9sdmp0Tk5vYjRwaGhNUkxvdkVROEJramFZN3BQX1B2OFlBdGg3Y1dCVG1nenZuX0haa2lxWWhHRm5ZZVZrV2dUb0tMQlJyc2pR?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1794943906,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "이집트, 20개국 이상 수출 목표로 7천만 달러 규모의 하이얼 냉장고 공장 설립 - 시장 및 기업 - 비즈니스 - Ahram Online",
+      "media": "Ahram Online",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45R094MHBCT05sNUs5bWdzZURpd1B1OXdqYnVMc2pMdG1BdVBnZmotdUUzbGVpeFdFRnhQR3FndXNPQ25pMFk1NlJJRkh6d1Y1T1EtZnItQTY?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1794937340,
+      "summary_kr": "이집트, 20개국 이상 수출 목표로 7천만 달러 규모의 하이얼 냉장고 공장 설립 - 시장 및 기업 - 비즈니스  Ahram Online",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Walmart Black Friday 거래에는 Drew Barrymore의 세련된 주방 가전 제품 라인에 대한 대폭 할인이 포함됩니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYXBaMFd4cWVzUzBCYVNiUG53NGdWNXNNeUR2WXptUzhvZFZLQ0x4OUhjUVlmS0NwcUpXU1NTLVliUzRacVE5V1MxX2tBckljUl8yMk5ZZ0hSQlF5MEFtcmNyS21QOFNldW93cndHZkxaVU14WDJBd3JXN2JXN29yb3ZPdVJnd0hJWHNxSjdlLWtUcXZaeGM4T2FQbXVMWmVFcWlYdmFCZFFIR19hN0ZTZ0dHRUFQOENIY1RqQVlCYm9pMzhVcHV6dHl5OE56S21YeHZqMmhiRk5mMTlqX0dnODhTU3dvOWdkTkRxZVcyUllJR1JBZVlkN3hiaw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1794932941,
+      "summary_kr": "Walmart Black Friday 거래에는 Drew Barrymore의 세련된 주방 가전제품 라인에 대한 대폭 할인이 포함됩니다.  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "가전제품 회사 BlueStar가 선정한 주방 디자인 수상작 - 주방 및 욕실 디자인 뉴스",
+      "media": "Kitchen & Bath Design News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43RFRjMW9QXzhVQkFoeFlHcVlueU5WTGNQbkZsSWYtaW04M3hGSlNaRElqM1dYNG5uVW5fZDV5aWF3VWlsYk5UbkJUemg0UFpYUl9jUmMxek5DcllfSERBUzBjVW5LLVBSaUExLVJIRlhEWlVPNzJST0NwSGNkdnc?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1794925438,
+      "summary_kr": "가전업체 BlueStar가 선정한 주방 디자인 수상작 주방 및 욕실 디자인 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "야후 키친 어워드 2026 - 야후",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPczVnZWM0T1dndjBfXy03aGdfNVVyVlVPR05UTEg1bjNkdktXc09UNFh2OGJIY3JIRFVMRnBSRDBjeWxzZm1ZaGFKX0hSMWJVX2tvUGVJWm9JbE44eE94WkNXWGMxNXlHc2h2dzlVaGF3WFI0RmNGNmRYQXdZUDlBX3ZuZEVKN1lBTzIySFhKSVlwSTJwUmxMMDJTaTM?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1794924000,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
