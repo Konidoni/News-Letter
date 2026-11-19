@@ -1,0 +1,515 @@
+{
+  "date": "2026-11-19",
+  "date_display": "2026년 11월 19일",
+  "generated_at": "2026-11-19T23:01:18.919670+09:00",
+  "generated_at_display": "2026.11.19 23:01 KST",
+  "category_counts": {
+    "Market Dynamics": 12,
+    "Samsung Bespoke": 5,
+    "Samsung DA": 4,
+    "Technology Trend": 3,
+    "Competitor Analysis": 10
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 5건 감지",
+      "desc": "오늘 수집된 34건 중 5건이 리스크 신호를 포함합니다. 주요 이슈: 새 삼성 냉장고, 베이스 다리 결함: 삼성이 기술자 배정 실패로 고객이 4일을 기다림 - NewsX. 경쟁사 동향 10건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 8건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: 새로운 120V 배터리 프리 인덕션 레인지, 이제 UL 858 표준 인증 - The Detroit News. 삼성 Bespoke 5건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 10건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 10건 수집. 주요 동향: LG전자, 백승태·이상우 사장 승진…미래사업 역량 강화 - 파이낸셜뉴스. 시장 전반 기사 12건, 기술 트렌드 3건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 최고의 주방 가전 블랙 프라이데이 특가 - 신뢰할 수 있는 리뷰",
+      "media": "Trusted Reviews",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb2JyWU1ZNmRrTTBSN00tYXA1MnM4bktpRDdWSjFiR3FhQjA5NEFxYldxWmd2MkJrV3JzUVNEbzBCLUpieGx1YzNMNFhsVnVScF9CTm9SdHVma0hVbm1ZQ0dQNUZlU3RzekxQT3pWekFnZFNTcHFNWG5pekw5YmpldUJKS3FLZXpUcjVpd1V3?oc=5",
+      "time": "Just now",
+      "pub_ts": 1795095794,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "새로운 120V 배터리 프리 인덕션 레인지, 이제 UL 858 표준 인증 - The Detroit News",
+      "media": "The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdF9zNGNrTWRXOWNLOUh1WGxrb1hEeTJlUDBOYVg4NW1nY1lCY2lkU2oyQ0dJdmdhbk9vUU90VGpUSFVWME1obWZVTm5uRnBiNXBidkFsdThKSVJNOHoyUFZ5N2cyQU15b0pQT3YybEFDRFNOVXlTSERKOVVyeEtfLWh6ei1JUHJ5dTZjMEsyYnFhUUlLVDdVUHRMNGdOZVQ3c3RtODR5ZzY1b3BqQUpYLU1MMzJBUDJpdWRLWm5DbzVrY29fLXc?oc=5",
+      "time": "Just now",
+      "pub_ts": 1795095123,
+      "summary_kr": "새로운 120V 배터리 프리 인덕션 레인지, 이제 UL 858 표준 인증 디트로이트 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "세련된 마감과 대용량 저장 공간의 균형을 맞춘 삼성 맞춤형 AI 냉장고 5종 - Herzindagi",
+      "media": "Herzindagi",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONTJWN211N0dHZ0hEUnJXUGNLUElwMlZGMGYyNXFWS3c5cWlnUk9wcHhmMm4tTjAwRkllY3ZTRl9BdU03eXFaUFBRb1BwX0c0cGJXMEpXdFJndTRyaUlaclM4NDFJU0VGQTNGM0Fnekxqa0ZlUlhmTmtYUTVGMG1xcDlIS2xCQ0xRb2UzakF5b21wY3hzLUFIR29tWGpocGV2Z25fRE52VU53YmU3VUtrbERkRzJKWGhSS0szRXZXTkszU0lLa3pfUGtRVThtUkJkTHRlcUxra3h6NXA0Q1QxSG9OSdIB6gFBVV95cUxOTHFKdWFwU2RPdDItOU5aRlRBNGJzQUhVY0RENWZ1UXVkMUFGbzZZc2czQXdIcnF5Yjh1YWFXdVhLTG1ZVExhWlo4RUhYcHpqX2VicHdiSnd2RlQ1TmYwYS1BYVVqMHNLMTdFUDkxYXFGb203WGg5MjJYRUVYclVLaU5zd1hhY01ZbGYxcU5vRTNJbmg5T1RlN084MHlpd3FGZFpaMGF6UzR0bkVISTRQcTJLRDZPYVV5MHI2SzZURHFFS3RBRm5XLXlHOGdKQVY0cy1acE5ob3NyZmZ0b29jbXhsVTE4cExiMUE?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1795089900,
+      "summary_kr": "세련된 마감과 대용량 저장 공간의 균형을 맞춘 삼성 맞춤형 AI 냉장고 5종 Herzindagi",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "새 삼성 냉장고, 베이스 다리 결함: 삼성이 기술자 배정 실패로 고객이 4일을 기다림 - NewsX",
+      "media": "NewsX",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVDBVZFJRVWkzbmN3TXpqQjJObEpkR0RKTUE4cTJZMXllNDlFaGJVMW40WGk5SGh5a1hNbXEyalFFWlA3dzNNMERrdDAtVjZ6R2wxNTBhaVNCQ0YwNHpkRjZ4d21LMWYtX1BYUjdOb1gxdzBWa3hWRHVtQmV2Y3FTZEt0SFBIZUtJUzF1cHA0YVZkUmstMUhXdWZfbmFya0k5dWlaTDI2YXJ6aVNiemtYQVo0LXBLd1c5aE01eF9WcmViX3BXUVdNc0RPVWx5d2NhM2ZSVXo3OTVWR2FFaXN5Q1pDcUJfbzA30gHuAUFVX3lxTE41bzRscHVVY1ZqZmhwVnJiT2o4WGFtNldzZ2V3bEhjeUJmSktIUExIVFRzRVR3VUVVSUIxSHQ2cHBfc05ieVIxUGoyTk5Db1BQMm1KOE1LNmNqZHdGenQ2SC1ZMEJ3S01WbVN6MHRscnJNU1Q1clVWdk5ldjRpU2V5V19VdWdNNWpPRGplT2VLY1N2SWo5X05VMnJ3NVR1eExrOXZHVDJFMEU4c2drN0E2SFpqWDAtWmFkZlZTSFVQUFgxM2cwU0ZrY2sxRmc2WVRKLTVIOUNGTEtyUk9jMWtVWC11WDhZY0I1NXB4QUE?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1795084834,
+      "summary_kr": "새 삼성 냉장고, 베이스 다리 결함: 삼성이 기술자 배정 실패로 고객이 4일을 기다림 NewsX",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "LG전자, 아프리카 소비자를 위해 더욱 스마트한 홈 혁신으로 일상생활을 재정의하다 - Pulse Nigeria",
+      "media": "Pulse Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdWY4MXU0bDRVZFNHb2ZMVGQ1UzZRM1JlNGZuc01ubWdoTXhQQ0xiRHN5T2tJSDNqWHEwY19sMEc3WkRUYnh5MkwtNXFrM3NNTklOTlhYUVhvQm4tVUtVTUtXMjQxZkNJcUhDU29mMlhwRTFRZVFvb05pdkhUZ255d0c5eC1QdXNmYU1NVXROc3NWRkQ3TkE?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1795082604,
+      "summary_kr": "LG전자, 아프리카 소비자를 위해 더욱 스마트한 홈 혁신으로 일상생활을 재정의하다",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "블랙 프라이데이 쇼핑객들은 장기적인 가치를 제공하는 거래를 원하지만, 연구 기기 운영 비용은 10분의 1에 불과합니다. - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY0NhLUg0QVRQdkdBNGVKQ0VrdkFaSUlxbFh5TUpTa2RjUGUxdUN1bm1UazlmVl82VnRCYVdhVkhPTV9JZzN1ZFk0VlYtMGgzcXNLLTZzb1JyYldnWWlZMjVoeF9IUXFMMk90eGFXeVM4UVlGdklpNzdreUJaVmtkOXdFczZnT3QzNkZKWGFWbER3MVM4dzk0RE5CcnNXY241d2cwUGJ6SkpiMjREZGxMVXJmZ1JEVkVpZm1jNnNEbWEyUGZqd0Z6R01xcS1DMVdSZXczb29KcEE4RFdDNkg0d2lR?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1795081684,
+      "summary_kr": "블랙 프라이데이 쇼핑객은 장기적인 가치를 제공하는 거래를 원하지만 조사 기기 운영 비용은 10분의 1에 불과합니다.  samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "아마존에서 돈 가치가 있는 81가지 주방 상품을 찾았습니다 - Popular Science",
+      "media": "Popular Science",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wNjhkUFNhY3pWN2dWdjM0djdsVUNNaDIyMmE0R2xibWR6aGNUN0tCazhEUW9rc19oRWw5cnlZSlJMR0k4NVpDU0tBUXhGWURsTHJ1Qk4xVFVHUlItNU83Y0doMGZPMUZ3WEV4OHJJczZIOVpjSnc?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1795077600,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "“삼성·LG 사려니 깜놀”…중국 TCL, 98인치 TV 쿠폰으로 200만원대 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Nd0tfT2V4TVFUQkJCUjVwMFc0VHJCLVAyTjVyaWg2bF9SUFd6cEVNa3FFNGRoODhkZnhKSnhyVVVyUDltUWhNMzExVThtRVZQZlBn?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1795076285,
+      "summary_kr": "“삼성·LG 사려니 깜놀”…중국 TCL, 쿠폰으로 98인치 TV 200만원대 매일경제",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 백승태·이상우 사장 승진…미래사업 역량 강화 - 파이낸셜뉴스",
+      "media": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKbGU5MFRRMmgxc290SGpwbEdhZG9MSEt6M3lWRGJCODBwODdKUXdyUmhrQnRMa1RqSU4xajU2U2FRVUU2SXBwaGVhUTNxZjcwdjhGX25SLWY?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1795072587,
+      "summary_kr": "LG전자, 백승태·이상우 사장 승진, 미래사업 역량 강화 파이낸셜뉴스",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "휴일 호스팅을 위해 조리대를 치우고 있는데 이 세 가지 가전제품은 그대로 남아 있습니다. - Tom's Guide",
+      "media": "Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdHhqX19jMTFrRHlTOFJheXcteDFnenlaemNUSUVsWTZ2bHRJOEZZT1I3eVhQSGNmUjhRSnVTSlp0bUZfZUZWN05OWnp2c3JpNWd6UFdodEVPTFVlR2YwclNXSWNib0VBR3RHOG92MEt0M1lNY3BIOUVzWURHSC0wdFhaQTFpVUlFUkFmbUk3YmpaS3gtVm9UaEJVWk5LYk9YVlMwYm1IVFdUaXJoa1g5VTRkbkVOanFCdVFEUGNBX1M5dDRDOGxFWS1NMA?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1795072500,
+      "summary_kr": "휴일 호스팅을 위해 조리대를 치우고 있는데 이 세 가지 가전제품은 그대로 유지됩니다.  톰의 가이드",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "'엄청난 시간 절약': 2-in-1 진공 슬래시 - News.com.au",
+      "media": "News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeTFfUzdWX0QzM1BoZERITE1jbThyVThvcG1kRDNkOHNEekJIQjJZWGNEalZBZExwYWp5ZGwwU2wwenpHcUxQeTlmMWl6bGhtUVRjaEJtSG0wVHpqckhyR0VmTDFqa2czaGdxRmJCLUxvOWZfM19MLVp0QmpVWkx3SlJScGZEZkt1eHdiS19vTHBCQV9jcHVNRDJRcjhlTzhZdUJlQ3g2Wjd6NHNKRFpFQW5IMkR5NHpVU1EzNDZrQ3JKbW9mR3JYb05NRWJaM3AtTmfSAdcBQVVfeXFMUExrN0JHXzNydDZwNlBCSVAwSmc0UC0xdVlSaW1vdk9seGdIMmlQQWV4RVVJcGFCTlhaZG5RRUh0N3ZnMEhEd19UZ2tIX0FpSjJ1Y1lxUTFnekxQWDBjRlYyU2hVdTRvc1JFWWU5RWZwNmZMRFlEeE9VNUFDRU4xalc5ZHBnNWgzXzFlb09yVkdKcWVCcjAzT3Ewa3J1YkVEZlJzYlJjSVg5YjFBNTBaajNWbU55ekdfRm50RFpoYWUxczc3UXVnWmJoeGNFcjJXeHVlcXU5REk?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1795070197,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "48년간의 혁신: Kuvings, Kitchen-Fit AUTO10 SQUARE™ Plus 출시 - EIN 뉴스",
+      "media": "EIN News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWdVb1ItUFpoT3FLMHlDVnhyazBfUU5pX1NHNE84LTVaelcydlVFdG5LWWpyREU1c1NfRHFqcVpyRE5ZTWJONHJyRXJtU1pQZjd1N1phWHF1dTMwY21tSzBZVUFabTRqVGE3Ui1TYXhrVTcydXkzcXN3dkltbk9iTzlEaTJqZWdLRHlnblZBNEo1NHpiVHVTQVF0Y3N3cndrMXJnandXaFdBaFVMSTJRc2ZEU2ZmaVh6NWNEdGEzc3duWXFpVlQ4?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1795069140,
+      "summary_kr": "48년간의 제작 혁신: Kuvings, Kitchen-Fit AUTO10 SQUARE™ Plus  EIN 출시",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "인도 최고의 삼성 냉장고: 맞춤형 AI 프렌치 도어에서 나란히 놓을 수 있는 냉장고 옵션 선택 - The Times of India",
+      "media": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQbjFrU1lXYW1XM2l2ejJrV1pudnhEdTd3QV9BWmRpWXlfT2hQQkxrVzMxNEVoRDFia3RxdE9laUdDTEVib0p1akg1NEgtWGNEcTRjSU1GNXlLaWFuWUVPR0hDdVlmSlFOaFlhT3NJc09JOFJOb1g0em45cFN0MzEyUGVVQjNqNTBDUTgtRklOem1qOVJ5c1Z0QjJxZVl1YnhaYW1EcTdjcmRTOVY3R05JQWhtYW1uNE8zSlN5MGhKbHI3VlYzSm9WdHFDdlRub1hnVmxEaVB2Q2pRUE53UGxMS0FweFRZd3p3X0FJU29KbGtVWHo4TjROQldsLWNHaW41bVFXREpOWmFjbzZIS0ZGeXRrYzI2aGdGUWo4SVBrWdIBpAJBVV95cUxPS3BMUlQ0ZkZYQlZpUVQ0eUFEemJmSzdLUHVWNFA3NmJZOHNfU1ZsSFBBbWRWaXhWY0g0V1ZlLU1md0tNdEg5ZUJ1VVVsU2pmZTJGa2tmcFNIeGUzMjQtVDFOa0lldzhsbXJZbGVvelREckt4TXdPUU5hTXBOT2R2SWhXMVVWNGhjM1hWVXhBOUNodVZlN3NHQkY2NzAxUkwwYzhRV0VsVE9WaVVDXzdHRmhCdTR4MzVlMFRxSkZMVmZmbWlIV25LUTRsNTBnczZ3c1RBamU3VzBweDVtWEhWeVpLUmxReWRJelVleGM2MnpEUGxocGx4TEhUX25DdHlHc1lFNExnMl9oOGwtZW1GUXAta0p5ZHRJRmhhNVdTbWdGczhl?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1795065780,
+      "summary_kr": "인도 최고의 삼성 냉장고: 맞춤형 AI 프렌치 도어에서 나란히 놓을 수 있는 냉장고 옵션 선택 가능 The Times of India",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성의 26kg Bespoke AI 콤보가 세탁기와 건조기를 대체하고 싶어합니다.",
+      "media": "Bing News",
+      "url": "https://www.absolutegeeks.com/tech-news/samsungs-26kg-bespoke-ai-combo-wants-to-replace-your-washer-and-dryer/",
+      "time": "9h ago",
+      "pub_ts": 1795064040,
+      "summary_kr": "UAE 가정을 위한 삼성의 최신 세탁기는 단일 기계로 한 번의 연속 사이클로 최대 26kg의 세탁과 최대 20kg의 건조가 가능하므로",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 경영개편 발표",
+      "media": "Bing News",
+      "url": "https://www.marketscreener.com/news/lg-electronics-announces-management-changes-ce785ed2db8bf725",
+      "time": "9h ago",
+      "pub_ts": 1795063980,
+      "summary_kr": "LG전자는 미래 사업 성장을 가속화하기 위해 2027년 조직 개편과 임원 인사를 발표했다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "최고의 삼성 세탁기: 탑로드, 프런트로드 및 맞춤형 AI 세탁 콤보",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-in/news/other/best-samsung-washing-machine-top-load-front-load-and-bespoke-ai-laundry-combo/ar-AA2hMvi8",
+      "time": "9h ago",
+      "pub_ts": 1795063920,
+      "summary_kr": "삼성전자가 AI 기술을 활용하고 에너지 절약 기능을 제공하는 인상적인 세탁기 라인업을 출시했습니다. 8kg 이상의 용량",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG, CEO 유지, 젊은 AI/R&D 인재 승진 35% 강화",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-xl/news/other/lg-retains-ceos-boosts-young-air-d-talent-promotions-35/ar-AA2hLwYH",
+      "time": "10h ago",
+      "pub_ts": 1795059302,
+      "summary_kr": "LG그룹은 11월 19일 주요 계열사 최고경영자(CEO)는 유임하고 젊은 인재를 육성하는 정기 임원 인사를 발표했다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "글래스고 부부가 휘발유를 뿌린 이유는 무엇입니까? - 메리 수",
+      "media": "The Mary Sue",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNzFRYmZMTTV4dWZ0LVduUGtwY1pmcDRKWWgyaE1KTUM3MGlLaFBfamdaaDc5aTdJN09QM1B3bGNISGpTZ3NDeGkzekV2ZFhqME9Xak5zRXl3VUFyb2ZkeExLdGFsdjY1T3hVeFRHdWNJNmNXMi1UNmQxMGQ3eFpYZllINUEzZk9Zc2R4VWY5MUl1cGtJZGxodHRUWmQ5OTBoZEIxZ0txclhhdUtaNjVyLS1yUnBfR2FsRDF0WWlXMXRjV2daRlcxRWVoZDdOU2Q5U2FwN3Z2UFF0aFZac2dSZ2trdmVyV0F0LWlhQkVvSW4wTHVsRkF6QUFsUXhMNUE?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1795050000,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 2027년 조직개편 및 임원 인사 발표",
+      "media": "Bing News",
+      "url": "https://www.marketscreener.com/news/lg-electronics-announces-2027-organizational-changes-and-executive-appointments-ce785eddd089f224",
+      "time": "14h ago",
+      "pub_ts": 1795045980,
+      "summary_kr": "LG전자가 로봇, AI 데이터센터 냉각, 모빌리티, 스마트팩토리 등 미래사업 성장을 가속화하기 위해 조직개편을 진행한다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Haier 소유의 Fisher & Paykel, 호주 건물 부진으로 프리미엄 가전제품 타격으로 성장 압박에 직면 - ChannelNews.com.au",
+      "media": "ChannelNews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0xMMFBjcEtFUkhtMDNabXIxb3lrN2RfWHFpVTFhVmMtZkR5QVphMER6Z1JXRXFnQlRydGNKUjRJbkxpVnJOSWxjbjNld3J2XzNteEtDOVRNVk9kUG80N3NjSVBHSXFSZUhsWTg1dnVtU1Q2ZklTY3BCRHlwejQ2T3JkcUpTQ2lPQjdQeVRXbmp2X01kZXlmdWR5NnVFZFZKWHpLLWxiZ3JKZ2UtT2FsZmtZd0ZLTzRGNjl2b1BiZEJuU2FzT0ZJaEdkeUI?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1795042050,
+      "summary_kr": "하이얼 소유의 Fisher & Paykel, 호주 건물 부진으로 프리미엄 가전제품 타격으로 성장 압박에 직면ChannelNews.com.au",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Appliance Depot은 가전제품 배송 준비에 대한 지침을 공유합니다 - WBOC TV",
+      "media": "WBOC TV",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY2JNSWNEcS10S3YwempOVXgxZnRXMGU1a0dHWWZvOWFTdFNoTFBkMFBBUzhhWFU0SlAwaGFJc3ZEOWtQanJ6WlJsaHd0M1c4UnFBampVWWRmcG5yN093NEJjanVPSDNIdTgwY3RsMXhJdGItZFZ6MV9GNWJrMEYzZ1J2cDcwTEViYWVubVpyN3lDZ0FOMzVIWW9NQ2lDYlFhY3VqeHotNUpnVXh6eDNQSXVCQ3lPOXFkQkJpOHBXbXdVWkcxZHhmeW11RXB6c2hKYUFxZ3ZmeXI2VnBfU0NxMEs4M0wxRzNhVGhPQWpPZVpIZUZJOXBwYnhBcw?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1795040644,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Cove 인증 어플라이언스 수리로 관련 어플라이언스 서비스 확장 - WBOC TV",
+      "media": "WBOC TV",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOX3ZyaG9nV3NmSEpaOU9jU1YtaWY0UmxiQm9uZWJaUExBZFp0QU1uQ3pjVGg0OHdoQkhVbVBJb2h4dmdUR2M0eUR1VTFfR3dEM2FrM2VsSTZlbWVvWHJJQ2hOWk00R1Zzd1lRcjFUWVIySzZMaXBuc2ZRd3Z0NUlZVGJXUWcyZjV2eng1VmJIVWt6WE1ZWUFYSGRZclRNQXh5TEFMVTlkbktDX1cyUUZOVTFhMGNmdEM5VEdNWjJ3M0Q5Z2lJcjFnWmNON3JuNjVGbGxFbENuVVQ4YXJWVWFjQ2YxQm9vZUVhUmhRN3IyQ3EtUnJweWFnWUpEM3IxcnJSZXphRXd3?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1795039989,
+      "summary_kr": "Cove 인증 기기 수리로 관련 기기 서비스 확장  WBOC TV",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "우리 엄마는 이 다용도 주방 가전제품을 37년 동안 사용해 오셨는데 여전히 매력적이에요 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnl5ZUo0bS1LRnFFQzBuNk5qWkFPdGN0TzNaRzhmY2xnb3RBbFh2eFU3WTd3RUhhd3dOYXg4T2V3YWZtd3hMUkZRd2NheTYwYU1QdlJCSmhSOERDNl80dUhGemZkSVY0UjJRZnRFSloxSEd3SXY2Ui1UdzJKVzFYQWNTMDhrOGQ3bkdqeTNFRm5ZcEIySGJKX2l1ZzAtUk14VGxhbWdSWVBkQUU?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1795038300,
+      "summary_kr": "우리 엄마는 이 다용도 주방 가전제품을 37년 동안 사용해 오셨는데 여전히 매력적입니다. Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "한 가지 기술 팁: 슈퍼마켓 냉장고가 해킹당했습니다. 스마트 홈 장치가 안전한지 확인하세요",
+      "media": "Bing News",
+      "url": "https://apnews.com/article/cybersecurity-internet-smart-devices-93ce57ede6ee7f4e61d6f47b18bd9bcb",
+      "time": "17h ago",
+      "pub_ts": 1795035600,
+      "summary_kr": "유럽의 슈퍼마켓 냉장고가 미스터리한 사이버 공격을 받아 식품이 상하고 스마트 홈 기기에 대한 우려가 커지고 있습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "절대 동시에 작동하면 안 되는 5가지 가전제품 - 안전이 중요한 이유는 다음과 같습니다. - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGtuSFU5SkExZjBpQXAxZTBJYmhHbUNlVkh6SlJHTGxvQTJVWV83UnV5b1o0TGluNUVDU1FWWVhLamNFNUd3R2dkLW9YQm5KTlZwa1VoempaYTlnU2JJMUtHenNfcHhPWVNZVlZocjczRUxXOF9DRFZVam9WdVR0cm9YR2c2emJiWkRKa2x0azI2OWpVTVRXN2dDTnY5RkxZb1VMUlJPZGFMNE0?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1795035600,
+      "summary_kr": "절대 동시에 작동하면 안 되는 5가지 가전제품 - 안전이 중요한 이유는 다음과 같습니다. Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 2027년 임원 인사 44명 승진, 신임 TV·CFO 수장 임명",
+      "media": "Bing News",
+      "url": "https://biz.heraldcorp.com/article/10943048",
+      "time": "19h ago",
+      "pub_ts": 1795028340,
+      "summary_kr": "백승태 LG전자 생활가전사업부 부사장이 사장으로 승진했다. 이상우, 승격하다",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "risk",
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼, 방글라데시를 지역 제조 허브로 만드는 데 기여",
+      "media": "Bing News",
+      "url": "https://www.dhakatribune.com/business/425143/haier-to-contribute-in-making-bangladesh-a",
+      "time": "19h ago",
+      "pub_ts": 1795027320,
+      "summary_kr": "가전 ​​제품 제조에 종사하는 합작 회사인 Haier Bangladesh Limited는 현지 생산 확대 계획을 세우고 투자하고 있습니다.",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, 2nm를 사용하여 메타용 맞춤형 HBM4E 칩 제작 가능 - SammyGuru",
+      "media": "SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XZjJqZ2k3cHhXQVpNM082Qmh2LU5XU1pkVlZOeFVxRGVUclNmbHIzOTFWOWFSR3NaVEhiVjJlQXdfcFdKWWVwUzNOMFdsUk5KTHFubkF2cXB0cmRic3dmZDB3?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1795022267,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "바닷물, 경수, 주방: 샌디에고 북부 해안에서 가장 먼저 닳는 것 - Times of San Diego",
+      "media": "Times of San Diego",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGJHczJEbVJGQVhaZURCa3l3YlZlOVFMVDhuZ3JZN0hialRrX1ZVR0xuS1Bta1Fsenp6RWU3VjNBcXBKMlJQbDhJWUM2N0R3SllIWkVxVHRkNlJXYm5BVWR2MXRxZjE4d1g5Q0hLV09sZzhPT2lHQWdKMGRaSnJpN2JRMkdEUnhTbWVNQ3NDdzRJUFJ4aDZMZGJBVm85NHIzS0lHb29iOENySEo4RzFUSXVnSy1iMXZZQTF2N1ljMUlaZ0U2aXRRdTUyRTZiSDE0Z0VReFZ3?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1795021200,
+      "summary_kr": "짠 공기, 경수, 주방: 샌디에이고 노스 코스트에서 가장 먼저 닳는 것  Times of San Diego",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Drew Barrymore의 세련된 주방 가전 라인이 Walmart의 Black Friday Deals 이벤트 기간 동안 할인됩니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQTNqUndXOElnb2Y1ZDFHWUktSFB0X3JVTFZfbks1TlJVbEcybHBnMDA5UXBFV254b2MyVllqTXlhcU8zc01ZU255NzlwNy1mOExta3hFcnVwSzNTTTZfc2pvOUtMak5BTGNPdGpqMDVjcUdwOHIzaDY5a053ZVNERFk1MmF5Y3NXd29fRWV2dW56bHBGNC1SNjZTSW5ZczlnN3RTc2E2MkJ3c3NwVlZFdEZKSlBsZ1FTWWJ3SVdRT3c0STRhdG5WMUZxRXJuSjY3UVpZaGtuNS1Kd2xWcmZHU1YxVjlJLW40VS1lVm5NQXkxYWRxWUx2Wnd6UnVjUQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1795020743,
+      "summary_kr": "Drew Barrymore의 세련된 주방 가전 라인이 Walmart의 Black Friday Deals 이벤트 기간 동안 할인됩니다.  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼 이집트, 라마단 기간 10일에 산업단지 2단계 준공",
+      "media": "Bing News",
+      "url": "https://www.zawya.com/en/web-section/press-release/haier-egypt-inaugurates-the-second-phase-of-its-industrial-complex-in-10th-of-ramadan-city-2391277",
+      "time": "21h ago",
+      "pub_ts": 1795020660,
+      "summary_kr": "카이로: 이집트 총리 모스타파 마드불리(Mostafa Madbouly) 박사가 라마단 10일에 하이얼 이집트의 친환경 산업단지 명판을 공개했다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "가전제품 구매 시 피해야 할 비용이 많이 드는 실수",
+      "media": "Bing News",
+      "url": "https://www.which.co.uk/news/article/the-costly-mistake-to-avoid-when-buying-a-home-appliance-aYIQI5B7mMMj",
+      "time": "22h ago",
+      "pub_ts": 1795017660,
+      "summary_kr": "이제 '스마트'한 것은 기술뿐만이 아닙니다. 이제 많은 가전제품이 시간 제한이 있는 지원에 의존하고 있습니다. 중요한 업데이트가 없으면 몇 년 안에",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성 블랙 프라이데이 딜 2026: 최신 제안은 무엇입니까? - 삼성닷컴",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlBERjNHUVZrR2xnZlhudDIzaGxrYkpWczhxaVpMdkQydlVaYXVmMzI5dGNHRV8yZkJSYkc3RlF6Zm1fTTRvR1pEOGdZZnJrNkFWTE5CNllNcm9KZ2dERnU3VkxrdU0tZ3pyNmhqcXRvUENLUGtRX05rT1k0aTdjMEd6Ykt3Q25zSWRSdWpZWQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1795015905,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 아프리카 가정에 더욱 스마트하고 연결된 생활 제공 - BellaNaija",
+      "media": "BellaNaija",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OTkY2MTRzeEZkRFByZmlVUzVqM3RHNG1BZ29PdmgwaWY0MFpHS01zZkRjeU9nVHBFOV9ZV2FFekVJTjg2bmhMci1YdlY4VVdjbWtIdXFSaDMwQVBMN1dsN3dRS1Blc1VlRGNvbjNERmU4dVk?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1795014758,
+      "summary_kr": "LG전자, 아프리카 가정에 더욱 스마트하고 연결된 생활 제공 BellaNaija",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
