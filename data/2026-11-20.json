@@ -1,0 +1,427 @@
+{
+  "date": "2026-11-20",
+  "date_display": "2026년 11월 20일",
+  "generated_at": "2026-11-20T22:44:39.519510+09:00",
+  "generated_at_display": "2026.11.20 22:44 KST",
+  "category_counts": {
+    "Technology Trend": 3,
+    "Market Dynamics": 13,
+    "Samsung DA": 5,
+    "Competitor Analysis": 6,
+    "Samsung Bespoke": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 28건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: Walton, 겨울을 앞두고 스마트 간헐천, 주전자, 히터 출시 - Daily Times Of Bangladesh. 경쟁사 동향 6건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 8건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 8건이 감지됩니다. 주목 기사: Walton, 겨울을 앞두고 스마트 간헐천, 주전자, 히터 출시 - Daily Times Of Bangladesh. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 6건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 6건 수집. 주요 동향: LG전자, 이상우·백승태 사장 승진 - 전자부품 전문 미디어 디일렉. 시장 전반 기사 13건, 기술 트렌드 3건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Technology Trend",
+      "title": "스마트 홈 장치가 해커로부터 안전한지 확인하는 방법 - The Independent",
+      "media": "The Independent",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeWVEVGE0amhid0cydkdadDJiMzQ5NHpNdFUydXIxd2FFb0NjZTdsZEthdGtocWdUTjdDV1ZmNGY4b2pjeVB0MWsyOXVoR0twNWJUQ3Z2dmRDdlRMQlhYTEtQRThqXzMtTHJqZjMwSkpxTlQwZFp3YnppeWNaQUZlb1FUa2x5dHY3TDhhNTVOYy1oM00?oc=5",
+      "time": "Just now",
+      "pub_ts": 1795181040,
+      "summary_kr": "스마트 홈 기기가 해커로부터 안전한지 확인하는 방법  The Independent",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Magnifique 더치 오븐 멀티 쿠커, 에나멜 주철과 프로그램 가능 요리 결합 - stullyDOPE",
+      "media": "stupidDOPE",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbFdhY01sQXg5NWpqQ0s4NXpBeE8wMDJEb29Zcm1fdDgxSklZeDIzaDdDYldpNDBMc0lxTHR1YVB1Sl9RcHpOLTZxcFNIbUZRWWVqQXRXaFB4Y2N0NUNtYXlMSEhDWGtPVDVhMkFaSFdTQ0VMRDdRYmN4cF8zTXhKZmg4TWhtODRYbXZoTVFiTjdiZVktNnJ3VUdibjVIZnVTbVBtSGN4Mzd0UmlaQlM5ZDh3c1dnbGVT?oc=5",
+      "time": "Just now",
+      "pub_ts": 1795180967,
+      "summary_kr": "Magnifique 더치 오븐 멀티 쿠커, 프로그래밍 가능한 요리와 에나멜 주철 결합 stupidDOPE",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Walton, 겨울을 앞두고 스마트 간헐천, 주전자, 히터 출시 - Daily Times Of Bangladesh",
+      "media": "Daily Times Of Bangladesh",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2E0OV9QQXQ0LTJSNXVBYTIxRkdnZTV0eXRNNDRObDJnRXlHNk9tMHVNb3FZNUM0ZWtaZGN0b21ibE5VRWZMR3RGYmYxYlJ0eEh0S0QwNkh3QUVMcFdfSHJUZDk4UXVvSG5weWxZOTk0bUFpaWVtUnI0aDBFeHp3MWswMjBXaEdURnpV?oc=5",
+      "time": "Just now",
+      "pub_ts": 1795178935,
+      "summary_kr": "Walton, 겨울을 앞두고 스마트 간헐천, 주전자, 히터 출시  Daily Times Of Bangladesh",
+      "strategic_implications": "",
+      "impact": 5,
+      "tags": [
+        "risk",
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "빠른 주방 준비를 위해 Rs 650 미만의 최고의 다지기 7가지로 요리를 쉽게 만드세요 - News18",
+      "media": "News18",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZkU0NnA2WTJNaE4yX2c3cmthU19mU01Pd0FlYWVLcnNyNm0zMVJudlRrdVRtaXdzMGFiY2lQblUxNTdFUE5FWlNNa0Z6dUdaTWNidGd1R2NRT2FzT0dvNmtiR0JHVmM5NW8yX0VpNjh5QWJmQjJyR241RTIwb2NQT0hwd0l5XzYzZzIwQkVEdlA3dk9QeDZrSGowM29EemVIc2EwYlVyUS0zTVMzY3UzNDlCU2lubFZCdUg2V2RkMUswNElSbnRMN3lQS3pVVnJ6ZW8zWVhiSW53bWZjeEZSOUNBdWZpTUt0SnpmSNIB7AFBVV95cUxPZkU0NnA2WTJNaE4yX2c3cmthU19mU01Pd0FlYWVLcnNyNm0zMVJudlRrdVRtaXdzMGFiY2lQblUxNTdFUE5FWlNNa0Z6dUdaTWNidGd1R2NRT2FzT0dvNmtiR0JHVmM5NW8yX0VpNjh5QWJmQjJyR241RTIwb2NQT0hwd0l5XzYzZzIwQkVEdlA3dk9QeDZrSGowM29EemVIc2EwYlVyUS0zTVMzY3UzNDlCU2lubFZCdUg2V2RkMUswNElSbnRMN3lQS3pVVnJ6ZW8zWVhiSW53bWZjeEZSOUNBdWZpTUt0SnpmSA?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1795174232,
+      "summary_kr": "빠른 주방 준비를 위해 Rs 650 미만의 최고의 다지기 7가지로 쉽게 요리하세요.  News18",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "인도에서 Rs 40,000 미만 최고의 삼성 세탁기: 고려해야 할 상위 모델 - The Times of India",
+      "media": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQmxxbzJ6ZVdRU1NYR3Q4V3p5N2hfeFpMSEZweEY3djIwaDlTdUJ3eGc4OGYyTFNoUjk3Z3dvdmRvV21nVUIzWlNyXzZ4cGtJeFY0V29CTkJvblU2REZYajREcC1zeGFPOHlVYTBQUV9MWndNQTVZbW5DZVM0X2V1cFhjWUZUSTN2QUsySms2Nzl0eTlWRGpiRFpXX2lfdTg0eWRvY19IYW90c1Q2Nmd6R3g2WERuMzZsVHpRWlpqMHFadW15bXdTd1pTTVQxT2lyZHdtc01ZSG5Kb2Y3LXVTMjFuU1VoR3B3UGFQVm01NWxSQdIB9wFBVV95cUxQeVVBZGNKOEpZaVhKdEVhdXFsaTlQdnhMR2xaU2pqYTdTaDdpeVFZTWlHOUZYYnBSLTZwTU44c1FVLTU4RlprUHE4b0RfYjJ2ZmpyYVJOX0gxN25rSmZpOGtMWWZ3NEFueUtnXzRDQnItOVJaWXgxT3JEa0w4dEtQaFJPVUhlUTBtYjA5dzVrUmlJSFBLbUNsc2Zabi1obzFrSnVWcEYyN040dm9iMlZCdTN1NTFFSEdLeGJyLXZ3djBEeFNlYm9veGZkcFZsVENxTVpMSVpsUnRnbktWb2tYT0NDMFIyM2ZuOFlsM3ZfYmdnTGRyNVVF?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1795163520,
+      "summary_kr": "인도 Rs 40,000 미만 최고의 삼성 세탁기: 고려해야 할 상위 모델 The Times of India",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성 블랙 프라이데이 2026 플러그: 더 스마트한 선택으로 일상을 업그레이드하세요 - NAG",
+      "media": "NAG",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2JTZkJ2X1lLZDZNVzIxS2hfMkVEN2J6N0h4RFdTVlNJbmJOWVZPNlFaRVF0QjZoY3pVOElSZVB5QkE4aEVfeTBHb21JR1pGTmIwMnV0Vm1KYzlQZ2hmZGY0WXJoWmhBZjNtX2ttdm5vcjc1V3YzMkI5LWVCRE5CTF80MlNGLVlpa3d2MHcyV3lCQndDR1RHa1lLVVlhQ2tBeWVodnM4aTdyNi1Hb0d4Mg?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1795159801,
+      "summary_kr": "삼성 블랙 프라이데이 2026 플러그: 더 스마트한 선택으로 일상을 업그레이드하세요  NAG",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "크리스마스 요리를 더 쉽게 만들고 싶나요? XL Typhur Dome 2는 이번 블랙 프라이데이에 $115 이상 할인됩니다.",
+      "media": "Homes and Gardens",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcklaRWtfa2Z0cUlMLVZOOTJPY3VTNTJfQ25PUm1fOGpiN21RNTVqSzlLY0x6TWJpSTNQbjFFeDFyQlkxNW51MzdoUGlUaW4zV09OWDFQb2lDQzJUNDExM25GV1NjYXRzNVE2aEx6VUkxT1pVV1J2SnZtMzJMS2ZUVU12NW5XaXdIdXlvbXE1UWtObWtPemN3dWpHeTJsTTNGamc?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1795159800,
+      "summary_kr": "크리스마스 요리를 더 쉽게 만들고 싶나요? XL Typhur Dome 2는 이번 블랙 프라이데이에 집과 정원에서 $115 이상 할인됩니다",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, UAE에서 새로운 맞춤형 AI 콤보 출시 - Al-Bawaba",
+      "media": "Al-Bawaba",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOREZvNHdjTzFNaXpjYWc5MEczcURoN1JLbUt2Qk9OQm9Ebm9xUWtTbV9FSHM4UTdnV2RubUZZQXJ2SEU2cTNrSjlfOVJHVGl2UTltdW5lUk5ZWnhET05oX0tFRmFQQUVJeWN0MTdRQXo5Y1hHTW10OGdzTElpMTVablYyLTgxcU1RSlE?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1795158810,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Breville Group (ASX:BRG), 커피 가전제품과 글로벌 유통에 집중 - Kalkine",
+      "media": "Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR3VsTGp5MTdaS3BNb3VrdGprOU50NXZYa3VIWGhHWDNISVhmVmxyXzE5YWpZMUg3WjdZZUhTU2VXS1R4RVhyMDFyMVBLR2ZXZUkyc0FkVklCLThpVks4cW5wTm95N3AzbDRZUXY4cEpkck5NU0RLY3o1OVhvakcwWTBfNkVqelJGV1B6MFBHaUR4U2lhY2RqNWhDMVpGbEFVMml6Q09vTTNoLTdFZTFGVy1aRDE?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1795156200,
+      "summary_kr": "Breville Group (ASX:BRG), 커피 가전제품과 글로벌 유통에 중점을 두다  Kalkine",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 이상우·백승태 사장 승진 - 전자부품 전문 미디어 디일렉",
+      "media": "THE ELEC, Korea Electronics Industry Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yaWE0amJ3RHBVRWZ4Um9feWR6ZnVCMU1wVURBX19zeGN3YUxiWlRRMzZZNlhlNTFyTHQ3Y2JScHJhS0RfdENuR18tamdCMGhZdjRkb096blVVNl84YWdNM2swOEhVV2M?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1795151758,
+      "summary_kr": "LG전자, 이상우·백승태 사장 승진 전자부품 전문 미디어 디일렉",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG, 글로벌 개편의 일환으로 로컬 MD 교체 - ChannelNews.com.au",
+      "media": "ChannelNews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOV9mOTVxa083d2U2UUhLcHh2LTJveFJDLUhCcnM1RVVWd1UzZGNBZ0htMjFpQjFaVzktWE0tT0JWQVY4QlJRbjRPYTYxZldnTU9qT0IyS1VnVVkzT096S19IMHZhWTJESG9DVnVFQnlnZTljLVZYdDlaSEhZQnZWanlpcUFXT2RRUWU4UGU0bTJLeTFaMllpWW1feTZiejlGX0pFdHRab2NhXzBLaS1ZckhMMWU?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1795144709,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성, UAE에서 새로운 맞춤형 AI 콤보 출시",
+      "media": "Bing News",
+      "url": "https://www.albawaba.com/business/pr/samsung-launches-new-bespoke-ai-combo-1641799",
+      "time": "11h ago",
+      "pub_ts": 1795140780,
+      "summary_kr": "삼성걸프전자(Samsung Gulf Electronics)가 새로운 비스포크 AI 콤보(Bespoke AI Combo)를 UAE에서 출시했다고 밝혔다.삼성의 차세대 프리미엄 올인원 세탁가전",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성전자, 이익 약세에 디바이스 리더십 개편 - 조선비즈",
+      "media": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzMFMtbllLTmJLVHR5N0U0MDZqUmlOaVVjT3loalZiLU5TMmd4STRKVGsxLTB6YkVGX1YzazRWVHZZUktJWWR4WTA4ZjVXc1ZUWGFUdnJlMkpvZXRCX2pjbnRJQkNwZHh2bW85d3JiMWxYSlI0b05ENU5R0gGOAUFVX3lxTFA1YW1mT0Y1V21vdThkSEdyemc2NVJwRGJQMk5Ga1gzMVdIeExoQ3Jsb0ZmcmxXY0pSTkw1dzBwdjFwWnJ1cDlta0c0V1g4ZjhhZGp0TFdtR3BsdW1ZakgzbG0yMFRST3JUNTJCUGh1WDg2SDdISHhUTFZMMHFEZXl1ODg3SGNNWEpISDE5amc?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1795138860,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG, AI 혁신이 산업과 소비자에 미치는 영향 선보여",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-xl/money/general/lg-showcases-industrial-consumer-impact-of-ai-innovation/ar-AA2hQaf0",
+      "time": "13h ago",
+      "pub_ts": 1795132941,
+      "summary_kr": "인공 지능(AI)은 사람들이 가전 제품과 상호 작용하는 방식을 변화시켜 가정의 요구에 더 잘 반응하고 조정할 수 있게 만듭니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자, 노무현 호주·뉴질랜드 대표이사 선임 - ITWorld Korea",
+      "media": "Thailand Business News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR2VVandQNG1uWU94OVBxSUp3dkNhTzltb01pa0FnT3NlVG5qbXRiZjl6cS00RUxIREtFem1IV3RrbWxUeHZJNExkM2RwQjhGdHRiUnhzLTFfNU11aVlNNFdxWW5USTFBTlE1X1ViTE04UDEtbi1mZXU5cDI3MzFLb2FzbHpFWENaS1pDc2xYSmh2eHFrUTZGQlRDUTFfeUpOU24xTXoxeEtTVFRVVENkMjVFeW0yN3RfdmVkb1NCYnZLeXJSU2V4RVl6b1A5U0hnYnRLQUxJdDUzN255?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1795131540,
+      "summary_kr": "LG전자, 호주·뉴질랜드·태국 대표이사에 노제프 선임 - 뉴스와이어",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "컨슈머리포트(Consumer Reports)는 가장 신뢰할 수 있는 인덕션 레인지 브랜드로 선정되었으며, 이는 월풀이나 보쉬 제품이 아닙니다 - 테이스팅 테이블",
+      "media": "Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRXBJcHhJZUxkY2NGRldFazlqeEJ2bElFcnpVdXdIT2RSNnVMYnJWWTV2OUFfSXNPVUFVbUNJS2VQdk1vZ0tWUHBjb3JRdDFWT184TVY3RTZDNlBtYjI5NEwtWDNlbkpKaWhaZURpMWpoZ0UwLVRoQUVibHJiYXpQZ2RfUG1MOHFTcXh4OElnOW9KQWxRb1hQWjN2S0xwTVE?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1795129200,
+      "summary_kr": "컨슈머 리포트는 가장 신뢰할 수 있는 인덕션 레인지 브랜드로 선정되었으며 이는 월풀이나 보쉬 테이스팅 테이블에서 나온 것이 아닙니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "가전제품을 옮기지 않고 청소하는 놀라운 방법(정말 스마트해요!) - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelcxZnBFVGFOWHVJMkU0MzlGUndaT19FbHdEVkU4SnVPQ2NtSGdLbG9VQlo2UEFZZ1YxMjBabUZ6SEFvQzlxaE9MRGxDal9kRkR2ZzM2WjU3RlQ3MzhZR3VSX2RkV180X29wS2VuUUkxOUtvSzhCLUFkNHZwRGRfNjZwbjFRZzR1RWwydFg0WDJLdUUxSWcxZWxKTllQZHFWT2dscV8tNHpYTXYw?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1795127400,
+      "summary_kr": "가전제품을 움직이지 않고 청소하는 뛰어난 방법(정말 스마트해요!)  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성보다 더 나은 평가를 받은 프런트로드 세탁기 브랜드 5개 - SlashGear",
+      "media": "SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDAyc3pUTWJSNnBGaS1FTThxTnBjRXZuSGRHUUxUZk9vZERXZi1GeWI0VS15UmZ3Vno3NzJ6NVdoWFhXaEQtd2RpcEFLb0UzblAtd3ZZVEg2ZGQ3ZGNxNDJUT2Fqb2RRT29KOGMxcjBPY2NnOXlmYkJGZDl3aHdTU2F2bElIZUN6a1F4R2Rrd05USHo1?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1795121100,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "하이얼, 동남아시아 딜러 컨퍼런스에서 차세대 가전제품과 AI 스마트 리빙 선보여 - WalasTech",
+      "media": "WalasTech",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SUlRqU2JiSHF6MmJqNHd5bUdCWXlFX214Yk5aTWJ2dFdQS1VnYmFuVGF5Wjk5YzFwUVdIN3gxaGJOVnFyMmZYclljQURVM2djX29leEhBVlpMMk9wTWF0Rkt1T0ZBQTJ1TGx4XzVKN2VFUFBFcXJ5RkZ3?oc=5",
+      "time": "17h ago",
+      "pub_ts": 1795120127,
+      "summary_kr": "하이얼, 동남아시아 딜러 컨퍼런스에서 차세대 가전제품과 AI 스마트 리빙 선보여 WalasTech",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "우리가 가장 선호하는 애완동물 털 진공청소기는 $175 미만이며, 기타 블랙 프라이데이 상품은 최대 63% 할인됩니다 - Business Insider",
+      "media": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT0dCc1V0SFJwMk1pSVRkU0xiY1dOdGgtSWZVUF9hUml0dGNSNVlUdlNTajA5UG94VzFFdV95d1QzRzhtbVpXUU9na3BHSWdua1JLZ1FsMkx5N0gtWU5pVW9kbV9DVkkzU1hnMnhVT1U3aXM0OEdYRXgxVlVzaHhLcUxEaTBoYkgzeGVBYi05cw?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1795116840,
+      "summary_kr": "우리가 가장 선호하는 애완동물 털 진공청소기는 175달러 미만이며, 기타 블랙 프라이데이 상품은 최대 63% 할인됩니다.  Business Insider",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "KBDN 2026년 가장 많이 검색된 제품 - 주방&욕실 디자인 뉴스",
+      "media": "Kitchen & Bath Design News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGI1YmFqN2VDeDNNSks1bThoOHd2bnVILUJhYUdyc2ZtY1AwdW9xZndTOVdfc2tjZ2Z2dlhxbmhFNVZjSkoySWsxNXNmS0xaanNseEFmaTRMLVFoZE4wbjl0X3pvYl9tcmxlSlhBUlhxc0lYcGtvOWZjRmNHeWxzbTJCdDk?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1795113094,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방에 있는 모든 가전제품을 다 포기하고 이것만 갖고 싶어요(40% 할인) - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTEt3SW5kc3ZBVC1wM1MySXg3X1ppamNUYVdyd2NhdGFQUTY4bmU5MFMyRWxIdTR2Rkl1Sm9aMkhBWEdYVC1IaHd3cWdzQUJudU9iZXhrYV9oLXVtNGlfVjBoSmJUUzMxVUI5bXprMm14cElXQlh2UUNvanMxTmtWWWdER01WcmVsYXZkXzJjVl9Bajc3M2hId0JydVZGd3hRZDJGRg?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1795110300,
+      "summary_kr": "주방에 있는 모든 가전제품을 다 포기하고 이것만 갖고 싶어요(40% 할인) Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "모든 요리사에게 필요한 8가지 주방 도구 - 올레시피",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPTFlXSjl6RS1LeVljRW1xNDJoTXlOYWpzTHlob01jam5IVzBvZmFXUGc4Q0xDOC1ybkszYUJ5SUVyZ1VkTW8tMEpJU2xmY1FET0xEZVFuQ0xSRGxRYmdtN2QwRk5LQVkzaTZsRmxnRnFhSFc0cnpJ?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1795107721,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Drew Barrymore의 세련된 주방 가전 라인이 Walmart의 Black Friday Deals 이벤트 기간 동안 할인됩니다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQTNqUndXOElnb2Y1ZDFHWUktSFB0X3JVTFZfbks1TlJVbEcybHBnMDA5UXBFV254b2MyVllqTXlhcU8zc01ZU255NzlwNy1mOExta3hFcnVwSzNTTTZfc2pvOUtMak5BTGNPdGpqMDVjcUdwOHIzaDY5a053ZVNERFk1MmF5Y3NXd29fRWV2dW56bHBGNC1SNjZTSW5ZczlnN3RTc2E2MkJ3c3NwVlZFdEZKSlBsZ1FTWWJ3SVdRT3c0STRhdG5WMUZxRXJuSjY3UVpZaGtuNS1Kd2xWcmZHU1YxVjlJLW40VS1lVm5NQXkxYWRxWUx2Wnd6UnVjUQ?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1795104905,
+      "summary_kr": "Drew Barrymore의 세련된 주방 가전 라인이 Walmart의 Black Friday Deals 이벤트 기간 동안 할인됩니다.  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG, 2027년 소비자 압박에 앞서 가전 및 전략 책임자를 사장으로 승진",
+      "media": "Bing News",
+      "url": "https://www.channelnews.com.au/lg-promotes-appliance-and-strategy-chiefs-to-president-ahead-of-2027-consumer-push/",
+      "time": "21h ago",
+      "pub_ts": 1795104000,
+      "summary_kr": "LG전자가 백승태 생활가전부문장과 이상우 전략그룹장을 사장으로 승진시켰다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년 블랙 프라이데이 쇼핑을 위한 편집자 테스트를 거친 주방 가전 10가지 - Sporked",
+      "media": "Sporked",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmZTZmU0SmRKd1ljRGljdWFPRzltMHJJSkV6SUFsY0xPTmNFMmt5QWFhcHo1YVBLcDhCX2phTndZdVdEWEtHRlJKYzAtZGtXMWdya3JrTHRSeHhjWWtKMENzMl9sa1YwbGZldl95ZWVUSTdtWlItemxPenhwVm9kVF9SVXZSWlNXOUc5SVlrZDRBTE0?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1795101430,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Shark의 최대 블랙 프라이데이 세일이 시작되었습니다. LED 마스크부터 진공청소기까지 베스트셀러 제품을 최대 50% 할인된 가격으로 쇼핑하세요 - Yahoo Life UK",
+      "media": "Yahoo Life UK",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BZndsVlNQWlBEZFh6X05acGFreFY2aDBrSzJHdFJ3TW9CZmlRbEtNbFFCQjhMWkxSeWkyWk5hVHZvcHZrOHlZTHlBbTJia3FrV0pZWGplZTFrTndOVjJkcGRkM1F5bW13bHBUeUZMeURSTDFVakxIdUJlSWhzdw?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1795100220,
+      "summary_kr": "Shark의 가장 큰 블랙 프라이데이 세일이 시작되었습니다. LED 마스크부터 진공청소기까지 베스트셀러 제품을 최대 50% 할인된 가격에 쇼핑하세요.  Yahoo Life UK",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "샤오미 미지아(Mijia), 세탁기 건조기, 냉장고, 진공청소기로 스마트 가전 라인업 확장 - Pokde.Net",
+      "media": "Pokde.Net",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxZ29UbEdRb2JjSG0yVEhGcHpFZWZkc1dpS0FNTkNSRmRHdWxzMEc1MWlVcWlpRXRnOHpiaXEtaHVaVENVejBpOGJEbmVzeDc1OWVEQzdLTm1JSkpYc1JSNEVsOWZjUV9rWGVIVjlTeEdFemlzck9N?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1795097671,
+      "summary_kr": "샤오미 미지아, 세탁기 건조기, 냉장고, 진공청소기로 스마트 가전 라인업 확장 Pokde.Net",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
