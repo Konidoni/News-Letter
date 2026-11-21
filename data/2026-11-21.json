@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-21",
+  "date_display": "2026년 11월 21일",
+  "generated_at": "2026-11-21T22:09:36.043735+09:00",
+  "generated_at_display": "2026.11.21 22:09 KST",
+  "category_counts": {
+    "Market Dynamics": 14,
+    "Samsung Bespoke": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 16건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 0건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: AUTO10 SQUARE Plus를 만나보세요: 간편한 배치 착즙을 위한 Kuvings의 새로운 솔루션 - EIN Presswire. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 0건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 0건 수집. 주요 동향: —. 시장 전반 기사 14건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "Drew Barrymore의 아름다운 주방 가전제품이 Walmart의 Black Friday Deals 이벤트 기간 동안 판매됩니다. 제가 가장 좋아하는 제품입니다. - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPV0NzdzRhNkNWVmRVTzc2OUM4LUQtdE1RNXQzeHRtajZHdnphOHUzLVlpb0JwUU5KaS05MGkwcFZRall0UUxfclBpUmZmV19KeUR5N1l3dVZ5MzJ4TmdmQ0VvTTdfM3J2TzY0WXJCOEg3MFBnbmkydW5SV3p0RTV1ZFh5SFRtNjlQVFpuTFM5cThGalZ0WUtKcUJOaTA5U1ZfVzVjSXlsQVVxRkdsTjNhY2JjZURVUGo4a044U24ybVg5OTFtcF9xUTJMbmVnek55dU9udktIb3BJV2gzSTdJMHV3T19LT09QU191bXVyOGFDR1h5SVlVVXlNbUxJeUpZbHdseXZ0M0ZHOGpLWUJIYk4yM0JCVkV5elNIWHN4Z3VuUQ?oc=5",
+      "time": "Just now",
+      "pub_ts": 1795266371,
+      "summary_kr": "Drew Barrymore의 아름다운 주방 가전제품이 Walmart의 Black Friday Deals 이벤트 기간 동안 판매됩니다. 이것은 제가 가장 좋아하는 제품입니다.  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "AUTO10 SQUARE Plus를 만나보세요: 간편한 배치 착즙을 위한 Kuvings의 새로운 솔루션 - EIN Presswire",
+      "media": "EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcHNQTndveEhSVFRnSGY3S2JqRHNDc2xOOS1iVGEtZWppXy13Vl92Tkg4YkZ1NmZnRnZYWVQyeGNMZ2FyZTFKOFk2Y2FWUEF6alRqRkl4TDRjclAxYlJ4QkZFSThsMDJnNnJSNTdfTXBmcW9FRVV4MFNLRW1MQjlreDNLTkVabnpNMkJKRkphMVZMekdIV1N2VHpzMXhDWUEzQ1U5ZzhXbWZMcTZ2MmdHd1VFc0V1eUJuZVNZM3JBWlp1QQ?oc=5",
+      "time": "Just now",
+      "pub_ts": 1795266000,
+      "summary_kr": "AUTO10 SQUARE Plus를 만나보세요: 간편한 배치 주스 생산을 위한 Kuvings의 새로운 솔루션 EIN Presswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2026년에 주목할 만한 Sam's Club 블랙 프라이데이 특가 5개 - 테이크아웃",
+      "media": "The Takeout",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MWkVRanhZbEdNS1JzYW40R3VSd1NjT0lxNEV3bzFMVzBPeVBHRG1PTGlPOWV0Y1hoTUFHWVROWmN1Uld3VHY2VjV1YXBYZGw5MnM4RzFCSmVTcW8zSXBENGZnbVAzZFlVUHZ1TndFRC1HbkNrSW9Dbw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1795262400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "집주인의 다이슨 진공청소기, 부엌 문 뒤에서 충전 중 불이 붙다 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMzVndVdxVGxyb1hlenVIWTcyU1hmOVJBRjBKdGd3MU5DeWhzeVpNdV9uS0Zudnl1OVRIelF1SjFHZU5TQk4yR2ZOUkpSc0puWEZLcDNVT2JEYS1OZEdJNTY3Y1h2T2lqSnduR24yNDBVTE12dXNYRUJITmpsVHZselBidlBFZjRMZWU2bXl6Q01nSUt3?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1795258829,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "공급업체 뉴스와이어: 2026년 11월 21일 - kbbreview",
+      "media": "kbbreview",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakJReFNvTU1GSFlYQXZrREJmV0tDWklCclg1OHdqa2ZHTlQzNHp0UVpHTVp4TUFGeHRPVE9EN0hzeC1TX0dpOUxtUXNOdzJJY1VYNVhlZXRMSHpuVjk1Y2FDdUZiV2hqejVMb0RNWWxjbk5OYjRFSzNJQm9NZEVJaVl3?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1795248000,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "인도 최고의 삼성 3성급 냉장고: 최고의 모델, 기능 및 가격 - The Times of India",
+      "media": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUEs1b2FoYmE4dE5YQzZFMTNyQkJMTkc3R0RCd1FMeEVGU1JGenZfZkhPQW05SmFiVUpESEVDeVN5Z0VHVG9XRXNwOGRYZjg3UDJ1bk5uMURpZGRWWmJwNTZOMmhLd2RZZ2FLaS1LdnB6SV9XZEU2aXlBdHFIVUU2RmhGMXYwaTJyc05LLXRKTlBuWlBUVndPWXlEanZPNEdodjUzRkRWWmY2SDVBRWRCUVpkSlVUZlFPeGdtTF85NTFtMTVQV1VSWWdIZGpScEJCU29iWDZDam1oWFNvVUhFeFcydXhqdnBGclczaFh30gHzAUFVX3lxTE9ybTJTQlJOa0VhWDFrU3VuV2l3TmZMZTc3Z0NpeWJXdzFkcmFPcVlGQzlmU3I2cVhfRUVBNEVJTFcwNGhIcnZlaWNnN0hYS01aZG9wLXprRHVrU041Vjd5OHNqRjdvTktLenhNTFlWYk9faVdGY3U2dk54SjJ1d3p4UC1SdXVLWTBMeVRRNVVEdGdqNTA2eEZ3VTUzXy1XYVA4UFhXYUZJc21zeFo1Sm1meENVSGJJMjBlZG1OdE1veGs1bi1uZmdZelhlUGxsWUNCeHFncW1GUVp6UF9JQkpQY2dDLWZ3Rm5pZzl3WU13UENtVQ?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1795243440,
+      "summary_kr": "인도 최고의 삼성 3성급 냉장고: 최고의 모델, 기능 및 가격  The Times of India",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Proline Range Hoods, 새로운 내장형 가스 그릴로 야외 주방 사업 확장 - CookOut News",
+      "media": "CookOut News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmpVTGhiZl9NUFhwX0gzRmFEaS1rRnUwd0FRR05Mal9iOUFHSGFBcWI1SVBaQVI0dnlOQml4T2hqb0JqeTlWZnR2a0RXVEdyU0tfR0FCYkRVbXhmVld2a2RmY3FvY0t1RF9iRGtHWG43TUNWRUJYZ1AtWVhoY1d6ZmJSWXN6NndoLUtsSmkwMUFtYmtsdFROa3R3XzVOYWEzNE1jQklrN3RDM2lJNzFOcm96UkJnLU0?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1795232683,
+      "summary_kr": "Proline Range Hoods, 새로운 내장형 가스 그릴로 야외 주방 사업 확장 CookOut News",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "가전제품 차고를 건너뛰고 개방형 수직 선반을 선택하세요",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-us/news/other/skip-the-appliance-garage-and-opt-for-open-vertical-shelving/ar-AA2hUYwX",
+      "time": "9h ago",
+      "pub_ts": 1795232100,
+      "summary_kr": "가전제품 차고는 깔끔하지만 점점 작아지는 주방에서는 귀중한 공간을 차지할 수 있습니다. 이 트릭은 접근성을 극대화하고 보기에도 좋아 보입니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "월마트, 블랙 프라이데이를 앞두고 20달러 미만의 Crock-Pot 슬로우 쿠커 판매 - PennLive.com",
+      "media": "PennLive.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc3E3dldxaGw5UGtPUVFyR1VhVFExRnRPVWtwOG14OV9GYmh6MWZCQ1FuZ1FrWE5VNGR1U0xkcjFoTVMwdkFlNmxIamNTUnpRQUx4V0pWenBXU092djBDUnVrY3B5WEJCNlp5aExRcUZOS05lSHcydFdrSEtjTUFrTnNxRDI0UFJlMUpIZUpyeHJXdDB2UFNYVFc5bG81WW5yRnZISFNrek1May05YVlqbEZyZWhaX2dvNHoyMTJwWDZIb0lJY2lrVmVKMklpNk5TeUVIUllPYm8ycHV5S1Y1aGhR?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1795230360,
+      "summary_kr": "월마트에서는 블랙 프라이데이를 앞두고 20달러 미만의 가격에 Crock-Pot 슬로우 쿠커를 판매하고 있습니다.  PennLive.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "삼성 진공청소기 가이드: 구매자는 모델을 비교할 수 있습니다. Pro Extra는 걸레 부착물을 추가합니다.",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-in/news/other/samsung-vacuum-cleaner-guide-buyers-can-compare-models-pro-extra-adds-a-mop-attachment/ar-AA2hUDUC",
+      "time": "10h ago",
+      "pub_ts": 1795229580,
+      "summary_kr": "삼성은 다양한 청소 요구에 맞춰 휴대용 및 자동화 모델을 포함한 다양한 진공청소기를 출시했습니다. Bespoke Jet Pet은 디자인되었습니다.",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "우리 집의 초기 블랙 프라이데이 세일에서 내가 사고 싶은 모든 것 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVDVXcVVCaFdKV2FDUWdVNWwteGVtTlpkbHk2enNJR19tR2tWVVpzc2VnY3AtbDZWZE1EZE1oU3pBVzRvWkp0Tk1aVkh0elBiN1hHNDVOZ1hZdl85WGw1aFZXZUYtbE9qekdwRFBWZFA1OFd2RHhjZVJoZUxCZ3M0Y1dCeVkwU3dxeG1yU3JBM01vMUZpbXB5cHlUYVoxX0Z4?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1795211100,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "건너뛰어야 할 4가지 과대평가된 가전제품 브랜드 - Gadget Review",
+      "media": "Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZNVZqVHVUVFJzc2g5eHdhWllPcG1IT0xGSUEzZ2lEZGVGV1BheDlyMVNaQURCNGh1SVBwSmtWMmRFeEt3YzB5aVczNWtHdXNRb1Z3MDdoNGdLSkZNbE0ydkVEakQzX2JZSmN2TmZLQjI?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1795198500,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "24파운드의 이 발전소는 하루 이상 Wi-Fi를 유지할 수 있으며 현재 52% 할인 중입니다 - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDVxWWN3MnRmVmw4Y3FuVFJJTW9TVkp5bVNBZzA2dENYQ09VMzRvdDV6QkJfWHRZSEQ4QlFoZERVSFVGOVFES1dDYzgzLUR4MWxBaU5RX0VVbk90N2J6UUJfQmRxbFFNaEtCS3Y4Z09scGZSV3FUamFFOFYtNTJvQ0xuVjFkM3hITlAyT25UeVFQN3d0V3Y1OEpTdVE0ZkNxWUxna0xhMA?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1795196100,
+      "summary_kr": "이 24파운드 발전소는 하루 이상 Wi-Fi를 유지할 수 있으며 현재 52% 할인 중입니다.  NBC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon에서 득점할 2026년 블랙 프라이데이 주방 가전 제품 10가지 – 일일 식사",
+      "media": "Daily Meal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlJmX0xKYjlwU3NFOFpSV2lFQldRX0tLMk1xVFFTekJfZDNNeE45THpKczBGTXpVT21JQkxmU01GUXJ2ajZYX2Z2UHQtVG1TdTBrSk03N0dmbmRKQTFtMzZTR0k5aWlUV2E3bEx3WkpERV9ZcmQ0bFBfN1UtZkFxdWduSVU0bHpkc0lVdzdjNA?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1795194994,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "처음으로 크리스마스를 맞이합니다. 혼란에 대비하기 위해 구입하는 5가지 물건은 다음과 같습니다. - T3",
+      "media": "T3",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcG1JUmVVUzNjSnVmS3hKVlplYlpXR2dncXg5WUx0S3hSeDFFQVBscVZhNjBCa01MczFhbHZyLUdiaWFBZlBvZkk3SHRseVlLM2M3cDlIeHV5eUU3aE5UWTRwVmxyYjdfOE1wNEZjaF9SZU9vVlNRejFlQXRSQ2pOVWdZV2w1SkE4QlhPeXczTWtvRGo0VjhsamdFaUQ0Yy04Zm1aeHdRUFEzOGc1bDFQdHUyaENCMlM5cklQbWFhclNlZG96SkpJdHRMdw?oc=5",
+      "time": "21h ago",
+      "pub_ts": 1795190400,
+      "summary_kr": "처음으로 크리스마스를 맞이합니다. 혼란에 대비하기 위해 구입하는 5가지 물건은 다음과 같습니다.  T3",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 조리대 식기세척기는 15분 만에 청소되며 20% 할인됩니다 - USA Today",
+      "media": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTQ1WndSUVhnRHFUWlAwNlJkb0lqWld0LUFQZjVTZmZLTlJVUWNjMEdEOUgtUWNwVG1saUsyYmwwMzRQem0wd2xiR0lGMG4wZldHV2JkY0RlOUJOZkIwMGsyS2lxX3hRaHZOQWRvM1dxU05ib0QxNFRHRW1pWHQ2N0hESllpbHl2a2t1OWFVTExJUGludUdYMjdiNFlvTXF4M2JyQzc2d0toeWxJR3BzeWZFekhTLU56?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1795183200,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
