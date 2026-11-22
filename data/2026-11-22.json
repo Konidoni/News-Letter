@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-22",
+  "date_display": "2026년 11월 22일",
+  "generated_at": "2026-11-22T21:57:13.405866+09:00",
+  "generated_at_display": "2026.11.22 21:57 KST",
+  "category_counts": {
+    "Market Dynamics": 15,
+    "Samsung Bespoke": 1,
+    "Competitor Analysis": 1,
+    "Samsung DA": 1
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 0건 감지",
+      "desc": "오늘 수집된 18건 중 0건이 리스크 신호를 포함합니다. 주요 이슈: —. 경쟁사 동향 1건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 4건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 4건이 감지됩니다. 주목 기사: 2035년까지의 조리대 스탠드 믹서 시장: 프리미엄화 및 홈 베이킹 연료 확장 - 뉴스 및 통계 - IndexBox. 삼성 Bespoke 1건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 1건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 1건 수집. 주요 동향: 하이얼, 'PLAY WITH NUMBER 1' 딜러 컨퍼런스에서 차세대 혁신과 전략적 파트너십으로 동남아시아 리더십 강화. 시장 전반 기사 15건, 기술 트렌드 0건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "마틴 루이스(Martin Lewis)는 영국 가정에 가전제품을 경고하는 '하룻밤 사이에 절대로 켜지 마세요' - Glasgow Live",
+      "media": "Glasgow Live",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN05tOTJFbnBzN1kwTkVZd0VLVWRXM2Q1eTVaRnRDVXdtbW83WXVDcVE0X2pGMzdZczl5aVNSS1FPVnVEdWVtbC0yUjdGdWlycGRvNUlWUnZtVzRSaUF2TUVzQzN4WnhtUWk5NFVWTmR3OTM0WjJuNWZBNTM3R0pYYkNvTdIBiAFBVV95cUxPUjg3OXgyWEFDakYya3gxdi1ZSkNkNUVDTnlPT0djdWlzQVR0bVZBTmw5UlBlZllSd21UU29GQ09FRnRZUFdSMDRkR0x0N1hTNlZwOEV4SnRwRjRtdW03cU1TamVHRWk0Mk4yeEVTTGJsV2p6TS1qSzR0SVNQTXZCaDJ1Y0prUW5F?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1795348320,
+      "summary_kr": "마틴 루이스(Martin Lewis), 영국 가정에 '하룻밤 사이에 절대 켜지 마세요' 가전제품 경고 글라스고 라이브",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Radhika Khandelwal 셰프가 자신의 가장 소중한 스탠드 믹서인 Livemint를 물려준 이유",
+      "media": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUlhYUgxN2lKOER4eTVWODY1XzBWY1FoQjdwMVNqWGhVTHRQcHQ0X0hHNHQ0MFYyTFh0OEtrSWNVV3Qtd3ozT25SWWRLNjBRbklac1RVSU96NkJrZWxHVkZpbkdQWGNHa01DVTFvWHJ4OTJGZ0lvb3BMY1JzR0JhZmR0bnJnSWlqclJwUUZMejNhYm1uY1p6MmtfdnI2TGZ5dkt2T3B3V2tlbXdJbjE00gG0AUFVX3lxTE9vNzh5RkZrdExxZFNENGVwa041RHJMSHhjanBITGtsZE1kRjJRMjV6amZsNEVVeDNmbDF4MmNmZG9rVzVJWFZjT0dHMnotcTQ5N0xKblhGV29ja1JtQ2lIT2JXWDhWdEdHYWIwT3dZeE1TUzluZ0oxT0x1MTBhSmJ1OGM2eXNYWngtUlEyQjgzZ1pIR1U2WW9sRXR1azlhM1ozVmo2UlNsUExXN3F4TEh5eU5CMA?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1795343425,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon Prime 회원만이 주방용품을 개당 58센트부터 비밀 특가로 얻을 수 있습니다 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWpTelFQbmRKbUoyRVhNLVl4NDdqd09UWUVQV1ZGMlo3MWx3cVM2MlZyd0ZBc2JneGc3cHUxTWZlQVA1NzNabVlQNFZkaTh3Q2EwdUN3SGk1R0VfNGZ5bjJqWG5BUXd5NXNfbE4xRXNVYWQ1TDByWUtqbVJXb3ZPNDRSR01saEU?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1795332600,
+      "summary_kr": "Amazon Prime 회원만이 주방용품을 개당 58센트에 비밀 특가로 얻을 수 있습니다.  Allrecipes",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "2035년까지의 조리대 스탠드 믹서 시장: 프리미엄화 및 홈 베이킹 연료 확장 - 뉴스 및 통계 - IndexBox",
+      "media": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmwtSVV3RTBLMmpGTjhoTnA0NkpTTzUwMXZENWprR3BncmRDS1k0eHR1THhIT0QxSXNEa0FUUjc5TEhjeDgxOXlzMWZhNTc1OGZpelpGU0VyN1FrdlFOeVZsTUtxSldfUDB4MVprMEttcXNoTmVVWXpTWV9uUlBFWFhWT19TVEV4UVUxVWVkU25QUzNHdjdRVlRLR2syUWFsbWFHOXFUcnRab2wtbnNLTUpIdkVJVGZjT0hvdkQwaFNoUTZyZXc?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1795326064,
+      "summary_kr": "2035년까지의 조리대 스탠드 믹서 시장: 프리미엄화 및 홈 베이킹 연료 확장 - 뉴스 및 통계  IndexBox",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "EU 가전업체들이 수입품에 탄소세를 요구하면서 삼성·LG 비용 상승 위험 - 코리아헤럴드",
+      "media": "The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vYUM4ZkhyaUNwNW9lQlhEX2VCNEQwcGRVaFd3NXQ2U3MwMFMxTXNWY19ORG93M3NMSk1wOUxEZmV4LTM1X3owZVdUVlF0TVZKSGdBd0dZTQ?oc=5",
+      "time": "8h ago",
+      "pub_ts": 1795321843,
+      "summary_kr": "EU 가전제품 제조업체들이 수입품에 탄소세를 요구함에 따라 삼성, LG는 비용 상승 위험에 직면",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "마틴 루이스 주방 가전 경고: '하룻밤 사이에 절대 켜지 마세요' - 리버풀 에코",
+      "media": "Liverpool Echo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcS1pVzMyZDdMZ1FLTy1mOGM3ekpvemJNY2EyZUpydUdxeVM1dUthTHM1TkpXd3N5TUhBWUVfaTRoUmRaSlc1eExTYnFrNUlhRFhOTFFpd0tOcFpmWTdNTzVBNXpIcXBZaDR4clZjUGMwdTJnclJYdXM3aUQ4MUxMZkpxMVhPbTI1ZHJ4Wjc0VFBKYWJXNWxiTFhCc3BJRUd20gGmAUFVX3lxTE5SWHk0VmdTOG9TaG91RWprS0gwNnZjZTkyN2lxWU9KZi0zNy1oak9uaGV6VkJ2NUt2NmxuUVd5a3ozem90WDFobWZqWFNDeEphSFhlQWt0eWVzRDlLR0pYTzFOWTA1X205VjVjNl9pVzlmXzhsMDE3cWYwbG5xaXdKd1Q0clBta241R2hsWnM4U2h6UmZoMmNTWXNaWElMQXUzcnVrM1E?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1795319040,
+      "summary_kr": "마틴 루이스 주방 가전 경고: '하룻밤 사이에 절대 켜지 마세요'  리버풀 에코",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "마틴 루이스, 주방 가전제품에 '밤새 절대 켜지 마세요' 경고",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-gb/news/other/martin-lewis-in-never-turn-on-overnight-warning-over-kitchen-appliance/ar-AA2hXG0s",
+      "time": "9h ago",
+      "pub_ts": 1795318331,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "30년 동안 쓰던 생활용품, 무엇이 달라졌나? - 빅뉴스네트워크닷컴",
+      "media": "Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSmd1LUI2cUhXQ0hTcTBMRVYzZlJoOUN5dG1VNmZ0eGlmc1otMkVwSWV0NW5lVlZ1b3R4LVY3X1R3b0d3dWtxTE5HclNtU0pYZ25xZUF2ek52UTRQRmxyWmo3ODNxY0oxVzIwLUd1NE9tQ3VDWURLNlpIS1lFSVc3UXMxdjR0N04tV2VydVFKVUFmN29MckVRYklyeThsd0xpVFNLT1BQaksxVmFJ?oc=5",
+      "time": "11h ago",
+      "pub_ts": 1795309860,
+      "summary_kr": "30년 동안 쓰던 생활용품, 무엇이 달라졌나?  빅뉴스 Network.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "하이얼, 'PLAY WITH NUMBER 1' 딜러 컨퍼런스에서 차세대 혁신과 전략적 파트너십으로 동남아시아 리더십 강화",
+      "media": "Bing News",
+      "url": "https://www.msn.com/en-ph/technology/hardware-and-devices/haier-reinforces-its-southeast-asia-leadership-with-next-generation-innovations-and-strategic-partnerships-at-play-with-number-1-dealer-conference/ar-AA2hXg4X",
+      "time": "12h ago",
+      "pub_ts": 1795306307,
+      "summary_kr": "HAIER는 \"PLAY WITH NUMBER 1, a\"라는 주제로 개최된 SEA Haier 딜러 컨퍼런스를 위해 동남아시아 전역의 딜러 파트너를 모았습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "마틴 루이스, 주방 가전제품에 '절대 이렇게 하지 마세요' 경고",
+      "media": "Bing News",
+      "url": "https://www.mirror.co.uk/money/household-bills/martin-lewis-issues-beware-never-37899910?int_source=nba",
+      "time": "12h ago",
+      "pub_ts": 1795306080,
+      "summary_kr": "마틴 루이스(Martin Lewis)는 올 겨울 주요 주방 가전제품을 '조심'하라는 경고를 발표하고 사람들이 '절대로' 하지 말아야 할 일을 덧붙였습니다. 안녕하세요",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "세계 전기 주전자 교체 필터 - 시장 분석, 예측, 규모, 동향 및 통찰력 - IndexBox",
+      "media": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOckw4RmZvX2FXVjA1VHBETEI2NDlOS0JfNjdnZlFkOU5Yd2VPS0ltMDVfSGFuLW1fTnRMTW1qS2RWSHBrbDRjbU0yS2tWUmRjS2gwZjdlRURTaXZzZWxJeGk0dFdEYnRlWVlHQ2tlNVhzdGpuME41eG5WSGttSmJUUHpRNjlXOTNtNlZEY0N3VHhXZXZyZmlNZUZEMjNJU29xMHVDRUZYSy13RjNGUUNSXzdRdFNxNnoxdl9sRFRPelU1SEl5bzNtRHJ1X1VyaE9PMWJ3Uk1KbzRGU1ZHbUxWVC1saHE?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1795305964,
+      "summary_kr": "세계 전기 주전자 교체 필터 - 시장 분석, 예측, 규모, 추세 및 통찰력  IndexBox",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 조리대 식기세척기는 15분 만에 청소되며 20% 할인됩니다 - USA Today",
+      "media": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTQ1WndSUVhnRHFUWlAwNlJkb0lqWld0LUFQZjVTZmZLTlJVUWNjMEdEOUgtUWNwVG1saUsyYmwwMzRQem0wd2xiR0lGMG4wZldHV2JkY0RlOUJOZkIwMGsyS2lxX3hRaHZOQWRvM1dxU05ib0QxNFRHRW1pWHQ2N0hESllpbHl2a2t1OWFVTExJUGludUdYMjdiNFlvTXF4M2JyQzc2d0toeWxJR3BzeWZFekhTLU56?oc=5",
+      "time": "14h ago",
+      "pub_ts": 1795300380,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "재가열 그 이상: TOSHIBA OptiChef 시리즈가 전자레인지를 다시 생각하는 방법 - 디지털 트렌드",
+      "media": "Digital Trends",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWTdMd2tVc3BxS1pwR0NSSFlmQkZhMmJyVWJYUlcwV25tSUZFWFN0YlNlRjhYYnNsejVPY1ItSEptZ1RRY2dQbUtIVW9vbDk2OVZta0hxZlZHanhHcUZhdjlUblZkYzZyYWd6N1VRRktaVXBQTXZXN2I3emhSaVJkOGlZdFgtSllJSUpFRlNzY3liQ0J4aEF0cEkyNUlkYjBhc1BySmh0eWhZOXM?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1795284484,
+      "summary_kr": "재가열 그 이상: TOSHIBA OptiChef 시리즈가 전자레인지 디지털 트렌드를 다시 생각하는 방법",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이 희귀한 KitchenAid 믹서 세일은 내가 본 것 중 최고입니다 - AOL.com",
+      "media": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYk5JSlUwY1B0VlE3ZWkwNlhxcjhLV19CTFY4SXNtRm5xTUgzVjZGckQ3Z05zM2kzX2hQUTZPemFCLVRHcW1nVDZGd1BKckdIdkpuck1PSmNQNENHM2Q4M1YtdVZWb0xkYmVTTlB1S2VfekV4dHE1Q3hQTHJ1YVZ0ZQ?oc=5",
+      "time": "19h ago",
+      "pub_ts": 1795280400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "LG, 삼성 특허 CO2 세탁기 - Wisevoter",
+      "media": "Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcFFmcUxmUEl0Q2lzaFRpdm1sb0lqSHFUVkIwcUloSGZLRENCRC1td0JlemVWR2JiaUd1ejlYRnVnc1kxMHlJM1ExU1FFNmdKRGxXaEpIb1hBakVyZ2pZU09oMG1ZeVRLRUZGWEwxWjk4dG1wWW5QVG40WkVxQ3NJMElJZw?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1795278204,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "추수감사절 회사가 도착하기 전에 청소하는 것을 잊어버린 장소 7곳 - Southern Living",
+      "media": "Southern Living",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMFlVZ0kxSjJncVREWU80WVl1LXNMajljT2NSWW12RzFucm13T3FmQk81a1RDNzJTeHJhMlpiRGFBOXFSNmNIb2JHaTlhNS0ybmNzdEhoWlRqRWxiX2VZbjJ2RjNRSm1DQ1ctZUtIU1hfbnc2NE5LU1lFSEIyQVRUd3JvYVVRa1VncnMxWDIwc3NxR1A1NGc?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1795277400,
+      "summary_kr": "추수감사절 회사가 도착하기 전에 청소하는 것을 잊어버릴 가능성이 있는 장소 7곳  Southern Living",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Drew Barrymore의 아름다운 주방 가전제품이 Walmart의 Black Friday Deals 이벤트 기간 동안 판매됩니다. 제가 가장 좋아하는 제품입니다. - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPV0NzdzRhNkNWVmRVTzc2OUM4LUQtdE1RNXQzeHRtajZHdnphOHUzLVlpb0JwUU5KaS05MGkwcFZRall0UUxfclBpUmZmV19KeUR5N1l3dVZ5MzJ4TmdmQ0VvTTdfM3J2TzY0WXJCOEg3MFBnbmkydW5SV3p0RTV1ZFh5SFRtNjlQVFpuTFM5cThGalZ0WUtKcUJOaTA5U1ZfVzVjSXlsQVVxRkdsTjNhY2JjZURVUGo4a044U24ybVg5OTFtcF9xUTJMbmVnek55dU9udktIb3BJV2gzSTdJMHV3T19LT09QU191bXVyOGFDR1h5SVlVVXlNbUxJeUpZbHdseXZ0M0ZHOGpLWUJIYk4yM0JCVkV5elNIWHN4Z3VuUQ?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1795266371,
+      "summary_kr": "Drew Barrymore의 아름다운 주방 가전제품이 Walmart의 Black Friday Deals 이벤트 기간 동안 판매됩니다. 이것은 제가 가장 좋아하는 제품입니다.  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "AUTO10 SQUARE Plus를 만나보세요: 간편한 배치 착즙을 위한 Kuvings의 새로운 솔루션 - EIN Presswire",
+      "media": "EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcHNQTndveEhSVFRnSGY3S2JqRHNDc2xOOS1iVGEtZWppXy13Vl92Tkg4YkZ1NmZnRnZYWVQyeGNMZ2FyZTFKOFk2Y2FWUEF6alRqRkl4TDRjclAxYlJ4QkZFSThsMDJnNnJSNTdfTXBmcW9FRVV4MFNLRW1MQjlreDNLTkVabnpNMkJKRkphMVZMekdIV1N2VHpzMXhDWUEzQ1U5ZzhXbWZMcTZ2MmdHd1VFc0V1eUJuZVNZM3JBWlp1QQ?oc=5",
+      "time": "23h ago",
+      "pub_ts": 1795266000,
+      "summary_kr": "AUTO10 SQUARE Plus를 만나보세요: 간편한 배치 주스 생성을 위한 Kuvings의 새로운 솔루션 EIN Presswire",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    }
+  ]
+}
