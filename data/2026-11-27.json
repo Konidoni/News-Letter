@@ -1,0 +1,467 @@
+{
+  "date": "2026-11-27",
+  "date_display": "2026년 11월 27일",
+  "generated_at": "2026-11-27T23:31:47.858782+09:00",
+  "generated_at_display": "2026.11.27 23:31 KST",
+  "category_counts": {
+    "Market Dynamics": 19,
+    "Samsung DA": 4,
+    "Competitor Analysis": 4,
+    "Technology Trend": 2,
+    "Samsung Bespoke": 2
+  },
+  "takeaways": [
+    {
+      "trend_label": "🔴 리스크 모니터링",
+      "title": "주요 리스크 1건 감지",
+      "desc": "오늘 수집된 31건 중 1건이 리스크 신호를 포함합니다. 주요 이슈: Home Depot의 블랙 프라이데이 세일로 식기세척기 최대 47% 할인—GE, KitchenAid, LG 등 할인 - BobVila.com. 경쟁사 동향 4건 포함 면밀한 모니터링이 필요합니다."
+    },
+    {
+      "trend_label": "🟢 기회 신호",
+      "title": "시장 기회 15건 포착",
+      "desc": "신규 출시·성장·수상 관련 긍정 신호 15건이 감지됩니다. 주목 기사: NBC 뉴스, 15개의 L.l.bean 블랙 프라이데이 주방 거래 집중조명 - 뉴스와이어. 삼성 Bespoke 2건, Jet Bot 0건 커버리지 확인 바랍니다."
+    },
+    {
+      "trend_label": "🟡 경쟁사 동향",
+      "title": "경쟁사 기사 4건",
+      "desc": "LG·Whirlpool·Haier 등 주요 경쟁사 관련 4건 수집. 주요 동향: Dyson, Shark 등 우리가 가장 좋아하는 브랜드에서 올해 쇼핑할 수 있는 최고의 블랙 프라이데이 진공 청소기 상품 - Yahoo. 시장 전반 기사 19건, 기술 트렌드 2건 함께 검토 권장."
+    }
+  ],
+  "articles": [
+    {
+      "category": "Market Dynamics",
+      "title": "사람들은 이 기기를 위해 전자레인지를 버립니다. 이 기기를 더 좋게 만드는 방법은 다음과 같습니다. - 정말 단순합니다.",
+      "media": "Real Simple",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNnIxWndjellQWTV3Z0RSQTJTbWZYNnV3QVJDRWJWNDZnR3NHalBseE11Q2ZERFphM1dCR2NqNmx2Qmh3OHlyeS1DMEFKQWQ1XzI2Tl9EbHBaMEIxbjBteHAxLWVReUxfTWxiV3YzdGFHSWJHN3JxSXV4dmdRNDdmelFLNXUwM0NpUHJENXdFOTd1SURyZlZCLU41RnByMW16ZUFOTFpNV3NzZzU2d2tfRE1UTlh1YktFam9USHVkcHhSX01xY3dBMEktUkZlUQ?oc=5",
+      "time": "Just now",
+      "pub_ts": 1795789200,
+      "summary_kr": "사람들은 이 가전제품을 위해 전자레인지를 버립니다. 이 가전제품을 더 좋게 만드는 방법은 다음과 같습니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이번 블랙 프라이데이에 쇼핑할 가치가 있는 유일한 주방 세일 - SheKnows",
+      "media": "SheKnows",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSk1HSGJtaDZpbGtGTmFNd2FQemZ3Y3lTLVN5b2dXeDdLb0I2SjBwbmFXOWlxVTNjRm5uLU1nN09zME5JRzZQazdMaG1ZTUlJb0JNOHI1VE5pazF3RFdZTGxyVXhoZy1VU2N3Nndia0FraDdNTnpGbjc4U2hlam01a0tZd05rSjVKY3JHOQ?oc=5",
+      "time": "Just now",
+      "pub_ts": 1795788000,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "NBC 뉴스, 15개의 L.l.bean 블랙 프라이데이 주방 거래 집중조명 - 뉴스와이어",
+      "media": "شبكة تواصل الإخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kVWs3M1BGaFNDaEZlX1hrVmZXQ3k2aUxGUnpPTVV5OWVNOXk0SlB2cmh3ZjNqNVdhWVN6ckRSdURxU29QdnV2REVyOFo5N2pNbnNR?oc=5",
+      "time": "Just now",
+      "pub_ts": 1795787123,
+      "summary_kr": "NBC 뉴스, 15개의 L.l.bean 블랙 프라이데이 주방 상품 집중조명",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "블랙 프라이데이 특가 - Samsung 즐겨찾기에 큰 할인 혜택 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFVSbjdPU0RYZ1pEcEdIQ1VyVkZaZ1NuYlBBY1VYMWJJQTA2VUd5NmYtRWxqSmctSkQ1XzRNUHRuZEZ4OGhoNXR1bnA3alpodDMzS2JoR2czYXhXWm8yV2hVNVVKTkc3d1UyMHJsX1JXWlp3ckF3TmNONllqWVNDYWtNTQ?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1795785679,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "최고의 블랙 프라이데이 주방 거래 - CNN",
+      "media": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTjJPSnlpaDh4VXgtSS0zQ0wtWnB4am4xZl9GMWwwdkhXRFJJbGF6QUlla2JGNUh2TDl2b1lOR0NZZkk5QWdMZmp2OGY2RzlVTjRXMGVQYmJOQjJWTEk1SFoxc3hrWjJkcTBydjhXNnFBN2tqODFCTTFycXR3djZDd2w3bm9kdw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1795784280,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "최고의 Walmart Black Friday 거래에는 단 $25부터 시작하는 Drew Barrymore의 세련된 주방 가전 제품이 포함됩니다. - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZEMzek5pU0pJVEoxTkt3N181VnkyUDg1THJ6VXJfMmhvc21KaV9iaXluYXdTREltcnotSUhhcmt4Zl91NWFGZ0lVMkdfdjVzUjBad2FmZ1RaNjUwQTBpaEY0RktFLTdVSmdEX3ZzSEJqZHdLQVhlVDAwaVdOUERUTGpWdVFMMFEzaTlxWFhwZmhTa2pwY0d6SVF3SnVWR3lwLVRiamFLangyME84dnluWFNxNGNQVks5YUlhNnhRY1QzdklNWGZPQWczTjhVd3lsaDZHQ0ZOclBEZ013SndoZE9NQmExb203LWZRSm8yZ1Blc0FXQ2ttTU5OSFp0OHZpdlFF?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1795783770,
+      "summary_kr": "최고의 Walmart Black Friday 거래에는 단 $25부터 시작하는 Drew Barrymore의 세련된 주방 가전이 포함됩니다. Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "이번 블랙 프라이데이, KitchenAid Artisan 스탠드 믹서 등 최대 $200 할인 - CNET",
+      "media": "CNET",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON25DNkpTd2F6bl9EVnktb3pFU0FHUGIwSXluWFV4MDBIOVhLZDE3MU5GOUc4ekZRTTgwUGF4SXZCVmNITkFIRnlNZ3h6ZHdpNmoxMVM1OE9RenRMWVZwZ080bTdNLTcweDAzNlRLUHA1QkZ2czhtZU9sRFFXOTJMQTMyRV9NVHJMcFh4VnJ5Nmh3WjFSQ0RjaGtIRmV4Zw?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1795783380,
+      "summary_kr": "이번 블랙 프라이데이, KitchenAid Artisan 스탠드 믹서 등 최대 $200 할인 CNET",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "새 진공청소기를 구입하기 위해 기다리고 계셨다면, 지금이 바로 구매하실 때입니다. 지금 쇼핑하기 좋은 TK 세일 - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXZBOXpQdlo2WTJEbmtad2ZIQU1Ob1phbkpvRnI3Sjk5SGZQdF93eHFZTlhvZEEzbGlDM0hfdHVUSGNJVDY2MTZQWjlpdmpPVERpMGgwbVJUTDhaT3lSZWNCb3F4a25zeUFHQWZRVktfVHh5QmdQSF9HdkJfcFZ1U2xkZVczMG54?oc=5",
+      "time": "1h ago",
+      "pub_ts": 1795782847,
+      "summary_kr": "새 진공청소기를 구입하기 위해 기다리고 계셨다면, 지금이 바로 구매하실 때입니다. TK 대박 세일 지금 쇼핑하세요  NBC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Amazon의 비밀 아울렛, KitchenAid, OXO 등의 블랙 프라이데이 특가를 2달러부터 시작 - Allrecipes",
+      "media": "Allrecipes",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWNkOEZqUGVQbmlYbWI5TXVDdU5pZHcxWHY3LXROZGplemRyOFU2cmhwMXhJa2hVZTJiRkFFYkJOUktqUlhhb21DSDJFeHpDWWFfT1NBMHpUbjNEWHlJbHYtTEZMRy13ZmlCSHlPaC1pMk5NYTBtQzN0cWVhdmRMd0dCd3NJb2lXRHA3SjVtbjVndw?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1795782021,
+      "summary_kr": "Amazon의 비밀 매장은 KitchenAid, OXO 등의 블랙 프라이데이 할인을 숨기고 있습니다. 2달러부터 시작합니다.",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "Dyson, Shark 등 우리가 가장 좋아하는 브랜드에서 올해 쇼핑할 수 있는 최고의 블랙 프라이데이 진공 청소기 상품 - Yahoo",
+      "media": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRkFmTUhvTVRGN2dRMzd5SFZlUWFWb3BESTgtVjJkcFA1WDBEU2xXdFllYkpPODlyUzB4N3Y4X2VJOFBPdkt6V3NVZWJiNzF2RGRfWFRCWHp6VTlmT0YwVXhQUklfdWlydEFuMWgzRHFSS0t5WFlhNFIxWnRENGpWcjI5MG15T1BQdjE5eFRXMFhBdmhsaHJMaW9aUFdqb0F2RWJRYUhKRDFLZFZ3aDhCNkxTWDgyZkJiQ1h1Yk1vaHpWSjNmVTBsR3BkZnhBOEVFb0w2ZHdvY3dMbGptcTVDM2l0N3dJS1RuQUFrQlNNbXJPMUpoZV9XOXhhUjVUQkZ1?oc=5",
+      "time": "2h ago",
+      "pub_ts": 1795779837,
+      "summary_kr": "Dyson, Shark 등 우리가 가장 좋아하는 브랜드에서 올해 쇼핑할 수 있는 최고의 블랙 프라이데이 진공청소기 상품  Yahoo",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "하이얼 스마트 홈 주식회사: 유럽 전역 유통을 목적으로 WpHG [독일 증권 거래법] 50조에 따라 릴리즈 - TradingView",
+      "media": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOajFKYjN2V2FjRDdZaUxNVUt1UGZNV1p3S0R1eE1HSTRLTTcxXzlIUXM4UDNtbS05Slo1WkNaZW4zaUQ4ZVRCcGFVWGlYdnBrT1d2TEFQdV9QQXdYVzVhVmE1UnNpUVhDYkc0VnlBMTdCWm9PTktuTjBuaXFSQW1UdUFJRlBYdVRwaEJfOEpYRk1WYS16WTR2NldWUF83QjhWbUdWU0QtbV9wWno1QTZoZ2g1V3ZXeF9IX0tvVDEzLXZmNjNfOGNPYUlfTGdjUFNmM0c5RzFHUHhFamhYNDhZMEVGR1gwMzlvQWtRRHNJUWdkNjRLSVcwSXhfR2t4bmpsYTBSb3RmN2x4eTAxZDRsalpkaF9kTU1rNXl6dWhhYTN1UVdFMjNLWW9R?oc=5",
+      "time": "3h ago",
+      "pub_ts": 1795778561,
+      "summary_kr": "Haier Smart Home Co., Ltd.: 유럽 전역 배포를 목적으로 WpHG[독일 증권 거래법] 제50조에 따라 출시",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Pinterest에 어울리는 주방은 블랙 프라이데이 딜로 시작하세요 - New York Post",
+      "media": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DS2lqeWxzT2R4ak56b3Zwc29GQXIxdmZaTXBNN3pMYTlLcFhkVU1ScF92ODRQUTJGR3VGWlJNcS1vY0xWNHV4b0pfSGE3Z2JYcVBSdDFnbFdmLWFkRjhkeWtsNS1QM3FJNVpmdDlIR0NvRl9CMzAtcHVEMA?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1795775400,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "모든 사람의 휴가 시즌을 기억에 남을 시즌으로 만들어 줄 블랙 프라이데이 주방 특가 15가지 - NBC News",
+      "media": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWGRqXzJiQXBhbkxNLUowUGNLbUNQcXU4OWwtd1FZVTlfTTFvMk5KTURNMFY0ak9HbDRjVGhaQVF1emw3Y1g3dXFYTzBKakItdjJBMDM0am5NMFBSRGRyNFdPX05DYV9sN29wck1ZVGNlUXRGSndjTTBtc1F0MW1LSmJ1bFNVYTdKcnc?oc=5",
+      "time": "4h ago",
+      "pub_ts": 1795774326,
+      "summary_kr": "누구에게나 연말연시를 잊지 못할 추억으로 만들어 줄 블랙 프라이데이 주방 특가 15가지  NBC 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Home Depot의 블랙 프라이데이 세일에서 찾은 도구, 가전제품 및 기타 DIY 거래 - New York Post",
+      "media": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41UlQzUDdrREJCbDNCTGxrR0Q1elFmRjFEbEFGUHZDbFhyNDBRZ09WenYwdDBtZlUzU2hhZ0ZiWW1XSWtnWVlkMlJaeVMzZ2FOeHQ4eXBrVkJhdXM2Q01yZlJ1NTBmSGFWeWRUallRN3ZmQWczNTlrUg?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1795771800,
+      "summary_kr": "Home Depot의 블랙 프라이데이 세일에서 찾은 도구, 가전제품 및 기타 DIY 거래  New York Post",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "주방 작가의 말: 가장 가치 있는 15가지 블랙 프라이데이 특가 - 음식 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nNmhhcDZnd21adUlHUDVDV0otNTFIaWI1eHh4ZHhOVUhqTHQ4UEJMSFVUZUhVVHF2eWlFbGRYeWJlYXpuM3FfX3lrRTkwSmhpR1ZhTk5Cb3dDandyUGFJcG0wWXU1WER1VjA3V1U2Zjdla2ZCT01NVnllZ3U?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1795770000,
+      "summary_kr": "주방 작가의 말을 들어보세요: 가장 가치 있는 15가지 블랙 프라이데이 특가 음식 및 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "수천 개의 블랙 프라이데이 딜이 있지만 이 Breville 스마트 오븐 딜은 가장 가치 있는 딜입니다 - EatingWell",
+      "media": "EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMVlvMnRkdFkyVW5YNXpJeUFwQ3poeXNzczJKblJ5dGtNYjAzN1pvd3ZhdGp6Z1J0bzU3UjBxdGlwR25NVG03TENUYThzX2l1Ui1EeEplblF6RWVYN1gwajM2Q3hfRFh2aFhZaGtub1A1N3RKaGZLbkpXZjhScndLVndweWxZS2s3Y2cxX2FNLUJKV1VWN0x5ZUw2WHo?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1795769100,
+      "summary_kr": "수천 개의 블랙 프라이데이 딜이 있지만 이 Breville 스마트 오븐 딜은 가장 가치 있는 딜입니다.  EatingWell",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "SmartThings를 사용해 보세요: 한 번에 하나씩 연결하여 더 스마트한 생활 방식을 찾아보세요 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemloRzVXYzZnV1I5UDRkS3RZMWRfUmI1cks2OHhueWI5a09Ta1JZYWhYckdOdmNxdnpzLVk0MlJCa29nUEpCVlBNb2w4MndZTVRvQXdZOWFfT3JxMmZ0aS1CcHo0LTRqT08yNmlXZ3lpXzdTdTZsSXhrbE5uT2NXajZObzRIVGFMa1JrTjZJdVp6NnNUeUlnT1B0ZWdTSWFX?oc=5",
+      "time": "5h ago",
+      "pub_ts": 1795768801,
+      "summary_kr": "SmartThings 사용해 보기: 한 번에 하나의 연결로 더 스마트한 생활 방식을 찾아보세요.  samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "지금 쇼핑할 수 있는 최고의 Amazon 블랙 프라이데이 주방 상품 66개: Le Creuset, Breville 등, 개당 2달러부터 - 음식 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2ZfRGY1cmkzb0x0RS1PeXZ4LUJBNDB5WDE5TmtuQ0p6WlNScWFZa0ZpcFQ1RkNpbE5PNGdaTzVKQnZZSFJkVk93cVFYcjNSRS1rNUtmOGZDRVlNRmdXZ3R3anlsOXlaZTZQUU5YeHY4ZWU4S0xXS3FyRnVwVk9mUUhPMGZSWm8?oc=5",
+      "time": "6h ago",
+      "pub_ts": 1795766400,
+      "summary_kr": "지금 쇼핑할 수 있는 최고의 Amazon 블랙 프라이데이 주방 상품 66개: Le Creuset, Breville 등, 개당 2달러부터 음식 및 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Williams Sonoma, Le Creuset, Breville, KitchenAid 등의 블랙 프라이데이 할인 — 50가지 인기 제품 쇼핑 - 음식 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWXEzQ1RNeEVEb3dUZGl4NXYtcEZ5VklMejhPMnRzSjZIUHlHXzBNZ1lmSnEtVWpzXzV6NjEtNVd2ZnVEc0dLeEkzYmhQUUNhSEFIV0Z5X1FWR3hsUXhLS0E2dV84TmxLZUh0ei1COV9rSEFhaDhDNHNOcmtuTUQtMTRn?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1795762800,
+      "summary_kr": "Williams Sonoma에서는 Le Creuset, Breville, KitchenAid 등의 블랙 프라이데이 할인을 제공합니다 — 50가지 인기 제품을 쇼핑하세요  음식 및 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "생활 편의성 향상 - 주방 효율성을 위한 원터치 리치 폼: 신뢰할 수 있는 우유 거품기 수출업체 KUCHIE - EIN News",
+      "media": "EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWUFmbXhOcXNHY0lHMU43TFdzMzNFTHZidEszeHJPTkNSaklHN29IaEpoVGpHX2JyOUFScFAzY3RkblZITmpHcl9oTkxZUXcxWmNsYkpWbDJac21zM1M5U3NIZmMxbnlZdHZFb2lTcGV0cXByZXI5d2E5a3c1cW9HdjFYb19neERvMUhFcVNYOUIxYWRNSG9KekIxTUtmT2pXbi1SUnJ2V1VaUmZFcHdFOFIwWi1ic1U4MjYxTGZOcjIySHhPamdHV2d1VHZ5YnM3RVZremRNdzZEekxUamxaZnhDaEZQdlZP?oc=5",
+      "time": "7h ago",
+      "pub_ts": 1795761840,
+      "summary_kr": "생활 편의성 향상 - 주방 효율성을 위한 원터치 리치 폼: 신뢰할 수 있는 우유 거품기 수출업체 KUCHIE  EIN 뉴스",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG전자 CEO, 차세대 CES에 로봇 제품 추가 예고 - 서울경제",
+      "media": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVdqQUVjSy1FUDhPV3drTzZHRTlNMk10U2xhenEyNEJjX01NendTS1hBQTdjcWdpZ1ZpMUFRaXpuNHdEMmRrMW5adVRSWHQxOWVMc2ROcnNmS0MyaEFmSFNyTi1wdTd2QXIxejFHWTdQT0FMWjZTbVJUU0Zha0p0MU1wbWQ1WGI3bWx4czQ1ekVVZ3l6RVptWjFiSG5sUWRZVDM0N0tB?oc=5",
+      "time": "9h ago",
+      "pub_ts": 1795754871,
+      "summary_kr": "LG전자 CEO, 차세대 CES에 더 많은 로봇 제품 예고 서울경제",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "첫 번째 아파트부터 영원한 집까지 – Samsung SmartPlan은 인생의 모든 단계에서 큰 구매를 더 쉽게 만들어줍니다. - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1B6VVdGVlJnR0F0ZnJpNEY3XzdwWkZOQURrQ011Z1pBWGVDeEV2TjVza0lkYTlnd183TGJPNUV1NEdIRF95UzFOdjd4aDFwbG53UHF6amRJSEQ3bE10YkNubENIRGJseFZUaE56ejlWNkRqa1FZZk1OX0FWZHBvei1adERIWEhfZ1VXN1VxSWV5S0VxVW1fRFF4YkR5VDNjakhXNFhlOFBlQmpTdUYwYXdGdm1TOWgyUDRRYVg2NkxHYzlsU3VYXy1JQWZVc1EyZGdRbUNHdzEzQQ?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1795753530,
+      "summary_kr": "첫 번째 아파트부터 영원한 집까지 – Samsung SmartPlan을 사용하면 인생의 모든 단계에서 고액 구매를 더 쉽게 할 수 있습니다.  samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "삼성, 가전사업부와 에어컨 사업부를 대대적인 구조조정으로 분할 - ChannelNews.com.au",
+      "media": "ChannelNews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNclR2OWVjclZGRVRWbUlkQW95WVRkU2NUS1Jnak9CeHM5dFctRFo3NVBJM3EzbDVZVHNwRXNlTXpGZ0xhV2d5bE42MVdtNkJBZjZpdFd0Z2w0TnE1SzdpbUNtWGN2cjRpWTdMM25xbjIzakpzSWNLbW5FaTJ5cGJjaGJfNWlaYkphMi01cmltV0tLVnlUNUp4RjYyeEhBRkZDb1hoZzlNTjFiaUQ2LTlicy1IU1Y?oc=5",
+      "time": "10h ago",
+      "pub_ts": 1795752433,
+      "summary_kr": "삼성, 가전사업부와 에어컨 사업부를 대대적인 구조조정으로 분할 ChannelNews.com.au",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Samsung DA",
+      "title": "로보락, 국내 가전청약시장 삼성·LG 제압 - 매일경제",
+      "media": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHR2xrdUVWSTlTTmdlYlJSalZkNTAxVTVqc3ZUWi1wVFRmU2Z1eU15WDA1dzc3R0R4TXFrT3oyN21WTnBJWm1ObnFGVV9hX0pLLUdoV3pzMA?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1795744678,
+      "summary_kr": "로보락, 국내 가전 구독시장 삼성·LG 제압",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "LG, 아프리카 전역으로 스마트 가전 확대 - Wisevoter",
+      "media": "Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDZWQS1tUS00SnlSSGk2ajVMYkFRLU0yWVE5eV93ek9paHpPMlNFeEhMY01LaHVtRlc3bG1ua0o0Wk4wQUxFaDdpSi1ISXV6YVNQcUVFRk13Wmo5OE1tVnZRT0RhbHZHNDhjbVMyR3RQdG9yVmRzcE5tN3c4cFExbnN4NlU?oc=5",
+      "time": "12h ago",
+      "pub_ts": 1795744397,
+      "summary_kr": "",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp",
+        "watch"
+      ]
+    },
+    {
+      "category": "Technology Trend",
+      "title": "LG, 아프리카 소비자를 위한 스마트 가전 제품 확대 - The Sun Korea",
+      "media": "The Sun Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVkZkMVBBdzRIYm9TeG50SkZlUTZ0RVJhSjZIanl6YmRlSmJ2SXRacUZWLVpLd3lPdWhjX0VoVWZsYWxOenZpdVdraHkwZDI5bWxhTllIdEVrV01qek5WbGYxczlUV0VxUi1TZUo1a3Z0OHJYOWdKZjJqR1VHVExuaFNoTEVydnM2WHc?oc=5",
+      "time": "13h ago",
+      "pub_ts": 1795740363,
+      "summary_kr": "LG, 아프리카 소비자 위한 스마트 가전 제품 확대",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Home Depot의 블랙 프라이데이 세일로 식기세척기 최대 47% 할인—GE, KitchenAid, LG 등 할인 - BobVila.com",
+      "media": "BobVila.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORW9LQlFqSkJjdkRIcF9jc29zZTFWS2hHR1lFQlY2dFhyWFJsd1oyamtIRFpqMkdEWGpwc2lXWHJhUGUyYnJrcEhRT1Exb2hTTjJiVlFEVjFJLVVGMUxnSWdkaGZYeXZzYXJSU09pLTkxM0ZQTldrZEVqdVlwajR5bWtRMFQ?oc=5",
+      "time": "15h ago",
+      "pub_ts": 1795734000,
+      "summary_kr": "Home Depot의 블랙 프라이데이 세일로 식기세척기 최대 47% 할인—GE, KitchenAid, LG 등 할인 혜택  BobVila.com",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "우리는 매년 수백 가지 주방 제품을 테스트합니다. 50가지 블랙 프라이데이 할인이 우리 목록에 있습니다 - 식품 및 와인",
+      "media": "Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KUUIzZGtxdXRVLUZ6WElydWU1dHFZX181d1hDeE5RcmdQTG9PZG1wWXhvdERpNkZNaFI0Rm5CYW1tVUpwbFhxd0x5TDBpOVFoeW1kN21XU2JZNTJmZExNa2RsVVpiazJWNE42cE5kM2l6SmZqUlBmclAxQWY?oc=5",
+      "time": "16h ago",
+      "pub_ts": 1795732200,
+      "summary_kr": "우리는 매년 수백 가지 주방 제품을 테스트합니다. 50가지 블랙 프라이데이 할인이 우리 목록에 있습니다.  음식 및 와인",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Market Dynamics",
+      "title": "Angi에게 물어보세요: 휴일 호스팅을 더 쉽게 만들 수 있는 작은 집 수리 방법은 무엇입니까? - 뉴햄프셔 연합 지도자",
+      "media": "New Hampshire Union Leader",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXZ3NXB1a2N0Y093SGk1ZVpUam1lQUZiRUtLbUstRENUdXRCOExXUHQ5aGw2UTN6MEFlZEpISU9RZkNYVUg5ajV2NDJFNlRmcjJCQ1JsVF9sTUpkaGtNV0MyMUttN1JHaTQ0V1dxR1RQRW1PM2I1VVN2UzNmVlZRS05ac0FjeGg3dEF2eTBiUkZ4WmlZU3dsZmJackdXZExJVE9OWHVwcU5NZVkzSXJ6VmZEcmFkNFR5WjhfMkIzNUk?oc=5",
+      "time": "18h ago",
+      "pub_ts": 1795723413,
+      "summary_kr": "Angi에게 물어보세요: 휴일 호스팅을 더 쉽게 만들 수 있는 작은 집 수리 방법은 무엇입니까?  뉴햄프셔 연합 지도자",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "opp"
+      ]
+    },
+    {
+      "category": "Competitor Analysis",
+      "title": "이 다이슨 무선 진공 청소기 블랙 프라이데이 딜로 30% 이상 절약하고 부스러기를 남기지 마세요 - PCMag",
+      "media": "PCMag",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDZEWGFpLTRLTHlZZVRpazE1UkpkWUViZnRhMzVMS1k0LTZCQmUwemNKRWhYOUJSN3dnczFJZWdVR3RhTWtkZ2NuZzEwS2FYNjY4Rl9FMV9ZTVJnMTZYSXNsNmc0TjRWeVVQS3N6SEVKZGg1ZXI5SkVFSDlpZjgzYk93aTRhU0VkNW5idFhNZ2lwZlEw?oc=5",
+      "time": "20h ago",
+      "pub_ts": 1795715687,
+      "summary_kr": "다이슨 무선 진공청소기 블랙 프라이데이 딜로 30% 이상 절약하고 아무런 문제도 남기지 마세요 PCMag",
+      "strategic_implications": "",
+      "impact": 3,
+      "tags": [
+        "watch"
+      ]
+    },
+    {
+      "category": "Samsung Bespoke",
+      "title": "Samsung Black Friday 2026 번들: Samsung과 함께 더 스마트하게 업그레이드하고 더 나은 삶을 누리세요 - samsung.com",
+      "media": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOFBEUlFvTkxTTXN4QXZ1aWZuQzBINlFEa3JuYk1nOXBMc3RWekp0VUVyRXFCMjF1QzNtSXhCN2c3TlRjZEptR2phc29CSzk4SjhrUFBCcGpOZ1VNTUJ1M2w4XzJuWXlpSFpLWFZkRmJLUFJaQzd5SEdvdW1iMUVydlRhcl9IakVWRWhxNWIwZmNGdWM3VW5mREtoSnpKQnp1TkVzLQ?oc=5",
+      "time": "22h ago",
+      "pub_ts": 1795707936,
+      "summary_kr": "2026년 삼성 블랙 프라이데이 번들: Samsung과 함께 더 스마트하게 업그레이드하고 더 나은 삶을 누리세요  samsung.com",
+      "strategic_implications": "",
+      "impact": 4,
+      "tags": [
+        "watch"
+      ]
+    }
+  ]
+}
